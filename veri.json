@@ -1,5 +1,6 @@
 [
     {
+        "type": "futbol",
         "name": "Ç.Rizespor - Bodrumspor",
         "day": "16",
         "time": "13:30",
@@ -7,6 +8,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "İstanbulspor - Gençlerbirliği",
         "day": "16",
         "time": "13:30",
@@ -14,6 +16,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Çorum FK - Keçiörengücü",
         "day": "16",
         "time": "13:30",
@@ -21,6 +24,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Venezia - Napoli",
         "day": "16",
         "time": "14:30",
@@ -28,6 +32,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Braunschweig - Hertha Berlin",
         "day": "16",
         "time": "15:30",
@@ -35,6 +40,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Karlsruhe - Ulm",
         "day": "16",
         "time": "15:30",
@@ -42,6 +48,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Nürnberg - Greuther Fürth",
         "day": "16",
         "time": "15:30",
@@ -49,6 +56,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Leganes - Real Betis",
         "day": "16",
         "time": "16:00",
@@ -56,6 +64,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Hatayspor - Sivasspor",
         "day": "16",
         "time": "16:00",
@@ -63,6 +72,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Göztepe - Eyüpspor",
         "day": "16",
         "time": "16:00",
@@ -70,6 +80,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Amedspor - Erzurumspor",
         "day": "16",
         "time": "16:00",
@@ -77,6 +88,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Arsenal - Chelsea",
         "day": "16",
         "time": "16:30",
@@ -84,6 +96,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Fulham - Tottenham",
         "day": "16",
         "time": "16:30",
@@ -91,6 +104,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Twente - Feyenoord",
         "day": "16",
         "time": "16:30",
@@ -98,6 +112,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Lyon - Le Havre",
         "day": "16",
         "time": "17:00",
@@ -105,6 +120,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Bologna - Lazio",
         "day": "16",
         "time": "17:00",
@@ -112,6 +128,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Bochum - Eintracht Frankfurt",
         "day": "16",
         "time": "17:30",
@@ -119,6 +136,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Sevilla - Athletic Bilbao",
         "day": "16",
         "time": "18:15",
@@ -126,6 +144,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Brest - Reims",
         "day": "16",
         "time": "19:15",
@@ -133,6 +152,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Heidenheim - Holstein Kiel",
         "day": "16",
         "time": "19:30",
@@ -140,6 +160,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Liverpool - Newcastle",
         "day": "16",
         "time": "19:30",
@@ -147,6 +168,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Fiorentina - Juventus",
         "day": "16",
         "time": "20:00",
@@ -154,6 +176,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Rayo Vallecano - Real Sociedad",
         "day": "16",
         "time": "20:30",
@@ -161,6 +184,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Fenerbahçe - Samsunspor",
         "day": "16",
         "time": "20:30",
@@ -168,6 +192,7 @@
         "important": "Evet"
     },
     {
+        "type": "futbol",
         "name": "Fatih Karagümrük - Kocaelispor",
         "day": "16",
         "time": "20:30",
@@ -175,6 +200,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Stuttgart - Bayer Leverkusen",
         "day": "16",
         "time": "21:30",
@@ -182,6 +208,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Leicester City - Manchester Utd",
         "day": "16",
         "time": "22:00",
@@ -189,6 +216,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "PSG - Marsilya",
         "day": "16",
         "time": "22:45",
@@ -196,6 +224,7 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Atalanta - Inter",
         "day": "16",
         "time": "22:45",
@@ -203,10 +232,91 @@
         "important": "Hayır"
     },
     {
+        "type": "futbol",
         "name": "Atletico Madrid - Barcelona",
         "day": "16",
         "time": "23:00",
         "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Brooklyn Nets - Boston Celtics",
+        "day": "16",
+        "time": "01:00",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "GS Warriors - New York Knicks",
+        "day": "16",
+        "time": "03:30",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Lousville - Duke",
+        "day": "16",
+        "time": "03:30",
+        "channel": "S Sport 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Bahçeşehir Klj - Bursaspor",
+        "day": "16",
+        "time": "13:00",
+        "channel": "Bein Sports 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Kayseri Basket - Beşiktaş",
+        "day": "16",
+        "time": "15:00",
+        "channel": "tabii Spor 6",
+        "important": "Evet"
+    },
+    {
+        "type": "basketbol",
+        "name": "Türk Telekom - Petkimspor",
+        "day": "16",
+        "time": "15:30",
+        "channel": "Bein Sports 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Tofaş - Darüşşafaka",
+        "day": "16",
+        "time": "18:00",
+        "channel": "Bein Sports 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Morabanc Andorra - Barcelona",
+        "day": "16",
+        "time": "19:00",
+        "channel": "Spor Smart 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Real Madrid - Baskonia",
+        "day": "16",
+        "time": "20:30",
+        "channel": "Spor Smart",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Merkezefendi Bld. - Yalovaspor",
+        "day": "16",
+        "time": "20:30",
+        "channel": "Bein Sports 5",
         "important": "Hayır"
     }
 ]
