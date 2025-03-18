@@ -1,34 +1,58 @@
 [
     {
         "type": "futbol",
-        "name": "Boca Juniors - Defensa",
-        "day": "17",
-        "time": "00:30",
+        "name": "CA Tigre - Central Cordoba",
+        "day": "18",
+        "time": "01:00",
         "channel": "Spor Smart",
         "important": "Hayır"
     },
     {
-        "type": "futbol",
-        "name": "Palmeiras - Corinthians",
-        "day": "17",
-        "time": "00:30",
-        "channel": "Spor Smart 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Castellon - La Coruna",
-        "day": "17",
-        "time": "22:30",
+        "type": "basketbol",
+        "name": "GS Warriors - Denver Nuggets",
+        "day": "18",
+        "time": "05:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Anadolu Efes - Mersin Spor",
-        "day": "17",
-        "time": "19:00",
-        "channel": "Bein Sports 5",
+        "name": "Nesibe Aydın - Fenerbahçe Opet",
+        "day": "18",
+        "time": "15:00",
+        "channel": "TRT Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Tarsus Bld. - ÇBK Mersin",
+        "day": "18",
+        "time": "17:30",
+        "channel": "TRT Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Galatasaray - Lietuvos Rytas",
+        "day": "18",
+        "time": "20:00",
+        "channel": "Tivibu Spor 1",
+        "important": "Evet"
+    },
+    {
+        "type": "basketbol",
+        "name": "Manisa BB - Unicaja Malaga",
+        "day": "18",
+        "time": "20:00",
+        "channel": "Tivibu Spor 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Paris - Olimpia Milano",
+        "day": "18",
+        "time": "22:30",
+        "channel": "S Sport",
         "important": "Hayır"
     }
 ]
