@@ -17,6 +17,14 @@
     },
     {
         "type": "basketbol",
+        "name": "Emlak Konut - Botaş",
+        "day": "19",
+        "time": "15:00",
+        "channel": "TRT Spor Yildiz",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
         "name": "Beşiktaş - Galatasaray",
         "day": "19",
         "time": "18:00",
@@ -29,6 +37,70 @@
         "day": "19",
         "time": "20:30",
         "channel": "Tivibu Spor 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Tortona - AEK Athens",
+        "day": "19",
+        "time": "22:30",
+        "channel": "TRT Spor Yildiz",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Riera\/Marrero - Martinez\/Collombon",
+        "day": "19",
+        "time": "17:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "S.Ishii - E.Raducanu",
+        "day": "19",
+        "time": "19:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Nenno\/Garrido - Moya\/Rico",
+        "day": "19",
+        "time": "19:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "K.Boulter - P.Stearns",
+        "day": "19",
+        "time": "21:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Bengoechea\/Virseda - Dubins\/Alonso",
+        "day": "19",
+        "time": "21:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "D.Yastremska - B.Bencic",
+        "day": "19",
+        "time": "23:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Aguirre\/Alfonso - Navarro\/Bergamini",
+        "day": "19",
+        "time": "23:00",
+        "channel": "Bein Sports Max 2",
         "important": "Hayır"
     }
 ]
