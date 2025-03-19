@@ -1,106 +1,90 @@
 [
     {
         "type": "futbol",
-        "name": "Portekiz - Türkiye",
-        "day": "19",
-        "time": "14:00",
+        "name": "Avustralya - Endonezya",
+        "day": "20",
+        "time": "12:10",
+        "channel": "Spor Smart",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Japonya - Bahreyn",
+        "day": "20",
+        "time": "13:35",
+        "channel": "Spor Smart 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Türkiye - İtalya",
+        "day": "20",
+        "time": "18:00",
         "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
+        "type": "futbol",
+        "name": "İran - BAE",
+        "day": "20",
+        "time": "19:00",
+        "channel": "Spor Smart",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Özbekistan - Kırgızistan",
+        "day": "20",
+        "time": "19:00",
+        "channel": "Spor Smart 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Türkiye - Macaristan",
+        "day": "20",
+        "time": "20:00",
+        "channel": "TV8",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Irak - Kuveyt",
+        "day": "20",
+        "time": "21:15",
+        "channel": "Spor Smart",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Ürdün - Filistin",
+        "day": "20",
+        "time": "21:15",
+        "channel": "Spor Smart 2",
+        "important": "Hayır"
+    },
+    {
         "type": "basketbol",
-        "name": "GS Warriors - Milwaukee Bucks",
-        "day": "19",
+        "name": "LA Lakers - Denver Nuggets",
+        "day": "20",
         "time": "05:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Emlak Konut - Botaş",
-        "day": "19",
-        "time": "15:00",
-        "channel": "TRT Spor Yildiz",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Beşiktaş - Galatasaray",
-        "day": "19",
-        "time": "18:00",
-        "channel": "TRT Spor",
-        "important": "Evet"
-    },
-    {
-        "type": "basketbol",
-        "name": "Petkimspor - Iberostar Tenerife",
-        "day": "19",
-        "time": "20:30",
-        "channel": "Tivibu Spor 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Tortona - AEK Athens",
-        "day": "19",
-        "time": "22:30",
-        "channel": "TRT Spor Yildiz",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "Riera\/Marrero - Martinez\/Collombon",
-        "day": "19",
-        "time": "17:00",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "S.Ishii - E.Raducanu",
-        "day": "19",
-        "time": "19:00",
-        "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "Nenno\/Garrido - Moya\/Rico",
-        "day": "19",
-        "time": "19:00",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "K.Boulter - P.Stearns",
-        "day": "19",
+        "name": "Monaco - Fenerbahçe Beko",
+        "day": "20",
         "time": "21:00",
-        "channel": "Bein Sports Max 1",
+        "channel": "S Sport",
         "important": "Hayır"
     },
     {
-        "type": "tenis",
-        "name": "Bengoechea\/Virseda - Dubins\/Alonso",
-        "day": "19",
+        "type": "basketbol",
+        "name": "Olympiakos - Kizilyildiz",
+        "day": "20",
         "time": "21:00",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "D.Yastremska - B.Bencic",
-        "day": "19",
-        "time": "23:00",
-        "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "Aguirre\/Alfonso - Navarro\/Bergamini",
-        "day": "19",
-        "time": "23:00",
-        "channel": "Bein Sports Max 2",
+        "channel": "S Sport 2",
         "important": "Hayır"
     }
 ]
