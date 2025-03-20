@@ -57,7 +57,7 @@
     },
     {
         "type": "futbol",
-        "name": "Ürdün - Filistin",
+        "name": "Suudi Arabistan - Çin",
         "day": "20",
         "time": "21:15",
         "channel": "Spor Smart 2",
@@ -85,6 +85,62 @@
         "day": "20",
         "time": "21:00",
         "channel": "S Sport 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Martin\/Fallada - Saez\/Ortiz",
+        "day": "20",
+        "time": "17:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Q.Zheng - L.Davis",
+        "day": "20",
+        "time": "18:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Chozas\/Ruiz - Chingotto\/Galan",
+        "day": "20",
+        "time": "19:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "C.Gauff - S.Kenin",
+        "day": "20",
+        "time": "20:30",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Abajo\/Barrera - Sanchez\/Fernandez",
+        "day": "20",
+        "time": "21:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "A.Sabalenka - V.Tomova",
+        "day": "20",
+        "time": "22:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Fuente\/Maldonado - Senesi\/Pons",
+        "day": "20",
+        "time": "23:00",
+        "channel": "Bein Sports Max 2",
         "important": "Hayır"
     }
 ]
