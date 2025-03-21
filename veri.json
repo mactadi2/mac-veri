@@ -89,10 +89,26 @@
     },
     {
         "type": "tenis",
+        "name": "Martin\/Fallada - Villa\/Prieto",
+        "day": "21",
+        "time": "17:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
         "name": "C.Garcia - I.Swiatek",
         "day": "21",
         "time": "19:00",
         "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Nenno\/Garrido - Chingotto\/Galan",
+        "day": "21",
+        "time": "19:00",
+        "channel": "Bein Sports Max 2",
         "important": "Hayır"
     },
     {
@@ -109,6 +125,22 @@
         "day": "21",
         "time": "21:00",
         "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Gallego\/Araujo - Zielinski\/Pelegri",
+        "day": "21",
+        "time": "21:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Alcorisa\/Jensen - Senesi\/Pons",
+        "day": "21",
+        "time": "23:00",
+        "channel": "Bein Sports Max 2",
         "important": "Hayır"
     }
 ]
