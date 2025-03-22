@@ -10,7 +10,7 @@
     dataType: "json",
     success: function(data) {
        var tr = data.baseurl;
-  document.write('{"baseurl":"'+tr+'"}');
+  document.write(tr);
  },
     error: function(xhr, status, error) {
         console.error("Hata:", error);
