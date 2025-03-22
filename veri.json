@@ -1,162 +1,154 @@
 [
     {
         "type": "futbol",
-        "name": "ABD - Panama",
-        "day": "21",
-        "time": "02:00",
-        "channel": "S Sport 2",
+        "name": "İngiltere - Türkiye",
+        "day": "22",
+        "time": "14:00",
+        "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Kanada - Meksika",
-        "day": "21",
-        "time": "05:30",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Türkiye - Kosova",
-        "day": "21",
+        "name": "Mirandes - Racing Santander",
+        "day": "22",
         "time": "20:30",
-        "channel": "A Spor",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "GS Warriors - Toronto Raptors",
-        "day": "21",
-        "time": "05:00",
-        "channel": "NBA TV",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "LA Lakers - Milwaukee Bucks",
-        "day": "21",
-        "time": "05:30",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Fenerbahçe Koleji - Harem Spor",
-        "day": "21",
-        "time": "16:00",
+        "name": "Miami Heat - Houston Rockets",
+        "day": "22",
+        "time": "03:00",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Dallas Mavericks - Detroit Pistons",
+        "day": "22",
+        "time": "03:30",
+        "channel": "NBA TV",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Uconn - Oklahoma",
+        "day": "22",
+        "time": "04:25",
+        "channel": "S Sport 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Mersin Spor - Galatasaray",
+        "day": "22",
+        "time": "13:00",
+        "channel": "Bein Sports 5",
+        "important": "Evet"
+    },
+    {
+        "type": "basketbol",
+        "name": "Pizza Bulls Basket - Kapaklı Spor",
+        "day": "22",
+        "time": "14:00",
         "channel": "TRT Spor Yildiz",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Fenerbahçe Opet - ÇBK Mersin",
-        "day": "21",
-        "time": "17:00",
-        "channel": "TRT Spor",
+        "name": "Manisa BB - Türk Telekom",
+        "day": "22",
+        "time": "15:30",
+        "channel": "Bein Sports 5",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Darüşşafaka - Bahçeşehir Klj",
-        "day": "21",
+        "name": "Petkimspor - Tofaş",
+        "day": "22",
+        "time": "18:00",
+        "channel": "Bein Sports 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Valencia Basket - Leyma Coruna",
+        "day": "22",
+        "time": "20:00",
+        "channel": "Spor Smart",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Büyükçekmece - Beşiktaş Fibabanka",
+        "day": "22",
         "time": "20:30",
         "channel": "Bein Sports 5",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Beşiktaş - Emlak Konut",
-        "day": "21",
-        "time": "20:30",
-        "channel": "TRT Spor",
-        "important": "Evet"
-    },
-    {
-        "type": "basketbol",
-        "name": "Panathinaikos - Alba Berlin",
-        "day": "21",
-        "time": "22:15",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Partizan - Anadolu Efes",
-        "day": "21",
+        "name": "Baskonia - Manresa",
+        "day": "22",
         "time": "22:45",
-        "channel": "S Sport",
+        "channel": "Spor Smart",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "L.Fruhvirtova - B.Haddad Maia",
-        "day": "21",
+        "name": "M.Keys - E.Avanesyan",
+        "day": "22",
         "time": "02:00",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "S.Cirstea - D.Collins",
-        "day": "21",
-        "time": "03:30",
-        "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "Martin\/Fallada - Villa\/Prieto",
-        "day": "21",
+        "name": "Martin\/Fallada - Sanchez\/Fernandez",
+        "day": "22",
         "time": "17:00",
         "channel": "Bein Sports Max 2",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "C.Garcia - I.Swiatek",
-        "day": "21",
-        "time": "19:00",
+        "name": "O.Jabeur - J.Paolini",
+        "day": "22",
+        "time": "18:00",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "Nenno\/Garrido - Chingotto\/Galan",
-        "day": "21",
+        "name": "Yanguas\/Nieto - Chingotto\/Galan",
+        "day": "22",
         "time": "19:00",
         "channel": "Bein Sports Max 2",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "E.Navarro - E.Raducanu",
-        "day": "21",
-        "time": "19:30",
+        "name": "A.Sabalenka - E.G.Ruse",
+        "day": "22",
+        "time": "20:30",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "B.Pera - J.Pegula",
-        "day": "21",
-        "time": "21:00",
-        "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "Gallego\/Araujo - Zielinski\/Pelegri",
-        "day": "21",
+        "name": "Gallego\/Araujo - Senesi\/Pons",
+        "day": "22",
         "time": "21:00",
         "channel": "Bein Sports Max 2",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "Alcorisa\/Jensen - Senesi\/Pons",
-        "day": "21",
-        "time": "23:00",
-        "channel": "Bein Sports Max 2",
+        "name": "C.Gauff - M.Sakkari",
+        "day": "22",
+        "time": "22:00",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     }
 ]
