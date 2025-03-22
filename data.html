@@ -2,16 +2,8 @@
 <head>
 </head>
 <body oncontextmenu='return false;'>
-<script charset='UTF-8' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js'/>
+<script charset='UTF-8' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>
 <script>
-
-
-let previousIndexes = []; // Önceki seçilen index&#39;leri saklamak için bir dizi
-
-var url_string = window.location.href;
-var url = new URL(url_string);
-var cud = url.searchParams.get("id");
-
   $.ajax({
     url: "https://locabahistv.com/domain.php",
     method: "GET",
