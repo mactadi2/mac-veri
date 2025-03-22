@@ -1,161 +1,177 @@
 [
     {
         "type": "futbol",
-        "name": "İngiltere - Türkiye",
-        "day": "22",
-        "time": "14:00",
-        "channel": "TRT Spor",
+        "name": "Spurs Legends - AC Milan Glorie",
+        "day": "23",
+        "time": "17:00",
+        "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Mirandes - Racing Santander",
-        "day": "22",
-        "time": "20:30",
+        "name": "Macaristan - Türkiye",
+        "day": "23",
+        "time": "20:00",
+        "channel": "TV8",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Indiana Pacers - Brooklyn Nets",
+        "day": "23",
+        "time": "00:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Miami Heat - Houston Rockets",
-        "day": "22",
+        "name": "New York Knicks - Washington Wizards",
+        "day": "23",
         "time": "03:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Dallas Mavericks - Detroit Pistons",
-        "day": "22",
-        "time": "03:30",
+        "name": "LA Lakers - Chicago Bulls",
+        "day": "23",
+        "time": "05:30",
         "channel": "NBA TV",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Uconn - Oklahoma",
-        "day": "22",
-        "time": "04:25",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Mersin Spor - Galatasaray",
-        "day": "22",
+        "name": "Fenerbahçe İstanbul Jet - Beşiktaş Tüpraş",
+        "day": "23",
         "time": "13:00",
-        "channel": "Bein Sports 5",
-        "important": "Evet"
-    },
-    {
-        "type": "basketbol",
-        "name": "Pizza Bulls Basket - Kapaklı Spor",
-        "day": "22",
-        "time": "14:00",
         "channel": "TRT Spor Yildiz",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Manisa BB - Türk Telekom",
-        "day": "22",
+        "name": "Iberostar Tenerife - Morabanc Andorra",
+        "day": "23",
+        "time": "15:00",
+        "channel": "Spor Smart",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Yalovaspor - Karşıyaka",
+        "day": "23",
         "time": "15:30",
         "channel": "Bein Sports 5",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Petkimspor - Tofaş",
-        "day": "22",
+        "name": "ÇBK Mersin - Emlak Konut",
+        "day": "23",
+        "time": "16:00",
+        "channel": "TRT Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Bursaspor - Merkezefendi Bld.",
+        "day": "23",
         "time": "18:00",
         "channel": "Bein Sports 5",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Valencia Basket - Leyma Coruna",
-        "day": "22",
-        "time": "20:00",
-        "channel": "Spor Smart",
+        "name": "Barcelona - Zaragoza",
+        "day": "23",
+        "time": "19:00",
+        "channel": "Spor Smart 2",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Büyükçekmece - Beşiktaş Fibabanka",
-        "day": "22",
-        "time": "20:30",
-        "channel": "Bein Sports 5",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "St.Johns - Arkansas",
-        "day": "22",
-        "time": "21:40",
+        "name": "Florida - Uconn",
+        "day": "23",
+        "time": "19:10",
         "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Baskonia - Manresa",
-        "day": "22",
-        "time": "22:45",
+        "name": "Maine Celtics - Delaware Blue Coats",
+        "day": "23",
+        "time": "20:00",
+        "channel": "NBA TV",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Unicaja Malaga - Real Madrid",
+        "day": "23",
+        "time": "20:30",
         "channel": "Spor Smart",
         "important": "Hayır"
     },
     {
+        "type": "basketbol",
+        "name": "Anadolu Efes - Fenerbahçe Beko",
+        "day": "23",
+        "time": "20:30",
+        "channel": "Bein Sports 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Utah Jazz - Cleveland Cavaliers",
+        "day": "23",
+        "time": "22:30",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
         "type": "tenis",
-        "name": "M.Keys - E.Avanesyan",
-        "day": "22",
-        "time": "02:00",
+        "name": "Q.Zheng - T.Townsend",
+        "day": "23",
+        "time": "03:30",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "Martin\/Fallada - Sanchez\/Fernandez",
-        "day": "22",
-        "time": "17:00",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "O.Jabeur - J.Paolini",
-        "day": "22",
+        "name": "Martin\/Fallada - Senesi\/Pons",
+        "day": "23",
         "time": "18:00",
-        "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "Yanguas\/Nieto - Chingotto\/Galan",
-        "day": "22",
-        "time": "19:00",
         "channel": "Bein Sports Max 2",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "A.Sabalenka - E.G.Ruse",
-        "day": "22",
+        "name": "E.Mertens - I.Swiatek",
+        "day": "23",
+        "time": "19:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "M.Keys - A.Eala",
+        "day": "23",
         "time": "20:30",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "Gallego\/Araujo - Senesi\/Pons",
-        "day": "22",
-        "time": "21:00",
-        "channel": "Bein Sports Max 2",
+        "name": "A.Kalinskaya - J.Pegula",
+        "day": "23",
+        "time": "22:00",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "C.Gauff - M.Sakkari",
-        "day": "22",
-        "time": "22:00",
+        "name": "E.Raducanu - M.Kessler",
+        "day": "23",
+        "time": "23:30",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     }
