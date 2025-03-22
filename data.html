@@ -1,21 +1,545 @@
+<!DOCTYPE html>
 <html>
 <head>
+    <link href="https://cdnjs.cloudflare.com" rel="dns-prefetch">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" rel="stylesheet">
+<meta charset="UTF-8">
+<script>!function(){var t=document.referrer;(t&&t.includes("localhost")||!/^(https?:\/\/)?(mactadi.*\.blogspot\.com|mtadi.*\.pages\.dev)/.test(t))&&(window.location.href=atob("aHR0cHM6Ly9iaXQubHkvbS9tYWN0YWRp"))}();</script>    
+<style type="text/css">
+#m .container>a,[data-free-close]{text-decoration:none;color:#fff}body,html,svg:not(:root){overflow:hidden}button,hr,input{overflow:visible}audio,canvas,progress,video{display:inline-block}progress,sub,sup{vertical-align:baseline}[type=checkbox],[type=radio],legend{box-sizing:border-box;padding:0}html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{background-color:#000}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{display:block}h1{font-size:2em;margin:.67em 0}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bolder}dfn{font-style:italic}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative}sub{bottom:-.25em}sup{top:-.5em}audio:not([controls]){display:none;height:0}img{border-style:none}button,input,optgroup,select,textarea{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{--webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:ButtonText dotted 1px}fieldset{padding:.35em .75em .625em}legend{color:inherit;display:table;max-width:100%;white-space:normal}textarea{overflow:auto}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{--webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}.player-poster[data-poster] .play-wrapper[data-poster]{height:12.5%!important}[data-free-banner]{position:fixed;left:15%;bottom:2.5px;width:70%;z-index:99999}.yenile,div#m{position:absolute}.poster-icon,.yenile{width:90px}[data-free-banner] img{width:100%;max-width:468px}.fullscreen [data-free-banner] img{max-width:50%}div#m{top:0;left:0;width:100%;height:100%}#m .container>a{position:fixed;top:1em;left:50%;transform:translateX(-50%);z-index:1;font-size:18px}body,html{margin:0;padding:0;height:100%}@media all and (max-width:991px) and (orientation:landscape){video{object-fit:fill}}.media-control[data-media-control] .media-control-background[data-background]{display:none!important;transition:none!important;background:0 0!important}.media-control[data-media-control] .media-control-layer[data-controls]{transition:none!important;height:30px!important}.yenile{cursor:pointer;background-repeat:no-repeat;left:-1px;top:-1.7px;z-index:8;border-radius:10%}.clappr-watermark img,.watermark{position:fixed;top:6%;right:4.7%;width:13.5%}.watermark{z-index:10}
+</style>
 </head>
-<body oncontextmenu='return false;'>
-<script charset='UTF-8' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>
+<body oncontextmenu="return false;">
+<script charset="UTF-8" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script charset="UTF-8" src="https://cdn.jsdelivr.net/gh/clappr/clappr@latest/dist/clappr.min.js"></script>
+<script charset="UTF-8" src="https://cdn.jsdelivr.net/npm/level-selector/dist/level-selector.min.js"></script>
+<script src="https://cdn.jsdelivr.net/hls.js/latest/hls.js"></script>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAAgCAMAAADT9S0cAAABklBMVEUAAAD////////////////////////////////////+/v7////////////////////Ny8ufn5+bm5uZmZmZmZmcnJzl5OTFxcWjo6OdnZ2cnJy5uLiampr08vLNzMyZmZn29PTNzMy3traZmZmampqbm5udnZ2fn5+fn5+joqL////b29vZ2dnc3Nza2tvf3t7a29vl4eDh393e3dwARW/g4OAIUXcAPWji4uLX2NkMUngBS3Lq5ePj4N/s5uQ/c5AAP2r57+nx6ebt5+Tn4+Hi397T1daCorE5b40AQ23/9e727ejg39+7xswsZoYMUXYDTXUASXEASHEAOWXr6uro6OjN09XI0NPS0tKwvseSq7hnjaNhiaBYhJwAR3Dt7Oz98evl5OTIyMiru8Wqu8SitsCWrrq3t7eMp7ZvlKhqkaVGeZQgXoAQVnsANWMAMWDv7u6+yc7MzMy0wcjDw8O/v7+asLy7u7uysrKurq57nK2rq6smXH8UV3v//vX/+fHEzdGmt8J1l6pRf5gLTHIAKltTqSULAAAAKnRSTlMAgEDAEODwUDAgoXCwYNCQBtewiGxE9fTvyL+koZiYl5COiHtdUzYsIhmFSwojAAADF0lEQVRIx+3WZ3OiQBgHcMAWE82lXu/9FKRGA/be+13splx67z3X73vfLuAhMc7kBe/u/jOMwD77/IbdQUX+5x/Oy/ujow8ejo09fjY+/mpi4vWbycm3795/GNHSeHEvVq3u7y8sHB4eHZ2crKysnJ6enV1cPNJSqfIEQbAsSWamQKbFgBNy4amGiAO33xTCUdUQwSWEAodDDEWJN3DHbTvYbLbbIWwUpwg6QtPeKMOQJERwjRGKDXm8OB/zQsXrjUYJ7RGK8a01gx77eaLVbKz9OI/HKyxAtN0TIlwPcKspT+3qtwumvPM9SkBkCEWHxCIrCs50UgbBtX4INcv3MQSMmTEUtcoNrZ06NRJa4kpFYTGVruTKyaTbWUguMiJiAisBFQx8oqhNjglBhm02ox4M6MB9uFwYGNTJDZW6bsR3IHCCk9uspNJ7P/0bOWeB+ywhiAU0MyN6g81m0MuTYfsB+GHphyh1CsIeuLcLguDeucz6fB42Vc8X/yJ6I5x8B7aBkw2oGBMmNsH6IEqdgtjXc4mrgnNr81eLoenI1+V8qYNICzYIjjtgstJHQgz6foiud+MJkvcH3ImZvVqMzfi+ACRZo0mAwFjkftJkFJoSYgD9b0KUOhXC0ozf5fan5zyEt7aaXcu728exmRhApAWDTZTJ0IMIPAb6IrBOhdhJyh8obszNhejwYj7gBNkSNrOMND4E91iZDDwJgTs13BeBdT2ICyzXTIX2herJpNMpcK7lKK680FhnshnDOnsiP6MaUdX1PomwlctdNrzBVLzkFtxcPOy4ARnGxAyICGK6hpilwa46NZIoF4oBV7ncnEoHG+1SYD3E4r1IJzKC6NSIVGBS6q4j20WuzbVdO61Y0LOx3fIw9v4IisiI2QibqhFLd536Wzi7tHRcX43H15tZMvitwdP2/ohB3hMQqxG8QCrEqO+qUyN2JhLx+MLhUDpM4XwkSFMQ0fyXkRDDsiQBLsChMcKLiDqaIxm+D8JriDyZdjjwrjhAKIDwGQ2RkcHd3dnZ2Y8gn0Dm5+fh/64Mefe5RsAfa73hcbvjfCwAAAAASUVORK5CYII=" class="yenile" onclick="location.reload()" />
+<div class="embed-responsive embed-responsive-16by9">
+    <div id="m" class="embed-responsive-item"></div>
+    <img class="watermark" src="https://i.ibb.co/yW9StSX/MACTADI-watermark.webp">
+</div>
 <script>
-  $.ajax({
-    url: "https://locabahistv.com/domain.php",
-    method: "GET",
-    dataType: "json",
-    success: function(data) {
-       var tr = data.baseurl;
-  document.write(tr);
- },
-    error: function(xhr, status, error) {
-        console.error("Hata:", error);
+
+
+let previousIndexes = []; // Önceki seçilen index'leri saklamak için bir dizi
+
+var url_string = window.location.href;
+var url = new URL(url_string);
+var cud = url.searchParams.get("id");
+
+eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){while(c--){d[c]=k[c]||c}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('5(\'4://3.2/1.0\');',6,6,'php|domain|com|locabahistv|https|fetch'.split('|'),0,{}))
+            .then(response => response.json())
+            .then(data => {
+                var tr = data.baseurl;
+switch (cud) {
+
+    case "bein1":
+        window.mainSource = [
+            tr + "yayinzirve.m3u8",
+        ];
+        break;
+    case "bein2":
+        window.mainSource = [
+            tr + "yayinb2.m3u8",
+        ];
+        break;
+    case "bein3":
+        window.mainSource = [
+            tr + "yayinb3.m3u8",
+        ];
+        break;
+    case "bein4":
+        window.mainSource = [
+            tr + "yayinb4.m3u8",
+        ];
+        break;
+    case "bein5":
+        window.mainSource = [
+            tr + "yayinb5.m3u8",
+        ];
+        break;
+    case 'ssport':
+        window.mainSource = [
+            tr + "yayinss.m3u8",
+        ];
+        break;
+    case 'ssport2':
+        window.mainSource = [
+            tr + "yayinss2.m3u8",
+        ];
+        break;
+    case 'beinmax1':
+        window.mainSource = [
+            tr + "yayinbm1.m3u8"
+        ];
+        break;
+    case 'beinmax2':
+        window.mainSource = [
+            tr + "yayinbm2.m3u8"
+        ];
+        break;
+    case 'smartspor':
+        window.mainSource = [
+            tr + "yayinsmarts.m3u8",
+        ];
+        break;
+    case 'smartspor2':
+        window.mainSource = [
+            tr + "yayinsms2.m3u8",
+        ];
+        break;
+    case 'tivibu1':
+        window.mainSource = [
+            
+            tr + "yayint1.m3u8",
+        ];
+        break;
+    case 'tivibu2':
+        window.mainSource = [
+            
+            tr + "yayint2.m3u8",
+            
+        ];
+        break;
+    case 'tivibu3':
+        window.mainSource = [
+            
+            tr + "yayint3.m3u8",
+            
+        ];
+        break;
+    case 'tivibu4':
+        window.mainSource = [
+            
+            tr + "yayint4.m3u8",
+            
+        ];
+        break;
+
+    case 'tabi1':
+        window.mainSource = [
+            
+            tr + "yayinex1.m3u8",
+            
+        ];
+        break;
+
+        case 'tabi2':
+        window.mainSource = [
+            
+            tr + "yayinex2.m3u8",
+            
+        ];
+        break;
+        case 'tabi3':
+        window.mainSource = [
+            
+            tr + "yayinex3.m3u8",
+            
+        ];
+        break;
+        case 'tabi4':
+        window.mainSource = [
+            
+            tr + "yayinex4.m3u8",
+            
+        ];
+        break;
+        case 'tabi5':
+        window.mainSource = [
+            
+            tr + "yayinex5.m3u8",
+            
+        ];
+        break;
+        case 'tabi6':
+        window.mainSource = [
+            
+            tr + "yayinex6.m3u8",
+            
+        ];
+        break;
+
+        case 'tabi7':
+        window.mainSource = [
+            
+            tr + "yayinex7.m3u8",
+            
+        ];
+        break;
+
+        case 'nba':
+        window.mainSource = [
+            
+            tr + "yayinnbatv.m3u8",
+            
+        ];
+        break;
+    
+    case 'showtv':
+        window.mainSource = [window.atob("aHR0cHM6Ly9jaW5lci1saXZlLmRhaW9uY2RuLm5ldC9zaG93dHYvc2hvd3R2Lm0zdTg=")];
+        break;
+    case 'trt1':
+        window.mainSource = [tr + "yayintrt1.m3u8"];
+        break;
+    case 'kanald':
+        window.mainSource = [window.atob("aHR0cHM6Ly9kZW1pcm9yZW4tbGl2ZS5kYWlvbmNkbi5uZXQva2FuYWxkL2thbmFsZC5tM3U4")];
+        break;
+    case 'startv':
+        window.mainSource = [window.atob("aHR0cHM6Ly9kb2d1cy1saXZlLmRhaW9uY2RuLm5ldC9zdGFydHYvc3RhcnR2Lm0zdTg=")];
+        break;
+    case 'tv8':
+        window.mainSource = [
+            tr + "yayintv8.m3u8",
+        ];
+        break;
+    case 'tv85':
+        window.mainSource = [
+        tr + "yayintv85.m3u8",
+        ];
+        break;
+    case 'beyaztv':
+        window.mainSource = [window.atob("aHR0cHM6Ly9iZXlhenR2LWxpdmUuZGFpb25jZG4ubmV0L2JleWF6dHYvYmV5YXp0di5tM3U4")];
+        break;
+    case 'trtspor':
+        window.mainSource = [
+            window.atob("aHR0cHM6Ly90di10cnRzcG9yMS5tZWR5YS50cnQuY29tLnRyL21hc3Rlci5tM3U4"),
+            tr + "yayintrtspor.m3u8",
+        ];
+        break;
+    case 'trtspor2':
+        window.mainSource = [
+            window.atob("aHR0cHM6Ly90di10cnRzcG9yMi5tZWR5YS50cnQuY29tLnRyL21hc3Rlci5tM3U4"),
+        ];
+        break;
+    case 'atv':
+        window.mainSource = [
+            tr + "yayinatv.m3u8"
+        ];
+        break;
+
+    case 'aspor':
+        window.mainSource = [
+            tr + "yayinas.m3u8",
+            
+        ];
+        break;
+}
+window.streamConfig = [];
+
+const ads = [
+    {
+        enabled: 0,
+        link: "https://example.com",
+        watermark: '',
+        parentId: "div#m",
+        skipOffset: 5,
+        source: "https://asfasfasf.worakers.dev/playlist.m3u8"
     }
-});
-</script> 
+];
+
+const randomIndex = Math.floor(Math.random() * ads.length);
+
+window.streamConfig.push(ads[randomIndex]);
+
+let currentIndex = 0;
+
+! function (n) {
+                        n(window.document).ready(function () {
+                /*          var observer = new MutationObserver(function(mutationsList) {
+                            for(var mutation of mutationsList) {
+                              var fE = document.getElementsByClassName("fullscreen");
+                              var eS = fE.length;
+                              if (eS === 1) {
+                                $(".uy").hide();
+                              } else if (eS === 0) {
+                                $(".uy").show();
+                              }
+                            }
+                          });
+                          var tE = document.body;
+                          observer.observe(tE, { childList: true, subtree: true });*/
+                var e, i, t, o, a = !Clappr.Browser.isiOS,
+                    r = Clappr.Browser.isiOS,
+                    p = "@media screen and (orientation:landscape){video{object-fit:fill!important}}",
+                    d = [],
+                    pllluuuggg = [],
+                    s = !1,
+                    l = {
+                        back_to_live: "canlı yayına dön",
+                        default_error_message: "Yayında sorun var.",
+                        default_error_title: "Hassss!",
+                        disabled: "Engelli",
+                        live: "canlı",
+                        playback_not_supported: "Tarayıcınız bu videoyu oynatma desteğine sahip değil. Lütfen farklı bir tarayıcı ile deneyin."
+                    };
+                var pe = 0;
+                var currentAdIndex = 0;
+                    r && window.screen.height > window.screen.width && (p = ""),
+                    s && (d = []),
+                    window.app = {
+                        log: function () { },
+                        clappr: {
+                            currentTime: function () {
+                                return window.app.log("currentTime"),
+                                    window.Math.round(window.app.clappr.instance.getCurrentTime(), 0)
+                            },
+                            instance: new Clappr.Player({}),
+                            isBuffering: function () {
+                                return window.app.log("isBuffering"),
+                                    window.app.clappr.instance.core.mediaControl.container.buffering
+                            },
+                            resizeCallback: function () {
+                                window.app.log("resizeCallback"),
+                                    $('div[data-player]').css({
+                                        width: $(window).innerWidth() + 'px',
+                                        height: $(window).innerHeight() + 'px'
+                                    });
+                            },
+                            options: {
+                                autoPlay: true,
+                                preload: 'auto',
+                                allowUserInteraction: r,
+                                chromeless: r,
+                                disableErrorScreen: s,
+                                disableKeyboardShortcuts: !0,
+                                disableVideoTagContextMenu: !1,
+                                exitFullscreenOnEnd: !1,
+                                mimeType: 'application/x-mpegURL',
+                                height: "100%",
+                                language: "tr-TR",
+                                persistConfig: !1,
+                                watermark: 'https://i.ibb.co/yW9StSX/MACTADI-watermark.webp',
+                                position: 'top-right',
+                                playback: {
+                                    controls: r,
+                                    playInline: !0,
+                                    recycleVideo: Clappr.Browser.isMobile,
+                                    hlsjsConfig: {
+                                        progressive: !0,
+                                        //loader: CustomLoader,
+                                        fragLoadingMaxRetry: 5,
+                                        fragLoadingRetryDelay: 500,
+                                        recoverNetworkError: true
+                                    }
+                                },
+                                plugins: [LevelSelector],
+                                mediacontrol: {
+                                    seekbar: "#26e339"
+                                },
+                                mute: !1,
+                                strings: {
+                                    tr: l,
+                                    "tr-TR": l
+                                },
+                                width: "100%",
+                                events: {
+                                    onError: function(e) {
+                                                    currentIndex++;
+                                                    if (currentIndex < window.mainSource.length) {
+                                                        window.app.clappr.instance.load(window.mainSource[currentIndex]);
+                                                        window.app.clappr.instance.play();
+                                                    } else {
+                                                     console.error('Hata!');
+                                                    }
+                                            },
+                                    onPlay: function(e){
+                                        $('.watermark').hide();
+                                    },
+                                    onPause: function(e){
+                                       $('.watermark').show();
+                                    },
+                                    onStop: function(e){
+                                       $('.watermark').show();
+                                    },
+                                    onEnded: function(e){
+                                       $('.watermark').show();
+                                    }
+                                
+                                        
+                                    
+                                }
+                            }
+                        },
+                        bInterval: 0,
+                        cInterval: 30,
+                        extend: function (e, i) {
+                            return window.app.log("extend"),
+                                n.extend({}, e, i)
+                        },
+                        init: function () {
+                            window.app.log("init"),
+                                n(window.document.head).append('<style>body{background-color:transparent;font-family:"Roboto";overflow:hidden}' + p + "</style>"),
+                                window.config = window.app.extend({
+                                    advertisement: window.streamConfig
+                                }, window.config),
+                                window.config.advertisement[currentAdIndex].enabled ? window.app.initAdvertisement() : window.app.initMain(),
+                                n(window).on("resize", window.app.clappr.resizeCallback),
+                                window.app.clappr.resizeCallback()
+                        },
+                        initAdvertisement: function () {
+                            p = 0,
+                                window.app.log("initAdvertisement"),
+                                window.app.initContainer(window.config.advertisement[currentAdIndex].parentId),
+                                window.config.advertisement[currentAdIndex] = window.app.extend({
+                                    link: "//0x0.xyz",
+                                    skipOffset: 5,
+                                    skipText: "Reklamı geç",
+                                    skipTextN: "Reklamı geçmek için %d saniye kaldı"
+                                }, window.config.advertisement[currentAdIndex]),
+                                window.app.clappr.instance = new Clappr.Player(window.app.extend(window.app.clappr.options, window.app.extend(window.config.advertisement[currentAdIndex], {
+                                    chromeless: r
+                                }))),
+                                window.app.initAdvertisementEvents()
+                        },
+                        initAdvertisementEvents: function () {
+                            window.app.log("initAdvertisementEvents"),
+                                window.app.clappr.instance.once(Clappr.Events.PLAYER_ENDED, window.app.skip),
+                                window.app.clappr.instance.once(Clappr.Events.PLAYER_PLAY, window.app.initSkipButton),
+                                window.app.clappr.instance.on(Clappr.Events.PLAYER_TIMEUPDATE, window.app.skipButton),
+                                window.app.clappr.instance.setVolume(35)
+                        },
+                        initContainer: function (e) {
+                            window.app.log("initContainer"),
+                                n(e).length > 0 && n(e).remove(),
+                                n(window.document.body).prepend(n("<div />").attr("id", e.match(/\#(.*)/)[1]))
+                        },
+                        initMain: function () {
+                            p = 0,
+                                window.app.log("initMain"),
+                                window.app.initContainer(window.config.main.parentId),
+                                window.app.clappr.instance = new Clappr.Player(window.app.extend(window.app.clappr.options, window.config.main)),
+                                window.app.initMainEvents();
+                            // n("#m .container").prepend("<div data-free-banner><div data-f-cl><a data-free-close href=\"javascript:void(0)\">&times;</a></div><a href=\"" + "http://bprkaff.com/reg/?ref=142" + "\" target=\"_blank\"><img src=\"" + "/assets/images/bcd/bpk7min.gif" + "\"></a></div>");
+                            //         /* n("#m .container").prepend("<a href=\"https://tinyurl.com/SelcukBonus\" target=\"_blank\" class=\"uy\"><h1>200 TL Bedava Deneme Bonusu için TIKLA!</h1></a>");*/
+                            // n("[data-free-close]").on("click", function(ex) {
+                            //     ex.preventDefault();
+                            //     n("[data-free-banner]").hide();
+                            //     return false;
+                            // });
+                        },
+                        initMainEvents: function () {
+                            window.app.log("initMainEvents"),
+                                window.app.clappr.instance.once(Clappr.Events.PLAYER_PLAY, window.app.initMainCleanup)
+                        },
+                        initMainOnErrorCallback: function () {
+                            window.app.log("initMainOnErrorCallback")
+                        },
+                        initSkipButton: function () {
+                            window.app.log("initSkipButton"),
+                                t = window.config.advertisement[currentAdIndex].skipOffset,
+                                Clappr.Browser.isMobile || n("[data-playpause]").css({
+                                    display: "none"
+                                }),
+                                n(window.document.body).prepend(n("<div data-advertisement-link />").css({
+                                    height: "100%",
+                                    left: 0,
+                                    position: "absolute",
+                                    top: 0,
+                                    "z-index": 9998,
+                                    width: "100%"
+                                })),
+                                n("[data-advertisement-link]").append(n("<a />").attr({
+                                    href: window.config.advertisement[currentAdIndex].link,
+                                    target: "_0"
+                                }).css({
+                                    display: "inline-block",
+                                    height: "100%",
+                                    width: "100%"
+                                })),
+                                n(window.document.body).prepend(n("<div data-advertisement />").css({
+                                    bottom: "25%",
+                                    position: "absolute",
+                                    right: 0,
+                                    "z-index": 9999
+                                })),
+                                o = window.config.advertisement[currentAdIndex].skipTextN.replace("%d", window.config.advertisement[currentAdIndex].skipOffset).toUpperCase(),
+                                n("[data-advertisement]").append(n("<button />").attr("type", "button").css({
+                                    "background-color": "#000",
+                                    border: "3px solid #333",
+                                    "border-right": 0,
+                                    color: "#f8f8f8",
+                                    "font-family": "Roboto",
+                                    "font-weight": "bold",
+                                    "font-size": "68%",
+                                    padding: "10px 20px"
+                                }).text(o))
+                        },
+                        playbackError: function () {
+                            console.log("playbackError verdi")
+                        },
+                        skip: function () {
+                            window.app.log("skip"),
+                                window.app.log(currentAdIndex),
+                                n("[data-advertisement]").remove(),
+                                n("[data-advertisement-link]").remove(),
+                                currentAdIndex < window.config.advertisement.length - 1 ? (currentAdIndex++,
+                                    window.app.initAdvertisement()) : window.app.initMain()
+                        },
+                        skipButton: function () {
+                            window.app.log("skipButton"),
+                                window.app.clappr.currentTime() > 0 && (e = 1,
+                                    i = setInterval(window.app.skipButtonHandler, 1e3),
+                                    window.app.clappr.instance.off(Clappr.Events.PLAYER_TIMEUPDATE, window.app.skipButton))
+                        },
+                        skipButtonHandler: function () {
+                            if (window.app.log("skipButtonHandler"),
+                                window.app.clappr.isBuffering())
+                                return !1;
+                            e == t ? (o = window.config.advertisement[currentAdIndex].skipText,
+                                n("[data-advertisement] > button").css({
+                                    cursor: "pointer"
+                                }),
+                                n("[data-advertisement] > button").on("click", window.app.skip),
+                                clearInterval(i)) : (o = window.config.advertisement[currentAdIndex].skipTextN.replace("%d", t - e),
+                                    e++),
+                                n("[data-advertisement] > button").text(o.toUpperCase())
+                        }
+                    },
+                    window.config = {
+                        advertisement: window.adsConfig,
+                        main: window.app.extend({
+                            parentId: "div#m",
+                            source: ""
+                        }, function (n) {
+                            var e, i = {},
+                                t = /&/.test(n);
+                            if (n.length > 1 && /=/.test(n))
+                                if (t)
+                                    for (var o = n.substring(1).split("&"), a = 0; a < o.length; a++)
+                                        e = /^(.*?)=(.*?)$/.exec(o[a]),
+                                            /^(?!.*posxtion).*$/i.test(e[1]) && (/^http\:.*/i.test(decodeURIComponent(e[2])) || (i[e[1]] = decodeURIComponent(e[2])));
+                                else
+                                    e = /^(.*?)=(.*?)$/.exec(n.substring(1)),
+                                        /^(?!.*posxtion).*$/i.test(e[1]) && (/^http\:.*/i.test(decodeURIComponent(e[2])) || (i[e[1]] = decodeURIComponent(e[2])));
+                            return i
+                        }(window.location.hash))
+                    };
+                    let sourceUrl = window.mainSource[currentIndex];
+                    window.hasOwnProperty("mainSource") && (window.config.main.source = sourceUrl),
+                        void 0 !== window.config.main.source && window.app.init()
+
+
+if( /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent) ) {
+    window.app.clappr.instance.on('fullscreen', function(isFullscreen) {
+        if (isFullscreen) {
+            screen.orientation.lock('landscape');
+        }
+    });
+}
+
+
+if (cud === 'atv') {
+    var watermarkImg = $('.clappr-watermark img');
+    if (watermarkImg.length) {
+        watermarkImg.css('left', '4%');
+    }
+}
+
+            })
+        }(jQuery);
+            });
+</script>
 </body>
 </html>
