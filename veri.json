@@ -1,90 +1,138 @@
 [
     {
         "type": "futbol",
-        "name": "Kanada - ABD",
-        "day": "24",
-        "time": "01:00",
-        "channel": "S Sport 2",
+        "name": "Japonya - Suudi Arabistan",
+        "day": "25",
+        "time": "13:35",
+        "channel": "Spor Smart",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Meksika - Panama",
-        "day": "24",
-        "time": "04:30",
-        "channel": "S Sport 2",
+        "name": "Güney Kore - Ürdün",
+        "day": "25",
+        "time": "14:00",
+        "channel": "Spor Smart 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Real Zaragoza - Cordoba",
-        "day": "24",
-        "time": "22:30",
-        "channel": "S Sport",
+        "name": "Endonezya - Bahreyn",
+        "day": "25",
+        "time": "16:45",
+        "channel": "Spor Smart",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Kırgızistan - Katar",
+        "day": "25",
+        "time": "16:45",
+        "channel": "Spor Smart 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Romanya - Türkiye",
+        "day": "25",
+        "time": "18:30",
+        "channel": "TRT Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "İran - Özbekistan",
+        "day": "25",
+        "time": "19:00",
+        "channel": "Spor Smart",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Türkiye - Kosova",
+        "day": "25",
+        "time": "20:30",
+        "channel": "A Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Filistin - Irak",
+        "day": "25",
+        "time": "21:15",
+        "channel": "Spor Smart 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Türkiye - Galler",
+        "day": "25",
+        "time": "22:00",
+        "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Portland TB - Boston Celtics",
-        "day": "24",
-        "time": "01:00",
+        "name": "Indiana Pacers - Minnesota TW",
+        "day": "25",
+        "time": "02:00",
         "channel": "NBA TV",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Houston Rockets - Denver Nuggets",
-        "day": "24",
+        "name": "Orlando Magic - LA Lakers",
+        "day": "25",
         "time": "02:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Antalya BB - Amedspor",
-        "day": "24",
-        "time": "12:00",
+        "name": "Bahçeşehir Klj - Gran Canaria",
+        "day": "25",
+        "time": "20:00",
         "channel": "TRT Spor Yildiz",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Muş Engelliler - Şanlıurfa Engelliler",
-        "day": "24",
-        "time": "14:00",
-        "channel": "TRT Spor Yildiz",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "A.Anisimova - M.Andreeva",
-        "day": "24",
-        "time": "02:00",
-        "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "N.Osaka - J.Paolini",
-        "day": "24",
-        "time": "18:00",
-        "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "A.Sabalenka - D.Collins",
-        "day": "24",
+        "name": "Galatasaray - Manisa BB",
+        "day": "25",
         "time": "20:30",
-        "channel": "Bein Sports Max 1",
+        "channel": "Tivibu Spor 1",
+        "important": "Evet"
+    },
+    {
+        "type": "basketbol",
+        "name": "Fenerbahçe Beko - Paris",
+        "day": "25",
+        "time": "20:45",
+        "channel": "S Sport",
         "important": "Hayır"
     },
     {
-        "type": "tenis",
-        "name": "C.Gauff - M.Linette",
-        "day": "24",
+        "type": "basketbol",
+        "name": "Reggiana - Petkimspor",
+        "day": "25",
         "time": "22:00",
-        "channel": "Bein Sports Max 1",
+        "channel": "Tivibu Spor 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Barcelona - Bayern Münih",
+        "day": "25",
+        "time": "22:30",
+        "channel": "S Sport 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Real Madrid - Olimpia Milano",
+        "day": "25",
+        "time": "22:45",
+        "channel": "S Sport",
         "important": "Hayır"
     }
 ]
