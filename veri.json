@@ -1,184 +1,88 @@
 [
     {
         "type": "futbol",
-        "name": "Gebze Gücü Engelliler - Depsaş Enerji",
-        "day": "23",
-        "time": "11:00",
-        "channel": "TRT Spor Yildiz",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Spurs Legends - AC Milan Glorie",
-        "day": "23",
-        "time": "17:00",
+        "name": "Kanada - ABD",
+        "day": "24",
+        "time": "01:00",
         "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Macaristan - Türkiye",
-        "day": "23",
-        "time": "20:00",
-        "channel": "TV8",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Indiana Pacers - Brooklyn Nets",
-        "day": "23",
-        "time": "00:00",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "New York Knicks - Washington Wizards",
-        "day": "23",
-        "time": "03:00",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "LA Lakers - Chicago Bulls",
-        "day": "23",
-        "time": "05:30",
-        "channel": "NBA TV",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Fenerbahçe İstanbul Jet - Beşiktaş Tüpraş",
-        "day": "23",
-        "time": "13:00",
-        "channel": "TRT Spor Yildiz",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Iberostar Tenerife - Morabanc Andorra",
-        "day": "23",
-        "time": "15:00",
-        "channel": "Spor Smart",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Yalovaspor - Karşıyaka",
-        "day": "23",
-        "time": "15:30",
-        "channel": "Bein Sports 5",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "ÇBK Mersin - Emlak Konut",
-        "day": "23",
-        "time": "16:00",
-        "channel": "TRT Spor",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Bursaspor - Merkezefendi Bld.",
-        "day": "23",
-        "time": "18:00",
-        "channel": "Bein Sports 5",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Barcelona - Zaragoza",
-        "day": "23",
-        "time": "19:00",
-        "channel": "Spor Smart 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Florida - Uconn",
-        "day": "23",
-        "time": "19:10",
+        "name": "Meksika - Panama",
+        "day": "24",
+        "time": "04:30",
         "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
-        "type": "basketbol",
-        "name": "Maine Celtics - Delaware Blue Coats",
-        "day": "23",
-        "time": "20:00",
-        "channel": "NBA TV",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Unicaja Malaga - Real Madrid",
-        "day": "23",
-        "time": "20:30",
-        "channel": "Spor Smart",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Anadolu Efes - Fenerbahçe Beko",
-        "day": "23",
-        "time": "20:30",
-        "channel": "Bein Sports 5",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Utah Jazz - Cleveland Cavaliers",
-        "day": "23",
+        "type": "futbol",
+        "name": "Real Zaragoza - Cordoba",
+        "day": "24",
         "time": "22:30",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
+        "type": "basketbol",
+        "name": "Portland TB - Boston Celtics",
+        "day": "24",
+        "time": "01:00",
+        "channel": "NBA TV",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Houston Rockets - Denver Nuggets",
+        "day": "24",
+        "time": "02:00",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Antalya BB - Amedspor",
+        "day": "24",
+        "time": "12:00",
+        "channel": "TRT Spor Yildiz",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Muş Engelliler - Şanlıurfa Engelliler",
+        "day": "24",
+        "time": "14:00",
+        "channel": "TRT Spor Yildiz",
+        "important": "Hayır"
+    },
+    {
         "type": "tenis",
-        "name": "Q.Zheng - T.Townsend",
-        "day": "23",
-        "time": "03:30",
+        "name": "A.Anisimova - M.Andreeva",
+        "day": "24",
+        "time": "02:00",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "Martin\/Fallada - Senesi\/Pons",
-        "day": "23",
-        "time": "19:00",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "E.Mertens - I.Swiatek",
-        "day": "23",
-        "time": "19:00",
+        "name": "N.Osaka - J.Paolini",
+        "day": "24",
+        "time": "18:00",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "M.Keys - A.Eala",
-        "day": "23",
+        "name": "A.Sabalenka - D.Collins",
+        "day": "24",
         "time": "20:30",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "Stupaczuk\/Lebron - Chingotto\/Galan",
-        "day": "23",
-        "time": "21:00",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "A.Kalinskaya - J.Pegula",
-        "day": "23",
+        "name": "C.Gauff - M.Linette",
+        "day": "24",
         "time": "22:00",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
