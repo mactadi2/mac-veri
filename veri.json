@@ -49,14 +49,6 @@
     },
     {
         "type": "futbol",
-        "name": "Türkiye - Kosova",
-        "day": "25",
-        "time": "20:30",
-        "channel": "A Spor",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
         "name": "Filistin - Irak",
         "day": "25",
         "time": "21:15",
@@ -73,26 +65,10 @@
     },
     {
         "type": "basketbol",
-        "name": "Indiana Pacers - Minnesota TW",
-        "day": "25",
-        "time": "02:00",
-        "channel": "NBA TV",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
         "name": "Orlando Magic - LA Lakers",
         "day": "25",
         "time": "02:00",
         "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Bahçeşehir Klj - Gran Canaria",
-        "day": "25",
-        "time": "20:00",
-        "channel": "TRT Spor Yildiz",
         "important": "Hayır"
     },
     {
@@ -133,6 +109,30 @@
         "day": "25",
         "time": "22:45",
         "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Talavan\/Sharifova - Bengoechea\/Virseda",
+        "day": "25",
+        "time": "18:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Lopez\/Ulrich - Soto\/Marchetti",
+        "day": "25",
+        "time": "20:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "M.Linette - J.Paolini",
+        "day": "25",
+        "time": "21:00",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     }
 ]
