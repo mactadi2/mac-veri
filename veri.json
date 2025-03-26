@@ -1,74 +1,26 @@
 [
     {
         "type": "basketbol",
-        "name": "Miami Heat - GS Warriors",
-        "day": "26",
+        "name": "Indiana Pacers - LA Lakers",
+        "day": "27",
         "time": "02:30",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Fenerbahçe Opet - Kayseri Basket",
-        "day": "26",
-        "time": "14:00",
-        "channel": "TRT Spor",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Emlak Konut - Beşiktaş",
-        "day": "26",
-        "time": "16:30",
-        "channel": "TRT Spor",
-        "important": "Evet"
-    },
-    {
-        "type": "basketbol",
-        "name": "Anadolu Efes - Baskonia",
-        "day": "26",
-        "time": "20:30",
+        "name": "Olympiakos - Monaco",
+        "day": "27",
+        "time": "22:15",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
-        "type": "basketbol",
-        "name": "Murcia - Nymburk",
-        "day": "26",
-        "time": "22:00",
-        "channel": "Tivibu Spor 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Maccabi Playtika - Panathinaikos",
-        "day": "26",
-        "time": "22:05",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
         "type": "tenis",
-        "name": "A.Sabalenka - Q.Zheng",
-        "day": "26",
+        "name": "E.Raducanu - J.Pegula",
+        "day": "27",
         "time": "02:00",
         "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "Martinez\/Collombon - Villa\/Prieto",
-        "day": "26",
-        "time": "18:00",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "Carrasco\/Arancibia - Garcia\/Sanchez",
-        "day": "26",
-        "time": "20:00",
-        "channel": "Bein Sports Max 2",
         "important": "Hayır"
     }
 ]
