@@ -104,14 +104,6 @@
         "important": "Hayır"
     },
     {
-        "type": "futbol",
-        "name": "Athletic Bilbao - Osasuna",
-        "day": "28",
-        "time": "23:00",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
         "type": "basketbol",
         "name": "Cleveland Cavaliers - SA Spurs",
         "day": "28",
@@ -141,6 +133,14 @@
         "day": "28",
         "time": "20:30",
         "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Fenerbahçe Beko - Baskonia",
+        "day": "28",
+        "time": "20:45",
+        "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
