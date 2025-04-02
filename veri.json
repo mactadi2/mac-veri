@@ -1,90 +1,98 @@
 [
     {
         "type": "futbol",
-        "name": "Trabzonspor - Inter",
-        "day": "01",
-        "time": "17:00",
-        "channel": "TRT Spor",
+        "name": "Fortaleza - Racing Club",
+        "day": "02",
+        "time": "03:30",
+        "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "AZ Alkmaar - RKC Waalwijk",
-        "day": "01",
-        "time": "21:00",
-        "channel": "TV 8 Buçuk",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Arsenal - Fulham",
-        "day": "01",
-        "time": "21:45",
-        "channel": "Bein Sports 3",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Wolverhampton - West Ham",
-        "day": "01",
+        "name": "Bournemouth - Ipswich Town",
+        "day": "02",
         "time": "21:45",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Empoli - Bologna",
-        "day": "01",
+        "name": "Brighton - Aston Villa",
+        "day": "02",
+        "time": "21:45",
+        "channel": "Bein Sports 4",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Manchester City - Leicester City",
+        "day": "02",
+        "time": "21:45",
+        "channel": "Bein Sports 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Newcastle - Brentford",
+        "day": "02",
+        "time": "21:45",
+        "channel": "Bein Sports 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Southampton - Crystal Palace",
+        "day": "02",
+        "time": "21:45",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Milan - Inter",
+        "day": "02",
         "time": "22:00",
         "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Nottingham Forest - Manchester Utd",
-        "day": "01",
+        "name": "Liverpool - Everton",
+        "day": "02",
         "time": "22:00",
-        "channel": "Bein Sports 5",
+        "channel": "Bein Sports 3",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Dunkerque HB - PSG",
-        "day": "01",
-        "time": "22:10",
-        "channel": "Bein Sports 4",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Real Madrid - Real Sociedad",
-        "day": "01",
+        "name": "Atletico Madrid - Barcelona",
+        "day": "02",
         "time": "22:30",
         "channel": "Tivibu Spor 1",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "LA Lakers - Houston Rockets",
-        "day": "01",
+        "name": "Denver Nuggets - Minnesota TW",
+        "day": "02",
         "time": "05:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
-        "type": "tenis",
-        "name": "Martin\/Fallada - Senesi\/Pons",
-        "day": "01",
-        "time": "00:30",
-        "channel": "Bein Sports Max 1",
+        "type": "basketbol",
+        "name": "Bahçeşehir Klj - Gran Canaria",
+        "day": "02",
+        "time": "20:00",
+        "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
-        "type": "tenis",
-        "name": "Stupaczuk\/Lebron - Chingotto\/Galan",
-        "day": "01",
-        "time": "02:00",
-        "channel": "Bein Sports Max 1",
+        "type": "basketbol",
+        "name": "Fenerbahçe Beko - Barcelona",
+        "day": "02",
+        "time": "20:45",
+        "channel": "S Sport",
         "important": "Hayır"
     }
 ]
