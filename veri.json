@@ -1,97 +1,57 @@
 [
     {
         "type": "futbol",
-        "name": "Fortaleza - Racing Club",
-        "day": "02",
-        "time": "03:30",
+        "name": "Corinthians - CA Huracan",
+        "day": "03",
+        "time": "01:00",
         "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Bournemouth - Ipswich Town",
-        "day": "02",
-        "time": "21:45",
-        "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Brighton - Aston Villa",
-        "day": "02",
-        "time": "21:45",
-        "channel": "Bein Sports 4",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Manchester City - Leicester City",
-        "day": "02",
-        "time": "21:45",
-        "channel": "Bein Sports 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Newcastle - Brentford",
-        "day": "02",
-        "time": "21:45",
-        "channel": "Bein Sports 5",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Southampton - Crystal Palace",
-        "day": "02",
-        "time": "21:45",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Milan - Inter",
-        "day": "02",
-        "time": "22:00",
-        "channel": "TRT Spor",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Liverpool - Everton",
-        "day": "02",
+        "name": "Chelsea - Tottenham",
+        "day": "03",
         "time": "22:00",
         "channel": "Bein Sports 3",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Atletico Madrid - Barcelona",
-        "day": "02",
-        "time": "22:30",
-        "channel": "Tivibu Spor 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Denver Nuggets - Minnesota TW",
-        "day": "02",
-        "time": "05:00",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Bahçeşehir Klj - Gran Canaria",
-        "day": "02",
-        "time": "20:00",
+        "name": "Sporting Lisbon - Rio Ave",
+        "day": "03",
+        "time": "22:15",
         "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Fenerbahçe Beko - Barcelona",
-        "day": "02",
-        "time": "20:45",
+        "name": "Cleveland Cavaliers - New York Knicks",
+        "day": "03",
+        "time": "02:00",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Monaco - Panathinaikos",
+        "day": "03",
+        "time": "20:00",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Zalgiris Kaunas - Partizan",
+        "day": "03",
+        "time": "20:00",
+        "channel": "S Sport 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Real Madrid - Paris",
+        "day": "03",
+        "time": "22:00",
         "channel": "S Sport",
         "important": "Hayır"
     }
