@@ -141,7 +141,7 @@
         "day": "05",
         "time": "17:15",
         "channel": "S Sport",
-        "important": "Hayır"
+        "important": "Evet"
     },
     {
         "type": "futbol",
@@ -269,7 +269,7 @@
         "day": "05",
         "time": "22:00",
         "channel": "S Sport",
-        "important": "Hayır"
+        "important": "Evet"
     },
     {
         "type": "futbol",
@@ -293,7 +293,7 @@
         "day": "05",
         "time": "13:00",
         "channel": "Bein Sports 5",
-        "important": "Hayır"
+        "important": "Evet"
     },
     {
         "type": "basketbol",
@@ -341,6 +341,14 @@
         "day": "05",
         "time": "01:00",
         "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "J.Pegula - E.Alexandrova",
+        "day": "05",
+        "time": "19:00",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     }
 ]
