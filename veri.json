@@ -1,82 +1,138 @@
 [
     {
         "type": "futbol",
-        "name": "Corinthians - CA Huracan",
-        "day": "03",
+        "name": "Sporting Cristal - Palmeiras",
+        "day": "04",
         "time": "01:00",
         "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Chelsea - Tottenham",
-        "day": "03",
-        "time": "22:00",
-        "channel": "Bein Sports 3",
+        "name": "İstanbulspor - Y.Malatyaspor",
+        "day": "04",
+        "time": "17:00",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Sporting Lisbon - Rio Ave",
-        "day": "03",
-        "time": "22:15",
+        "name": "Slovenya - Türkiye",
+        "day": "04",
+        "time": "17:30",
+        "channel": "tabii Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Braunschweig - Paderborn",
+        "day": "04",
+        "time": "19:30",
+        "channel": "Tivibu Spor 3",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Karlsruhe - Hannover 96",
+        "day": "04",
+        "time": "19:30",
+        "channel": "Tivibu Spor 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Adana Demirspor - Kayserispor",
+        "day": "04",
+        "time": "20:00",
+        "channel": "Bein Sports 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Şanlıurfaspor - Boluspor",
+        "day": "04",
+        "time": "20:00",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Amedspor - Iğdırspor",
+        "day": "04",
+        "time": "20:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Augsburg - Bayern Münih",
+        "day": "04",
+        "time": "21:30",
+        "channel": "Tivibu Spor 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Genoa - Udinese",
+        "day": "04",
+        "time": "21:45",
+        "channel": "Tivibu Spor 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Rayo Vallecano - Espanyol",
+        "day": "04",
+        "time": "22:00",
+        "channel": "Tivibu Spor 3",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Galatasaray - ÇBK Mersin",
+        "day": "04",
+        "time": "18:30",
         "channel": "TRT Spor",
+        "important": "Evet"
+    },
+    {
+        "type": "basketbol",
+        "name": "Darüşşafaka - Karşıyaka",
+        "day": "04",
+        "time": "19:00",
+        "channel": "Bein Sports 5",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Cleveland Cavaliers - New York Knicks",
-        "day": "03",
-        "time": "02:00",
+        "name": "Kizilyildiz - Anadolu Efes",
+        "day": "04",
+        "time": "21:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Monaco - Panathinaikos",
-        "day": "03",
-        "time": "20:00",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Zalgiris Kaunas - Partizan",
-        "day": "03",
-        "time": "20:00",
+        "name": "Virtus Bologna - Olimpia Milano",
+        "day": "04",
+        "time": "21:30",
         "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
-        "type": "basketbol",
-        "name": "Real Madrid - Paris",
-        "day": "03",
-        "time": "22:00",
-        "channel": "S Sport",
+        "type": "tenis",
+        "name": "A.Kalinskaya - M.Keys",
+        "day": "04",
+        "time": "01:00",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "E.Bektas - C.Osorio",
-        "day": "03",
-        "time": "20:00",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "T.Maria - H.Chang",
-        "day": "03",
-        "time": "21:30",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "tenis",
-        "name": "C.Bucsa - L.Boskovic",
-        "day": "03",
-        "time": "23:00",
-        "channel": "Bein Sports Max 2",
+        "name": "D.Kasatkina - S.Kenin",
+        "day": "04",
+        "time": "02:30",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     }
 ]
