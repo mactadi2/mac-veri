@@ -1,82 +1,74 @@
 [
     {
         "type": "futbol",
-        "name": "Boca Juniors - Barracas Central",
-        "day": "07",
-        "time": "00:00",
+        "name": "Keçiörengücü - Şanlıurfaspor",
+        "day": "08",
+        "time": "14:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Iğdırspor - İstanbulspor",
+        "day": "08",
+        "time": "17:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Türkiye - Slovenya",
+        "day": "08",
+        "time": "19:00",
+        "channel": "tabii Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Manisa FK - Amedspor",
+        "day": "08",
+        "time": "20:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Al Taawon - Al Sharjah",
+        "day": "08",
+        "time": "21:00",
         "channel": "Spor Smart",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Kasımpaşa - Beşiktaş",
-        "day": "07",
-        "time": "20:00",
-        "channel": "Bein Sports 1",
+        "name": "Arsenal - Real Madrid",
+        "day": "08",
+        "time": "22:00",
+        "channel": "tabii Spor",
         "important": "Evet"
     },
     {
         "type": "futbol",
-        "name": "Göztepe - Gaziantep FK",
-        "day": "07",
-        "time": "20:00",
-        "channel": "Bein Sports 2",
+        "name": "Bayern Münih - Inter",
+        "day": "08",
+        "time": "22:00",
+        "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
-        "type": "futbol",
-        "name": "Bologna - Napoli",
-        "day": "07",
-        "time": "21:45",
+        "type": "basketbol",
+        "name": "Miami Heat - Philadelphia 76ers",
+        "day": "08",
+        "time": "02:30",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Houston Cougars - Florida",
+        "day": "08",
+        "time": "03:50",
         "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Dunkerque HB - Guingamp",
-        "day": "07",
-        "time": "21:45",
-        "channel": "Bein Sports 4",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Leicester City - Newcastle",
-        "day": "07",
-        "time": "22:00",
-        "channel": "Bein Sports 3",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Leganes - Osasuna",
-        "day": "07",
-        "time": "22:00",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Sporting Lisbon - Braga",
-        "day": "07",
-        "time": "22:45",
-        "channel": "tabii Spor 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "GS Warriors - Houston Rockets",
-        "day": "07",
-        "time": "03:30",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Anadolu Efes - Tofaş",
-        "day": "07",
-        "time": "19:00",
-        "channel": "Bein Sports 5",
         "important": "Hayır"
     }
 ]
