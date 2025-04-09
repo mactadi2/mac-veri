@@ -1,114 +1,106 @@
 [
     {
         "type": "futbol",
-        "name": "River Plate - Barcelona SC",
-        "day": "09",
+        "name": "Flamengo - Central Cordoba",
+        "day": "10",
         "time": "03:30",
         "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Erzurumspor - Çorum FK",
-        "day": "09",
+        "name": "Y.Malatyaspor - Bandırmaspor",
+        "day": "10",
         "time": "14:00",
         "channel": "Bein Sports 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Lion City - Sydney FC",
-        "day": "09",
-        "time": "15:00",
-        "channel": "Spor Smart",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Esenler Erokspor - Fatih Karagümrük",
-        "day": "09",
+        "name": "Gençlerbirliği - Ümraniyespor",
+        "day": "10",
         "time": "17:00",
         "channel": "Bein Sports 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Pendikspor - Ankaragücü",
-        "day": "09",
+        "name": "Bodo Glimt - Lazio",
+        "day": "10",
+        "time": "19:45",
+        "channel": "tabii Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Adanaspor - Kocaelispor",
+        "day": "10",
         "time": "20:00",
         "channel": "Bein Sports 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Boluspor - Sakaryaspor",
-        "day": "09",
-        "time": "20:00",
-        "channel": "Bein Sports Max 1",
+        "name": "Lyon - Manchester Utd",
+        "day": "10",
+        "time": "22:00",
+        "channel": "tabii Spor",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Barcelona - B.Dortmund",
-        "day": "09",
+        "name": "Glasgow Rangers - Athletic Bilbao",
+        "day": "10",
         "time": "22:00",
         "channel": "tabii Spor",
-        "important": "Evet"
+        "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Tirsense - Benfica",
-        "day": "09",
-        "time": "22:45",
-        "channel": "TRT Spor",
+        "name": "Real Betis - Jagiellonia",
+        "day": "10",
+        "time": "22:00",
+        "channel": "tabii Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "NK Celje - Fiorentina",
+        "day": "10",
+        "time": "22:00",
+        "channel": "tabii Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Djurgarden - Rapid Wien",
+        "day": "10",
+        "time": "22:00",
+        "channel": "tabii Spor",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "OKC Thunder - LA Lakers",
-        "day": "09",
-        "time": "03:00",
+        "name": "Dallas Mavericks - LA Lakers",
+        "day": "10",
+        "time": "02:30",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Bahçeşehir Klj - Petkimspor",
-        "day": "09",
-        "time": "19:00",
-        "channel": "Bein Sports 5",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "AEK Athens - JSF Nanterre",
-        "day": "09",
-        "time": "19:30",
-        "channel": "Tivibu Spor 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Nymburk - Galatasaray",
-        "day": "09",
-        "time": "19:30",
-        "channel": "Tivibu Spor 1",
+        "name": "Bayern Münih - Fenerbahçe Beko",
+        "day": "10",
+        "time": "21:00",
+        "channel": "S Sport",
         "important": "Evet"
     },
     {
         "type": "basketbol",
-        "name": "Unicaja Malaga - Reggiana",
-        "day": "09",
-        "time": "21:00",
-        "channel": "Tivibu Spor 3",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Iberostar Tenerife - Tortona",
-        "day": "09",
-        "time": "22:45",
-        "channel": "Tivibu Spor 1",
-        "important": "Hayır"
+        "name": "Partizan - Real Madrid",
+        "day": "10",
+        "time": "21:30",
+        "channel": "S Sport 2",
+        "important": "Evet"
     }
 ]
