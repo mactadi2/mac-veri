@@ -33,6 +33,14 @@
     },
     {
         "type": "futbol",
+        "name": "Legia Varşova - Chelsea",
+        "day": "10",
+        "time": "19:45",
+        "channel": "TRT 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
         "name": "Adanaspor - Kocaelispor",
         "day": "10",
         "time": "20:00",
@@ -52,7 +60,15 @@
         "name": "Glasgow Rangers - Athletic Bilbao",
         "day": "10",
         "time": "22:00",
-        "channel": "tabii Spor",
+        "channel": "tabii Spor 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Tottenham - Eintracht Frankfurt",
+        "day": "10",
+        "time": "22:00",
+        "channel": "TRT 1",
         "important": "Hayır"
     },
     {
@@ -60,7 +76,7 @@
         "name": "Real Betis - Jagiellonia",
         "day": "10",
         "time": "22:00",
-        "channel": "tabii Spor",
+        "channel": "tabii Spor 4",
         "important": "Hayır"
     },
     {
@@ -68,7 +84,7 @@
         "name": "NK Celje - Fiorentina",
         "day": "10",
         "time": "22:00",
-        "channel": "tabii Spor",
+        "channel": "tabii Spor 3",
         "important": "Hayır"
     },
     {
@@ -76,7 +92,7 @@
         "name": "Djurgarden - Rapid Wien",
         "day": "10",
         "time": "22:00",
-        "channel": "tabii Spor",
+        "channel": "tabii Spor 2",
         "important": "Hayır"
     },
     {
