@@ -1,122 +1,98 @@
 [
     {
         "type": "futbol",
-        "name": "Flamengo - Central Cordoba",
-        "day": "10",
+        "name": "Atletico Minerio - Dep. Iquique",
+        "day": "11",
         "time": "03:30",
         "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Y.Malatyaspor - Bandırmaspor",
-        "day": "10",
-        "time": "14:00",
-        "channel": "Bein Sports 2",
+        "name": "Greuther Fürth - Köln",
+        "day": "11",
+        "time": "19:30",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Gençlerbirliği - Ümraniyespor",
-        "day": "10",
-        "time": "17:00",
-        "channel": "Bein Sports 2",
+        "name": "Hamburg - Braunschweig",
+        "day": "11",
+        "time": "19:30",
+        "channel": "Bein Sports 3",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Bodo Glimt - Lazio",
-        "day": "10",
-        "time": "19:45",
-        "channel": "tabii Spor",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Legia Varşova - Chelsea",
-        "day": "10",
-        "time": "19:45",
-        "channel": "TRT 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Adanaspor - Kocaelispor",
-        "day": "10",
+        "name": "Samsunspor - Galatasaray",
+        "day": "11",
         "time": "20:00",
-        "channel": "Bein Sports 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Lyon - Manchester Utd",
-        "day": "10",
-        "time": "22:00",
-        "channel": "tabii Spor",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Glasgow Rangers - Athletic Bilbao",
-        "day": "10",
-        "time": "22:00",
-        "channel": "tabii Spor 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Tottenham - Eintracht Frankfurt",
-        "day": "10",
-        "time": "22:00",
-        "channel": "TRT 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Real Betis - Jagiellonia",
-        "day": "10",
-        "time": "22:00",
-        "channel": "tabii Spor 4",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "NK Celje - Fiorentina",
-        "day": "10",
-        "time": "22:00",
-        "channel": "tabii Spor 3",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Djurgarden - Rapid Wien",
-        "day": "10",
-        "time": "22:00",
-        "channel": "tabii Spor 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Dallas Mavericks - LA Lakers",
-        "day": "10",
-        "time": "02:30",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Bayern Münih - Fenerbahçe Beko",
-        "day": "10",
-        "time": "21:00",
-        "channel": "S Sport",
+        "channel": "Bein Sports 1",
         "important": "Evet"
     },
     {
-        "type": "basketbol",
-        "name": "Partizan - Real Madrid",
-        "day": "10",
+        "type": "futbol",
+        "name": "Wolfsburg - Leipzig",
+        "day": "11",
         "time": "21:30",
+        "channel": "Bein Sports 3",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Lens - Reims",
+        "day": "11",
+        "time": "21:45",
+        "channel": "Bein Sports 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Udinese - Milan",
+        "day": "11",
+        "time": "21:45",
+        "channel": "Tivibu Spor 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Valencia - Sevilla",
+        "day": "11",
+        "time": "22:00",
+        "channel": "Tivibu Spor 3",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Indiana Pacers - Cleveland Cavaliers",
+        "day": "11",
+        "time": "02:00",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Beşiktaş Fibabanka - Darüşşafaka",
+        "day": "11",
+        "time": "19:00",
+        "channel": "Bein Sports 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Anadolu Efes - Zalgiris Kaunas",
+        "day": "11",
+        "time": "20:30",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Panathinaikos - Kizilyildiz",
+        "day": "11",
+        "time": "21:15",
         "channel": "S Sport 2",
-        "important": "Evet"
+        "important": "Hayır"
     }
 ]
