@@ -257,19 +257,19 @@
     },
     {
         "type": "basketbol",
-        "name": "Granada - Barcelona",
-        "day": "13",
-        "time": "18:00",
-        "channel": "Spor Smart",
-        "important": "Evet"
-    },
-    {
-        "type": "basketbol",
         "name": "Karşıyaka - Petkimspor",
         "day": "13",
         "time": "18:00",
         "channel": "Bein Sports 5",
         "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Granada - Barcelona",
+        "day": "13",
+        "time": "18:00",
+        "channel": "Spor Smart",
+        "important": "Evet"
     },
     {
         "type": "basketbol",
