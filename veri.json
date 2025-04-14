@@ -1,298 +1,130 @@
 [
     {
         "type": "futbol",
-        "name": "Belgrano - Boca Juniors",
-        "day": "13",
-        "time": "02:30",
+        "name": "River Plate - Talleres Cordoba",
+        "day": "14",
+        "time": "02:15",
         "channel": "Spor Smart",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Atalanta - Bologna",
-        "day": "13",
-        "time": "13:30",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Sakaryaspor - Pendikspor",
-        "day": "13",
-        "time": "13:30",
-        "channel": "Bein Sports 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Preussen Münster - Karlsruhe",
-        "day": "13",
-        "time": "14:30",
-        "channel": "Tivibu Spor 3",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Paderborn - Fortuna Düsseldorf",
-        "day": "13",
-        "time": "14:30",
-        "channel": "Tivibu Spor 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Jahn Regensburg - Schalke 04",
-        "day": "13",
-        "time": "14:30",
-        "channel": "Tivibu Spor 4",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Osasuna - Girona",
-        "day": "13",
-        "time": "15:00",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Heracles - AZ Alkmaar",
-        "day": "13",
-        "time": "15:30",
-        "channel": "TV 8 Buçuk",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Fiorentina - Parma",
-        "day": "13",
-        "time": "16:00",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Fatih Karagümrük - Gençlerbirliği",
-        "day": "13",
-        "time": "16:00",
-        "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Chelsea - Ipswich Town",
-        "day": "13",
-        "time": "16:00",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Liverpool - West Ham",
-        "day": "13",
-        "time": "16:00",
-        "channel": "Bein Sports 3",
-        "important": "Evet"
-    },
-    {
-        "type": "futbol",
-        "name": "Kayserispor - Kasımpaşa",
-        "day": "13",
-        "time": "16:00",
-        "channel": "Bein Sports 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Gaziantep FK - Hatayspor",
-        "day": "13",
-        "time": "16:00",
-        "channel": "Bein Sports 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Stuttgart - Werder Bremen",
-        "day": "13",
-        "time": "16:30",
-        "channel": "Tivibu Spor 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Alaves - Real Madrid",
-        "day": "13",
-        "time": "17:15",
-        "channel": "S Sport",
-        "important": "Evet"
-    },
-    {
-        "type": "futbol",
-        "name": "Willem II - Ajax",
-        "day": "13",
-        "time": "17:45",
-        "channel": "TV 8 Buçuk",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Eintracht Frankfurt - Heidenheim",
-        "day": "13",
-        "time": "18:30",
-        "channel": "Tivibu Spor 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Newcastle - Manchester Utd",
-        "day": "13",
-        "time": "18:30",
-        "channel": "Bein Sports 3",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Como - Torino",
-        "day": "13",
-        "time": "19:00",
-        "channel": "Tivibu Spor 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Ankaragücü - Boluspor",
-        "day": "13",
-        "time": "19:00",
-        "channel": "Bein Sports Max 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Çorum FK - Manisa FK",
-        "day": "13",
-        "time": "19:00",
-        "channel": "Bein Sports Max 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Trabzonspor - Ç.Rizespor",
-        "day": "13",
-        "time": "19:00",
-        "channel": "Bein Sports 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Sivasspor - Fenerbahçe",
-        "day": "13",
-        "time": "19:00",
-        "channel": "Bein Sports 1",
-        "important": "Evet"
-    },
-    {
-        "type": "futbol",
-        "name": "Real Betis - Villarreal",
-        "day": "13",
-        "time": "19:30",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Club Brugge - Genk",
-        "day": "13",
-        "time": "19:30",
-        "channel": "TV 8 Buçuk",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Gimnasia La Plata - Estudiantes",
-        "day": "13",
-        "time": "21:30",
-        "channel": "Spor Smart",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Auxerre - Lyon",
-        "day": "13",
-        "time": "21:45",
-        "channel": "Bein Sports 3",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Lazio - Roma",
-        "day": "13",
-        "time": "21:45",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Athletic Bilbao - Rayo Vallecano",
-        "day": "13",
-        "time": "22:00",
-        "channel": "Tivibu Spor 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Iberostar Tenerife - Real Madrid",
-        "day": "13",
+        "name": "Bandırmaspor - Iğdırspor",
+        "day": "14",
         "time": "14:00",
-        "channel": "Spor Smart",
-        "important": "Evet"
-    },
-    {
-        "type": "basketbol",
-        "name": "Merkezefendi Bld. - Manisa BB",
-        "day": "13",
-        "time": "15:30",
-        "channel": "Bein Sports 5",
+        "channel": "Bein Sports 2",
         "important": "Hayır"
     },
     {
-        "type": "basketbol",
-        "name": "Karşıyaka - Petkimspor",
-        "day": "13",
-        "time": "18:00",
-        "channel": "Bein Sports 5",
+        "type": "futbol",
+        "name": "Ümraniyespor - Esenler Erokspor",
+        "day": "14",
+        "time": "17:00",
+        "channel": "Bein Sports 2",
         "important": "Hayır"
     },
     {
-        "type": "basketbol",
-        "name": "Granada - Barcelona",
-        "day": "13",
-        "time": "18:00",
-        "channel": "Spor Smart",
-        "important": "Evet"
-    },
-    {
-        "type": "basketbol",
-        "name": "Valencia Basket - Unicaja Malaga",
-        "day": "13",
-        "time": "19:30",
-        "channel": "Spor Smart 2",
+        "type": "futbol",
+        "name": "Adanaspor - Erzurumspor",
+        "day": "14",
+        "time": "20:00",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
-        "type": "basketbol",
-        "name": "Tofaş - Fenerbahçe Beko",
-        "day": "13",
-        "time": "20:30",
-        "channel": "Bein Sports 5",
-        "important": "Evet"
+        "type": "futbol",
+        "name": "Kocaelispor - Y.Malatyaspor",
+        "day": "14",
+        "time": "20:00",
+        "channel": "Bein Sports 2",
+        "important": "Hayır"
     },
     {
-        "type": "basketbol",
-        "name": "Houston Rockets - Denver Nuggets",
-        "day": "13",
-        "time": "22:30",
+        "type": "futbol",
+        "name": "Eyüpspor - Adana Demirspor",
+        "day": "14",
+        "time": "20:00",
+        "channel": "Bein Sports 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Napoli - Empoli",
+        "day": "14",
+        "time": "21:45",
+        "channel": "S Sport 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Bastia - Laval",
+        "day": "14",
+        "time": "21:45",
+        "channel": "Bein Sports 4",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Atletico Madrid - Valladolid",
+        "day": "14",
+        "time": "22:00",
         "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Bournemouth - Fulham",
+        "day": "14",
+        "time": "22:00",
+        "channel": "Bein Sports 3",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Hull City - Coventry",
+        "day": "14",
+        "time": "22:00",
+        "channel": "TV 8 Buçuk",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Bahçeşehir Klj - Anadolu Efes",
+        "day": "14",
+        "time": "19:00",
+        "channel": "Bein Sports 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Paredes\/Postiguillo - Carrillo\/Barajas",
+        "day": "14",
+        "time": "15:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Mourino\/Fernandez - Patiniotis\/Sanchez",
+        "day": "14",
+        "time": "17:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Losada\/Sastre - Moyano\/Casas",
+        "day": "14",
+        "time": "19:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "Soto\/Marchetti - Cabruja\/Bautista",
+        "day": "14",
+        "time": "21:00",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     }
 ]
