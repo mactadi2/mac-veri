@@ -9,6 +9,14 @@
     },
     {
         "type": "futbol",
+        "name": "Newcastle - Crystal Palace",
+        "day": "16",
+        "time": "21:30",
+        "channel": "Bein Sports 3",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
         "name": "Inter - Bayern Münih",
         "day": "16",
         "time": "22:00",
@@ -61,6 +69,22 @@
         "day": "16",
         "time": "21:30",
         "channel": "Tivibu Spor 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "M.Andreeva - E.Andreeva",
+        "day": "16",
+        "time": "13:30",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "J.Fett - I.Swiatek",
+        "day": "16",
+        "time": "18:00",
+        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     }
 ]
