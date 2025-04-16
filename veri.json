@@ -1,82 +1,66 @@
 [
     {
         "type": "futbol",
-        "name": "Al Sharjah - Al Taawon",
-        "day": "15",
-        "time": "19:00",
+        "name": "Sydney FC - Lion City",
+        "day": "16",
+        "time": "13:00",
         "channel": "Spor Smart",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Aston Villa - PSG",
-        "day": "15",
+        "name": "Inter - Bayern Münih",
+        "day": "16",
         "time": "22:00",
-        "channel": "TRT Spor",
+        "channel": "TRT 1",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "B.Dortmund - Barcelona",
-        "day": "15",
+        "name": "Real Madrid - Arsenal",
+        "day": "16",
         "time": "22:00",
         "channel": "tabii Spor",
         "important": "Evet"
     },
     {
         "type": "basketbol",
-        "name": "Galatasaray - Nymburk",
-        "day": "15",
-        "time": "19:00",
-        "channel": "Tivibu Spor 1",
-        "important": "Evet"
-    },
-    {
-        "type": "basketbol",
-        "name": "Reggiana - Unicaja Malaga",
-        "day": "15",
-        "time": "21:00",
-        "channel": "Tivibu Spor 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Bayern Münih - Kizilyildiz",
-        "day": "15",
-        "time": "21:30",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Real Madrid - Paris",
-        "day": "15",
-        "time": "22:00",
+        "name": "Orlando Magic - Atlanta Hawks",
+        "day": "16",
+        "time": "02:30",
         "channel": "S Sport",
-        "important": "Evet"
-    },
-    {
-        "type": "tenis",
-        "name": "J.Niemeier - L.Siegemund",
-        "day": "15",
-        "time": "18:00",
-        "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
-        "type": "tenis",
-        "name": "E.Lys - J.Paolini",
-        "day": "15",
+        "type": "basketbol",
+        "name": "GS Warriors - Memphis Grizzlies",
+        "day": "16",
+        "time": "05:00",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Fenerbahçe Opet - ÇBK Mersin",
+        "day": "16",
+        "time": "19:00",
+        "channel": "TRT Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Tortona - Iberostar Tenerife",
+        "day": "16",
         "time": "19:30",
-        "channel": "Bein Sports Max 1",
+        "channel": "Tivibu Spor 1",
         "important": "Hayır"
     },
     {
-        "type": "tenis",
-        "name": "E.Navarro - B.Haddad Maia",
-        "day": "15",
+        "type": "basketbol",
+        "name": "JSF Nanterre - AEK Athens",
+        "day": "16",
         "time": "21:30",
-        "channel": "Bein Sports Max 1",
+        "channel": "Tivibu Spor 2",
         "important": "Hayır"
     }
 ]
