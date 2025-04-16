@@ -1,81 +1,145 @@
 [
     {
         "type": "futbol",
-        "name": "Sydney FC - Lion City",
-        "day": "16",
-        "time": "13:00",
-        "channel": "Spor Smart",
+        "name": "Al Hilal - Al Khaleej",
+        "day": "17",
+        "time": "18:50",
+        "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Inter - Bayern Münih",
-        "day": "16",
+        "name": "Fiorentina - NK Celje",
+        "day": "17",
+        "time": "19:45",
+        "channel": "TRT 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Jagiellonia - Real Betis",
+        "day": "17",
+        "time": "19:45",
+        "channel": "tabii Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Al Fateh - Al Ittihad",
+        "day": "17",
+        "time": "21:00",
+        "channel": "TRT Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Athletic Bilbao - Glasgow Rangers",
+        "day": "17",
+        "time": "22:00",
+        "channel": "tabii Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Eintracht Frankfurt - Tottenham",
+        "day": "17",
         "time": "22:00",
         "channel": "TRT 1",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Real Madrid - Arsenal",
-        "day": "16",
+        "name": "Lazio - Bodo Glimt",
+        "day": "17",
         "time": "22:00",
         "channel": "tabii Spor",
-        "important": "Evet"
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Manchester Utd - Lyon",
+        "day": "17",
+        "time": "22:00",
+        "channel": "tabii Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Chelsea - Legia Varşova",
+        "day": "17",
+        "time": "22:00",
+        "channel": "tabii Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Rapid Wien - Djurgarden",
+        "day": "17",
+        "time": "22:00",
+        "channel": "tabii Spor",
+        "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Orlando Magic - Atlanta Hawks",
-        "day": "16",
+        "name": "Chicago Bulls - Miami Heat",
+        "day": "17",
         "time": "02:30",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "GS Warriors - Memphis Grizzlies",
-        "day": "16",
+        "name": "Sacramento Kings - Dallas Mavericks",
+        "day": "17",
         "time": "05:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
-        "type": "basketbol",
-        "name": "Fenerbahçe Opet - ÇBK Mersin",
-        "day": "16",
-        "time": "19:00",
-        "channel": "TRT Spor",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Tortona - Iberostar Tenerife",
-        "day": "16",
-        "time": "19:30",
-        "channel": "Tivibu Spor 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "JSF Nanterre - AEK Athens",
-        "day": "16",
-        "time": "21:30",
-        "channel": "Tivibu Spor 2",
+        "type": "tenis",
+        "name": "S.Lamens - L.Noskova",
+        "day": "17",
+        "time": "12:30",
+        "channel": "Bein Sports Max 2",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "M.Andreeva - E.Andreeva",
-        "day": "16",
+        "name": "M.Andreeva - E.Alexandrova",
+        "day": "17",
         "time": "13:30",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "J.Fett - I.Swiatek",
-        "day": "16",
+        "name": "J.Niemeier - J.Paolini",
+        "day": "17",
+        "time": "15:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "M.Frech - J.Pegula",
+        "day": "17",
         "time": "18:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "C.Gauff - E.Seidel",
+        "day": "17",
+        "time": "19:30",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "E.Navarro - J.Ostapenko",
+        "day": "17",
+        "time": "21:00",
         "channel": "Bein Sports Max 1",
         "important": "Hayır"
     }
