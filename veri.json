@@ -9,6 +9,14 @@
     },
     {
         "type": "futbol",
+        "name": "Porto - Famalicao",
+        "day": "18",
+        "time": "20:00",
+        "channel": "tabii Spor 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
         "name": "Hatayspor - Konyaspor",
         "day": "18",
         "time": "20:00",
@@ -25,6 +33,14 @@
     },
     {
         "type": "futbol",
+        "name": "Al Qadsiah - Al Nassr",
+        "day": "18",
+        "time": "21:00",
+        "channel": "tabii Spor 3",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
         "name": "Rennes - Nantes",
         "day": "18",
         "time": "21:45",
@@ -37,6 +53,14 @@
         "day": "18",
         "time": "22:00",
         "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Sporting Lisbon - Moreirense",
+        "day": "18",
+        "time": "22:30",
+        "channel": "tabii Spor 2",
         "important": "Hayır"
     },
     {
@@ -65,18 +89,26 @@
     },
     {
         "type": "tenis",
-        "name": "K.Khachanov - A.D.Fokina",
+        "name": "H.Rune - C.Ruud",
         "day": "18",
-        "time": "12:00",
-        "channel": "tabii Spor",
+        "time": "14:25",
+        "channel": "tabii Spor 5",
         "important": "Hayır"
     },
     {
         "type": "tenis",
-        "name": "H.Rune - C.Ruud",
+        "name": "M.Uchijima - O.Danilovic",
         "day": "18",
-        "time": "13:30",
-        "channel": "tabii Spor",
+        "time": "14:30",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "J.Ponchet - E.G.Ruse",
+        "day": "18",
+        "time": "16:30",
+        "channel": "Bein Sports Max 2",
         "important": "Hayır"
     },
     {
@@ -84,7 +116,7 @@
         "name": "C.Alcaraz - A.De Minaur",
         "day": "18",
         "time": "17:00",
-        "channel": "tabii Spor",
+        "channel": "tabii Spor 5",
         "important": "Hayır"
     },
     {
@@ -92,7 +124,23 @@
         "name": "S.Tsitsipas - A.Fils",
         "day": "18",
         "time": "18:30",
-        "channel": "tabii Spor",
+        "channel": "tabii Spor 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "T.Rakotomanga Rajaonah - S.Lamens",
+        "day": "18",
+        "time": "18:30",
+        "channel": "Bein Sports Max 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "E.Svitolina - J.Maneiro",
+        "day": "18",
+        "time": "20:30",
+        "channel": "Bein Sports Max 2",
         "important": "Hayır"
     }
 ]
