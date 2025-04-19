@@ -257,6 +257,14 @@
     },
     {
         "type": "basketbol",
+        "name": "Balıkesir BB - Konya BB",
+        "day": "19",
+        "time": "15:00",
+        "channel": "tabii Spor 5",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
         "name": "Bursaspor - Büyükçekmece",
         "day": "19",
         "time": "15:30",
@@ -308,7 +316,7 @@
         "name": "K.Khachanov - H.Rune",
         "day": "19",
         "time": "14:30",
-        "channel": "tabii Spor 5",
+        "channel": "tabii Spor",
         "important": "Hayır"
     },
     {
@@ -316,7 +324,7 @@
         "name": "C.Alcaraz - A.Fils",
         "day": "19",
         "time": "17:00",
-        "channel": "tabii Spor 5",
+        "channel": "tabii Spor",
         "important": "Hayır"
     }
 ]
