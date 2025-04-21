@@ -1,90 +1,74 @@
 [
     {
         "type": "futbol",
-        "name": "Torino - Udinese",
-        "day": "21",
-        "time": "13:30",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Cagliari - Fiorentina",
-        "day": "21",
-        "time": "16:00",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Genoa - Lazio",
-        "day": "21",
-        "time": "19:00",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Iğdırspor - Sakaryaspor",
-        "day": "21",
-        "time": "20:00",
+        "name": "Damac - Al Nassr",
+        "day": "22",
+        "time": "19:05",
         "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Alanyaspor - Samsunspor",
-        "day": "21",
+        "name": "Valencia - Espanyol",
+        "day": "22",
         "time": "20:00",
-        "channel": "Bein Sports 1",
+        "channel": "Tivibu Spor 1",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Annecy - Lorient",
-        "day": "21",
-        "time": "21:45",
-        "channel": "Bein Sports 4",
-        "important": "Hayır"
+        "name": "Barcelona - Mallorca",
+        "day": "22",
+        "time": "22:30",
+        "channel": "Tivibu Spor 1",
+        "important": "Evet"
     },
     {
         "type": "futbol",
-        "name": "Tottenham - Nottingham Forest",
-        "day": "21",
-        "time": "22:00",
-        "channel": "Bein Sports 3",
+        "name": "Rio Ave - Sporting Lisbon",
+        "day": "22",
+        "time": "22:45",
+        "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
-        "type": "futbol",
-        "name": "Girona - Real Betis",
-        "day": "21",
-        "time": "22:00",
+        "type": "basketbol",
+        "name": "Denver Nuggets - LA Clippers",
+        "day": "22",
+        "time": "05:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Houston Rockets - GS Warriors",
-        "day": "21",
-        "time": "04:30",
+        "name": "Ludwigsburg - Petkimspor",
+        "day": "22",
+        "time": "12:30",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Türk Telekom - Tofaş",
-        "day": "21",
-        "time": "19:00",
-        "channel": "Bein Sports 5",
+        "name": "Telekom Bonn - Oostende",
+        "day": "22",
+        "time": "15:00",
+        "channel": "S Sport",
         "important": "Hayır"
     },
     {
-        "type": "tenis",
-        "name": "A.Sabalenka - J.Ostapenko",
-        "day": "21",
-        "time": "14:00",
-        "channel": "Bein Sports Max 1",
+        "type": "basketbol",
+        "name": "Fenerbahçe Beko - Paris",
+        "day": "22",
+        "time": "20:45",
+        "channel": "S Sport",
+        "important": "Evet"
+    },
+    {
+        "type": "basketbol",
+        "name": "Panathinaikos - Anadolu Efes",
+        "day": "22",
+        "time": "21:30",
+        "channel": "S Sport 2",
         "important": "Hayır"
     }
 ]
