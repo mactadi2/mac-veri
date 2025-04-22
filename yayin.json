@@ -25,6 +25,22 @@
     },
     {
         "type": "futbol",
+        "name": "Nantes - PSG",
+        "day": "22",
+        "time": "21:45",
+        "channel": "Bein Sports 4",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Manchester City - Aston Villa",
+        "day": "22",
+        "time": "22:00",
+        "channel": "Bein Sports 3",
+        "important": "Evet"
+    },
+    {
+        "type": "futbol",
         "name": "Barcelona - Mallorca",
         "day": "22",
         "time": "22:30",
