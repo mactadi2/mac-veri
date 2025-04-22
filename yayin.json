@@ -1,98 +1,106 @@
 [
     {
         "type": "futbol",
-        "name": "Damac - Al Nassr",
-        "day": "22",
-        "time": "19:05",
+        "name": "LDU Quito - Flamengo",
+        "day": "23",
+        "time": "01:00",
+        "channel": "S Sport 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Parma - Juventus",
+        "day": "23",
+        "time": "19:30",
+        "channel": "S Sport 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Athletic Bilbao - Las Palmas",
+        "day": "23",
+        "time": "20:00",
+        "channel": "Tivibu Spor 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Inter - Milan",
+        "day": "23",
+        "time": "22:00",
         "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Valencia - Espanyol",
-        "day": "22",
-        "time": "20:00",
-        "channel": "Tivibu Spor 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Konyaspor - Galatasaray",
-        "day": "22",
-        "time": "20:30",
-        "channel": "ATV",
-        "important": "Evet"
-    },
-    {
-        "type": "futbol",
-        "name": "Nantes - PSG",
-        "day": "22",
-        "time": "21:45",
-        "channel": "Bein Sports 4",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Manchester City - Aston Villa",
-        "day": "22",
+        "name": "Arsenal - Crystal Palace",
+        "day": "23",
         "time": "22:00",
         "channel": "Bein Sports 3",
-        "important": "Evet"
-    },
-    {
-        "type": "futbol",
-        "name": "Barcelona - Mallorca",
-        "day": "22",
-        "time": "22:30",
-        "channel": "Tivibu Spor 1",
-        "important": "Evet"
-    },
-    {
-        "type": "futbol",
-        "name": "Rio Ave - Sporting Lisbon",
-        "day": "22",
-        "time": "22:45",
-        "channel": "TRT Spor",
         "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Benfica - Tirsense",
+        "day": "23",
+        "time": "22:15",
+        "channel": "tabii Spor 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Getafe - Real Madrid",
+        "day": "23",
+        "time": "22:30",
+        "channel": "S Sport",
+        "important": "Evet"
     },
     {
         "type": "basketbol",
-        "name": "Denver Nuggets - LA Clippers",
-        "day": "22",
+        "name": "LA Lakers - Minnesota TW",
+        "day": "23",
         "time": "05:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Ludwigsburg - Petkimspor",
-        "day": "22",
+        "name": "Oostende - Galatasaray",
+        "day": "23",
         "time": "12:30",
         "channel": "S Sport",
-        "important": "Hayır"
+        "important": "Evet"
     },
     {
         "type": "basketbol",
-        "name": "Telekom Bonn - Oostende",
-        "day": "22",
+        "name": "Petkimspor - BC Igokea",
+        "day": "23",
         "time": "15:00",
         "channel": "S Sport",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Fenerbahçe Beko - Paris",
-        "day": "22",
-        "time": "20:45",
+        "name": "AEK Athens - JSF Nanterre",
+        "day": "23",
+        "time": "19:30",
+        "channel": "Tivibu Spor 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Monaco - Barcelona",
+        "day": "23",
+        "time": "20:00",
         "channel": "S Sport",
         "important": "Evet"
     },
     {
         "type": "basketbol",
-        "name": "Panathinaikos - Anadolu Efes",
-        "day": "22",
+        "name": "Olympiakos - Real Madrid",
+        "day": "23",
         "time": "21:30",
         "channel": "S Sport 2",
-        "important": "Hayır"
+        "important": "Evet"
     }
 ]
