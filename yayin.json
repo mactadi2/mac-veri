@@ -1,114 +1,82 @@
 [
     {
         "type": "futbol",
-        "name": "LDU Quito - Flamengo",
-        "day": "23",
-        "time": "01:00",
+        "name": "Estudiantes - Botafogo RJ",
+        "day": "24",
+        "time": "03:30",
         "channel": "S Sport 2",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Parma - Juventus",
-        "day": "23",
-        "time": "19:30",
-        "channel": "S Sport 2",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Athletic Bilbao - Las Palmas",
-        "day": "23",
+        "name": "Osasuna - Sevilla",
+        "day": "24",
         "time": "20:00",
-        "channel": "Tivibu Spor 2",
+        "channel": "Tivibu Spor 1",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Inter - Milan",
-        "day": "23",
+        "name": "Trabzonspor - Göztepe",
+        "day": "24",
+        "time": "20:30",
+        "channel": "ATV",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
+        "name": "Bologna - Empoli",
+        "day": "24",
         "time": "22:00",
         "channel": "TRT Spor",
         "important": "Hayır"
     },
     {
         "type": "futbol",
-        "name": "Arsenal - Crystal Palace",
-        "day": "23",
-        "time": "22:00",
-        "channel": "Bein Sports 3",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Benfica - Tirsense",
-        "day": "23",
-        "time": "22:15",
-        "channel": "tabii Spor 1",
-        "important": "Hayır"
-    },
-    {
-        "type": "futbol",
-        "name": "Getafe - Real Madrid",
-        "day": "23",
+        "name": "Atletico Madrid - Rayo Vallecano",
+        "day": "24",
         "time": "22:30",
-        "channel": "S Sport",
-        "important": "Evet"
-    },
-    {
-        "type": "basketbol",
-        "name": "LA Lakers - Minnesota TW",
-        "day": "23",
-        "time": "05:00",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "Oostende - Galatasaray",
-        "day": "23",
-        "time": "12:30",
-        "channel": "S Sport",
-        "important": "Evet"
-    },
-    {
-        "type": "basketbol",
-        "name": "Petkimspor - BC Igokea",
-        "day": "23",
-        "time": "15:00",
-        "channel": "S Sport",
-        "important": "Hayır"
-    },
-    {
-        "type": "basketbol",
-        "name": "AEK Athens - JSF Nanterre",
-        "day": "23",
-        "time": "19:30",
         "channel": "Tivibu Spor 1",
         "important": "Hayır"
     },
     {
         "type": "basketbol",
-        "name": "Monaco - Barcelona",
-        "day": "23",
-        "time": "20:00",
+        "name": "Houston Rockets - GS Warriors",
+        "day": "24",
+        "time": "04:30",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Galatasaray - Telekom Bonn",
+        "day": "24",
+        "time": "15:00",
         "channel": "S Sport",
         "important": "Evet"
     },
     {
         "type": "basketbol",
-        "name": "Olympiakos - Real Madrid",
-        "day": "23",
-        "time": "21:30",
-        "channel": "S Sport 2",
+        "name": "Tofaş - Nymburk",
+        "day": "24",
+        "time": "17:30",
+        "channel": "S Sport",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Fenerbahçe Beko - Paris",
+        "day": "24",
+        "time": "20:45",
+        "channel": "S Sport",
         "important": "Evet"
     },
     {
-        "type": "tenis",
-        "name": "B.Bencic - Zeynep Sönmez",
-        "day": "23",
-        "time": "14:00",
-        "channel": "Bein Sports Max 1",
+        "type": "basketbol",
+        "name": "Panathinaikos - Anadolu Efes",
+        "day": "24",
+        "time": "21:30",
+        "channel": "S Sport 2",
         "important": "Hayır"
     }
 ]
