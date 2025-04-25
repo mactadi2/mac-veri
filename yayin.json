@@ -102,5 +102,45 @@
         "time": "21:30",
         "channel": "S Sport 2",
         "important": "Evet"
+    },
+    {
+        "type": "tenis",
+        "name": "P.Badosa - V.Kudermetova",
+        "day": "25",
+        "time": "12:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "A.Sabalenka - A.Blinkova",
+        "day": "25",
+        "time": "13:30",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "A.Potapova - Q.Zheng",
+        "day": "25",
+        "time": "16:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "J.Pegula - E.Lys",
+        "day": "25",
+        "time": "20:00",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
+    },
+    {
+        "type": "tenis",
+        "name": "E.Rybakina - B.Andreescu",
+        "day": "25",
+        "time": "22:30",
+        "channel": "Bein Sports Max 1",
+        "important": "Hayır"
     }
 ]
