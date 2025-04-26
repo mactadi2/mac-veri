@@ -137,6 +137,14 @@
     },
     {
         "type": "futbol",
+        "name": "Crystal Palace - Aston Villa",
+        "day": "26",
+        "time": "19:15",
+        "channel": "tabii Spor",
+        "important": "Hayır"
+    },
+    {
+        "type": "futbol",
         "name": "Eintracht Frankfurt - Leipzig",
         "day": "26",
         "time": "19:30",
@@ -148,7 +156,7 @@
         "name": "Al Ahli - Buriram",
         "day": "26",
         "time": "19:30",
-        "channel": "Spor Smart",
+        "channel": "Spor Smart 2",
         "important": "Hayır"
     },
     {
@@ -188,7 +196,7 @@
         "name": "Yokohama Marinos - Al Nassr",
         "day": "26",
         "time": "22:30",
-        "channel": "Spor Smart",
+        "channel": "Spor Smart 2",
         "important": "Hayır"
     },
     {
@@ -229,6 +237,14 @@
         "day": "26",
         "time": "17:30",
         "channel": "S Sport 2",
+        "important": "Hayır"
+    },
+    {
+        "type": "basketbol",
+        "name": "Zaragoza - Gran Canaria",
+        "day": "26",
+        "time": "18:00",
+        "channel": "Spor Smart",
         "important": "Hayır"
     },
     {
