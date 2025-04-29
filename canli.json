@@ -1,16 +1,58 @@
 [
     {
+        "id": "268793155164442624",
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Paraguayo Reserves  - Juventud Unida San Miguel Reserves",
+        "time": "21:00"
+    },
+    {
+        "id": "268792648729497600",
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Brown de Adrogue Reserves - Argentino Quilmes Reserves",
+        "time": "20:00"
+    },
+    {
+        "id": "268228232603635712",
+        "tur": "live",
+        "type": "futbol",
+        "name": "ENPPI Club - Ghazl Al Mehalla",
+        "time": "20:00"
+    },
+    {
+        "id": "268135214358859776",
+        "tur": "live",
+        "type": "futbol",
+        "name": "Malmo FF - Osters IF",
+        "time": "20:00"
+    },
+    {
+        "id": "268214141173501952",
+        "tur": "live",
+        "type": "futbol",
+        "name": "Falkenbergs FF - Orebro SK",
+        "time": "20:00"
+    },
+    {
+        "id": "268747075880095744",
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Nouadhibou - ACS Ksar",
+        "time": "20:00"
+    },
+    {
+        "id": "268393921341689856",
+        "tur": "live",
+        "type": "futbol",
+        "name": "IL Hodd Ulsteinvik - Ranheim Trondheim",
+        "time": "20:00"
+    },
+    {
         "id": "268666392333651968",
         "tur": "live",
         "type": "futbol",
         "name": "Al Hilal Riyadh - Al Ahli Jeddah",
-        "time": "19:30"
-    },
-    {
-        "id": "268745747604836352",
-        "tur": "live",
-        "type": "futbol",
-        "name": "Afrique Football Elite - FC Diarra",
         "time": "19:30"
     },
     {
@@ -56,52 +98,10 @@
         "time": "19:00"
     },
     {
-        "id": "268601482621882368",
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Dinamo Batumi - Fc Gareji",
-        "time": "19:00"
-    },
-    {
-        "id": "268755863868674048",
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Hidd - Al-Ittihad",
-        "time": "19:00"
-    },
-    {
         "id": "268673190358814720",
         "tur": "live",
         "type": "futbol",
         "name": "Omega Kleszczow - WKS 1957 Wielun",
         "time": "18:30"
-    },
-    {
-        "id": "268792395893706752",
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA San Miguel Reserves - Nueva Chicago Reserves",
-        "time": "18:00"
-    },
-    {
-        "id": "268775012056567808",
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Atlas Reserves - CA Ituzaingo Reserves",
-        "time": "18:00"
-    },
-    {
-        "id": "268416231150850048",
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Jelgava - SC Grobinas",
-        "time": "18:00"
-    },
-    {
-        "id": "268597462018691072",
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Samgurali Tskaltubo - Dinamo Tbilisi",
-        "time": "18:00"
     }
 ]
