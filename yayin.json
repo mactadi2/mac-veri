@@ -1,58 +1,65 @@
 [
     {
         "type": "futbol",
-        "name": "Defensa - Racing Club",
-        "day": "29",
-        "time": "01:30",
+        "name": "Newell's Old Boys - Huracan",
+        "day": "30",
+        "time": "01:00",
         "channel": "Spor Smart"
     },
     {
         "type": "futbol",
-        "name": "Al Hilal - Al Ahli",
-        "day": "29",
+        "name": "Al Nassr - Kawasaki Frontale",
+        "day": "30",
         "time": "19:30",
         "channel": "Spor Smart"
     },
     {
         "type": "futbol",
-        "name": "Arsenal - PSG",
-        "day": "29",
+        "name": "Barcelona - Inter",
+        "day": "30",
         "time": "22:00",
-        "channel": "TRT Spor"
+        "channel": "TRT 1"
     },
     {
         "type": "basketbol",
-        "name": "GS Warriors - Houston Rockets",
-        "day": "29",
+        "name": "Denver Nuggets - LA Clippers",
+        "day": "30",
         "time": "05:00",
         "channel": "S Sport"
     },
     {
         "type": "basketbol",
-        "name": "Paris - Fenerbahçe Beko",
-        "day": "29",
-        "time": "21:30",
-        "channel": "S Sport"
-    },
-    {
-        "type": "basketbol",
-        "name": "Real Madrid - Olympiakos",
-        "day": "29",
-        "time": "22:00",
+        "name": "Barcelona - Monaco",
+        "day": "30",
+        "time": "20:00",
         "channel": "S Sport 2"
     },
     {
+        "type": "basketbol",
+        "name": "Anadolu Efes - Panathinaikos",
+        "day": "30",
+        "time": "20:45",
+        "channel": "S Sport"
+    },
+    {
         "type": "tenis",
-        "name": "D.Shnaider - I.Swiatek",
-        "day": "29",
-        "time": "12:00",
+        "name": "M.Keys - I.Swiatek",
+        "day": "30",
+        "time": "14:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "A.Sabalenka - P.Stearns",
-        "day": "29",
-        "time": "21:00",
+        "name": "M.Andreeva - C.Gauff",
+        "day": "30",
+        "time": "16:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "M.Uchijima - E.Svitolina",
+        "day": "30",
+        "time": "17:30",
         "channel": "Bein Sports Max 1"
     }
 ]
