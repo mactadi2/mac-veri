@@ -1,184 +1,79 @@
 [
     {
-        "id": "268341755517210624",
+        "id": "268776916592496640",
         "tur": "live",
         "type": "futbol",
-        "name": "Valur Reykjavik - Vikingur Reykjavik",
-        "time": "22:15"
+        "name": "Capalaba U23 - Holland Park Hawks U23",
+        "time": "11:30"
     },
     {
-        "id": "268341755452198912",
+        "id": "268763742235398144",
         "tur": "live",
         "type": "futbol",
-        "name": "Fram Reykjavik - UMF Afturelding",
-        "time": "22:15"
+        "name": "Canberra Fk - Monaro Panthers Fc",
+        "time": "11:30"
     },
     {
-        "id": "268138618902679552",
+        "id": "268809660761509888",
         "tur": "live",
         "type": "futbol",
-        "name": "Leeds United - Bristol City FC",
-        "time": "22:00"
+        "name": "Persika Karanganyar - Bintang Timur",
+        "time": "11:15"
     },
     {
-        "id": "268069186023067648",
+        "id": "268814206308061184",
         "tur": "live",
         "type": "futbol",
-        "name": "FK Borac Banjaluka - Sloga Doboj",
-        "time": "22:00"
+        "name": "Persip Pekalongan - Persegaf Pegunungan Arfak",
+        "time": "11:15"
     },
     {
-        "id": "268738514149052416",
+        "id": "268822566680006656",
         "tur": "live",
         "type": "futbol",
-        "name": "Club Guarani Asuncion Reserves - Nacional Asunción Reserve",
-        "time": "22:00"
-    },
-    {
-        "id": "268690899002855424",
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Chaco For Ever Reserves - Resistencia Central",
-        "time": "22:00"
-    },
-    {
-        "id": "267430825281327104",
-        "tur": "live",
-        "type": "futbol",
-        "name": "SS Lazio - AC Parma",
-        "time": "21:45"
-    },
-    {
-        "id": "267430979196555264",
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hellas Verona - Cagliari",
-        "time": "21:45"
-    },
-    {
-        "id": "268072852947865600",
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Espanol - Defensores de Cambaceres",
-        "time": "21:30"
-    },
-    {
-        "id": "268661967963688960",
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA River Plate Montevideo Reserves - Liverpool Montevideo Reserves",
-        "time": "21:30"
-    },
-    {
-        "id": "268661302584545280",
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ca Penarol Reserves - Nacional de Montevideo Reserves",
-        "time": "21:30"
-    },
-    {
-        "id": "268661161142128640",
-        "tur": "live",
-        "type": "futbol",
-        "name": "Danubio Reserves - CA Progreso Reserves",
-        "time": "21:30"
-    },
-    {
-        "id": "268110319885357056",
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Acassuso - San Martin De Burzaco",
-        "time": "21:30"
-    },
-    {
-        "id": "268146642518151168",
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gzira United FC - Naxxar Lions FC",
-        "time": "21:15"
-    },
-    {
-        "id": "268518307395670016",
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fulham U21 - Nottingham Forest U21",
-        "time": "21:00"
+        "name": "Persebi Boyolali - Persema Malang",
+        "time": "11:15"
     },
     {
         "type": "futbol",
-        "name": "Trabzonspor - Barcelona",
-        "day": "28",
-        "time": "19:00",
+        "name": "Defensa - Racing Club",
+        "day": "29",
+        "time": "01:30",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Al Hilal - Al Ahli",
+        "day": "29",
+        "time": "19:30",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Arsenal - PSG",
+        "day": "29",
+        "time": "22:00",
         "channel": "TRT Spor"
     },
     {
-        "type": "futbol",
-        "name": "Udinese - Bologna",
-        "day": "28",
-        "time": "19:30",
-        "channel": "S Sport 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Göztepe - Rams Başakşehir",
-        "day": "28",
-        "time": "20:00",
-        "channel": "Bein Sports 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Lazio - Parma",
-        "day": "28",
-        "time": "21:45",
-        "channel": "S Sport 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Verona - Cagliari",
-        "day": "28",
-        "time": "21:45",
+        "type": "basketbol",
+        "name": "GS Warriors - Houston Rockets",
+        "day": "29",
+        "time": "05:00",
         "channel": "S Sport"
     },
     {
         "type": "basketbol",
-        "name": "Karşıyaka - Anadolu Efes",
-        "day": "28",
-        "time": "19:00",
-        "channel": "Bein Sports 5"
+        "name": "Paris - Fenerbahçe Beko",
+        "day": "29",
+        "time": "21:30",
+        "channel": "S Sport"
     },
     {
-        "type": "tenis",
-        "name": "B.Bencic - C.Gauff",
-        "day": "28",
-        "time": "12:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "D.Shnaider - I.Swiatek",
-        "day": "28",
-        "time": "14:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "A.Sabalenka - P.Stearns",
-        "day": "28",
-        "time": "17:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "M.Uchijima - E.Alexandrova",
-        "day": "28",
-        "time": "20:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "E.Svitolina - M.Sakkari",
-        "day": "28",
+        "type": "basketbol",
+        "name": "Real Madrid - Olympiakos",
+        "day": "29",
         "time": "22:00",
-        "channel": "Bein Sports Max 1"
+        "channel": "S Sport 2"
     }
 ]
