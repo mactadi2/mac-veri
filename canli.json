@@ -2,35 +2,14 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Al Bataeh UAE - Al Nasr Dubai",
+        "name": "Al Bataeh UAE - Al Nasr Dubai II",
         "time": "17:15",
         "id": "268845122389676032"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "CS de Msaken - SA Menzel Bourguiba",
-        "time": "17:00",
-        "id": "268764862485762048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mumbai City FC - Jamshedpur FC",
-        "time": "17:30",
-        "id": "268746204107640832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zlin B - FK Apos Blansko",
-        "time": "18:00",
-        "id": "268768642357923840"
-    },
-    {
-        "tur": "live",
         "type": "basketbol",
-        "name": "Kyiv Basket - BC Dnipro II",
+        "name": "Kyiv Basket - BC Dnipro",
         "time": "18:00",
         "id": "268852820438028288"
     },
@@ -58,9 +37,16 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Al Wakrah - Al Shamal",
+        "name": "Al Wakrah - Al Shamal II",
         "time": "17:00",
         "id": "268839788691460096"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Klaipedos Neptunas (W) - Kibirkstis VKM(W)",
+        "time": "18:00",
+        "id": "268832433315647488"
     },
     {
         "tur": "live",
@@ -72,44 +58,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Neretvanac Opuzen - Primorac Biograd",
+        "name": "Mumbai City FC - Jamshedpur FC",
+        "time": "17:30",
+        "id": "268746204107640832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Zlin B - FK Apos Blansko II",
         "time": "18:00",
-        "id": "268840016419098624"
+        "id": "268768642357923840"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Neftchi Fargona - Fardu Ferghana",
-        "time": "17:15",
-        "id": "268828379496714240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JS Kairouan - Etoile Sportive Sahel",
-        "time": "16:30",
-        "id": "268843286448443392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Baladiyet El Mahallah - La Viena FC",
-        "time": "16:30",
-        "id": "268764864345935872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tukums 2000 - BFC Daugava Daugavpils II",
-        "time": "18:00",
-        "id": "268676819466719232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AP Rwandaise FC - Police Fc (Rwanda)",
+        "name": "CS de Msaken - SA Menzel Bourguiba II",
         "time": "17:00",
-        "id": "268848407825747968"
+        "id": "268764862485762048"
     },
     {
         "tur": "live",
@@ -135,13 +100,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Asyut Cement Petroleum - Abu Qir Semad FC",
-        "time": "16:30",
-        "id": "268766691787411456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Adama Kenema - Welwalu Adigrat",
         "time": "18:00",
         "id": "268833286856511488"
@@ -149,21 +107,49 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Haras El Hodood - Pyramids FC",
+        "name": "AP Rwandaise FC - Police Fc (Rwanda)",
         "time": "17:00",
-        "id": "268316895162273792"
+        "id": "268848407825747968"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CSA Steaua Bucuresti - FC Csikszereda Miercurea Ciuc",
+        "name": "Tukums 2000 - BFC Daugava Daugavpils",
+        "time": "18:00",
+        "id": "268676819466719232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CSA Steaua Bucuresti - FC Csikszereda Miercurea Ciuc II",
         "time": "17:00",
         "id": "268566413098225664"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kyanos Astir Varis - Aris Voulas FC",
+        "name": "NK Neretvanac Opuzen - Primorac Biograd II",
+        "time": "18:00",
+        "id": "268840016419098624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Neftchi Fargona - Fardu Ferghana",
+        "time": "17:15",
+        "id": "268828379496714240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Decic Tuzi - OFK Petrovac",
+        "time": "18:00",
+        "id": "268833469345435648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kyanos Astir Varis - Aris Voulas FC II",
         "time": "17:15",
         "id": "268855361160744960"
     },
@@ -177,21 +163,28 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CS Hammam-Lif - AS Megrine",
+        "name": "Haras El Hodood - Pyramids FC II",
+        "time": "17:00",
+        "id": "268316895162273792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Hammam-Lif - AS Megrine II",
         "time": "17:00",
         "id": "268940501196083200"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Petrzalka 1898 - MSK Zilina B",
+        "name": "FC Petrzalka 1898 - MSK Zilina B II",
         "time": "17:30",
         "id": "268686424294952960"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lokomotiv Moskova - FC Rostov II",
+        "name": "Lokomotiv Moskova - FC Rostov",
         "time": "18:00",
         "id": "267771322973687808"
     }
