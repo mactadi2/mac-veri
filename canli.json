@@ -9,30 +9,30 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "EC Vitoria - Cruzeiro II",
+        "name": "EC Uniao Corinthians - Corinthians Paulista",
+        "time": "01:30",
+        "id": "268816441057349632"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "EC Vitoria - Cruzeiro",
         "time": "01:00",
         "id": "268856937224998912"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "The Strongest La Paz - Real Tomayapo",
+        "name": "Ca Talleres De Cordoba Reserves - Gimnasia La Plata Reserves",
         "time": "01:00",
-        "id": "268794371470659584"
+        "id": "268885054278733824"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bahia de Feira - Teixeira de Freitas U20",
-        "time": "01:15",
-        "id": "268972029913468928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cruzeiro MG (W) - Flamengo Rj",
+        "name": "Botafogo RJ - Brasil De Pelotas Rs",
         "time": "01:00",
-        "id": "268621601001574400"
+        "id": "267830275847884800"
     },
     {
         "tur": "live",
@@ -44,9 +44,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Guastatoya - Antigua Guatemala II",
+        "name": "The Strongest La Paz - Real Tomayapo",
         "time": "01:00",
-        "id": "268833631526588416"
+        "id": "268794371470659584"
     },
     {
         "tur": "live",
@@ -58,15 +58,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ca Talleres De Cordoba Reserves - Gimnasia La Plata Reserves II",
-        "time": "01:00",
-        "id": "268885054278733824"
+        "name": "Ceara SC CE - Palmeiras",
+        "time": "01:30",
+        "id": "267634032467120128"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Botafogo RJ - Brasil De Pelotas Rs",
+        "name": "Guastatoya - Antigua Guatemala",
         "time": "01:00",
-        "id": "267830275847884800"
+        "id": "268833631526588416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cruzeiro MG (W) - Flamengo Rj",
+        "time": "01:00",
+        "id": "268621601001574400"
     }
 ]
