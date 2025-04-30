@@ -1,27 +1,6 @@
 [
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Asociacion Atletica Quimsa U22 - Deportivo Atenas U22",
-        "time": "00:00",
-        "id": "268854406423908352"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "EC Uniao Corinthians - Corinthians Paulista",
-        "time": "01:30",
-        "id": "268816441057349632"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "EC Vitoria - Cruzeiro",
-        "time": "01:00",
-        "id": "268856937224998912"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
         "name": "Ca Talleres De Cordoba Reserves - Gimnasia La Plata Reserves",
         "time": "01:00",
@@ -37,23 +16,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Boca Juniors Reserves - Barracas Central Reserves II",
-        "time": "01:00",
-        "id": "268885054185410560"
+        "name": "Rionegro Aguilas Doradas - America de Cali",
+        "time": "02:00",
+        "id": "268617617155166208"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "The Strongest La Paz - Real Tomayapo",
+        "name": "Cruzeiro MG (W) - Flamengo Rj",
         "time": "01:00",
-        "id": "268794371470659584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Azucareros de Tezonapa - Dragones de Oaxaca",
-        "time": "00:00",
-        "id": "268930428412497920"
+        "id": "268621601001574400"
     },
     {
         "tur": "live",
@@ -72,8 +44,36 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cruzeiro MG (W) - Flamengo Rj",
+        "name": "The Strongest La Paz - Real Tomayapo",
         "time": "01:00",
-        "id": "268621601001574400"
+        "id": "268794371470659584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Ocotal - Diriangen FC",
+        "time": "02:00",
+        "id": "268978569797046272"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "EC Vitoria - Cruzeiro",
+        "time": "01:00",
+        "id": "268856937224998912"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "EC Uniao Corinthians - Corinthians Paulista",
+        "time": "01:30",
+        "id": "268816441057349632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Boca Juniors Reserves - Barracas Central Reserves II",
+        "time": "01:00",
+        "id": "268885054185410560"
     }
 ]
