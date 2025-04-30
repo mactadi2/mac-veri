@@ -2,9 +2,9 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Al Bataeh UAE - Al Nasr Dubai II",
-        "time": "17:15",
-        "id": "268845122389676032"
+        "name": "Balikesir Belediye Spor - Esenler Erokspor",
+        "time": "18:00",
+        "id": "268827740632911872"
     },
     {
         "tur": "live",
@@ -12,13 +12,6 @@
         "name": "Kyiv Basket - BC Dnipro",
         "time": "18:00",
         "id": "268852820438028288"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Balikesir Belediye Spor - Esenler Erokspor",
-        "time": "18:00",
-        "id": "268827740632911872"
     },
     {
         "tur": "live",
@@ -37,7 +30,14 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Al Wakrah - Al Shamal II",
+        "name": "Start Lublin - KS Spojnia Stargard II",
+        "time": "18:30",
+        "id": "268688204124786688"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Al Wakrah - Al Shamal",
         "time": "17:00",
         "id": "268839788691460096"
     },
@@ -57,22 +57,141 @@
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Mumbai City FC - Jamshedpur FC",
-        "time": "17:30",
-        "id": "268746204107640832"
+        "type": "basketbol",
+        "name": "BC Juventus Utena - BC Wolves Vilnius",
+        "time": "18:30",
+        "id": "268688241401663488"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Zlin B - FK Apos Blansko II",
+        "name": "Fc Slovacko B - Hlubina",
+        "time": "18:30",
+        "id": "268772421615620096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AP Rwandaise FC - Police Fc (Rwanda)",
+        "time": "17:00",
+        "id": "268848407825747968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zbrojovka Brno B - SC Znojmo",
+        "time": "18:30",
+        "id": "268772421471965184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fk Hodonin - Trinec",
+        "time": "18:30",
+        "id": "268772421389127680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Slovan Rosice - FC Strani",
+        "time": "18:30",
+        "id": "268772420753690624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adama Kenema - Welwalu Adigrat",
         "time": "18:00",
-        "id": "268768642357923840"
+        "id": "268833286856511488"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CS de Msaken - SA Menzel Bourguiba II",
+        "name": "Tukums 2000 - BFC Daugava Daugavpils",
+        "time": "18:00",
+        "id": "268676819466719232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Decic Tuzi - OFK Petrovac",
+        "time": "18:00",
+        "id": "268833469345435648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Neftchi Fargona - Fardu Ferghana",
+        "time": "17:15",
+        "id": "268828379496714240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Neretvanac Opuzen - Primorac Biograd",
+        "time": "18:00",
+        "id": "268840016419098624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TJ Start Brno - Unicov",
+        "time": "18:30",
+        "id": "268772421686923264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Excursionistas Reserves - Sacachispas Reserves",
+        "time": "18:30",
+        "id": "268925945891655680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Petrzalka 1898 - MSK Zilina B",
+        "time": "17:30",
+        "id": "268686424294952960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lokomotiv Moskova - FC Rostov",
+        "time": "18:00",
+        "id": "267771322973687808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Hammam-Lif - AS Megrine",
+        "time": "17:00",
+        "id": "268940501196083200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kyanos Astir Varis - Aris Voulas FC",
+        "time": "17:15",
+        "id": "268855361160744960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Atlanta Reserves - Tristan Suarez Reserves II",
+        "time": "18:00",
+        "id": "268925948568670208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CSA Steaua Bucuresti - FC Csikszereda Miercurea Ciuc",
+        "time": "17:00",
+        "id": "268566413098225664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS de Msaken - SA Menzel Bourguiba",
         "time": "17:00",
         "id": "268764862485762048"
     },
@@ -100,92 +219,36 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Adama Kenema - Welwalu Adigrat",
+        "name": "FC Zlin B - FK Apos Blansko",
         "time": "18:00",
-        "id": "268833286856511488"
+        "id": "268768642357923840"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AP Rwandaise FC - Police Fc (Rwanda)",
-        "time": "17:00",
-        "id": "268848407825747968"
+        "name": "Frydek Mistek - SK Hanacka Slavia Kromeriz",
+        "time": "18:30",
+        "id": "268772421771857920"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tukums 2000 - BFC Daugava Daugavpils",
-        "time": "18:00",
-        "id": "268676819466719232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CSA Steaua Bucuresti - FC Csikszereda Miercurea Ciuc II",
-        "time": "17:00",
-        "id": "268566413098225664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Neretvanac Opuzen - Primorac Biograd II",
-        "time": "18:00",
-        "id": "268840016419098624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Neftchi Fargona - Fardu Ferghana",
-        "time": "17:15",
-        "id": "268828379496714240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Decic Tuzi - OFK Petrovac",
-        "time": "18:00",
-        "id": "268833469345435648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kyanos Astir Varis - Aris Voulas FC II",
-        "time": "17:15",
-        "id": "268855361160744960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Atlanta Reserves - Tristan Suarez Reserves",
-        "time": "18:00",
-        "id": "268925948568670208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Haras El Hodood - Pyramids FC II",
+        "name": "Haras El Hodood - Pyramids FC",
         "time": "17:00",
         "id": "268316895162273792"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CS Hammam-Lif - AS Megrine II",
-        "time": "17:00",
-        "id": "268940501196083200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Petrzalka 1898 - MSK Zilina B II",
+        "name": "Mumbai City FC - Jamshedpur FC",
         "time": "17:30",
-        "id": "268686424294952960"
+        "id": "268746204107640832"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Lokomotiv Moskova - FC Rostov",
-        "time": "18:00",
-        "id": "267771322973687808"
+        "type": "basketbol",
+        "name": "Al Bataeh UAE - Al Nasr Dubai",
+        "time": "17:15",
+        "id": "268845122389676032"
     }
 ]
