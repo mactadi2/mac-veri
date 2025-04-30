@@ -8,23 +8,16 @@
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Asociacion Atletica Quimsa U22 - Deportivo Atenas U22",
-        "time": "00:00",
-        "id": "268854406423908352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ejidatarios de Bonfil - Estudiantes de Atlacomulco",
-        "time": "00:00",
-        "id": "268936408138387456"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
         "name": "Azucareros de Tezonapa - Dragones de Oaxaca",
         "time": "00:00",
         "id": "268930428412497920"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Asociacion Atletica Quimsa U22 - Deportivo Atenas U22",
+        "time": "00:00",
+        "id": "268854406423908352"
     }
 ]
