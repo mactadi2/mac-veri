@@ -1,24 +1,59 @@
 [
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Ca Talleres De Cordoba Reserves - Gimnasia La Plata Reserves",
-        "time": "01:00",
-        "id": "268885054278733824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Botafogo RJ - Brasil De Pelotas Rs",
-        "time": "01:00",
-        "id": "267830275847884800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rionegro Aguilas Doradas - America de Cali",
+        "type": "basketbol",
+        "name": "Spartans Distrito Capital - Gladiadores de Anzoategui",
         "time": "02:00",
-        "id": "268617617155166208"
+        "id": "268907519650435072"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "EC Vitoria - Cruzeiro",
+        "time": "01:00",
+        "id": "268856937224998912"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "EC Uniao Corinthians - Corinthians Paulista",
+        "time": "01:30",
+        "id": "268816441057349632"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "BRB Brasilia - Sao Paulo FC",
+        "time": "02:15",
+        "id": "268816441141235712"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Cocodrilos de Caracas - Panteras de Miranda",
+        "time": "02:00",
+        "id": "268920877207392256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Ocotal - Diriangen FC",
+        "time": "02:00",
+        "id": "268978569797046272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Boca Juniors Reserves - Barracas Central Reserves II",
+        "time": "01:00",
+        "id": "268885054185410560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "The Strongest La Paz - Real Tomayapo",
+        "time": "01:00",
+        "id": "268794371470659584"
     },
     {
         "tur": "live",
@@ -37,43 +72,29 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Guastatoya - Antigua Guatemala",
+        "name": "Guastatoya - Antigua Guatemala II",
         "time": "01:00",
         "id": "268833631526588416"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "The Strongest La Paz - Real Tomayapo",
+        "name": "Ca Talleres De Cordoba Reserves - Gimnasia La Plata Reserves",
         "time": "01:00",
-        "id": "268794371470659584"
+        "id": "268885054278733824"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Ocotal - Diriangen FC",
+        "name": "Botafogo RJ - Brasil De Pelotas Rs",
+        "time": "01:00",
+        "id": "267830275847884800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rionegro Aguilas Doradas - America de Cali",
         "time": "02:00",
-        "id": "268978569797046272"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "EC Vitoria - Cruzeiro",
-        "time": "01:00",
-        "id": "268856937224998912"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "EC Uniao Corinthians - Corinthians Paulista",
-        "time": "01:30",
-        "id": "268816441057349632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boca Juniors Reserves - Barracas Central Reserves II",
-        "time": "01:00",
-        "id": "268885054185410560"
+        "id": "268617617155166208"
     }
 ]
