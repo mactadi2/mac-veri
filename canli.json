@@ -1,177 +1,100 @@
 [
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Nakhon Pathom United - Ratchaburi FC II",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4MTMxODMwNzMzMDgyNjI0L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Port MTI F.C. - Rayong FC II",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4MTMxODMwNTMzODUzMTg0L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Preah Khan Reach Svay Rieng - Naga World FC",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4ODM1NjQ0OTUzOTg5MTIwL2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Samtse FC - BFF Academy U19",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4ODQ1MDAzODUyMzUzNTM2L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Van Charencavan - FC Noah Artsakh",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4NzkxODIyNjY5NzEzNDA4L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rydalmere Lions - Dulwich Hill F.C.",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4Nzk5NDY1ODE3NzcyMDMyL2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chyasal Club Youth - Naya Basti Yuwa Club",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4OTIyMzUyNTk1NzY3Mjk2L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
         "type": "basketbol",
-        "name": "San Juan Knights - Imus Agimat",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4ODQzMTYyNzA1OTg5NjMyL2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SamWest Blackboots FC - Mully Children Family",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4OTA4MDk2NzUxMDEzODg4L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yeronga FC - Old Bridge FC",
-        "time": "12:30",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4ODI3NTAzMTMyNTQ1MDI0L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Phnom Penh Crown - Visakha FC",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4OTMzMDY2MjMxMjU1MDQwL2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Prachuap FC - Bangkok United II",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4MjIzMjY3NTU5NTc1NTUyL2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Buriram United FC - Nong Bua Pitchaya FC II",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4MDI4MTc2MTU1OTM4ODE2L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
+        "name": "Pasay Voyagers - Basilan Viva Portmasters",
+        "time": "15:00",
+        "id": "268843815440355328"
     },
     {
         "tur": "live",
         "type": "basketbol",
         "name": "NorthPort Batang Pier - Barangay Ginebra San Miguel",
         "time": "14:30",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4ODQ1NDgxOTU0Nzc1MDQwL2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
+        "id": "268845481954775040"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "BC Margveti - BC Iverion",
+        "time": "15:00",
+        "id": "268850658713669632"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Santa Clara U23 - Academico Viseu U23",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4NzQ3NzYyMjMxODA4MDAwL2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leixoes U23 - SC Farense U23 II",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4NjU5MDM1OTgwNTY2NTI4L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rio Ave U23 - CD Mafra U23 II",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4NjU5MDM1ODEyNzk0MzY4L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portimonense U23 - Braga U23 II",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly9jZG4ucXVlcnRpbm94ZXIueHl6L3YvMjY4NjU5MDM1OTIzOTQzNDI0L2luZGV4LmNzcz90b2tlbj1jYmRmOGQ0MzBhM2VjZWZhNzYwMzRkYjNmYjE1OWQyNzljY2ZlOGRlLTVhNTk2YjU4NzhmZTk1MmRiYmFmNDA2ODFiZGQzMWEzLTE3NDA3MDQxMDctMTc0MDY5MzMwNyZyZW1vdGU9MmEwMjo0ZTA6MmQ4OToyMzE3OjQ1OTM6NDUwZTpmNDBlOjg0NGI="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leixoes U23 - Farense U23",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly94Lmx5bmF0di5jb20vYXV0dHYvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cong An Ha Noi - Lambton J.",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly94Lmx5bmF0di5jb20vbWl4LXNwb3J0NDMvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Van - Noah",
+        "name": "Buriram United FC - Nong Bua Pitchaya FC II",
         "time": "14:00",
-        "id": "aHR0cHM6Ly94Lmx5bmF0di5jb20vbWl4LXNwb3J0NDUvbW9uby5tM3U4"
+        "id": "268028176155938816"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Buriram - Nong Bua Pitchaya",
+        "name": "Phnom Penh Crown - Visakha FC",
         "time": "14:00",
-        "id": "aHR0cHM6Ly94Lmx5bmF0di5jb20vbWl4LXNwb3J0NDYvbW9uby5tM3U4"
+        "id": "268933066231255040"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Nakhon Pathom - Ratchaburi",
+        "name": "Prachuap FC - Bangkok United",
         "time": "14:00",
-        "id": "aHR0cHM6Ly94Lmx5bmF0di5jb20vdHY4ODgvbW9uby5tM3U4"
+        "id": "268223267559575552"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Port MTI FC - Rayong FC",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly94Lmx5bmF0di5jb20vb3JhbmcvbW9uby5tM3U4"
+        "name": "Shire Endaselassie - Wolaita Dicha FC",
+        "time": "15:00",
+        "id": "268833286773673984"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Prachuap - Bangkok Utd",
+        "name": "Preah Khan Reach Svay Rieng - Naga World FC",
         "time": "14:00",
-        "id": "aHR0cHM6Ly94Lmx5bmF0di5jb20vbWl4LXNwb3J0NDQvbW9uby5tM3U4"
+        "id": "268835644953989120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lion City Sailors FC - Young Lions",
+        "time": "14:45",
+        "id": "268675747334459392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFC Shurtan - FC Olimpik Tashkent",
+        "time": "15:00",
+        "id": "268847958719598592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Port MTI F.C. - Rayong FC",
+        "time": "14:00",
+        "id": "268131830533853184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nakhon Pathom United - Ratchaburi FC",
+        "time": "14:00",
+        "id": "268131830733082624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Van Charencavan - FC Noah Artsakh",
+        "time": "14:00",
+        "id": "268791822669713408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Standard Liege (W) - Anderlecht (W)",
+        "time": "14:30",
+        "id": "268803067676332032"
     }
 ]
