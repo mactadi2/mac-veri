@@ -8,38 +8,31 @@
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Kortrijk Spurs HSE - Stella Artois Leuven Bears ",
-        "time": "21:30",
-        "id": "268761605362290688"
+        "type": "futbol",
+        "name": "FC Fiorentino - AC Juvenes\/Dogana",
+        "time": "21:45",
+        "id": "268830995623579648"
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Stelmet Enea Zielona Gora - STK Czarni Slupsk",
-        "time": "21:30",
-        "id": "268695716559458304"
+        "type": "futbol",
+        "name": "Blackpool FC - Birmingham City FC",
+        "time": "21:45",
+        "id": "268590644070584320"
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Kangoeroes Basket Mechelen - Generali Okapi Aalstar",
-        "time": "21:30",
-        "id": "268761605430448128"
+        "type": "futbol",
+        "name": "Cuiaba U20 - Bragantino Sp U20",
+        "time": "22:00",
+        "id": "268870178094321664"
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Landslake Lions (W) - Triple Threat (W)",
-        "time": "21:30",
-        "id": "268833004873453568"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Antwerp Giants - Den Bosch Basketball",
-        "time": "21:30",
-        "id": "268761456117420032"
+        "type": "futbol",
+        "name": "AE 3B da Amazonia AM (W) - Sport Recife PE (W)",
+        "time": "22:00",
+        "id": "268625609944600576"
     },
     {
         "tur": "live",
@@ -47,13 +40,6 @@
         "name": "Charnay Bourgogne Sud (W) - Basket Landes (W)",
         "time": "21:50",
         "id": "268856883819974656"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Belfius Mons-Hainaut - Brussels Basketball",
-        "time": "21:30",
-        "id": "268761456191868928"
     },
     {
         "tur": "live",
@@ -72,30 +58,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Fiorentino - AC Juvenes\/Dogana",
+        "name": "Mansfield Town - Peterborough United",
         "time": "21:45",
-        "id": "268830995623579648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blackpool FC - Birmingham City FC",
-        "time": "21:45",
-        "id": "268590644070584320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hibernian (W) - Motherwell (W)",
-        "time": "21:30",
-        "id": "268783757378588672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cuiaba U20 - Bragantino Sp U20",
-        "time": "22:00",
-        "id": "268870178094321664"
+        "id": "268590644134547456"
     },
     {
         "tur": "live",
@@ -107,16 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AE 3B da Amazonia AM (W) - Sport Recife PE (W)",
+        "name": "Santiago Morning (W) - Universidad Catolica (W)",
         "time": "22:00",
-        "id": "268625609944600576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mansfield Town - Peterborough United",
-        "time": "21:45",
-        "id": "268590644134547456"
+        "id": "268903436842569728"
     },
     {
         "tur": "live",
@@ -124,27 +82,6 @@
         "name": "Manchester United (K) - Chelsea (Kadınlar)",
         "time": "22:15",
         "id": "268332102927388672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Sion II - Lancy",
-        "time": "21:30",
-        "id": "268838282274672640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SS Murata - SC Faetano",
-        "time": "21:45",
-        "id": "268830996050350080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santiago Morning (W) - Universidad Catolica (W)",
-        "time": "22:00",
-        "id": "268903436842569728"
     },
     {
         "tur": "live",
@@ -159,5 +96,12 @@
         "name": "Sao Paulo (Kadınlar) - America MG (W)",
         "time": "22:00",
         "id": "268621601082314752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SS Murata - SC Faetano",
+        "time": "21:45",
+        "id": "268830996050350080"
     }
 ]
