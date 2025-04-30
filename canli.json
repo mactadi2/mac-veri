@@ -16,13 +16,6 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "BC Margveti - BC Iverion",
-        "time": "15:00",
-        "id": "268850658713669632"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
         "name": "CS Universitatea Cluj-Napoca - CSM Focsani",
         "time": "15:00",
         "id": "268832237944967168"
@@ -30,16 +23,37 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Pacific Caesar Surabaya - Pelita Jaya Energi Mega Persada Jakarta",
+        "name": "BC Margveti - BC Iverion",
         "time": "15:00",
-        "id": "268837843677351936"
+        "id": "268850658713669632"
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "NorthPort Batang Pier - Barangay Ginebra San Miguel",
-        "time": "14:30",
-        "id": "268845481954775040"
+        "type": "futbol",
+        "name": "Tadamon Sour -   Al Ansar Beirut",
+        "time": "15:30",
+        "id": "268843101904310272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Silivrispor - Tire 2021 FK",
+        "time": "16:00",
+        "id": "268850927066288128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Atyrau - FC Astana",
+        "time": "16:00",
+        "id": "268766613603487744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JS Kairouan - Etoile Sportive Sahel",
+        "time": "16:30",
+        "id": "268843286448443392"
     },
     {
         "tur": "live",
@@ -58,16 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cong Anh Ha Noi - Psm Makassar",
+        "name": "Shabab Al Sahel - Shabab Al-Ghazieh",
         "time": "15:30",
-        "id": "268770978250756096"
+        "id": "268843101807841280"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Standard Liege (W) - Anderlecht (W)",
-        "time": "14:30",
-        "id": "268803067676332032"
+        "name": "Kutahyaspor - Duzcespor II",
+        "time": "16:00",
+        "id": "268850926852378624"
     },
     {
         "tur": "live",
@@ -79,15 +93,29 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tadamon Sour -   Al Ansar Beirut",
-        "time": "15:30",
-        "id": "268843101904310272"
+        "name": "Kadhimiya SC - Naft Al-Wasat",
+        "time": "16:00",
+        "id": "268779658159460352"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shabab Al Sahel - Shabab Al-Ghazieh",
+        "name": "Zonguldak Komurspor - Kahramanmaras Istiklalspor",
+        "time": "16:00",
+        "id": "268850926987644928"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Pacific Caesar Surabaya - Pelita Jaya Energi Mega Persada Jakarta",
+        "time": "15:00",
+        "id": "268837843677351936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cong Anh Ha Noi - Psm Makassar",
         "time": "15:30",
-        "id": "268843101807841280"
+        "id": "268770978250756096"
     }
 ]
