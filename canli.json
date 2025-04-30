@@ -1,87 +1,38 @@
 [
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Tabiat - Shahrdari Gorgan BC",
-        "time": "15:30",
-        "id": "268828127050993664"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "CS Universitatea Cluj-Napoca - CSM Focsani",
-        "time": "15:00",
-        "id": "268832237944967168"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "BC Margveti - BC Iverion",
-        "time": "15:00",
-        "id": "268850658713669632"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Pacific Caesar Surabaya - Pelita Jaya Energi Mega Persada Jakarta",
-        "time": "15:00",
-        "id": "268837843677351936"
+        "type": "futbol",
+        "name": "CS de Msaken - SA Menzel Bourguiba",
+        "time": "17:00",
+        "id": "268764862485762048"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Baladiyet El Mahallah - La Viena FC",
-        "time": "16:30",
-        "id": "268764864345935872"
+        "name": "Benfica U23 - Vizela U23",
+        "time": "17:00",
+        "id": "268674157491916800"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cong Anh Ha Noi - Psm Makassar",
-        "time": "15:30",
-        "id": "268770978250756096"
+        "name": "Gil Vicente FC U23 - Estoril U23",
+        "time": "17:00",
+        "id": "268674157701632000"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Zonguldak Komurspor - Kahramanmaras Istiklalspor",
+        "name": "Sporting Lisboa U23 - Estrela Da Amadora U23",
+        "time": "17:00",
+        "id": "268674157559025664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Atyrau - FC Astana",
         "time": "16:00",
-        "id": "268850926987644928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kadhimiya SC - Naft Al-Wasat",
-        "time": "16:00",
-        "id": "268779658159460352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC Shurtan - FC Olimpik Tashkent",
-        "time": "15:00",
-        "id": "268847958719598592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kutahyaspor - Duzcespor II",
-        "time": "16:00",
-        "id": "268850926852378624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shabab Al Sahel - Shabab Al-Ghazieh",
-        "time": "15:30",
-        "id": "268843101807841280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shire Endaselassie - Wolaita Dicha FC",
-        "time": "15:00",
-        "id": "268833286773673984"
+        "id": "268766613603487744"
     },
     {
         "tur": "live",
@@ -100,6 +51,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Shabab Al Sahel - Shabab Al-Ghazieh",
+        "time": "15:30",
+        "id": "268843101807841280"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Al Wakrah - Al Shamal",
+        "time": "17:00",
+        "id": "268839788691460096"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Tabiat - Shahrdari Gorgan BC",
+        "time": "15:30",
+        "id": "268828127050993664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zonguldak Komurspor - Kahramanmaras Istiklalspor",
+        "time": "16:00",
+        "id": "268850926987644928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AP Rwandaise FC - Police Fc (Rwanda)",
+        "time": "17:00",
+        "id": "268848407825747968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cong Anh Ha Noi - Psm Makassar",
+        "time": "15:30",
+        "id": "268770978250756096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Baladiyet El Mahallah - La Viena FC",
+        "time": "16:30",
+        "id": "268764864345935872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kadhimiya SC - Naft Al-Wasat",
+        "time": "16:00",
+        "id": "268779658159460352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kutahyaspor - Duzcespor",
+        "time": "16:00",
+        "id": "268850926852378624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CSA Steaua Bucuresti - FC Csikszereda Miercurea Ciuc II",
+        "time": "17:00",
+        "id": "268566413098225664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Silivrispor - Tire 2021 FK",
         "time": "16:00",
         "id": "268850927066288128"
@@ -107,16 +128,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Atyrau - FC Astana",
-        "time": "16:00",
-        "id": "268766613603487744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cracovia Krakow II - Glinik Gorlice",
-        "time": "16:00",
-        "id": "268691792590934016"
+        "name": "Haras El Hodood - Pyramids FC II",
+        "time": "17:00",
+        "id": "268316895162273792"
     },
     {
         "tur": "live",
@@ -124,5 +138,12 @@
         "name": "Tadamon Sour -   Al Ansar Beirut",
         "time": "15:30",
         "id": "268843101904310272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cracovia Krakow II - Glinik Gorlice",
+        "time": "16:00",
+        "id": "268691792590934016"
     }
 ]
