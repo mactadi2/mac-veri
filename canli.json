@@ -1,17 +1,10 @@
 [
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Juve Stabia - Catanzaro",
-        "time": "13:30",
-        "id": "268669870859751424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shanghai Port FC - Beijing Guoan FC II",
-        "time": "14:35",
-        "id": "268482992135081984"
+        "type": "basketbol",
+        "name": "ABC Leii Bucuresti - CSS VSK Gheorgheni",
+        "time": "15:00",
+        "id": "268930414912081920"
     },
     {
         "tur": "live",
@@ -22,85 +15,8 @@
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Manila Stars - Muntinlupa Cagers",
-        "time": "13:00",
-        "id": "268938599739822080"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
-        "name": "Suwon FC (Bayanlar) - Boeun Sangmu Wfc",
-        "time": "13:00",
-        "id": "268891354321522688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Croydon Kings - Adelaide Croatia Raiders",
-        "time": "13:00",
-        "id": "268703351054667776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Incheon Hyundai Steel Red Angels (Bayanlar) - Seoul City (Bayanlar) II",
-        "time": "13:00",
-        "id": "268891143452889088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Umea IK (W) - Team Tg FF (W)",
-        "time": "14:00",
-        "id": "268923149929811968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shandong Luneng Taishan FC - Qingdao Hainiu II",
-        "time": "14:35",
-        "id": "268664190832611328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Super Nova - Riga FC",
-        "time": "13:00",
-        "id": "268703344772648960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zhejiang Professional FC - Changchun Yatai",
-        "time": "14:00",
-        "id": "268666067376803840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sevilla FC C - CD Ciudad de Lucena",
-        "time": "13:00",
-        "id": "269004223730028544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Henan FC - Wuhan Three Towns",
-        "time": "14:00",
-        "id": "268662296250814464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bansbari Club - Tushal Club Youth",
-        "time": "13:00",
-        "id": "268957117259583488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Royal Antwerp FC - RSC Anderlecht II",
+        "name": "Royal Antwerp FC - RSC Anderlecht",
         "time": "14:30",
         "id": "268673855616323584"
     },
@@ -114,6 +30,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kairat Zhastar - FK Ekibastuz",
+        "time": "14:30",
+        "id": "269022034892296192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Umea IK (W) - Team Tg FF (W)",
+        "time": "14:00",
+        "id": "268923149929811968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Viktoria Zizkov B - FK Dukla Jizni Mesto",
         "time": "14:30",
         "id": "269025657997103104"
@@ -121,30 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Levante Las Planas (Bayanlar) - FC Barcelona (Bayanlar) II",
-        "time": "13:00",
-        "id": "268703362978025472"
+        "name": "Ursus Warsawa - Mazovia Minsk Mazowiecki",
+        "time": "15:00",
+        "id": "268768125237989376"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Nairobi United - Kakamega Homeboyz",
-        "time": "13:00",
-        "id": "268939717526032384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kairat Zhastar - FK Ekibastuz II",
-        "time": "14:30",
-        "id": "269022034892296192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "LKS Mszczonowianka Mszczonow - MLKS Jozefovia Jozefow",
-        "time": "13:00",
-        "id": "268765875795005440"
+        "name": "Juve Stabia - Catanzaro",
+        "time": "13:30",
+        "id": "268669870859751424"
     },
     {
         "tur": "live",
@@ -156,15 +72,71 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SL Benfica U19 - Vitoria Guimaraes",
-        "time": "13:00",
-        "id": "268840129287819264"
+        "name": "Shandong Luneng Taishan FC - Qingdao Hainiu",
+        "time": "14:35",
+        "id": "268664190832611328"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sejong Sportstoto (Bayanlar) - Changnyeong FC (Bayanlar)",
-        "time": "13:00",
-        "id": "268891090955931648"
+        "name": "Zhejiang Professional FC - Changchun Yatai",
+        "time": "14:00",
+        "id": "268666067376803840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bali United Pusam - Psis Semarang",
+        "time": "15:00",
+        "id": "268484863829610496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Henan FC - Wuhan Three Towns",
+        "time": "14:00",
+        "id": "268662296250814464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fasil Kenema - Hadiya Hosaena",
+        "time": "15:00",
+        "id": "268830681019322368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shanghai Port FC - Beijing Guoan FC",
+        "time": "14:35",
+        "id": "268482992135081984"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Ku Pirates - ABI Snipers",
+        "time": "14:00",
+        "id": "269027526985256960"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Paranaque Patriots - Cebu Classic",
+        "time": "15:00",
+        "id": "268938686843981824"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "BC Rashi - TSU Hyundai Tbilisi",
+        "time": "15:00",
+        "id": "268928458438086656"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "KK Crvena Zvezda (Red Star Belgrade) - KK Studentski Centar Derby",
+        "time": "15:00",
+        "id": "267013069973098496"
     }
 ]
