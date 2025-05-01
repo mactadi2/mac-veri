@@ -2,28 +2,7 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "USFAS Bamako (W) - Stade Malien (W) II",
-        "time": "19:00",
-        "id": "268922422099578880"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Perfumerias Avenida Salamanca (W) - Valencia (W)",
-        "time": "19:00",
-        "id": "268948826131402752"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "BV TU Chemnitz 99ers - MHP Riesen Ludwigsburg",
-        "time": "19:00",
-        "id": "268772706491699200"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "ZKK Tresnjevka 2009 (W) - ZKK Zagreb (W) II",
+        "name": "ZKK Tresnjevka 2009 (W) - ZKK Zagreb (W)",
         "time": "19:00",
         "id": "268927191339896832"
     },
@@ -37,7 +16,7 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Al Ahli - Orthodox Amman II",
+        "name": "Al Ahli - Orthodox Amman",
         "time": "18:00",
         "id": "268934015849992192"
     },
@@ -65,21 +44,35 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Beselidhja - Teuta Durres",
+        "name": "BV TU Chemnitz 99ers - MHP Riesen Ludwigsburg II",
         "time": "19:00",
-        "id": "269008436693438464"
+        "id": "268772706491699200"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "King Wilki Morskie Szczecin - WTK Anwil Wloclawek",
-        "time": "18:30",
-        "id": "268735119459749888"
+        "name": "USFAS Bamako (W) - Stade Malien (W)",
+        "time": "19:00",
+        "id": "268922422099578880"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "BC Levice Patrioti - Nitra Blue Wings II",
+        "name": "Perfumerias Avenida Salamanca (W) - Valencia (W)",
+        "time": "19:00",
+        "id": "268948826131402752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nomme Kalju II - Tartu JK Welco",
+        "time": "19:00",
+        "id": "268862800853602304"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "BC Levice Patrioti - Nitra Blue Wings",
         "time": "19:00",
         "id": "268916556112728064"
     },
@@ -100,58 +93,16 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "BC Rilski Sportist - BC Levski Sofia",
-        "time": "18:00",
-        "id": "268933478206279680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pachuca U23 - Juarez FC U23 II",
-        "time": "18:15",
-        "id": "268951612674936832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Akhdoud - Al Wahda Mecca II",
-        "time": "19:00",
-        "id": "268409766509940736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malkiya Club - Al-Najma Manama",
-        "time": "19:00",
-        "id": "268947625382907904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bahrain SC - A'Ali FC",
-        "time": "19:00",
-        "id": "268947625290633216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ASN Nigelec - AS GNN",
+        "name": "King Wilki Morskie Szczecin - WTK Anwil Wloclawek",
         "time": "18:30",
-        "id": "268936434928455680"
+        "id": "268735119459749888"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Wolfsberger Athletik Club - TSV Hartberg",
-        "time": "18:00",
-        "id": "267202741038878720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Unique Global FC - Colley Stars FC II",
-        "time": "19:00",
-        "id": "269043104618778624"
+        "type": "basketbol",
+        "name": "Gaziantep Basketbol - Mamak Belediyesi Ankaragucu",
+        "time": "19:30",
+        "id": "268922651173588992"
     },
     {
         "tur": "live",
@@ -163,16 +114,93 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kraluv Dvur - Fk Horovicko II",
-        "time": "18:00",
-        "id": "268852295719063552"
+        "name": "Unique Global FC - Colley Stars FC",
+        "time": "19:00",
+        "id": "269043104618778624"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bron Radom - Unia Skierniewice",
+        "name": "KI Klaksvík - TB Tvoroyri",
+        "time": "19:30",
+        "id": "268703357782331392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Esteghlal Khuzestan - Kheybar Khorramabad",
         "time": "19:00",
-        "id": "268947347999952896"
+        "id": "268691899087458304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mekelle 70 Enderta F.C. - Kedus Giorgis",
+        "time": "18:00",
+        "id": "268830682455871488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Jaen CF - FC Malaga City",
+        "time": "19:00",
+        "id": "269004223652433920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wolfsberger Athletik Club - TSV Hartberg",
+        "time": "18:00",
+        "id": "267202741038878720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ASN Nigelec - AS GNN",
+        "time": "18:30",
+        "id": "268936434928455680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bahrain SC - A'Ali FC",
+        "time": "19:00",
+        "id": "268947625290633216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Malkiya Club - Al-Najma Manama",
+        "time": "19:00",
+        "id": "268947625382907904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Akhdoud - Al Wahda Mecca II",
+        "time": "19:00",
+        "id": "268409766509940736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pachuca U23 - Juarez FC U23",
+        "time": "18:15",
+        "id": "268951612674936832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hebar 1918 Pazardzhik - Levski Krumovgrad",
+        "time": "19:30",
+        "id": "268736645494345728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kraluv Dvur - Fk Horovicko",
+        "time": "18:00",
+        "id": "268852295719063552"
     },
     {
         "tur": "live",
@@ -191,30 +219,44 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cd Tondela - Academico Viseu U19 II",
-        "time": "18:00",
-        "id": "268859022431621120"
+        "name": "Bron Radom - Unia Skierniewice",
+        "time": "19:00",
+        "id": "268947347999952896"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Viktoria Marianske Lazne B - Karlovy Vary B II",
+        "name": "Viktoria Marianske Lazne B - Karlovy Vary B",
         "time": "18:00",
         "id": "268906519765061632"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Esteghlal Khuzestan - Kheybar Khorramabad II",
-        "time": "19:00",
-        "id": "268691899087458304"
+        "name": "Cd Tondela - Academico Viseu U19",
+        "time": "18:00",
+        "id": "268859022431621120"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cittadella - Brescia",
-        "time": "18:15",
-        "id": "268488714048638976"
+        "name": "Nigeria U20 - Tunisia U20",
+        "time": "18:00",
+        "id": "268845788176715776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Riyadh - Al-Orubah",
+        "time": "19:00",
+        "id": "268408939768582144"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "BC Rilski Sportist - BC Levski Sofia II",
+        "time": "18:00",
+        "id": "268933478206279680"
     },
     {
         "tur": "live",
@@ -226,16 +268,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Real Jaen CF - FC Malaga City",
-        "time": "19:00",
-        "id": "269004223652433920"
+        "name": "Cittadella - Brescia",
+        "time": "18:15",
+        "id": "268488714048638976"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Mekelle 70 Enderta F.C. - Kedus Giorgis",
+        "name": "Victoria Czestochowa - Rakow II Czestochowa",
         "time": "18:00",
-        "id": "268830682455871488"
+        "id": "268825762469122048"
     },
     {
         "tur": "live",
@@ -254,36 +296,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dinamo Tirana - KF Egnatia II",
+        "name": "Dinamo Tirana - KF Egnatia",
         "time": "19:00",
         "id": "268888777530937344"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Al Riyadh - Al-Orubah II",
+        "type": "basketbol",
+        "name": "Beselidhja - Teuta Durres",
         "time": "19:00",
-        "id": "268408939768582144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Victoria Czestochowa - Rakow II Czestochowa II",
-        "time": "18:00",
-        "id": "268825762469122048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nigeria U20 - Tunisia U20",
-        "time": "18:00",
-        "id": "268845788176715776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nomme Kalju II - Tartu JK Welco",
-        "time": "19:00",
-        "id": "268862800853602304"
+        "id": "269008436693438464"
     }
 ]
