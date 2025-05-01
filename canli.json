@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Djurgardens IF - Chelsea II",
+        "time": "22:00",
+        "id": "267839544083222528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Athletic Bilbao - Manchester United II",
         "time": "22:00",
         "id": "267796587055550464"
@@ -9,16 +16,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Djurgardens IF - Chelsea II",
+        "name": "ADR Jicaral - Consultants Desamparados",
         "time": "22:00",
-        "id": "267839544083222528"
+        "id": "268830682377228288"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Haukar (W) - Umf Njardvik",
-        "time": "22:15",
-        "id": "268936185370513408"
+        "name": "Centre Mamoutou Kane - AS Police",
+        "time": "23:00",
+        "id": "268922817964281856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Internacional (W) - Real Brasilia FC (W)",
+        "time": "22:00",
+        "id": "268621561207066624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Envigado - Once Caldas",
+        "time": "22:00",
+        "id": "268601909510803456"
     },
     {
         "tur": "live",
@@ -37,37 +58,9 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Centre Mamoutou Kane - AS Police",
-        "time": "23:00",
-        "id": "268922817964281856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ADR Jicaral - Consultants Desamparados",
-        "time": "22:00",
-        "id": "268830682377228288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Betis - AC Fiorentina II",
-        "time": "22:00",
-        "id": "267784864037736448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Envigado - Once Caldas",
-        "time": "22:00",
-        "id": "268601909510803456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Always Ready - CDT Real Oruro",
-        "time": "22:00",
-        "id": "268948530789486592"
+        "name": "Haukar (W) - Umf Njardvik",
+        "time": "22:15",
+        "id": "268936185370513408"
     },
     {
         "tur": "live",
@@ -79,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Real Betis - AC Fiorentina II",
+        "time": "22:00",
+        "id": "267784864037736448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tottenham Hotspur - FK Bodo Glimt II",
         "time": "22:00",
         "id": "267797039581106176"
@@ -86,9 +86,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Internacional (W) - Real Brasilia FC (W)",
+        "name": "Always Ready - CDT Real Oruro",
         "time": "22:00",
-        "id": "268621561207066624"
+        "id": "268948530789486592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Vargas Torres - Club 9 de Octubre",
+        "time": "23:30",
+        "id": "268703343613972480"
     },
     {
         "tur": "live",
