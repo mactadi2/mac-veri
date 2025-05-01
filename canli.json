@@ -1,6 +1,20 @@
 [
     {
         "tur": "live",
+        "type": "futbol",
+        "name": "PSMP Mojokerto - Persebi Boyolali",
+        "time": "11:15",
+        "id": "268918109825536000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dalian Young Boy FC - Yunnan Yukun FC",
+        "time": "10:30",
+        "id": "268571705416486912"
+    },
+    {
+        "tur": "live",
         "type": "basketbol",
         "name": "Marikina Shoemasters - Oriental Mindoro Disciplinados",
         "time": "11:00",
@@ -16,29 +30,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tri Brata Rafflesia FC - Persip Pekalongan",
-        "time": "11:15",
-        "id": "268991421527232512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Apollon Limassol FC (W) - En Thoi Lakatamia (W) II",
+        "name": "Apollon Limassol FC (W) - En Thoi Lakatamia (W)",
         "time": "11:00",
         "id": "268995328133435392"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PSMP Mojokerto - Persebi Boyolali",
+        "name": "Tri Brata Rafflesia FC - Persip Pekalongan",
         "time": "11:15",
-        "id": "268918109825536000"
+        "id": "268991421527232512"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Dalian Young Boy FC - Yunnan Yukun FC",
-        "time": "10:30",
-        "id": "268571705416486912"
+        "type": "basketbol",
+        "name": "Lions - Tigers",
+        "time": "11:30",
+        "id": "269014533513809920"
     }
 ]
