@@ -1,13 +1,6 @@
 [
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Sao Jose dos Campos (W) - Santo Andre Apaba (W)",
-        "time": "01:30",
-        "id": "268920877317492736"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
         "name": "Criciuma EC - Bragantino Red Bull",
         "time": "00:30",
@@ -30,22 +23,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Botafogo PB - Flamengo RJ",
+        "time": "02:00",
+        "id": "267634655157686272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Corinthians Paulista (Kadınlar) - Gremio RS (W)",
         "time": "01:00",
         "id": "268623223657205760"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Franca BC - Pato Basquete",
-        "time": "01:00",
-        "id": "268906989250285568"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "UNIFACISA - Pinheiros Sao Paulo",
-        "time": "01:30",
-        "id": "268846656845385728"
     }
 ]
