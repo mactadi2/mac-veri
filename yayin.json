@@ -1,72 +1,86 @@
 [
     {
         "type": "futbol",
-        "name": "Atletico Tucuman - CA Independiente",
-        "day": "01",
-        "time": "03:00",
-        "channel": "Spor Smart"
+        "name": "Magdeburg - Preussen Münster",
+        "day": "02",
+        "time": "19:30",
+        "channel": "Bein Sports 2"
     },
     {
         "type": "futbol",
-        "name": "Nottingham Forest - Brentford",
-        "day": "01",
-        "time": "21:30",
+        "name": "Schalke 04 - Paderborn",
+        "day": "02",
+        "time": "19:30",
         "channel": "Bein Sports 3"
     },
     {
         "type": "futbol",
-        "name": "Athletic Bilbao - Manchester Utd",
-        "day": "01",
-        "time": "22:00",
-        "channel": "TRT 1"
+        "name": "Antalyaspor - Konyaspor",
+        "day": "02",
+        "time": "20:00",
+        "channel": "Bein Sports 1"
     },
     {
         "type": "futbol",
-        "name": "Tottenham - Bodo Glimt",
-        "day": "01",
-        "time": "22:00",
+        "name": "Martigues - Paris FC",
+        "day": "02",
+        "time": "21:00",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Heidenheim - Bochum",
+        "day": "02",
+        "time": "21:30",
+        "channel": "Bein Sports 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Nice - Reims",
+        "day": "02",
+        "time": "21:45",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "futbol",
+        "name": "Porto - Moreirense",
+        "day": "02",
+        "time": "22:15",
         "channel": "TRT Spor"
     },
     {
-        "type": "futbol",
-        "name": "Real Betis - Fiorentina",
-        "day": "01",
-        "time": "22:00",
-        "channel": "tabii Spor 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Djurgarden - Chelsea",
-        "day": "01",
-        "time": "22:00",
-        "channel": "tabii Spor 2"
-    },
-    {
         "type": "basketbol",
-        "name": "Houston Rockets - GS Warriors",
-        "day": "01",
-        "time": "02:30",
+        "name": "LA Clippers - Denver Nuggets",
+        "day": "02",
+        "time": "05:00",
         "channel": "S Sport"
     },
     {
         "type": "basketbol",
-        "name": "Real Madrid - Olympiakos",
-        "day": "01",
-        "time": "22:00",
+        "name": "Manisa BB - Galatasaray",
+        "day": "02",
+        "time": "19:00",
+        "channel": "Bein Sports 5"
+    },
+    {
+        "type": "basketbol",
+        "name": "Anadolu Efes - Panathinaikos",
+        "day": "02",
+        "time": "20:30",
+        "channel": "S Sport"
+    },
+    {
+        "type": "basketbol",
+        "name": "Merkezefendi Bld. - Fenerbahçe Beko",
+        "day": "02",
+        "time": "20:30",
+        "channel": "Bein Sports 5"
+    },
+    {
+        "type": "basketbol",
+        "name": "Barcelona - Monaco",
+        "day": "02",
+        "time": "21:45",
         "channel": "S Sport 2"
-    },
-    {
-        "type": "tenis",
-        "name": "C.Gauff - I.Swiatek",
-        "day": "01",
-        "time": "17:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "A.Sabalenka - E.Svitolina",
-        "day": "01",
-        "time": "22:30",
-        "channel": "Bein Sports Max 1"
     }
 ]
