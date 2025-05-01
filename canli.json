@@ -1,24 +1,101 @@
 [
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Spartans Distrito Capital - Gladiadores de Anzoategui",
+        "type": "futbol",
+        "name": "Blooming - Nacional Potosi",
+        "time": "03:30",
+        "id": "268937188578824192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vinotinto Ecuador - Chacaritas SC",
+        "time": "03:00",
+        "id": "268703343681081344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Alagoano AL - Gremio Porto Alegrense RS",
+        "time": "03:30",
+        "id": "267634031628259328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Cartagena - Atletico Huila",
+        "time": "03:00",
+        "id": "268415449495113728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Novorizontino SP - Corinthians Paulista",
+        "time": "03:30",
+        "id": "267634032331853824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Ocotal - Diriangen FC",
         "time": "02:00",
-        "id": "268907519650435072"
+        "id": "268978569797046272"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "EC Vitoria - Cruzeiro",
-        "time": "01:00",
-        "id": "268856937224998912"
+        "name": "Canuelas - Club Presidente Derqui",
+        "time": "02:30",
+        "id": "268851044195373056"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "EC Uniao Corinthians - Corinthians Paulista",
-        "time": "01:30",
-        "id": "268816441057349632"
+        "name": "Claridad - Atletico Ezeiza",
+        "time": "02:30",
+        "id": "268850362126045184"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "La Union Formosa - Argentino Junin",
+        "time": "03:00",
+        "id": "268801302845329408"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Houston Rockets - Golden State Warriors",
+        "time": "02:30",
+        "id": "268819935360323584"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Sportivo Suardi - Independiente Sde",
+        "time": "03:00",
+        "id": "268853361237954560"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Defensores Hurlingham - Club Pinocho",
+        "time": "02:30",
+        "id": "268850891830988800"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Sport Club Canadense - Club Nautico Sportivo Avellaneda",
+        "time": "03:00",
+        "id": "268851471396769792"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Club Atletico Lanus - Racing De Chivilcoy",
+        "time": "03:00",
+        "id": "268853051245334528"
     },
     {
         "tur": "live",
@@ -30,65 +107,44 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Cocodrilos de Caracas - Panteras de Miranda",
+        "name": "Club Sportivo Pilar - Ateneo Popular Versalles",
+        "time": "02:30",
+        "id": "268851081616953344"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Gimnasia y Esgrima de Santa Fe - Sportivo Rivadavia San Genaro",
+        "time": "03:00",
+        "id": "268853361153019904"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Spartans Distrito Capital - Gladiadores de Anzoategui",
         "time": "02:00",
-        "id": "268920877207392256"
+        "id": "268907519650435072"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Ocotal - Diriangen FC",
-        "time": "02:00",
-        "id": "268978569797046272"
+        "name": "Atletico Nacional Medellin (W) - Independiente Medellin (W)",
+        "time": "03:00",
+        "id": "268853468804026368"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Boca Juniors Reserves - Barracas Central Reserves II",
-        "time": "01:00",
-        "id": "268885054185410560"
+        "name": "Inter Miami CF - Vancouver Whitecaps",
+        "time": "03:00",
+        "id": "268457519851114496"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "The Strongest La Paz - Real Tomayapo",
-        "time": "01:00",
-        "id": "268794371470659584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cruzeiro MG (W) - Flamengo Rj",
-        "time": "01:00",
-        "id": "268621601001574400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ceara SC CE - Palmeiras",
-        "time": "01:30",
-        "id": "267634032467120128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guastatoya - Antigua Guatemala II",
-        "time": "01:00",
-        "id": "268833631526588416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ca Talleres De Cordoba Reserves - Gimnasia La Plata Reserves",
-        "time": "01:00",
-        "id": "268885054278733824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Botafogo RJ - Brasil De Pelotas Rs",
-        "time": "01:00",
-        "id": "267830275847884800"
+        "name": "Atletico Tucuman - CA Independiente Avellaneda II",
+        "time": "03:00",
+        "id": "268522765549703168"
     },
     {
         "tur": "live",
