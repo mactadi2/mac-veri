@@ -8,6 +8,13 @@
     },
     {
         "type": "futbol",
+        "name": "Nottingham Forest - Brentford",
+        "day": "01",
+        "time": "21:30",
+        "channel": "Bein Sports 3"
+    },
+    {
+        "type": "futbol",
         "name": "Athletic Bilbao - Manchester Utd",
         "day": "01",
         "time": "22:00",
@@ -25,14 +32,14 @@
         "name": "Real Betis - Fiorentina",
         "day": "01",
         "time": "22:00",
-        "channel": "tabii Spor"
+        "channel": "tabii Spor 1"
     },
     {
         "type": "futbol",
         "name": "Djurgarden - Chelsea",
         "day": "01",
         "time": "22:00",
-        "channel": "tabii Spor"
+        "channel": "tabii Spor 2"
     },
     {
         "type": "basketbol",
@@ -47,5 +54,19 @@
         "day": "01",
         "time": "22:00",
         "channel": "S Sport 2"
+    },
+    {
+        "type": "tenis",
+        "name": "C.Gauff - I.Swiatek",
+        "day": "01",
+        "time": "17:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "A.Sabalenka - E.Svitolina",
+        "day": "01",
+        "time": "22:30",
+        "channel": "Bein Sports Max 1"
     }
 ]
