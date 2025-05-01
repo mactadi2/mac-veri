@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Athletic Bilbao - Manchester United II",
+        "time": "22:00",
+        "id": "267796587055550464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Djurgardens IF - Chelsea II",
         "time": "22:00",
         "id": "267839544083222528"
@@ -9,42 +16,7 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Athletic Bilbao - Manchester United II",
-        "time": "22:00",
-        "id": "267796587055550464"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Haukar (W) - Umf Njardvik",
-        "time": "22:15",
-        "id": "268936185370513408"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Kalaban Sports Club (KSC) (W) - As Police (W) II",
-        "time": "21:00",
-        "id": "268922651253280768"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Asd Del Fes Avellino - Enel Brindisi",
-        "time": "22:00",
-        "id": "268983737625219072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Operario Ferroviario EC PR - Vasco da Gama RJ",
-        "time": "22:00",
-        "id": "267900762958467072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Internacional (W) - Real Brasilia FC (W) II",
+        "name": "SC Internacional (W) - Real Brasilia FC (W)",
         "time": "22:00",
         "id": "268621561207066624"
     },
@@ -58,13 +30,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kenya U20 - Fas U20",
-        "time": "21:00",
-        "id": "268846216500088832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "ADR Jicaral - Consultants Desamparados",
         "time": "22:00",
         "id": "268830682377228288"
@@ -72,44 +37,23 @@
     {
         "tur": "live",
         "type": "basketbol",
+        "name": "Haukar (W) - Umf Njardvik",
+        "time": "22:15",
+        "id": "268936185370513408"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Asd Del Fes Avellino - Enel Brindisi",
+        "time": "22:00",
+        "id": "268983737625219072"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
         "name": "Real Madrid - Olympiakos Pireus II",
         "time": "22:00",
         "id": "268880533078020096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nottingham Forest - Brentford II",
-        "time": "21:30",
-        "id": "267430789950607360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Always Ready - CDT Real Oruro",
-        "time": "22:00",
-        "id": "268948530789486592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Betis - AC Fiorentina II",
-        "time": "22:00",
-        "id": "267784864037736448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EC Bahia BA (W) - RB Bragantino (W)",
-        "time": "21:00",
-        "id": "268621512276316160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fluminense RJ (W) - Ferroviaria (Kadınlar)",
-        "time": "21:00",
-        "id": "268621512360202240"
     },
     {
         "tur": "live",
@@ -128,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Operario Ferroviario EC PR - Vasco da Gama RJ",
+        "time": "22:00",
+        "id": "267900762958467072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tottenham Hotspur - FK Bodo Glimt II",
         "time": "22:00",
         "id": "267797039581106176"
@@ -135,8 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Al Fateh - Al Shabab Riyadh II",
-        "time": "21:00",
-        "id": "268416356629745664"
+        "name": "Always Ready - CDT Real Oruro",
+        "time": "22:00",
+        "id": "268948530789486592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Betis - AC Fiorentina II",
+        "time": "22:00",
+        "id": "267784864037736448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nottingham Forest - Brentford II",
+        "time": "21:30",
+        "id": "267430789950607360"
     }
 ]
