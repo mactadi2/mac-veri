@@ -2,41 +2,6 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Amman United - Al Jubaiha",
-        "time": "20:00",
-        "id": "268934804878266368"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Den Helder Suns - Yoast United",
-        "time": "20:30",
-        "id": "268854670006554624"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "KB Peja - Bashkimi",
-        "time": "20:00",
-        "id": "268922743890776064"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Aarhus Bakken Bears - Horsens",
-        "time": "20:00",
-        "id": "268793773870419968"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Seixal HP - Barreirense U23",
-        "time": "20:00",
-        "id": "268951529382350848"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
         "name": "Kalaban Sports Club (KSC) (W) - As Police (W)",
         "time": "21:00",
         "id": "268922651253280768"
@@ -51,9 +16,9 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "FC Porto - Galitos Barreiro",
-        "time": "20:00",
-        "id": "269009234905141248"
+        "name": "Den Helder Suns - Yoast United",
+        "time": "20:30",
+        "id": "268854670006554624"
     },
     {
         "tur": "live",
@@ -61,5 +26,61 @@
         "name": "Dabrowa Gornicza - Stal Ostrow",
         "time": "20:30",
         "id": "268735040958107648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kenya U20 - Fas U20",
+        "time": "21:00",
+        "id": "268846216500088832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nottingham Forest - Brentford II",
+        "time": "21:30",
+        "id": "267430789950607360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Viborg FF - FC Kopenhag II",
+        "time": "20:30",
+        "id": "268049775955415040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RSB Berkane - Dhj Difaa Hassani Jdidi",
+        "time": "22:00",
+        "id": "268703362870022144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sassuolo - Carrarese II",
+        "time": "20:30",
+        "id": "268509402828509184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Fateh - Al Shabab Riyadh II",
+        "time": "21:00",
+        "id": "268416356629745664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fluminense RJ (W) - Ferroviaria (Kadınlar)",
+        "time": "21:00",
+        "id": "268621512360202240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EC Bahia BA (W) - RB Bragantino (W)",
+        "time": "21:00",
+        "id": "268621512276316160"
     }
 ]
