@@ -1,13 +1,6 @@
 [
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Mixco - CSD Municipal",
-        "time": "00:00",
-        "id": "268937386409463808"
-    },
-    {
-        "tur": "live",
         "type": "basketbol",
         "name": "Centre Mamoutou Kane - AS Police",
         "time": "23:00",
@@ -19,5 +12,19 @@
         "name": "Santos FC Sao Paulo  - CRB Clube de Regatas Brasil",
         "time": "00:00",
         "id": "267634031811760128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Criciuma EC - Bragantino Red Bull",
+        "time": "00:30",
+        "id": "267634258810638336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Mixco - CSD Municipal",
+        "time": "00:00",
+        "id": "268937386409463808"
     }
 ]
