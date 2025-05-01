@@ -2,13 +2,6 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "VEF Riga - Valmiera Glass",
-        "time": "17:00",
-        "id": "269015950765985792"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
         "name": "Gurjaani Delta - VSA",
         "time": "18:00",
         "id": "268929008696168448"
@@ -19,6 +12,20 @@
         "name": "BC Rilski Sportist - BC Levski Sofia II",
         "time": "18:00",
         "id": "268933478206279680"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "VEF Riga - Valmiera Glass",
+        "time": "17:00",
+        "id": "269015950765985792"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Play Off Sarajevo (W) - Lavovi Brcko (W)",
+        "time": "18:00",
+        "id": "268927564000661504"
     },
     {
         "tur": "live",
@@ -37,9 +44,16 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Play Off Sarajevo (W) - Lavovi Brcko (W)",
+        "name": "Trefl Sopot - Dziki Warszawa",
+        "time": "16:30",
+        "id": "268735203185397760"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "BC Irbis Almaty - Astana II",
         "time": "18:00",
-        "id": "268927564000661504"
+        "id": "268928848627896320"
     },
     {
         "tur": "live",
@@ -47,13 +61,6 @@
         "name": "Oliveirense Basquetebol - Sporting CP",
         "time": "17:00",
         "id": "269009234838032384"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Trefl Sopot - Dziki Warszawa",
-        "time": "16:30",
-        "id": "268735203185397760"
     },
     {
         "tur": "live",
@@ -79,23 +86,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wolfsberger Athletik Club - TSV Hartberg II",
-        "time": "18:00",
-        "id": "267202741038878720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ceramica Cleopatra FC  - National Bank of Egypt SC",
-        "time": "17:00",
-        "id": "268401862452056064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Mekelle 70 Enderta F.C. - Kedus Giorgis",
         "time": "18:00",
         "id": "268830682455871488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wolfsberger Athletik Club - TSV Hartberg",
+        "time": "18:00",
+        "id": "267202741038878720"
     },
     {
         "tur": "live",
@@ -107,9 +107,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Union Gurten - Deutschlandsberger SC",
+        "name": "Ceramica Cleopatra FC  - National Bank of Egypt SC",
         "time": "17:00",
-        "id": "268928698649022464"
+        "id": "268401862452056064"
     },
     {
         "tur": "live",
@@ -117,6 +117,13 @@
         "name": "FK Usti nad Labem - Usti N Orlici",
         "time": "18:00",
         "id": "268859022503972864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union Gurten - Deutschlandsberger SC",
+        "time": "17:00",
+        "id": "268928698649022464"
     },
     {
         "tur": "live",
@@ -135,16 +142,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Nigeria U20 - Tunisia U20",
+        "name": "Victoria Czestochowa - Rakow II Czestochowa",
         "time": "18:00",
-        "id": "268845788176715776"
+        "id": "268825762469122048"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Victoria Czestochowa - Rakow II Czestochowa",
+        "name": "Cd Tondela - Academico Viseu U19",
         "time": "18:00",
-        "id": "268825762469122048"
+        "id": "268859022431621120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nigeria U20 - Tunisia U20",
+        "time": "18:00",
+        "id": "268845788176715776"
     },
     {
         "tur": "live",
