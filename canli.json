@@ -2,65 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fc Viktoria Marianske Lazne - 1. FC Karlovy Vary",
-        "time": "14:30",
-        "id": "268894858760032256"
+        "name": "Al-Safa - Al Ahed",
+        "time": "16:00",
+        "id": "268897335863545856"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shandong Luneng Taishan FC - Qingdao Hainiu",
-        "time": "14:35",
-        "id": "268664190832611328"
+        "name": "Pisa - Frosinone",
+        "time": "16:00",
+        "id": "268488714291908608"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Al Bourj - Shabab Baalbak",
-        "time": "15:30",
-        "id": "268897085303164928"
+        "name": "Modena - AC Reggiana 1919 II",
+        "time": "16:00",
+        "id": "268488714220605440"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kairat Zhastar - FK Ekibastuz",
-        "time": "14:30",
-        "id": "269022034892296192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Umea IK (W) - Team Tg FF (W)",
-        "time": "14:00",
-        "id": "268923149929811968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viktoria Zizkov B - FK Dukla Jizni Mesto",
-        "time": "14:30",
-        "id": "269025657997103104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Djerv 1919 - Stord",
-        "time": "15:00",
-        "id": "268703330094682112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Royal Antwerp FC - RSC Anderlecht",
-        "time": "14:30",
-        "id": "268673855616323584"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "KK Crvena Zvezda (Red Star Belgrade) - KK Studentski Centar Derby",
-        "time": "15:00",
-        "id": "267013069973098496"
+        "name": "Kariobangi Sharks - Gor Mahia",
+        "time": "16:00",
+        "id": "268967161864785920"
     },
     {
         "tur": "live",
@@ -72,16 +37,9 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Iberostar Tenerife Canarias - Unicaja Malaga",
-        "time": "14:30",
-        "id": "268753410621313024"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Ku Pirates - ABI Snipers",
-        "time": "14:00",
-        "id": "269027526985256960"
+        "name": "Skyliners Frankfurt - S Oliver Wurzburg Baskets",
+        "time": "16:00",
+        "id": "268772706567196672"
     },
     {
         "tur": "live",
@@ -99,17 +57,101 @@
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Ursus Warsawa - Mazovia Minsk Mazowiecki",
+        "type": "basketbol",
+        "name": "BG 74 Gottingen - EWE Baskets Oldenburg II",
+        "time": "16:00",
+        "id": "268772611218083840"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "KK Crvena Zvezda (Red Star Belgrade) - KK Studentski Centar Derby",
         "time": "15:00",
-        "id": "268768125237989376"
+        "id": "267013069973098496"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Zhejiang Professional FC - Changchun Yatai",
-        "time": "14:00",
-        "id": "268666067376803840"
+        "name": "Difai Agsu - Energetik Mingechevir II",
+        "time": "16:00",
+        "id": "268888708509470720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Royal Antwerp FC - RSC Anderlecht",
+        "time": "14:30",
+        "id": "268673855616323584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Djerv 1919 - Stord",
+        "time": "15:00",
+        "id": "268703330094682112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adama Ketema (W) - Hambericho Durame (W)",
+        "time": "16:00",
+        "id": "269032001122734080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Spezia - Salernitana",
+        "time": "16:00",
+        "id": "268488713976287232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mantova - Cesena FC",
+        "time": "16:00",
+        "id": "268509402703728640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fc Viktoria Marianske Lazne - 1. FC Karlovy Vary",
+        "time": "14:30",
+        "id": "268894858760032256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MFK Ruzomberok - FC Spartak Trnava",
+        "time": "16:00",
+        "id": "268703353941397504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Viktoria Zizkov B - FK Dukla Jizni Mesto",
+        "time": "14:30",
+        "id": "269025657997103104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Bourj - Shabab Baalbak",
+        "time": "15:30",
+        "id": "268897085303164928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shandong Luneng Taishan FC - Qingdao Hainiu",
+        "time": "14:35",
+        "id": "268664190832611328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ursus Warsawa - Mazovia Minsk Mazowiecki",
+        "time": "15:00",
+        "id": "268768125237989376"
     },
     {
         "tur": "live",
@@ -121,6 +163,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Jitex Molndal (W) - Mallbackens IF (W)",
+        "time": "16:00",
+        "id": "268851464927055872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bali United Pusam - Psis Semarang",
         "time": "15:00",
         "id": "268484863829610496"
@@ -128,9 +177,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fasil Kenema - Hadiya Hosaena",
-        "time": "15:00",
-        "id": "268830681019322368"
+        "name": "Cosenza - Bari",
+        "time": "16:00",
+        "id": "268488714137767936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palermo - FC Sudtirol Bolzano II",
+        "time": "16:00",
+        "id": "268669870963560448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sampdoria - Cremonese",
+        "time": "16:00",
+        "id": "268499982576914432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Borjomi - Gardabani",
+        "time": "16:00",
+        "id": "268851464988921856"
     },
     {
         "tur": "live",
@@ -142,8 +212,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Henan FC - Wuhan Three Towns",
-        "time": "14:00",
-        "id": "268662296250814464"
+        "name": "Fasil Kenema - Hadiya Hosaena",
+        "time": "15:00",
+        "id": "268830681019322368"
     }
 ]
