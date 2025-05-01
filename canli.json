@@ -1,73 +1,10 @@
 [
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Croydon Kings - Adelaide Croatia Raiders II",
-        "time": "13:00",
-        "id": "268703351054667776"
-    },
-    {
-        "tur": "live",
         "type": "basketbol",
         "name": "Manila Stars - Muntinlupa Cagers",
         "time": "13:00",
         "id": "268938599739822080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mustang Ostaszewo - Sparta Brodnica",
-        "time": "12:00",
-        "id": "268753385249968128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MKS Piaseczno - KTS Weszlo",
-        "time": "12:00",
-        "id": "268765875943903232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Suwon FC (Bayanlar) - Boeun Sangmu Wfc",
-        "time": "13:00",
-        "id": "268891354321522688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Incheon Hyundai Steel Red Angels (Bayanlar) - Seoul City (Bayanlar) II",
-        "time": "13:00",
-        "id": "268891143452889088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Super Nova - Riga FC II",
-        "time": "13:00",
-        "id": "268703344772648960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sevilla FC C - CD Ciudad de Lucena",
-        "time": "13:00",
-        "id": "269004223730028544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Southern District Rsa - Lee Man Warriors FC",
-        "time": "12:30",
-        "id": "268900591735017472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cabrayil - Baku Sporting II",
-        "time": "12:00",
-        "id": "268888472140517376"
     },
     {
         "tur": "live",
@@ -79,37 +16,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "LKS Mszczonowianka Mszczonow - MLKS Jozefovia Jozefow",
+        "name": "Suwon FC (Bayanlar) - Boeun Sangmu Wfc",
         "time": "13:00",
-        "id": "268765875795005440"
+        "id": "268891354321522688"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Zhetisay - SD Family II",
-        "time": "12:00",
-        "id": "269016380673757184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Uttar Baridhara Club - Arambagh",
-        "time": "12:30",
-        "id": "268890432501583872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shenzhen Peng FC - Tianjin Jinmen Tigers II",
+        "name": "Shenzhen Peng FC - Tianjin Jinmen Tigers",
         "time": "13:30",
         "id": "268662296172171264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Shakhter Karagandy - Irtys Pavlodar II",
-        "time": "12:00",
-        "id": "269016381699264512"
     },
     {
         "tur": "live",
@@ -121,6 +37,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Croydon Kings - Adelaide Croatia Raiders",
+        "time": "13:00",
+        "id": "268703351054667776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Incheon Hyundai Steel Red Angels (Bayanlar) - Seoul City (Bayanlar) II",
+        "time": "13:00",
+        "id": "268891143452889088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Nairobi United - Kakamega Homeboyz",
         "time": "13:00",
         "id": "268939717526032384"
@@ -128,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Juve Stabia - Catanzaro II",
-        "time": "13:30",
-        "id": "268669870859751424"
+        "name": "SK Super Nova - Riga FC",
+        "time": "13:00",
+        "id": "268703344772648960"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sejong Sportstoto (Bayanlar) - Changnyeong FC (Bayanlar)",
+        "name": "LKS Mszczonowianka Mszczonow - MLKS Jozefovia Jozefow",
         "time": "13:00",
-        "id": "268891090955931648"
+        "id": "268765875795005440"
     },
     {
         "tur": "live",
@@ -149,8 +79,36 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dhaka Rangers FC - MSPCC City Club",
+        "name": "Sejong Sportstoto (Bayanlar) - Changnyeong FC (Bayanlar)",
+        "time": "13:00",
+        "id": "268891090955931648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Southern District Rsa - Lee Man Warriors FC",
         "time": "12:30",
-        "id": "268890524624228352"
+        "id": "268900591735017472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sevilla FC C - CD Ciudad de Lucena",
+        "time": "13:00",
+        "id": "269004223730028544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Uttar Baridhara Club - Arambagh",
+        "time": "12:30",
+        "id": "268890432501583872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juve Stabia - Catanzaro",
+        "time": "13:30",
+        "id": "268669870859751424"
     }
 ]
