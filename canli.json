@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "basketbol",
+        "name": "Marikina Shoemasters - Oriental Mindoro Disciplinados",
+        "time": "11:00",
+        "id": "268938767522467840"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
         "name": "Hawkes Bay Hawks - Whai",
         "time": "10:00",
         "id": "268749116393263104"
@@ -23,8 +30,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dalian Young Boy FC - Yunnan Yukun FC II",
+        "name": "Dalian Young Boy FC - Yunnan Yukun FC",
         "time": "10:30",
         "id": "268571705416486912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Apollon Limassol FC (W) - En Thoi Lakatamia (W)",
+        "time": "11:00",
+        "id": "268995328133435392"
     }
 ]
