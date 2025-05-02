@@ -2,55 +2,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cruzeiro MG - Vila Nova GO",
-        "time": "03:30",
-        "id": "267634031954366464"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Detroit Pistons - New York Knicks",
-        "time": "02:30",
-        "id": "268901009953263616"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "CA Union Santa Fe U22 - Club Atletico Penarol Mar del Plata U22",
-        "time": "03:00",
-        "id": "269022062573654016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UNAN Managua - Real Esteli FC",
-        "time": "03:00",
-        "id": "268830682223087616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Louisville City FC - Lexington SC",
-        "time": "03:00",
-        "id": "268703347418206208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Botafogo PB - Flamengo RJ",
-        "time": "02:00",
-        "id": "267634655157686272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Marquense - CSD Comunicaciones",
-        "time": "02:30",
-        "id": "268882929809231872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FBC Melgar Arequipa - Comerciantes Unidos",
         "time": "03:30",
         "id": "268692506774999040"
@@ -58,8 +9,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "ART Municipal Jalapa - Matagalpa FC",
-        "time": "03:00",
-        "id": "269073006244007936"
+        "name": "Cruz Azul - Club Tigres de la UANL",
+        "time": "05:00",
+        "id": "268364652652662784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Chivas Guadalajara (W) - Club America (W)",
+        "time": "04:00",
+        "id": "269039228321665024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cruzeiro MG - Vila Nova GO",
+        "time": "03:30",
+        "id": "267634031954366464"
     }
 ]
