@@ -1,13 +1,6 @@
 [
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Alligators - Sharks",
-        "time": "09:30",
-        "id": "269088506561826816"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
         "name": "Shanxi Chongde Ronghai Football Club - Wuxi Wugou",
         "time": "10:00",
@@ -23,13 +16,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Peureulak Raya FC - Persikabumi Kabupaten Sukabumi",
-        "time": "10:00",
-        "id": "269100268015194112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Persikoba Batu - PSP Padang",
         "time": "09:30",
         "id": "269097535316037632"
@@ -40,5 +26,12 @@
         "name": "Boys Union Club - Brigade Boys Club",
         "time": "09:30",
         "id": "269010438948261888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Peureulak Raya FC - Persikabumi Kabupaten Sukabumi",
+        "time": "10:00",
+        "id": "269100268015194112"
     }
 ]
