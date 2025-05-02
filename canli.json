@@ -2,13 +2,6 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Tigers - Lions",
-        "time": "11:00",
-        "id": "269094140303773696"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
         "name": "Tigers - Lions II",
         "time": "11:00",
         "id": "269094140303773696"
@@ -16,37 +9,16 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Daejeon Korail - Changwon City",
+        "time": "11:00",
+        "id": "268703348672303104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gungahlin Utd U23 - Canberra Croatia U23",
         "time": "10:30",
         "id": "268974717241790464"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Franklin Bulls - Otago Nuggets",
-        "time": "10:30",
-        "id": "268839813996744704"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Bacolod City of Smiles - Davao Occidental Tigers",
-        "time": "11:00",
-        "id": "269032193517555712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shanxi Chongde Ronghai Football Club - Wuxi Wugou",
-        "time": "10:00",
-        "id": "268992516782690304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hubei Chufengheli - Shanghai Port B",
-        "time": "11:00",
-        "id": "268992864747393024"
     },
     {
         "tur": "live",
@@ -58,16 +30,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Persikoba Batu - PSP Padang",
-        "time": "09:30",
-        "id": "269097535316037632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boys Union Club - Brigade Boys Club",
-        "time": "09:30",
-        "id": "269010438948261888"
+        "name": "Bentleigh Greens U23 - North Sunshine Eagles U23",
+        "time": "11:15",
+        "id": "269010292181176320"
     },
     {
         "tur": "live",
@@ -78,9 +43,44 @@
     },
     {
         "tur": "live",
+        "type": "basketbol",
+        "name": "Bacolod City of Smiles - Davao Occidental Tigers",
+        "time": "11:00",
+        "id": "269032193517555712"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Franklin Bulls - Otago Nuggets",
+        "time": "10:30",
+        "id": "268839813996744704"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Tigers - Lions",
+        "time": "11:00",
+        "id": "269094140303773696"
+    },
+    {
+        "tur": "live",
         "type": "futbol",
-        "name": "Sang Maestro - Persikasi Kabupaten Bekasi",
-        "time": "09:30",
-        "id": "269093949999812608"
+        "name": "Bentleigh Greens SC (W) - Bulleen Lions (W)",
+        "time": "11:15",
+        "id": "268997434043142144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hubei Chufengheli - Shanghai Port B",
+        "time": "11:00",
+        "id": "268992864747393024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shanxi Chongde Ronghai Football Club - Wuxi Wugou",
+        "time": "10:00",
+        "id": "268992516782690304"
     }
 ]
