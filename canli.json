@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "basketbol",
+        "name": "Joondalup Wolves (W) - Lakeside Lightning (W)",
+        "time": "13:30",
+        "id": "269038689876840448"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
         "name": "Maccabi Rehovot - Maccabi Rishon LeZion",
         "time": "13:00",
         "id": "269013203757961216"
@@ -29,10 +36,59 @@
     },
     {
         "tur": "live",
+        "type": "basketbol",
+        "name": "Logan Thunder - Southern Districts Spartans",
+        "time": "13:00",
+        "id": "269036066211762176"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Phoenix Fuel Masters - TNT Tropang Giga",
+        "time": "14:30",
+        "id": "269026870089093120"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Willetton Tigers (W) - Perry Lakes Hawks (W)",
+        "time": "13:30",
+        "id": "269038688666783744"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "East Perth Eagles (W) - Warwick Senators (W)",
+        "time": "13:30",
+        "id": "269038688739135488"
+    },
+    {
+        "tur": "live",
         "type": "futbol",
-        "name": "Gungahlin United FC - Canberra Fk",
-        "time": "12:30",
-        "id": "268703356401356800"
+        "name": "Akas FC - Khan Tengri FC",
+        "time": "14:30",
+        "id": "269091631889780736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Port Melbourne Sharks - Altona Magic",
+        "time": "13:15",
+        "id": "268703344253603840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brisbane Olympic (Bayanlar) - Peninsula Power (W)",
+        "time": "13:30",
+        "id": "268983035986317312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pohang Steelers - Gimcheon Sangmu FC II",
+        "time": "13:30",
+        "id": "268479622606360576"
     },
     {
         "tur": "live",
@@ -79,16 +135,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Essendon Royals - Whittlesea United SC",
-        "time": "12:30",
-        "id": "269003026063298560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gold Coast Knights - Moreton City Excelsior FC",
-        "time": "12:30",
-        "id": "268703351344074752"
+        "name": "Guizhou Zhucheng Athletic - Guangzhou Dandelion Alpha FC",
+        "time": "14:30",
+        "id": "268992624114929664"
     },
     {
         "tur": "live",
@@ -100,13 +149,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Blacktown Spartans - Mounties Wanderers",
-        "time": "13:15",
-        "id": "268815903018323968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Brunswick Juventus - Eltham Redbacks",
         "time": "13:30",
         "id": "269003026227924992"
@@ -114,16 +156,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Oakleigh Cannons - Heidelberg United",
+        "name": "Blacktown Spartans - Mounties Wanderers",
         "time": "13:15",
-        "id": "268703344179154944"
+        "id": "268815903018323968"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Central Coast Mariners - Brisbane Roar FC",
-        "time": "12:35",
-        "id": "268549073101000704"
+        "name": "Oakleigh Cannons - Heidelberg United",
+        "time": "13:15",
+        "id": "268703344179154944"
     },
     {
         "tur": "live",
@@ -142,13 +184,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Adelaide Comets - White City Beograd II",
-        "time": "13:45",
-        "id": "268703350877458432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "South Adelaide - The Cove Fc",
         "time": "13:00",
         "id": "268987788768186368"
@@ -156,16 +191,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Brisbane Olympic (Bayanlar) - Peninsula Power (W)",
-        "time": "13:30",
-        "id": "268983035986317312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pohang Steelers - Gimcheon Sangmu FC II",
-        "time": "13:30",
-        "id": "268479622606360576"
+        "name": "Adelaide Comets - White City Beograd II",
+        "time": "13:45",
+        "id": "268703350877458432"
     },
     {
         "tur": "live",
@@ -177,15 +205,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Port Melbourne Sharks - Altona Magic",
-        "time": "13:15",
-        "id": "268703344253603840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sunshine Coast Wanderers (W) - Mitchelton (W)",
-        "time": "12:30",
-        "id": "269111803721682944"
+        "name": "Chengdu Rongcheng FC - Shanghai Shenhua II",
+        "time": "14:35",
+        "id": "268573576616087552"
     }
 ]
