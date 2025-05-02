@@ -1,66 +1,10 @@
 [
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Joondalup Wolves (W) - Lakeside Lightning (W)",
-        "time": "13:30",
-        "id": "269038689876840448"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Maccabi Rehovot - Maccabi Rishon LeZion",
-        "time": "13:00",
-        "id": "269013203757961216"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Elitzur Ashkelon - Ramat Hasharon",
-        "time": "13:30",
-        "id": "268950979776483328"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Abra Weavers - Bataan Risers",
-        "time": "13:00",
-        "id": "269032748565532672"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Hapoel Jerusalem - Ironi Ramat Gan",
-        "time": "13:30",
-        "id": "268919166879272960"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Logan Thunder - Southern Districts Spartans",
-        "time": "13:00",
-        "id": "269036066211762176"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Phoenix Fuel Masters - TNT Tropang Giga",
-        "time": "14:30",
-        "id": "269026870089093120"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Willetton Tigers (W) - Perry Lakes Hawks (W)",
-        "time": "13:30",
-        "id": "269038688666783744"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "East Perth Eagles (W) - Warwick Senators (W)",
-        "time": "13:30",
-        "id": "269038688739135488"
+        "type": "futbol",
+        "name": "Port Melbourne Sharks - Altona Magic",
+        "time": "13:15",
+        "id": "268703344253603840"
     },
     {
         "tur": "live",
@@ -72,9 +16,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Port Melbourne Sharks - Altona Magic",
-        "time": "13:15",
-        "id": "268703344253603840"
+        "name": "Hougang United FC - Tampines Rovers FC",
+        "time": "14:45",
+        "id": "268703337307836416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AL-Nejmeh SC Beirut - Sagesse Sports Club (Al Hekmeh)",
+        "time": "15:00",
+        "id": "268936993435684864"
     },
     {
         "tur": "live",
@@ -100,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bashundhara Kings - Abahani Limited",
+        "time": "14:30",
+        "id": "268991421650964480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lanzhou Longyuan Athletic - Changchun Xidu",
         "time": "14:00",
         "id": "268992516699852800"
@@ -107,9 +65,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dhaka Wanderers Club - Fortis Limited",
-        "time": "12:45",
-        "id": "269106028176609280"
+        "name": "PFK Botev Vratsa - Septemvri Sofia II",
+        "time": "15:00",
+        "id": "268736643955036160"
     },
     {
         "tur": "live",
@@ -121,16 +79,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sofapaka - Mathare United Fc",
-        "time": "13:00",
-        "id": "269111623996805120"
+        "name": "Bahir Dar Kenema - Ethio Electric SC",
+        "time": "15:00",
+        "id": "268847770666930176"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Mohammedan Dhaka - Bangladesh Police Club",
-        "time": "12:45",
-        "id": "268991390411788288"
+        "name": "FC Ucsa Tarasivka - FC Epitsentr Dunayivtsi",
+        "time": "15:00",
+        "id": "268923311201849344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Vakhsh - Barkchi Hisor",
+        "time": "15:00",
+        "id": "269015080472023040"
     },
     {
         "tur": "live",
@@ -170,23 +135,16 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FS Metta\/Lu - FK Liepaja II",
+        "time": "15:00",
+        "id": "268703344854437888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ulsan Hyundai Horang-i - Gwangju FC",
         "time": "13:30",
         "id": "268478847829282816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Busan Transportation Corporation - Yangpyeong FC",
-        "time": "13:00",
-        "id": "268703348356681728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South Adelaide - The Cove Fc",
-        "time": "13:00",
-        "id": "268987788768186368"
     },
     {
         "tur": "live",
@@ -197,16 +155,65 @@
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Flinders United (W) - West Adelaide (W)",
-        "time": "13:45",
-        "id": "268991716352200704"
+        "type": "basketbol",
+        "name": "Elitzur Ashkelon - Ramat Hasharon",
+        "time": "13:30",
+        "id": "268950979776483328"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Adroit Singapore - Hi-Tech",
+        "time": "15:00",
+        "id": "269009323567484928"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Hapoel Jerusalem - Ironi Ramat Gan",
+        "time": "13:30",
+        "id": "268919166879272960"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Phoenix Fuel Masters - TNT Tropang Giga",
+        "time": "14:30",
+        "id": "269026870089093120"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Willetton Tigers (W) - Perry Lakes Hawks (W)",
+        "time": "13:30",
+        "id": "269038688666783744"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "East Perth Eagles (W) - Warwick Senators (W)",
+        "time": "13:30",
+        "id": "269038688739135488"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Joondalup Wolves (W) - Lakeside Lightning (W)",
+        "time": "13:30",
+        "id": "269038689876840448"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Chengdu Rongcheng FC - Shanghai Shenhua II",
+        "name": "Chengdu Rongcheng FC - Shanghai Shenhua",
         "time": "14:35",
         "id": "268573576616087552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Flinders United (W) - West Adelaide (W)",
+        "time": "13:45",
+        "id": "268991716352200704"
     }
 ]
