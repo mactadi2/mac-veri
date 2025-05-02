@@ -1,17 +1,66 @@
 [
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Persikoba Batu - PSP Padang",
-        "time": "09:30",
-        "id": "269097535316037632"
+        "type": "basketbol",
+        "name": "Tigers - Lions",
+        "time": "11:00",
+        "id": "269094140303773696"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Alligators - Sharks",
+        "name": "Tigers - Lions II",
+        "time": "11:00",
+        "id": "269094140303773696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gungahlin Utd U23 - Canberra Croatia U23",
+        "time": "10:30",
+        "id": "268974717241790464"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Franklin Bulls - Otago Nuggets",
+        "time": "10:30",
+        "id": "268839813996744704"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Bacolod City of Smiles - Davao Occidental Tigers",
+        "time": "11:00",
+        "id": "269032193517555712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shanxi Chongde Ronghai Football Club - Wuxi Wugou",
+        "time": "10:00",
+        "id": "268992516782690304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hubei Chufengheli - Shanghai Port B",
+        "time": "11:00",
+        "id": "268992864747393024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kunming City Star - Shenzhen 2028 FC",
+        "time": "11:00",
+        "id": "268992624037335040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Persikoba Batu - PSP Padang",
         "time": "09:30",
-        "id": "269088506561826816"
+        "id": "269097535316037632"
     },
     {
         "tur": "live",
@@ -33,19 +82,5 @@
         "name": "Sang Maestro - Persikasi Kabupaten Bekasi",
         "time": "09:30",
         "id": "269093949999812608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shanxi Chongde Ronghai Football Club - Wuxi Wugou",
-        "time": "10:00",
-        "id": "268992516782690304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gungahlin Utd U23 - Canberra Croatia U23",
-        "time": "10:30",
-        "id": "268974717241790464"
     }
 ]
