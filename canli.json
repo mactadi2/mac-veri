@@ -1,24 +1,17 @@
 [
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Quanzhou Yassin - Chengdu Rongcheng II",
-        "time": "11:30",
-        "id": "268992620953473024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Persimer Merauke - Batavia FC",
-        "time": "11:15",
-        "id": "269105367044198400"
-    },
-    {
-        "tur": "live",
         "type": "basketbol",
         "name": "NLEX Road Warriors - Blackwater Elite",
         "time": "12:00",
         "id": "269026870161444864"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Maccabi Rehovot - Maccabi Rishon LeZion",
+        "time": "13:00",
+        "id": "269013203757961216"
     },
     {
         "tur": "live",
@@ -37,6 +30,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "South Adelaide - The Cove Fc",
+        "time": "13:00",
+        "id": "268987788768186368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Busan Transportation Corporation - Yangpyeong FC",
+        "time": "13:00",
+        "id": "268703348356681728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Central Coast Mariners - Brisbane Roar FC",
         "time": "12:35",
         "id": "268549073101000704"
@@ -44,58 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bentleigh Greens U23 - North Sunshine Eagles U23",
-        "time": "11:15",
-        "id": "269010292181176320"
+        "name": "Blacktown Spartans - Mounties Wanderers",
+        "time": "13:15",
+        "id": "268815903018323968"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gold Coast Knights - Moreton City Excelsior FC",
-        "time": "12:30",
-        "id": "268703351344074752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Essendon Royals - Whittlesea United SC",
-        "time": "12:30",
-        "id": "269003026063298560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Barito Putera - Dewa United FC",
-        "time": "11:30",
-        "id": "268562316089495552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mohammedan Dhaka - Bangladesh Police Club",
-        "time": "12:45",
-        "id": "268991390411788288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC U Craiova 1948 - Bihor Oradea",
-        "time": "12:00",
-        "id": "268573994217771008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bentleigh Greens SC (W) - Bulleen Lions (W)",
-        "time": "11:15",
-        "id": "268997434043142144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dhaka Wanderers Club - Fortis Limited",
-        "time": "12:45",
-        "id": "269106028176609280"
+        "name": "Oakleigh Cannons - Heidelberg United II",
+        "time": "13:15",
+        "id": "268703344179154944"
     },
     {
         "tur": "live",
@@ -107,9 +72,65 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Mitchelton (W) - Sunshine Coast Wanderers (W)",
+        "name": "Port Melbourne Sharks - Altona Magic II",
+        "time": "13:15",
+        "id": "268703344253603840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gold Coast Knights - Moreton City Excelsior FC",
         "time": "12:30",
-        "id": "262659677871943680"
+        "id": "268703351344074752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lech Poznan II - KS Polonia Sroda Wlkp",
+        "time": "13:00",
+        "id": "268947360525193216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Essendon Royals - Whittlesea United SC",
+        "time": "12:30",
+        "id": "269003026063298560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dhaka Wanderers Club - Fortis Limited",
+        "time": "12:45",
+        "id": "269106028176609280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sofapaka - Mathare United Fc",
+        "time": "13:00",
+        "id": "269111623996805120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC U Craiova 1948 - Bihor Oradea",
+        "time": "12:00",
+        "id": "268573994217771008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mohammedan Dhaka - Bangladesh Police Club",
+        "time": "12:45",
+        "id": "268991390411788288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sunshine Coast Wanderers (W) - Mitchelton (W)",
+        "time": "12:30",
+        "id": "269111803721682944"
     },
     {
         "tur": "live",
