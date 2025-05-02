@@ -1,34 +1,6 @@
 [
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Franklin Bulls - Otago Nuggets",
-        "time": "10:30",
-        "id": "268839813996744704"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Tigers - Lions",
-        "time": "11:00",
-        "id": "269094140303773696"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Tigers - Lions II",
-        "time": "11:00",
-        "id": "269094140303773696"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Bacolod City of Smiles - Davao Occidental Tigers II",
-        "time": "11:00",
-        "id": "269032193517555712"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
         "name": "Bentleigh Greens U23 - North Sunshine Eagles U23",
         "time": "11:15",
@@ -51,13 +23,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gungahlin Utd U23 - Canberra Croatia U23 II",
-        "time": "10:30",
-        "id": "268974717241790464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Adelaide University (W) - West Torrens Birkalla SC (W)",
         "time": "11:45",
         "id": "268991421584904192"
@@ -72,6 +37,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC U Craiova 1948 - Bihor Oradea",
+        "time": "12:00",
+        "id": "268573994217771008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Persimer Merauke - Batavia FC",
+        "time": "11:15",
+        "id": "269105367044198400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hubei Chufengheli - Shanghai Port B",
         "time": "11:00",
         "id": "268992864747393024"
@@ -79,23 +58,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Barito Putera - Dewa United FC II",
+        "name": "Barito Putera - Dewa United FC",
         "time": "11:30",
         "id": "268562316089495552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Persimer Merauke - Batavia FC II",
-        "time": "11:15",
-        "id": "269105367044198400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Quanzhou Yassin - Chengdu Rongcheng Reserves",
-        "time": "11:30",
-        "id": "268992620953473024"
     },
     {
         "tur": "live",
@@ -103,5 +68,12 @@
         "name": "Bentleigh Greens SC (W) - Bulleen Lions (W)",
         "time": "11:15",
         "id": "268997434043142144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Quanzhou Yassin - Chengdu Rongcheng II",
+        "time": "11:30",
+        "id": "268992620953473024"
     }
 ]
