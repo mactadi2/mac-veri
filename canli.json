@@ -1,45 +1,185 @@
 [
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "KK Sencur - KK Triglav",
-        "time": "14:00",
-        "id": "268946885774020608"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Ilagan Isabela Cowboys - Batangas City Athletics",
-        "time": "15:00",
-        "id": "269119142758584320"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "BC Iverion - BC Margveti",
-        "time": "15:00",
-        "id": "269106337484509184"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Esenler Erokspor - Cayirova Belediyesi",
-        "time": "15:00",
-        "id": "269120933346807808"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Suadiye Basketbol - Gaziantep Belediye",
-        "time": "14:00",
-        "id": "269149158473076736"
+        "type": "futbol",
+        "name": "Stal Mielec - Rakow",
+        "time": "15:45",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3BvcnRvZmV1cm9wZS9tb25vLm0zdTg="
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Burnley - Millwall",
+        "name": "Inhulets - Dynamo Kyiv",
+        "time": "15:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wehen - Dortmund II",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Napredak - Cukaricki",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sandhausen - Hansa Rostock",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb25saW5lLWZvb3RiYWxsL21vbm8ubTN1OA=="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stuttgart II - Alemannia Aachen",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb25lLXNwb3J0L21vbm8ubTN1OA=="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Saarbrucken - Verl",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vY2l0eWJldC9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Munich 1860 - RW Essen",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vYXV0dHYvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Belshina - Minsk 2",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vZ29sYW5kcGFzL21vbm8ubTN1OA=="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dinamo Tbilisi - Kolkheti 1913",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vYmV0dGluZy10b3AvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Din. Minsk - Vitebsk",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vdHY4ODgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zhenis - Aktobe",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzkvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Elva - Flora U21",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDAvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gnistan - Mariehamn",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb3JhbmcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sittard WOMEN - PSV Endhoven WOMEN",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vY2hhbm5lbDM2NS9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PEC Zwolle WOMEN - Twente WOMEN",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0My9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ajax WOMEN - Telstar WOMEN",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0L21vbm8ubTN1OA=="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "West Brom - Luton",
         "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3BvcnQyNC9tb25vLm0zdTg="
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hradec Kralove - Plzen",
+        "time": "14:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dukla Prague - FK Pardubice",
+        "time": "14:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDYvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ararat-Armenia - Shirak Gyumri",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sunderland - QPR",
+        "time": "14:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vYmV0c3BvcnQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Swansea - Oxford Utd",
+        "time": "14:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vdWRhci10di9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Watford - Sheffield Wed",
+        "time": "14:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20va2FuYWwtc3BvcnQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Derby - Stoke",
+        "time": "14:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3VwZXItc3BvcnQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Norwich - Cardiff",
+        "time": "14:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc21pbGUtc3BvcnQvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -47,13 +187,6 @@
         "name": "Coventry - Middlesbrough",
         "time": "14:30",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vZm9vdGJhbGwvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Braunschweig - Dusseldorf",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MjcvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -79,233 +212,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Aston Villa - Fulham",
+        "name": "Burnley - Millwall",
         "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzIvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3BvcnQyNC9tb25vLm0zdTg="
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Inhulets - Dynamo Kyiv",
-        "time": "15:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzcvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Petkim Spor - Buyukcekmece",
-        "time": "15:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzYvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wehen - Dortmund II",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzQvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Napredak - Cukaricki",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stuttgart II - Alemannia Aachen",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb25lLXNwb3J0L21vbm8ubTN1OA=="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sandhausen - Hansa Rostock",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb25saW5lLWZvb3RiYWxsL21vbm8ubTN1OA=="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Munich 1860 - RW Essen",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vYXV0dHYvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Saarbrucken - Verl",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vY2l0eWJldC9tb25vLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dinamo Tbilisi - Kolkheti 1913",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vYmV0dGluZy10b3AvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Belshina - Minsk 2",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vZ29sYW5kcGFzL21vbm8ubTN1OA=="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Din. Minsk - Vitebsk",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vdHY4ODgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zhenis - Aktobe",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzkvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gnistan - Mariehamn",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb3JhbmcvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Elva - Flora U21",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDAvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sittard WOMEN - PSV Endhoven WOMEN",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vY2hhbm5lbDM2NS9tb25vLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PEC Zwolle WOMEN - Twente WOMEN",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0My9tb25vLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ararat-Armenia - Shirak Gyumri",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDMvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ajax WOMEN - Telstar WOMEN",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0L21vbm8ubTN1OA=="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hradec Kralove - Plzen",
-        "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dukla Prague - FK Pardubice",
-        "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDYvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sloga Doboj - Sarajevo",
-        "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzEvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Watford - Sheffield Wed",
-        "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20va2FuYWwtc3BvcnQvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "West Brom - Luton",
-        "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzMvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Norwich - Cardiff",
-        "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc21pbGUtc3BvcnQvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sunderland - QPR",
-        "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vYmV0c3BvcnQvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Swansea - Oxford Utd",
-        "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vdWRhci10di9tb25vLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Derby - Stoke",
-        "time": "14:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3VwZXItc3BvcnQvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Botosani - Unirea Slobozia",
-        "time": "13:45",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3BvcnRvZmV1cm9wZS9tb25vLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ujpest - Gyor",
+        "name": "Braunschweig - Dusseldorf",
         "time": "14:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MjgvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MjcvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tenerife WOMEN - Betis WOMEN",
+        "name": "Chanthaburi - Buriram",
         "time": "14:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NS9tb25vLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sundsvall - Utsikten",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3RvbmxpbmV0di9tb25vLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atyrau - Ordabasy",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3BvcnRsaXZlL21vbm8ubTN1OA=="
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3BvcnQtc3RyZWFtL21vbm8ubTN1OA=="
     },
     {
         "tur": "live",
@@ -317,9 +240,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Chanthaburi - Buriram",
+        "name": "Sundsvall - Utsikten",
         "time": "14:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3BvcnQtc3RyZWFtL21vbm8ubTN1OA=="
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3RvbmxpbmV0di9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tenerife WOMEN - Betis WOMEN",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NS9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ujpest - Gyor",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MjgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PEC Zwolle (Bayanlar) - FC Twente (Bayanlar)",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzczNzgvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -352,6 +296,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ryazan VDV (Bayanlar) - Spartak Moscow (Bayanlar)",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzY5MDUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Angkor Tiger - Boeung Ket",
         "time": "14:00",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzc0MDAvbW9uby5tM3U4"
@@ -359,23 +310,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AO Rea (Bayanlar) - Panathinaikos (Bayanlar)",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzcwNTQvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Sloga Doboj - FK Sarajevo",
         "time": "14:30",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzcwMTUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ryazan VDV (Bayanlar) - Spartak Moscow (Bayanlar)",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzY5MDUvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -393,6 +330,13 @@
     },
     {
         "tur": "live",
+        "type": "futbol",
+        "name": "Banfield U20 - Velez Sarsfield U20",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzcyNTIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
         "type": "basketbol",
         "name": "CSKA Moskova-Yunior - Zenit Saint-Petersburg II",
         "time": "14:00",
@@ -404,13 +348,6 @@
         "name": "Argentinos Juniors U20 - Lanus U 20",
         "time": "15:00",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzcyMzgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Banfield U20 - Velez Sarsfield U20",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzcyNTIvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -432,6 +369,20 @@
         "name": "FC Pinzgau Saalfelden - SV Avusturya Salzburg",
         "time": "15:00",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzc0NzEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Аmager - Holbaek-Stenhus",
+        "time": "15:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzc1MjMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vicem Hai Phong F.C. - Song Lam Nghe An F.C.",
+        "time": "15:15",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzc1MjcvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -457,27 +408,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PEC Zwolle (Bayanlar) - FC Twente (Bayanlar)",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzczNzgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fortuna Sittard (Bayanlar) - PSV Eindhoven (Bayanlar)",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzc0MDYvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AFC Ajax (Bayanlar) - SC Telstar (Bayanlar)",
-        "time": "15:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzczOTgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Ararat-Ermenistan - Shirak F.C.",
         "time": "15:00",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzcyOTAvbW9uby5tM3U4"
@@ -492,16 +422,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Darwin Olympic - Verdi",
-        "time": "13:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzY2MTgvbW9uby5tM3U4"
+        "name": "AFC Ajax (Bayanlar) - SC Telstar (Bayanlar)",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzczOTgvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Újpest - Győri ETO",
-        "time": "14:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzY4MTgvbW9uby5tM3U4"
+        "name": "Fortuna Sittard (Bayanlar) - PSV Eindhoven (Bayanlar)",
+        "time": "15:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzc0MDYvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -516,5 +446,12 @@
         "name": "Atırau - Ordabası",
         "time": "14:00",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzY4NDcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Újpest - Győri ETO",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzY4MTgvbW9uby5tM3U4"
     }
 ]
