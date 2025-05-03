@@ -16,7 +16,7 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Real Valladolid - FC Barcelona",
+        "name": "Real Valladolid - FC Barcelona II",
         "time": "22:00",
         "id": "268062378387705856"
     },
@@ -29,52 +29,24 @@
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "FC Groningen - RKC Waalwijk",
+        "type": "basketbol",
+        "name": "Boca Juniors U22 - Independiente de Oliva U22",
         "time": "21:00",
-        "id": "268038804714164224"
+        "id": "269120933280747520"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PSV Eindhoven - Fortuna Sittard",
+        "name": "Atlanta United - Nashville SC II",
+        "time": "21:45",
+        "id": "268052102538989568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PSV Eindhoven - Fortuna Sittard II",
         "time": "22:00",
         "id": "268038722841350144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KKS Lech Poznan - MKS Puszcza Niepolomice",
-        "time": "21:15",
-        "id": "268374321462906880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Talleres de Cordoba - Instituto de Cordoba",
-        "time": "22:00",
-        "id": "268797495212118016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sarmiento - San Lorenzo",
-        "time": "22:00",
-        "id": "268797495063220224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS St. Etienne - AS Monaco",
-        "time": "22:05",
-        "id": "268062379785457664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Inter - Hellas Verona",
-        "time": "21:45",
-        "id": "268062378939256832"
     },
     {
         "tur": "live",
@@ -120,34 +92,6 @@
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Boca Juniors U22 - Independiente de Oliva U22",
-        "time": "21:00",
-        "id": "269120933280747520"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Civitanova Marche (W) - Virtus Academy Benevento (W)",
-        "time": "21:30",
-        "id": "269101364867633152"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "La Bruixa Basquet Manresa - CB Breogan Lugo",
-        "time": "21:45",
-        "id": "269111124159500288"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Sheffield Hatters (W) - Durham Palatinates (W)",
-        "time": "21:00",
-        "id": "269103499363618816"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
         "name": "AS St. Etienne - AS Monaco II",
         "time": "22:05",
@@ -187,146 +131,6 @@
         "name": "Roche Vendee Basket Club (W) - Landerneau Bretagne Basket (W)",
         "time": "21:00",
         "id": "269192650487369728"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Zorg En Zekerheid Leiden - Antwerp Giants",
-        "time": "21:00",
-        "id": "269020793147625472"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Stella Artois Leuven Bears  - Donar Groningen",
-        "time": "21:30",
-        "id": "269020793273454592"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "CB Gran Canaria - Granada",
-        "time": "21:45",
-        "id": "269111124007456768"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Newcastle Eagles (W) - Essex Rebels (W)",
-        "time": "21:30",
-        "id": "269102873039736832"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "VFL Astrostars Bochum - Science City Jena",
-        "time": "21:00",
-        "id": "268974932232376320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS St. Etienne - AS Monaco II",
-        "time": "22:05",
-        "id": "268062379785457664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Riestra - Godoy Cruz II",
-        "time": "22:00",
-        "id": "268797495796174848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atlanta United - Nashville SC II",
-        "time": "21:45",
-        "id": "268052102538989568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PSV Eindhoven - Fortuna Sittard II",
-        "time": "22:00",
-        "id": "268038722841350144"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Homenetmen Ararat - Beirut Club",
-        "time": "21:45",
-        "id": "269105232461565952"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "BC Oostende - LWD Basket",
-        "time": "21:30",
-        "id": "269020792898064384"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "San Giovanni Valdarno (W) - Broni (W)",
-        "time": "22:00",
-        "id": "269101337493508096"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "JDA Dijon Bourgogne - BCM Gravelines Dunkerque Grand Littoral",
-        "time": "21:30",
-        "id": "268766739619254272"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "UMF Alftanes - Tindastoll",
-        "time": "22:15",
-        "id": "269016247725854720"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Legia Warszawa - Asco Slask Wroclaw",
-        "time": "21:30",
-        "id": "269028132637511680"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Mitteldeutscher BC Weissenfels - Hamburg Towers",
-        "time": "21:00",
-        "id": "269028132184526848"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "JL Bourg Basket - ESSM Le Portel",
-        "time": "21:30",
-        "id": "268767792520630272"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Dolomiti Energia Trento - Pallacanestro Reggiana",
-        "time": "21:00",
-        "id": "268749442701725696"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Hapoel Tel Aviv - Hapoel Galil Gilboa",
-        "time": "21:00",
-        "id": "268919167093182464"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Boulazac Basket Dordogne - ALM Evreux Basket",
-        "time": "21:00",
-        "id": "268967384210083840"
     },
     {
         "tur": "live",
@@ -372,45 +176,248 @@
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Sheffield Hatters (Bayanlar) - Durham Palatinates (Bayanlar)",
-        "time": "21:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5NjYwLm0zdTg="
+        "type": "futbol",
+        "name": "AS St. Etienne - AS Monaco II",
+        "time": "22:05",
+        "id": "268062379785457664"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Atletico Bucaramanga (Bayanlar) - Once Caldas (Bayanlar)",
+        "name": "Deportivo Riestra - Godoy Cruz II",
         "time": "22:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwMDMxLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fortaleza Zipaquira (Bayanlar) - Alianza Petrolera (Bayanlar)",
-        "time": "22:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwMDY1Lm0zdTg="
+        "id": "268797495796174848"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Newcastle Eagles (Bayanlar) - Essex Rebels (Bayanlar)",
+        "name": "Civitanova Marche (W) - Virtus Academy Benevento (W)",
         "time": "21:30",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5ODA3Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Široki Brijeg - FK Borac Banja Luka",
-        "time": "21:45",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5ODgxLm0zdTg="
+        "id": "269101364867633152"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Boca Juniors U23 - Independiente de Oliva U23",
+        "name": "La Bruixa Basquet Manresa - CB Breogan Lugo",
+        "time": "21:45",
+        "id": "269111124159500288"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Sheffield Hatters (W) - Durham Palatinates (W)",
         "time": "21:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5NzYwLm0zdTg="
+        "id": "269103499363618816"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Homenetmen Ararat - Beirut Club",
+        "time": "21:45",
+        "id": "269105232461565952"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "BC Oostende - LWD Basket",
+        "time": "21:30",
+        "id": "269020792898064384"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "JDA Dijon Bourgogne - BCM Gravelines Dunkerque Grand Littoral",
+        "time": "21:30",
+        "id": "268766739619254272"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "UMF Alftanes - Tindastoll",
+        "time": "22:15",
+        "id": "269016247725854720"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "San Giovanni Valdarno (W) - Broni (W)",
+        "time": "22:00",
+        "id": "269101337493508096"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Legia Warszawa - Asco Slask Wroclaw",
+        "time": "21:30",
+        "id": "269028132637511680"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Mitteldeutscher BC Weissenfels - Hamburg Towers",
+        "time": "21:00",
+        "id": "269028132184526848"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "CP Esgueira (W) - Sport Lisboa Benfica (W)",
+        "time": "22:30",
+        "id": "269127475368431616"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "JL Bourg Basket - ESSM Le Portel",
+        "time": "21:30",
+        "id": "268767792520630272"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Dolomiti Energia Trento - Pallacanestro Reggiana",
+        "time": "21:00",
+        "id": "268749442701725696"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Boulazac Basket Dordogne - ALM Evreux Basket",
+        "time": "21:00",
+        "id": "268967384210083840"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Hapoel Tel Aviv - Hapoel Galil Gilboa",
+        "time": "21:00",
+        "id": "268919167093182464"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "VFL Astrostars Bochum - Science City Jena",
+        "time": "21:00",
+        "id": "268974932232376320"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Newcastle Eagles (W) - Essex Rebels (W)",
+        "time": "21:30",
+        "id": "269102873039736832"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "CB Gran Canaria - Granada",
+        "time": "21:45",
+        "id": "269111124007456768"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Stella Artois Leuven Bears  - Donar Groningen",
+        "time": "21:30",
+        "id": "269020793273454592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KKS Lech Poznan - MKS Puszcza Niepolomice",
+        "time": "21:15",
+        "id": "268374321462906880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AS St. Etienne - AS Monaco II",
+        "time": "22:05",
+        "id": "268062379785457664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter - Hellas Verona II",
+        "time": "21:45",
+        "id": "268062378939256832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sarmiento - San Lorenzo",
+        "time": "22:00",
+        "id": "268797495063220224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Talleres de Cordoba - Instituto de Cordoba",
+        "time": "22:00",
+        "id": "268797495212118016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PSV Eindhoven - Fortuna Sittard",
+        "time": "22:00",
+        "id": "268038722841350144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Groningen - RKC Waalwijk",
+        "time": "21:00",
+        "id": "268038804714164224"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Homentmen - Beyrut",
+        "time": "21:45",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5OTEzLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Esgueira (Bayanlar) - Benfica (Bayanlar)",
+        "time": "22:30",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwMjIxLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Xalisco - La Tribu de Ciudad Juarez",
+        "time": "21:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5Njc1Lm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Carlos Mannucci - ADA Jaen",
+        "time": "21:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5OTkyLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Galway United F.C. (Bayanlar) - Athlone Town (Bayanlar)",
+        "time": "21:35",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwMDgxLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Delfines UGM - Halcones Negros",
+        "time": "22:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwMDY4Lm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Dinamo Brest - FC Slavia-Mozyr",
+        "time": "20:55",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5NjUwLm0zdTg="
     },
     {
         "tur": "live",
@@ -432,13 +439,6 @@
         "name": "Cape Town City - Mamelodi Sundowns F.C.",
         "time": "21:00",
         "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5NjMzLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Karma - Al Minaa Basra",
-        "time": "20:30",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5NDY5Lm0zdTg="
     },
     {
         "tur": "live",
@@ -477,13 +477,6 @@
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Roche Vendee (Bayanlar) - Landerneau Bretagne (Bayanlar)",
-        "time": "21:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5NTY0Lm0zdTg="
-    },
-    {
-        "tur": "live",
         "type": "futbol",
         "name": "Atletico Camioneros - Club Atlético Argentino Rosario",
         "time": "21:30",
@@ -513,44 +506,37 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Dinamo Brest - FC Slavia-Mozyr",
-        "time": "20:55",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5NjUwLm0zdTg="
+        "name": "NK Široki Brijeg - FK Borac Banja Luka",
+        "time": "21:45",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5ODgxLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Bucaramanga (Bayanlar) - Once Caldas (Bayanlar)",
+        "time": "22:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwMDMxLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fortaleza Zipaquira (Bayanlar) - Alianza Petrolera (Bayanlar)",
+        "time": "22:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwMDY1Lm0zdTg="
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Homentmen - Beyrut",
-        "time": "21:45",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5OTEzLm0zdTg="
+        "name": "Newcastle Eagles (Bayanlar) - Essex Rebels (Bayanlar)",
+        "time": "21:30",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5ODA3Lm0zdTg="
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Galway United F.C. (Bayanlar) - Athlone Town (Bayanlar)",
-        "time": "21:35",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwMDgxLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Carlos Mannucci - ADA Jaen",
+        "type": "basketbol",
+        "name": "Sheffield Hatters (Bayanlar) - Durham Palatinates (Bayanlar)",
         "time": "21:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5OTkyLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Xalisco - La Tribu de Ciudad Juarez",
-        "time": "21:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5Njc1Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Delfines UGM - Halcones Negros",
-        "time": "22:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwMDY4Lm0zdTg="
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDc5NjYwLm0zdTg="
     },
     {
         "tur": "live",
