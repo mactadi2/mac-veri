@@ -8,6 +8,13 @@
     },
     {
         "tur": "live",
+        "type": "basketbol",
+        "name": "Trento - Reggiana",
+        "time": "21:00",
+        "id": "aHR0cHM6Ly9saXZlLnNwb3J0c3R2LmNvbS50ci9obHMvbG93L3Nwb3J0c3R2X2ZoZC9pbmRleC5tM3U4"
+    },
+    {
+        "tur": "live",
         "type": "futbol",
         "name": "Gnistan - Mariehamn",
         "time": "15:00",
@@ -282,20 +289,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Throttur (Bayanlar) - UMF Tindastóll (Bayanlar)",
-        "time": "20:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkxNjMvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "İzmit Akademi - Kutahya Belediye",
-        "time": "19:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg5MTEvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Pas de la Casa - Penya Encarnada d'Andorra",
         "time": "20:00",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkzMTIvbW9uby5tM3U4"
@@ -324,16 +317,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tuzos Pachuca - Orishas Tepeji",
+        "name": "Throttur (Bayanlar) - UMF Tindastóll (Bayanlar)",
         "time": "20:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzk0MTgvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkxNjMvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "OSE Lions - PVSK Pannonpower Pecs",
+        "name": "İzmit Akademi - Kutahya Belediye",
         "time": "19:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg5MjMvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg5MTEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tuzos Pachuca - Orishas Tepeji",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzk0MTgvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -365,6 +365,13 @@
     },
     {
         "tur": "live",
+        "type": "basketbol",
+        "name": "Gornik Walbrzych - AMW Arka Gdynia",
+        "time": "20:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzk0NzcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
         "type": "futbol",
         "name": "Atletico Ottawa - Pacific",
         "time": "20:00",
@@ -373,16 +380,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Araz-Naxcıvan - Sabah Bakü",
-        "time": "18:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg2NjkvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SuperSport United F.C. - Chippa United F.C.",
-        "time": "18:45",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkyNjcvbW9uby5tM3U4"
+        "name": "Al-Karma - Al Minaa Basra",
+        "time": "20:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzk0NjkvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -421,6 +421,13 @@
     },
     {
         "tur": "live",
+        "type": "basketbol",
+        "name": "Spartak Saint Petersburg (Bayanlar) - Dynamo-Farm Kursk (Bayanlar)",
+        "time": "20:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzk0OTUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
         "type": "futbol",
         "name": "Prishtina Bern - Grasshopper Club Zürich II",
         "time": "20:00",
@@ -429,65 +436,23 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "JBC MMCITE Brno - BK Děčín",
-        "time": "20:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkyNzgvbW9uby5tM3U4"
+        "name": "Ville de Dakar - Atletico Petroleos de Luanda",
+        "time": "20:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzk1MTgvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "KK Zabok - KK Kvarner 2010",
-        "time": "20:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkyOTIvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "WKK Wroclaw - KKK MOSiR Krosno",
-        "time": "20:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkzMzAvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "USV RB Weindorf St Anna - Askoe Oedt",
-        "time": "20:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkzNDYvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Hlučín - TJ Start Brno",
+        "name": "OSE Lions - PVSK Pannonpower Pecs",
         "time": "19:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkyMzEvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg5MjMvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Jolly Jumpers Tubbergen (Bayanlar) - Grasshopper (Bayanlar)",
-        "time": "20:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkzMDcvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Torino Teen Basket (Bayanlar) - Vigarano (Bayanlar)",
+        "name": "NKA Pecs - Budapesti Honved SE",
         "time": "19:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg4OTgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Krasnodar - Rubin Kazan",
-        "time": "19:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg5NzcvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Falco KC Szombathely - Zalakerámia ZTE KK",
-        "time": "19:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg5MjkvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg5MjIvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -499,8 +464,50 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "NKA Pecs - Budapesti Honved SE",
+        "name": "Jolly Jumpers Tubbergen (Bayanlar) - Grasshopper (Bayanlar)",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkzMDcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Hlučín - TJ Start Brno",
         "time": "19:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg5MjIvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkyMzEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "USV RB Weindorf St Anna - Askoe Oedt",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkzNDYvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "WKK Wroclaw - KKK MOSiR Krosno",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkzMzAvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "KK Zabok - KK Kvarner 2010",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkyOTIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "JBC MMCITE Brno - BK Děčín",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzkyNzgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Krasnodar - Rubin Kazan",
+        "time": "19:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg5NzcvbW9uby5tM3U4"
     }
 ]
