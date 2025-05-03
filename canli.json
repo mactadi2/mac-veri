@@ -1,132 +1,6 @@
 [
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Corinthians Paulista - EC Uniao Corinthians",
-        "time": "17:00",
-        "id": "268999335021252608"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Illiabum Clube - CAB Madeira",
-        "time": "17:00",
-        "id": "269126614141505536"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "STK Czarni Slupsk - Dziki Warszawa",
-        "time": "16:30",
-        "id": "269080677699424256"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "BC Lietkabelis - BC Zalgiris Kaunas",
-        "time": "16:50",
-        "id": "269098736706260992"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "U-Banca Transilvania Cluj Napoca - CS Rapid Bucuresti",
-        "time": "17:00",
-        "id": "269112059423232000"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "CSO Voluntari - CSM Corona Brasov",
-        "time": "17:50",
-        "id": "269112058743754752"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "PTG Sokol Lancut - Astoria Bydgoszcz II",
-        "time": "18:00",
-        "id": "269126333649522688"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Portimonense Sc - SC Braga",
-        "time": "17:00",
-        "id": "269126614223294464"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "KD Ilirija - KK Podcetrtek",
-        "time": "17:00",
-        "id": "268946569257160704"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Gs Amarousiou - VAP Kolossos Rodou",
-        "time": "17:00",
-        "id": "268703361443958784"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Academica Efapel - Guifoes Sport Clube",
-        "time": "17:00",
-        "id": "269114610086449152"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Tofas Bursa - Bahcesehir Koleji",
-        "time": "18:00",
-        "id": "268959864384000000"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Kriol Star - US Monastir",
-        "time": "17:30",
-        "id": "269102125107253248"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Zabiny Brno B (W) - Havirov (W)",
-        "time": "17:30",
-        "id": "269188727192031232"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Imortal BC 2 - Sangalhos DC",
-        "time": "17:00",
-        "id": "269126614347026432"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Ovarense Aerosoles - Oliveirense Basquetebol",
-        "time": "17:00",
-        "id": "269107078084300800"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "AS Karditsas - PAOK Thessaloniki",
-        "time": "17:00",
-        "id": "268922720234901504"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "SC Vasco da Gama Porto - CB Queluz",
-        "time": "17:00",
-        "id": "269126614071250944"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
         "name": "Gnistan - Mariehamn",
         "time": "15:00",
@@ -400,10 +274,87 @@
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "PTG Sokol Lancut - Astoria Bydgoszcz",
+        "type": "futbol",
+        "name": "Turan Türkistan - Jetısu FK",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgxMzQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Chaika Peschanokopskoye - FC Alania Vladikavkaz",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgwODkvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Shinnik Yaroslavl - FC Chernomorets Novorossiysk",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgwODgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Soçi - Arsenal Tula",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgwOTAvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Espérance de Tunis - CS Sfaxien",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgyODgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stade Tunisien - US Monastir",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzc5MzQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Araz-Naxcıvan - Sabah Bakü",
+        "time": "18:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg2NjkvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Urartu - Batı Ermenistan",
         "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg1NDUvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg1NjEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Naft Maysan - Al-Qasim",
+        "time": "17:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg1NjcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VfB Hohenems - SC Rheindorf Altach II",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg1NzgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Lisen - Silon Taborsko",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg1ODAvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "OFK Vrsac - Javor Ivanjica",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgxMjEvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -422,79 +373,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FK Velež Mostar - HŠK Zrinjski Mostar",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg2MTIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "OKMK - PFK Andijan",
         "time": "17:30",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgyNzUvbW9uby5tM3U4"
     },
     {
         "tur": "live",
+        "type": "futbol",
+        "name": "Surkhon Termez - Pahtakor Taşkent",
+        "time": "18:15",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg1OTIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
         "type": "basketbol",
-        "name": "Vrijednosnice Osijek - Cedevita Junior",
+        "name": "PTG Sokol Lancut - Astoria Bydgoszcz",
         "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg1MzEvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "OFK Vrsac - Javor Ivanjica",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgxMjEvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Urartu - Batı Ermenistan",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg1NjEvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stade Tunisien - US Monastir",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzc5MzQvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Espérance de Tunis - CS Sfaxien",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgyODgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Soçi - Arsenal Tula",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgwOTAvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Shinnik Yaroslavl - FC Chernomorets Novorossiysk",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgwODgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Chaika Peschanokopskoye - FC Alania Vladikavkaz",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgwODkvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Debreceni VSC - MTK Budapest",
-        "time": "16:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzc5MTMvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Turan Türkistan - Jetısu FK",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzgxMzQvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwNzg1NDUvbW9uby5tM3U4"
     },
     {
         "tur": "live",
