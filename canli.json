@@ -8,24 +8,10 @@
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Riachuelo de La Rioja - Instituto Cordoba",
-        "time": "01:00",
-        "id": "268982614971518976"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Trotamundos De Carabobo - Llaneros de Guarico",
-        "time": "01:00",
-        "id": "269199473150922752"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Muxes - Halcones Zuniga SC II",
-        "time": "02:00",
-        "id": "269210072109944832"
+        "name": "Cerro Largo FC - Plaza Colonia II",
+        "time": "02:30",
+        "id": "268718472168607744"
     },
     {
         "tur": "live",
@@ -58,9 +44,44 @@
     {
         "tur": "live",
         "type": "basketbol",
+        "name": "Trotamundos De Carabobo - Llaneros de Guarico",
+        "time": "01:00",
+        "id": "269199473150922752"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Gimnasia Comodoro Rivadavia - Regatas Corrientes",
+        "time": "02:30",
+        "id": "268990154604154880"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
         "name": "Panteras de Miranda - Marinos de Anzoategui",
         "time": "01:00",
         "id": "269199473212788736"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Riachuelo de La Rioja - Instituto Cordoba",
+        "time": "01:00",
+        "id": "268982614971518976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Moron - CA Defensores Unidos",
+        "time": "01:05",
+        "id": "268779988546883584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cerro Largo FC - Plaza Colonia",
+        "time": "02:30",
+        "id": "268718472168607744"
     },
     {
         "tur": "live",
@@ -93,6 +114,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cusco FC - Universitario de Deportes II",
+        "time": "02:30",
+        "id": "268710750303948800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Cali - Deportes Tolima II",
         "time": "02:10",
         "id": "268719141271244800"
@@ -100,9 +128,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Moron - CA Defensores Unidos",
-        "time": "01:05",
-        "id": "268779988546883584"
+        "name": "Deportivo Muxes - Halcones Zuniga SC II",
+        "time": "02:00",
+        "id": "269210072109944832"
     },
     {
         "tur": "live",
@@ -110,13 +138,6 @@
         "name": "Deportivo Muxes - Halcones Zuniga SC",
         "time": "02:00",
         "id": "269210072109944832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Necaxa II - Tecos II",
-        "time": "01:00",
-        "id": "269222636808179712"
     },
     {
         "tur": "live",
@@ -135,9 +156,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cusco FC - Universitario de Deportes",
+        "time": "02:30",
+        "id": "268710750303948800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Santos de Guapiles - Municipal Perez Zeledon",
         "time": "01:00",
         "id": "268700073270054912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Necaxa II - Tecos II",
+        "time": "01:00",
+        "id": "269222636808179712"
     },
     {
         "tur": "live",
@@ -149,13 +184,6 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Milwaukee Bucks (cyber) - Memphis Grizzlies (cyber)",
-        "time": "01:20",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5L3hnYW1lN180Mjc2MTUxMy5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
         "name": "New York Knicks (cyber) - Denver Nuggets (cyber)",
         "time": "02:00",
         "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5L3hnYW1lN180Mjc2MjIxMi5tM3U4"
@@ -163,9 +191,30 @@
     {
         "tur": "live",
         "type": "basketbol",
+        "name": "Milwaukee Bucks (cyber) - Memphis Grizzlies (cyber)",
+        "time": "01:20",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5L3hnYW1lN180Mjc2MTUxMy5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Indiana Pacers (cyber) - Philadelphia 76ers (cyber)",
+        "time": "02:40",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5L3hnYW1lN180Mjc2MjkwMC5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
         "name": "Miami Heat (Mills_6123) - Detroit Pistons (LaVine_1506)",
         "time": "01:20",
         "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMDM5Lm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Tatyana Smolyaninova - Oksana Sorbalo",
+        "time": "02:20",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjcyLm0zdTg="
     },
     {
         "tur": "live",
@@ -177,16 +226,72 @@
     {
         "tur": "live",
         "type": "tenis",
-        "name": "Tatyana Smolyaninova - Oksana Sorbalo",
-        "time": "02:20",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjcyLm0zdTg="
+        "name": "Boris Smirnov - Georgy Sitsky",
+        "time": "02:35",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMzM5Lm0zdTg="
     },
     {
         "tur": "live",
         "type": "tenis",
-        "name": "Gennady Veitas - Ivan Kirichenko",
-        "time": "02:15",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjYzLm0zdTg="
+        "name": "Ruslan Ivanov - Nikita Evseev",
+        "time": "02:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMTY1Lm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Nikita Tereshko - Artyom Tsykunenko",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwODk3Lm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Muxes - Halcones Zuniga",
+        "time": "02:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjEyLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Necaxa II - Estudiantes Tecos II",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwOTc4Lm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aguara - Lota Schwager",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwOTU5Lm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Nikita Moskovkin - Mikhail Naumov",
+        "time": "02:25",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMzAwLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Daniil Tolyzin - Mikhail Butylev (RUS)",
+        "time": "02:40",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMzU5Lm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Salavat Abulaev - Danil Khramukhin",
+        "time": "02:18",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjc1Lm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Pavel Kovalev - Vadim Ivanov",
+        "time": "02:31",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMzQ1Lm0zdTg="
     },
     {
         "tur": "live",
@@ -198,9 +303,9 @@
     {
         "tur": "live",
         "type": "tenis",
-        "name": "Alexandra Chizhonok - Anna Drobot",
-        "time": "02:11",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjM4Lm0zdTg="
+        "name": "Alina Oboznaya - Milana Belaya",
+        "time": "02:41",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMzUzLm0zdTg="
     },
     {
         "tur": "live",
@@ -246,73 +351,10 @@
     },
     {
         "tur": "live",
-        "type": "tenis",
-        "name": "Nikita Tereshko - Artyom Tsykunenko",
-        "time": "01:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwODk3Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Ruslan Ivanov - Nikita Evseev",
-        "time": "02:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMTY1Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Anton Falat - Dmitriy Kulik",
-        "time": "02:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMTM3Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Evgeny Proskurin - Vitaliy Shumakov",
-        "time": "02:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMTM4Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bombarderos de Tecamac - Union Campesinos",
-        "time": "01:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwOTUxLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Muxes - Halcones Zuniga",
-        "time": "02:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjEyLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Necaxa II - Estudiantes Tecos II",
-        "time": "01:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwOTc4Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aguara - Lota Schwager",
-        "time": "01:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwOTU5Lm0zdTg="
-    },
-    {
-        "tur": "live",
         "type": "futbol",
         "name": "Aguacateros de Periban - Real Apodaca",
         "time": "01:00",
         "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwOTQwLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Cobreloa - Club Deportes Concepción",
-        "time": "00:30",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwODc3Lm0zdTg="
     },
     {
         "tur": "live",
@@ -324,43 +366,29 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Merlo - Sportivo Italiano",
-        "time": "02:10",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjY4Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Valour Winnipeg - Vancouver Langley",
         "time": "02:00",
         "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMTk3Lm0zdTg="
     },
     {
         "tur": "live",
-        "type": "tenis",
-        "name": "Vadim Degtyarev - Vadim Ivanov",
-        "time": "01:52",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMTYwLm0zdTg="
+        "type": "futbol",
+        "name": "Bombarderos de Tecamac - Union Campesinos",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgwOTUxLm0zdTg="
     },
     {
         "tur": "live",
-        "type": "tenis",
-        "name": "Salavat Abulaev - Danil Khramukhin",
-        "time": "02:18",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjc1Lm0zdTg="
+        "type": "futbol",
+        "name": "Langley United - Unity Langley",
+        "time": "02:30",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMzQ0Lm0zdTg="
     },
     {
         "tur": "live",
-        "type": "tenis",
-        "name": "Ivan Leonov - Artyom Sharshikov",
+        "type": "futbol",
+        "name": "Deportivo Merlo - Sportivo Italiano",
         "time": "02:10",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjczLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Nikita Moskovkin - Mikhail Naumov",
-        "time": "02:25",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMzAwLm0zdTg="
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgxMjY4Lm0zdTg="
     }
 ]
