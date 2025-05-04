@@ -1,1 +1,352 @@
-[]
+[
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Cholet Basket - ASVEL Lyon Villeurbanne",
+        "time": "20:00",
+        "id": "268786310699945984"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Amman United - Al Ahli",
+        "time": "20:00",
+        "id": "269206535621709824"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Maccabi Tel Aviv - Ironi Ness Ziona",
+        "time": "20:50",
+        "id": "268919166953721856"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Partizan - KK Mega MIS II",
+        "time": "20:30",
+        "id": "268919176599572480"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "BC Levice Patrioti - Inter Bratislava",
+        "time": "20:00",
+        "id": "269212420255387648"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Valencia (W) - Perfumerias Avenida Salamanca (W)",
+        "time": "20:00",
+        "id": "269200243835408384"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "CSU ASE Bucuresti - ACS Targu Jiu",
+        "time": "20:00",
+        "id": "269200378631950336"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Maccabi Ashdod (W) - Hapoel Rishon-lezion (W)",
+        "time": "20:15",
+        "id": "269208751796523008"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "LF Basket Norrbotten Lulea - Boras Basket",
+        "time": "20:04",
+        "id": "269155085407358976"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Mamak Belediyesi Ankaragucu - Konya Basket",
+        "time": "20:30",
+        "id": "269198225608675328"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Twarde Pierniki Torun - King Wilki Morskie Szczecin",
+        "time": "21:00",
+        "id": "269097683478777856"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Bashkimi - KB Trepca Mitrovice",
+        "time": "20:00",
+        "id": "269210382153945088"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "KK FMP Beograd - KK Crvena Zvezda (Red Star Belgrade)",
+        "time": "20:00",
+        "id": "269163726741049344"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Guifoes Sport Clube - Academica Efapel",
+        "time": "20:00",
+        "id": "269228567805693952"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Ginasio Exzellenz (W) - Ferragudo Cidade Lagoa (W)",
+        "time": "20:30",
+        "id": "269200878607667200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Ain - Al Jazira",
+        "time": "19:45",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vYXJlbmEtc3BvcnQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "FMP - Crvena Zvezda",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MjcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Olympiacos Piraeus - PAOK",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MjgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Beitar Jerusalem - Netanya",
+        "time": "20:15",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Ahli Doha - Qatar SC",
+        "time": "20:15",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzAvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mainz - Eintracht Frankfurt",
+        "time": "20:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Partizan - Mega",
+        "time": "20:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Otelul - FC Hermannstadt",
+        "time": "20:45",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4OC9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Radnicki 1923 - Mladost",
+        "time": "21:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vc3BvcnRvZmV1cm9wZS9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vllaznia - Dinamo Tirana",
+        "time": "21:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vYXV0dHYvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Koper - Domzale",
+        "time": "21:15",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb25saW5lLWZvb3RiYWxsL21vbm8ubTN1OA=="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnasia L.P. - Platense",
+        "time": "21:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Martin S.J. - Aldosivi",
+        "time": "21:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Os Belenenses - AD Fafe",
+        "time": "21:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Oakville SC - St. Catharines Wolves",
+        "time": "21:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc4MjcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Rise 3x3 (Bayanlar) - James Madison 3x3 (Bayanlar)",
+        "time": "21:15",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc4MjgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Ginasio Exzellenz (Bayanlar) - Ferragudo (Bayanlar)",
+        "time": "20:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc1OTIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "KK FMP - KK Crvena zvezda",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODczMzIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "KK Partizan - Mega MIS",
+        "time": "20:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc1NzgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Polski Cukier SIDEn Toruń - King Wilki Morskie Szczecin",
+        "time": "21:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc3NjAvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Ahli Doha - Katar SC",
+        "time": "20:15",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc0NDEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aqvital Csakvar - Kozármisleny SE",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODczNzkvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gyirmot - Budafoki MTE-Ujbuda",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc0MjUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Maccabi Bnot Ashdod (Bayanlar) - Hapoel Rishon Le-Zion (Bayanlar)",
+        "time": "20:15",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc0ODUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Liniers - Deportivo Merlo",
+        "time": "21:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc4NzEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Radnik Bijeljina - NK GOŠK Gabela",
+        "time": "20:45",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc2MDIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Ville de Dakar - US Monastir",
+        "time": "20:15",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc1MTMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Amman United - Al Ahli Amman",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc0MTcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Círculo Deportivo - Club Villa Mitre",
+        "time": "21:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc3NjYvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Olimpo - Deportivo Rincon",
+        "time": "21:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc4ODQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atlético Central Córdoba - Puerto Nuevo",
+        "time": "21:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc5MDEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Germinal - Club Cipolletti",
+        "time": "21:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc3NzQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Čelik Zenica - Tuzla City",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODczNjAvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "KB Bashkimi Prizren - KB Trepca Mitrovice",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc0MzcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Guifoes SC - Associação Académica de Coimbra",
+        "time": "20:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODc0MzUvbW9uby5tM3U4"
+    }
+]
