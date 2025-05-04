@@ -2,21 +2,7 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Guifoes SC U23 - UAA ARoso",
-        "time": "23:00",
-        "id": "269278276142370816"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Guaiqueries de Margarita - Gladiadores de Anzoategui",
-        "time": "00:00",
-        "id": "269288822496432128"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Toros de Aragua - Pioneros",
+        "name": "Toros de Aragua - Pioneros II",
         "time": "00:30",
         "id": "269288822570881024"
     },
@@ -37,44 +23,44 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cruzeiro MG - Flamengo RJ II",
+        "time": "00:30",
+        "id": "267974968072081408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Barcelona SC Guayaquil - Vinotinto Ecuador",
         "time": "00:30",
         "id": "268701966854656000"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Independiente Medellin - Atletico Nacional de Medellin",
-        "time": "00:10",
-        "id": "268747288172695552"
+        "type": "basketbol",
+        "name": "Cleveland Cavaliers - Indiana Pacers II",
+        "time": "01:00",
+        "id": "268896502363066368"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "CA Patronato - Racing de Cordoba",
-        "time": "23:00",
-        "id": "268696474181832704"
+        "type": "basketbol",
+        "name": "Cleveland Cavaliers - Indiana Pacers",
+        "time": "01:00",
+        "id": "268896502363066368"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "FC Politecnico - Oceania FC",
-        "time": "00:30",
-        "id": "269207168008458240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leones Negros de la Universidad de Guadalajara II - Correcaminos II",
+        "type": "basketbol",
+        "name": "Guaiqueries de Margarita - Gladiadores de Anzoategui",
         "time": "00:00",
-        "id": "269126274917732352"
+        "id": "269288822496432128"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gimnasia Y Tiro De Salta - CA All Boys",
-        "time": "23:00",
-        "id": "268703130610438144"
+        "name": "Tigre - Boca Juniors",
+        "time": "00:00",
+        "id": "268797495270838272"
     },
     {
         "tur": "live",
@@ -86,9 +72,44 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tigre - Boca Juniors",
+        "name": "FC Politecnico - Oceania FC",
+        "time": "00:30",
+        "id": "269207168008458240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Irritilas FC - Santa Ana del Conde",
+        "time": "01:00",
+        "id": "269210470294097920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Heroes de Zaci - Licantropos",
+        "time": "01:00",
+        "id": "269176498699767808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Leones Negros de la Universidad de Guadalajara II - Correcaminos II",
         "time": "00:00",
-        "id": "268797495270838272"
+        "id": "269126274917732352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Independiente Medellin - Atletico Nacional de Medellin",
+        "time": "00:10",
+        "id": "268747288172695552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cruzeiro - Flamengo RJ",
+        "time": "00:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDUvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -106,38 +127,241 @@
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Cruzeiro - Flamengo RJ",
+        "type": "tenis",
+        "name": "Alexey Demidov - Denis Dinislamov",
+        "time": "00:41",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4NzMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Alexander Titov - Petr Chugunov",
+        "time": "01:09",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5ODAvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Kirill Goncharov - Andrey Tristen",
+        "time": "00:43",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4ODgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Alexander Kavrigo - Ilya Kazak",
+        "time": "01:04",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5NjMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Mateusz Kozanowski - Adam Sakowski",
+        "time": "01:04",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5NzMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Cui Jin - Geng Dapeng",
+        "time": "00:43",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4NzkvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Victoria Bredikhina - Viktoria Serebrennikova (RUS)",
+        "time": "01:03",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5NTQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Sergey Zavrazhnov - Nikolay Potapenok",
         "time": "00:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDUvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3ODEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Anna Novogran - Maria Stsetsevich",
+        "time": "00:55",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5MTgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Helen Miagkova - Irina Proshina",
+        "time": "00:07",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MTIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Ivan Mitrofanov - Evgeniy Boboshin",
+        "time": "00:16",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3NDMvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Malaysia (TBL) - Meksika (TBL)",
-        "time": "23:55",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg2NDAvbW9uby5tM3U4"
+        "name": "Volga - Oka",
+        "time": "00:54",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5ODQvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Peru (TBL) - İtalya (TBL)",
-        "time": "23:55",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg2MzgvbW9uby5tM3U4"
+        "name": "İtalya (TBL) - Malaysia (TBL)",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5MzEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Meksika (TBL) - Peru (TBL)",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5MzMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Georgy Borovyk - Nikita Matiyevich",
+        "time": "00:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg2NTIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Nikita Evseev - Artyom Tsykunenko",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5MjYvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Alexey Dubinov - Vladimir Tkachenko",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5MDIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Igor Shinkar - Konstantin Pushkar",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4ODkvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Vladislav Sorbalo (RUS) - Evgeny Proskurin",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4OTcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Iryna Bric - Liubov Tikhonova",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5MDgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Gunners (Green) - Mariners (Blue)",
+        "time": "00:20",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3NzIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Trans-Nova - PromMash Orsha",
+        "time": "00:40",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Memphis Grizzlies (Flagler_8543) - Sacramento Kings (Bona_3007)",
+        "time": "23:50",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg2MzYvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Cleveland Cavaliers (cyber) - New York Knicks (cyber)",
+        "time": "00:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20veGdhbWU3XzQyNzg1MTA4L21vbm8ubTN1OA=="
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Philadelphia 76ers (cyber) - Phoenix Suns (cyber)",
+        "time": "00:40",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20veGdhbWU3XzQyNzg1Nzk0L21vbm8ubTN1OA=="
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Artem Makarychev - Anatoly Gorelkin (RUS)",
+        "time": "00:57",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5NDUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "tenis",
+        "name": "Martin Maldonado - Ezequiel Tapia",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5MzYvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Moquegua - Universidad San Martín",
-        "time": "23:15",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg1ODIvbW9uby5tM3U4"
+        "name": "C.S.D. Municipal - Deportivo Mixco",
+        "time": "00:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MDMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Toros de Aragua - Pioneros del Avila",
+        "time": "00:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4NDYvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Molinos El Pirata - Universidad César Vallejo Club de Fútbol",
-        "time": "23:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg0MjYvbW9uby5tM3U4"
+        "name": "Moca - Cibao",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5MjIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Caledonia AIA - Point Fortin Civic F.C.",
+        "time": "00:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MTkvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Irritilas - Santa Ana del Conde",
+        "time": "01:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5NzEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orgullo Surtam - Michoacan",
+        "time": "00:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3NDUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Politécnico - Oceania FC",
+        "time": "00:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4NDkvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -163,48 +387,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Universitario de Deportes (Bayanlar) - Carlos Mannucci (Bayanlar)",
-        "time": "23:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg0ODQvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colo-Colo (Bayanlar) - Union Espanola (Bayanlar)",
-        "time": "23:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg0MTcvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Academia Olimpicas U20 - Ocana U20",
-        "time": "23:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg0MjIvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Estudiantil CNI - Union Huaral",
-        "time": "23:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg0MjMvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Lute - Juventus Huamachuco",
-        "time": "23:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg1MDAvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UDA Huancavelica - Deportivo Ucrania",
-        "time": "23:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg1MDUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Mayaguez - Quintana Academy",
         "time": "23:15",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg1OTUvbW9uby5tM3U4"
@@ -218,178 +400,10 @@
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Chaos 3x3 (Bayanlar) - Rise 3x3 (Bayanlar)",
-        "time": "00:15",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4MTgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
         "type": "tenis",
-        "name": "Pavel Khripunenko (RUS) - Alexander Oleksyuk",
-        "time": "00:23",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3ODkvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Maksim Kovrizhnikov (RUS) - Alexandr Shirshov (RUS)",
-        "time": "00:01",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MDIvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Alexey Demidov - Denis Dinislamov",
-        "time": "00:41",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4NzMvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Alexander Brook - Alexey Bychkov",
-        "time": "00:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4MTAvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Yuri Sinyavsky - Andrey Krasnov",
-        "time": "00:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg2ODkvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Pavel Skrobot - Alexander Dyatel",
-        "time": "00:29",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4MTcvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Anton Mezhevich - Ilya Kazak",
-        "time": "00:37",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4NDIvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Piotr Wisniewski - Jacek Skrzeczkowski",
-        "time": "00:26",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4MTYvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Maria Syropova - Anastasia Samoiluk",
-        "time": "00:10",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MzUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Sergey Zavrazhnov - Nikolay Potapenok",
-        "time": "00:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3ODEvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Daria Makeychik - Daria Kolpak",
-        "time": "23:10",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg0MzEvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Helen Miagkova - Irina Proshina",
-        "time": "00:07",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MTIvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Ivan Mitrofanov - Evgeniy Boboshin",
-        "time": "00:16",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3NDMvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Oka - Yenisei",
-        "time": "23:55",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg2NjkvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Alexander Pekhterev - Komron Salimov",
-        "time": "00:29",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4MTQvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Georgy Borovyk - Nikita Matiyevich",
-        "time": "00:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg2NTIvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Ivan Volodkevich - Jan Hursan",
-        "time": "23:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODgyNjcvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Dmitry Zhivotov - Vladislav Sorbalo (RUS)",
-        "time": "00:20",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MjcvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Konstantin Pushkar - Andrey Rekhtin",
-        "time": "00:20",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3NDgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Oleg Tretyakov (RUS) - Igor Ovcharenko (RUS)",
-        "time": "00:20",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3NTIvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "tenis",
-        "name": "Alena Ohremyuk - Olga Blokhina",
-        "time": "00:20",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MTQvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Gunners (Green) - Mariners (Blue)",
-        "time": "00:20",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3NzIvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Trans-Nova - PromMash Orsha",
-        "time": "00:40",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4MzUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Charlotte SA - Charleston United",
-        "time": "23:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg0MDcvbW9uby5tM3U4"
+        "name": "Artyom Berezhnoy - Anton Oleksyuk",
+        "time": "01:07",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg5NjkvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -397,75 +411,5 @@
         "name": "Universidad de Guadalajara II - Correcaminos II",
         "time": "00:00",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MTgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "C.S.D. Municipal - Deportivo Mixco",
-        "time": "00:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MDMvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Toros de Aragua - Pioneros del Avila",
-        "time": "00:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4NDYvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Caledonia AIA - Point Fortin Civic F.C.",
-        "time": "00:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3MTkvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Guifoes U23 - UAA Aroso",
-        "time": "23:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg0MjEvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orgullo Surtam - Michoacan",
-        "time": "00:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg3NDUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Politécnico - Oceania FC",
-        "time": "00:30",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg4NDkvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Anadolu Efes (Rivero_1441) - Virtus Bologna (Jaramaz_4412)",
-        "time": "23:50",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg2MzcvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Philadelphia 76ers (cyber) - Phoenix Suns (cyber)",
-        "time": "00:40",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20veGdhbWU3XzQyNzg1Nzk0L21vbm8ubTN1OA=="
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Memphis Grizzlies (Flagler_8543) - Sacramento Kings (Bona_3007)",
-        "time": "23:50",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODg2MzYvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Cleveland Cavaliers (cyber) - New York Knicks (cyber)",
-        "time": "00:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20veGdhbWU3XzQyNzg1MTA4L21vbm8ubTN1OA=="
     }
 ]
