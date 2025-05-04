@@ -1,20 +1,6 @@
 [
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Terrafirma Dyip - Magnolia Hotshots",
-        "time": "12:00",
-        "id": "269199568752742400"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Bank of Taiwan - Yulon Luxgen Dinos",
-        "time": "12:00",
-        "id": "269207250401366016"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
         "name": "FC Alverca - Pacos Ferreira II",
         "time": "13:00",
@@ -23,9 +9,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Felgueiras 1932 - Benfica Lisbon B II",
-        "time": "13:00",
-        "id": "268703332899622912"
+        "name": "NAC Breda - FC Zwolle II",
+        "time": "13:15",
+        "id": "268038771146100736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NAC Breda - FC Zwolle",
+        "time": "13:15",
+        "id": "268038771146100736"
     },
     {
         "tur": "live",
@@ -37,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Piast Gliwice - Radomiak Radom",
+        "time": "13:15",
+        "id": "268374401257443328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Alverca - Pacos Ferreira",
         "time": "13:00",
         "id": "268744455530614784"
@@ -44,9 +44,65 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Pribram II - FK Slavoj Český Krumlov",
-        "time": "11:15",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgzOTQzLm0zdTg="
+        "name": "Piast Gliwice - Radomiak Radom II",
+        "time": "13:15",
+        "id": "268374401257443328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Felgueiras 1932 - Benfica Lisbon B II",
+        "time": "13:00",
+        "id": "268703332899622912"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Azul Marino Viajes Mallorca Sant Josep (W) - La Salle Melilla (W)",
+        "time": "13:00",
+        "id": "269219676810252288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NAC Breda - FC Zwolle II",
+        "time": "13:15",
+        "id": "268038771146100736"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Bank of Taiwan - Yulon Luxgen Dinos",
+        "time": "12:00",
+        "id": "269207250401366016"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Terrafirma Dyip - Magnolia Hotshots",
+        "time": "12:00",
+        "id": "269199568752742400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Yenisey Krasnoyarsk II - Luki-Energy Velikiye Luki",
+        "time": "12:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MjY3Lm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lech Poznan (Bayanlar) - KKP Bydgoszcz (Bayanlar)",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NzIzLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sparta Katowice - Rekord Bielsko-Biala II",
+        "time": "12:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MjA5Lm0zdTg="
     },
     {
         "tur": "live",
@@ -58,30 +114,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Zlin II - MFK Frýdek-Místek",
-        "time": "11:30",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MDAwLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kirivong Sok Sen Chey - National Defense Ministry",
-        "time": "11:45",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MTU2Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zbrojovka II - 1. FC Slovácko II",
-        "time": "11:15",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgzOTU5Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Viktoria Plzeň II - Dukla Prague II",
-        "time": "11:30",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MDAyLm0zdTg="
+        "name": "Shree Kumari - Planning Boys United",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NzExLm0zdTg="
     },
     {
         "tur": "live",
@@ -93,9 +128,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Uničov - SK Hanácká Slavia Kroměříž",
-        "time": "11:15",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgzOTQ2Lm0zdTg="
+        "name": "Kirivong Sok Sen Chey - National Defense Ministry",
+        "time": "11:45",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MTU2Lm0zdTg="
     },
     {
         "tur": "live",
@@ -113,10 +148,10 @@
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "FC Voluntari - CSA Steaua",
-        "time": "11:30",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MDI2Lm0zdTg="
+        "type": "basketbol",
+        "name": "Azulmarino Mallorca Palma (Bayanlar) - La Salle Melilla (Bayanlar)",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NzcyLm0zdTg="
     },
     {
         "tur": "live",
@@ -128,41 +163,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Sigma Olomouc II - MFK Vyskov",
-        "time": "11:15",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgzOTY2Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Slavia II - SFC Opava",
-        "time": "11:15",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgzOTY0Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viktoria Zizkov - MFK Chrudim",
-        "time": "11:15",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDgzOTYxLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Semen Padang F.C. - Madura United",
-        "time": "11:30",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MDI1Lm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Basketball Almaty - SD Youngsters",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NjcyLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "AmaZulu II - Kaizer Chiefs II",
         "time": "12:30",
         "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NjA1Lm0zdTg="
@@ -170,8 +170,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SVG Reichenau - SC Schwaz",
-        "time": "11:30",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MTcxLm0zdTg="
+        "name": "FC Basketball Almaty - SD Youngsters",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NjcyLm0zdTg="
     }
 ]
