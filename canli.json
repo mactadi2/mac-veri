@@ -8,80 +8,10 @@
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "Bank of Taiwan - Yulon Luxgen Dinos",
-        "time": "12:00",
-        "id": "269207250401366016"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Azul Marino Viajes Mallorca Sant Josep (W) - La Salle Melilla (W) II",
-        "time": "13:00",
-        "id": "269219676810252288"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Unicaja Malaga - MoraBanc Andorra",
-        "time": "13:30",
-        "id": "269111209200062464"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Basquet Girona - Iberostar Tenerife Canarias",
-        "time": "13:30",
-        "id": "269111124089245696"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Terrafirma Dyip - Magnolia Hotshots",
-        "time": "12:00",
-        "id": "269199568752742400"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Movistar Estudiantes - CB Tizona",
-        "time": "13:30",
-        "id": "269027781307928576"
-    },
-    {
-        "tur": "live",
         "type": "futbol",
-        "name": "FC Alverca - Pacos Ferreira II",
-        "time": "13:00",
-        "id": "268744455530614784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Empoli - SS Lazio II",
-        "time": "13:30",
-        "id": "268062447576944640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Piast Gliwice - Radomiak Radom II",
-        "time": "13:15",
-        "id": "268374401257443328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Felgueiras 1932 - Benfica Lisbon B II",
-        "time": "13:00",
-        "id": "268703332899622912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NAC Breda - FC Zwolle II",
-        "time": "13:15",
-        "id": "268038771146100736"
+        "name": "FK Fakel - Spartak Moskova",
+        "time": "14:00",
+        "id": "268057874611179520"
     },
     {
         "tur": "live",
@@ -93,9 +23,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Glasgow Rangers FC - Celtic FC II",
+        "time": "14:00",
+        "id": "268477135853850624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NAC Breda - FC Zwolle II",
+        "time": "13:15",
+        "id": "268038771146100736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Felgueiras 1932 - Benfica Lisbon B",
         "time": "13:00",
         "id": "268703332899622912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Slovacko - Dynamo Ceske Budejovice II",
+        "time": "14:00",
+        "id": "268662295784198144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Piast Gliwice - Radomiak Radom",
+        "time": "13:15",
+        "id": "268374401257443328"
     },
     {
         "tur": "live",
@@ -114,78 +72,232 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Piast Gliwice - Radomiak Radom",
-        "time": "13:15",
-        "id": "268374401257443328"
+        "name": "Empoli - SS Lazio II",
+        "time": "13:30",
+        "id": "268062447576944640"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Ordino - Inter Club d'Escaldes",
-        "time": "12:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MjI2Lm0zdTg="
+        "name": "SC Poltava - Ahrobiznes Volochysk",
+        "time": "12:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rangers - Celtic",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Slovacko - Ceske Budejovice",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vZ29sYW5kcGFzL21vbm8ubTN1OA=="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Gomel - Isloch",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzAvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Slonim - Lida",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDYvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Manchester United WOMEN - Manchester City WOMEN",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MjcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fakel Voronezh - Spartak Moscow",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0MzIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AS Roma W - AC Milan W",
+        "time": "13:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NS9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Madrid C W - Badalona WOMEN",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb25lLXNwb3J0L21vbm8ubTN1OA=="
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Girona - Tenerife",
+        "time": "13:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NC9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Madrid WOMEN - Athletic Bilbao WOMEN",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vY2hhbm5lbDM2NS9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "LNZ Cherkasy - FK Zorya Luhansk",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb25saW5lLWZvb3RiYWxsL21vbm8ubTN1OA=="
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Legnica - Odra Opole",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vdHY4ODgvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Tallinn - Tallinna Kalev U21",
+        "time": "12:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nomme Utd - Tammeka U21",
+        "time": "12:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDQvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Busan - Asan",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vYmV0dGluZy10b3AvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hwaseong - Cheonan City",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb3JhbmcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Информ - Turkspor Belarus",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODUwOTcvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
         "name": "Shree Kumari - Planning Boys United",
         "time": "13:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NzExLm0zdTg="
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODQ3MTEvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lech Poznan (Bayanlar) - KKP Bydgoszcz (Bayanlar)",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NzIzLm0zdTg="
+        "name": "Lyngbø - Lyn II",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODUwODkvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Zlinsko - Hlubina",
-        "time": "12:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MjkzLm0zdTg="
+        "name": "Gamle Oslo - Alta II",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODUwNjcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Naga World - Phnom Penh Crown FC",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODQ5NzcvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "basketbol",
         "name": "Azulmarino Mallorca Palma (Bayanlar) - La Salle Melilla (Bayanlar)",
         "time": "13:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NzcyLm0zdTg="
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODQ3NzIvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Long An - Ho Chi Minh City II",
-        "time": "12:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MjQ2Lm0zdTg="
+        "name": "P.A.O.K. F.C. (Bayanlar) - Asteras Tripolis (Bayanlar)",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODUwNjIvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Basketball Almaty - SD Youngsters",
-        "time": "13:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NjcyLm0zdTg="
+        "name": "Thanh Hoa F.C. - Ho Chi Minh City F.C.",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODUwMTQvbW9uby5tM3U4"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "AmaZulu II - Kaizer Chiefs II",
-        "time": "12:30",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NjA1Lm0zdTg="
+        "type": "basketbol",
+        "name": "Zenit Saint-Petersburg II - Pari Nizhny Novgorod II",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODUwNDUvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
         "name": "CSKA Moskova (Bayanlar) - Krylya Sovetov (Bayanlar)",
         "time": "13:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0NjU0Lm0zdTg="
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODQ2NTQvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dong Nai F.C. - Binh Phuoc",
-        "time": "12:00",
-        "id": "aHR0cHM6Ly85NTU5Y2IwOTFjMDNiZTZlZGQ5MGY0ZmJlN2ZlZTNkMC5zYnMveS9yYXBzb2R5LzE2MDg0MzAwLm0zdTg="
+        "name": "FC Basketball Almaty - SD Youngsters",
+        "time": "13:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODQ2NzIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AmaZulu II - Kaizer Chiefs II",
+        "time": "12:30",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODQ2MDUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Binh Dinh F.C. - Hoang Anh Gia Lai F.C.",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODUwMTEvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gomel - Isloch",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODUwNjMvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Fakel Voronezh - FC Spartak Moskova",
+        "time": "14:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vMTYwODQ5NjQvbW9uby5tM3U4"
     }
 ]
