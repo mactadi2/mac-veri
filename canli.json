@@ -16,20 +16,6 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "USFAS Bamako (W) - Kalaban Sports Club (KSC) (W)",
-        "time": "21:00",
-        "id": "269313966683066368"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Elitzur Netanya - Hapoel Afula II",
-        "time": "20:50",
-        "id": "268919169698893824"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
         "name": "Ermis Pireaus - AE Renti",
         "time": "21:30",
         "id": "269387747867889664"
@@ -37,9 +23,9 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "San Lorenzo de Almagro U22 - Independiente de Oliva U22",
-        "time": "22:30",
-        "id": "269303507978424320"
+        "name": "Zarate Basket U22 - Regatas Corrientes U22",
+        "time": "23:00",
+        "id": "269303598637256704"
     },
     {
         "tur": "live",
@@ -50,24 +36,10 @@
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Crystal Palace FC - Nottingham Forest II",
-        "time": "22:00",
-        "id": "268062766233948160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vikingur Reykjavik - Fram Reykjavik",
-        "time": "22:15",
-        "id": "268792542603120640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Girona FC - Real Mallorca II",
-        "time": "22:00",
-        "id": "268062584999120896"
+        "type": "basketbol",
+        "name": "San Lorenzo de Almagro U22 - Independiente de Oliva U22",
+        "time": "22:30",
+        "id": "269303507978424320"
     },
     {
         "tur": "live",
@@ -79,37 +51,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Crystal Palace FC - Nottingham Forest II",
+        "name": "Girona FC - Real Mallorca II",
         "time": "22:00",
-        "id": "268062766233948160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Breidablik Kopavogur - KR Reykjavik",
-        "time": "22:15",
-        "id": "268792542520283136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Castellon - Real Sporting de Gijon II",
-        "time": "21:30",
-        "id": "268750112101109760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boca Juniors Cali - Atletico Cali F.C.",
-        "time": "22:00",
-        "id": "268707174547591168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Barracas - Deportivo Paraguayo",
-        "time": "21:30",
-        "id": "269154484960235520"
+        "id": "268062584999120896"
     },
     {
         "tur": "live",
@@ -121,16 +65,51 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Castellon - Real Sporting de Gijon",
+        "name": "Crystal Palace FC - Nottingham Forest II",
+        "time": "22:00",
+        "id": "268062766233948160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Castellon - Real Sporting de Gijon II",
         "time": "21:30",
         "id": "268750112101109760"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AVS Futebol SAD - Boavista FC",
+        "name": "Sportivo Barracas - Deportivo Paraguayo",
+        "time": "21:30",
+        "id": "269154484960235520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Boca Juniors Cali - Atletico Cali F.C.",
+        "time": "22:00",
+        "id": "268707174547591168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vikingur Reykjavik - Fram Reykjavik",
         "time": "22:15",
-        "id": "268759198751395840"
+        "id": "268792542603120640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Breidablik Kopavogur - KR Reykjavik",
+        "time": "22:15",
+        "id": "268792542520283136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Crystal Palace FC - Nottingham Forest II",
+        "time": "22:00",
+        "id": "268062766233948160"
     },
     {
         "tur": "live",
@@ -142,16 +121,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shamrock Rovers - Sligo Rovers",
-        "time": "21:00",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDMvbW9uby5tM3U4"
+        "name": "AVS Futebol SAD - Boavista FC",
+        "time": "22:15",
+        "id": "268759198751395840"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AFS - Boavista",
-        "time": "22:15",
-        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NC9tb25vLm0zdTg="
+        "name": "Castellon - Real Sporting de Gijon",
+        "time": "21:30",
+        "id": "268750112101109760"
     },
     {
         "tur": "live",
@@ -173,5 +152,19 @@
         "name": "Vikingur Reykjavik - Persebaya",
         "time": "22:15",
         "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NDUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AFS - Boavista",
+        "time": "22:15",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vbWl4LXNwb3J0NC9tb25vLm0zdTg="
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Boston Celtics - New York Knicks",
+        "time": "23:00",
+        "id": "aHR0cHM6Ly9zMS5rb29vcmFmb290YmFsbC5jb20vb3JhbmcvbW9uby5tM3U4"
     }
 ]
