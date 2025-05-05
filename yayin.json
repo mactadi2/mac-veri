@@ -1,6 +1,13 @@
 [
     {
         "type": "futbol",
+        "name": "CA Tigre - Boca Juniors",
+        "day": "05",
+        "time": "00:00",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
         "name": "Kasımpaşa - Trabzonspor",
         "day": "05",
         "time": "20:00",
@@ -19,6 +26,13 @@
         "day": "05",
         "time": "22:00",
         "channel": "S Sport"
+    },
+    {
+        "type": "futbol",
+        "name": "Crystal Palace - Nottingham Forest",
+        "day": "05",
+        "time": "22:00",
+        "channel": "Bein Sports 3"
     },
     {
         "type": "basketbol",
