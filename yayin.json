@@ -1,58 +1,16 @@
 [
     {
         "type": "futbol",
-        "name": "CA Tigre - Boca Juniors",
-        "day": "05",
-        "time": "00:00",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Kasımpaşa - Trabzonspor",
-        "day": "05",
-        "time": "20:00",
-        "channel": "Bein Sports 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Genoa - Milan",
-        "day": "05",
-        "time": "21:45",
-        "channel": "S Sport 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Girona - Mallorca",
-        "day": "05",
+        "name": "Inter - Barcelona",
+        "day": "06",
         "time": "22:00",
-        "channel": "S Sport"
-    },
-    {
-        "type": "futbol",
-        "name": "Crystal Palace - Nottingham Forest",
-        "day": "05",
-        "time": "22:00",
-        "channel": "Bein Sports 3"
+        "channel": "TRT 1"
     },
     {
         "type": "basketbol",
-        "name": "Houston Rockets - GS Warriors",
-        "day": "05",
-        "time": "03:30",
-        "channel": "S Sport"
-    },
-    {
-        "type": "basketbol",
-        "name": "Anadolu Efes - Beşiktaş Fibabanka",
-        "day": "05",
-        "time": "18:00",
-        "channel": "Bein Sports 5"
-    },
-    {
-        "type": "basketbol",
-        "name": "Türk Telekom - Merkezefendi Bld.",
-        "day": "05",
-        "time": "20:30",
+        "name": "Fenerbahçe Beko - Karşıyaka",
+        "day": "06",
+        "time": "19:00",
         "channel": "Bein Sports 5"
     }
 ]
