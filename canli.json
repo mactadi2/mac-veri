@@ -9,6 +9,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fluminense RJ U20 - Sao Paulo FC U20",
+        "time": "21:00",
+        "id": "269322915385839616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Internacional Rs U20 - America MG U20",
+        "time": "21:00",
+        "id": "269323030132559872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santos FC U20 - Gremio RS U20",
+        "time": "21:00",
+        "id": "269323262978297856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mamelodi Sundowns FC - Chippa United",
         "time": "20:30",
         "id": "269232455984222208"
@@ -33,6 +54,13 @@
         "name": "Ockero IF - FC Trollhaettan",
         "time": "20:30",
         "id": "269593587511070720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Moss - Viking Stavanger",
+        "time": "20:05",
+        "id": "269490568940359680"
     },
     {
         "tur": "live",
@@ -65,43 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Maribor - NK Celje",
-        "time": "19:45",
-        "id": "269313474819133440"
+        "name": "Sogndal IL - Kongsvinger IL",
+        "time": "20:00",
+        "id": "269470184078708736"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ohod Madinah - Al Jubail Club",
-        "time": "19:30",
-        "id": "269328080061992960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ikorodu City - Bayelsa United",
-        "time": "19:30",
-        "id": "269322292172034048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Ahli Jeddah - Al Taawon Buraidah",
-        "time": "19:25",
-        "id": "268448489750532096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bryne FK - SK Brann Bergen",
-        "time": "19:00",
-        "id": "269406663508889600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grorud - Lillestrom SK",
-        "time": "19:00",
-        "id": "269406663905251328"
+        "name": "Ranheim Trondheim - Egersund IK",
+        "time": "20:00",
+        "id": "269410442090254336"
     }
 ]
