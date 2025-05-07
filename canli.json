@@ -2,23 +2,9 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Pacific Caesar Surabaya - Satya Wacana Salatiga",
+        "name": "TSU Hyundai Tbilisi - Gurjaani Delta",
         "time": "15:00",
-        "id": "269479376025948160"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Binan Tatak Gel - Pasig City",
-        "time": "15:00",
-        "id": "269474225859989504"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Taoyuan Pilots - Fubon Braves",
-        "time": "14:30",
-        "id": "269462963304402944"
+        "id": "269494669554094080"
     },
     {
         "tur": "live",
@@ -30,16 +16,9 @@
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "Tangerang Hawks - Satria Muda Pertamina",
-        "time": "14:00",
-        "id": "269479059731386368"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "TSU Hyundai Tbilisi - Gurjaani Delta",
-        "time": "15:00",
-        "id": "269494669554094080"
+        "name": "Taoyuan Pilots - Fubon Braves",
+        "time": "14:30",
+        "id": "269462963304402944"
     },
     {
         "tur": "live",
@@ -50,17 +29,17 @@
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Visakha FC - Phnom Penh Crown",
-        "time": "14:00",
-        "id": "269523807244521472"
+        "type": "basketbol",
+        "name": "Binan Tatak Gel - Pasig City",
+        "time": "15:00",
+        "id": "269474225859989504"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Songkhla FC - Thonburi United FC",
+        "type": "basketbol",
+        "name": "Pacific Caesar Surabaya - Satya Wacana Salatiga",
         "time": "15:00",
-        "id": "269472766375366656"
+        "id": "269479376025948160"
     },
     {
         "tur": "live",
@@ -72,6 +51,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bangkok Glass Pathumthani United FC - Buriram United FC",
+        "time": "15:30",
+        "id": "269395327449174016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Songkhla FC - Thonburi United FC",
+        "time": "15:00",
+        "id": "269472766375366656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tadamon Sour - AL-Nejmeh SC Beirut",
+        "time": "15:30",
+        "id": "269555074030768128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KF Feronikeli - FC Suhareka II",
+        "time": "16:00",
+        "id": "269402151224217600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "  Al Ansar Beirut - Al-Safa",
+        "time": "16:00",
+        "id": "269534312038273024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tampines Rovers FC - Balestier Khalsa FC",
         "time": "14:45",
         "id": "269299429703553024"
@@ -79,29 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KF Dukagjini - FC Prishtina II",
+        "time": "16:00",
+        "id": "269400477585772544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Wolaita Dicha FC - Arba Minch City Fc",
         "time": "15:00",
         "id": "269301524959727616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lanzhou Longyuan Athletic - Jiangxi Lushan F.C.",
-        "time": "14:00",
-        "id": "269455981694554112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viktoria Plzen B - Taborsko B",
-        "time": "14:00",
-        "id": "269299537627189248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Teplice B - FK Pardubice B",
-        "time": "14:00",
-        "id": "269324224567578624"
     }
 ]
