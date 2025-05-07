@@ -30,6 +30,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dundee United WFC (W) - Spartans Wfc",
+        "time": "22:00",
+        "id": "269417999105134592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aberdeen (K) - Montrose LFC (W)",
+        "time": "21:30",
+        "id": "269478221477711872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al-Nassr Riyadh - Al-Ittihad",
         "time": "21:00",
         "id": "268448489634140160"
@@ -51,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Santos FC U20 - Gremio RS U20",
-        "time": "21:00",
-        "id": "269323262978297856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Bragantino Sp U20 - Botafogo RJ U20",
         "time": "21:00",
         "id": "269491925943455744"
@@ -72,9 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Athletico Paranaense U20 - Corinthians U20",
+        "name": "Atletico Goianiense U20 - Juventude U20",
         "time": "21:00",
-        "id": "269323623338217472"
+        "id": "269323844753428480"
     },
     {
         "tur": "live",
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Atletico Goianiense U20 - Juventude U20",
+        "name": "Biel - FC Grand-Saconnex",
         "time": "21:00",
-        "id": "269323844753428480"
+        "id": "269414220597170176"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sogndal IL - Kongsvinger IL",
-        "time": "20:00",
-        "id": "269470184078708736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ranheim Trondheim - Egersund IK",
-        "time": "20:00",
-        "id": "269410442090254336"
+        "name": "Nottingham Forest U21 - Lyon U21",
+        "time": "21:00",
+        "id": "269487109212082176"
     }
 ]
