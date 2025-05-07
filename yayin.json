@@ -1,51 +1,86 @@
 [
     {
         "type": "futbol",
-        "name": "Corinthians - America Cali",
-        "day": "07",
-        "time": "03:30",
+        "name": "Universidad de Chile - Estudiantes",
+        "day": "08",
+        "time": "03:00",
         "channel": "S Sport 2"
     },
     {
         "type": "futbol",
-        "name": "Al Nassr - Al Ittihad",
-        "day": "07",
-        "time": "21:00",
+        "name": "Bodo Glimt - Tottenham",
+        "day": "08",
+        "time": "22:00",
         "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "PSG - Arsenal",
-        "day": "07",
+        "name": "Manchester Utd - Athletic Bilbao",
+        "day": "08",
         "time": "22:00",
         "channel": "TRT 1"
     },
     {
+        "type": "futbol",
+        "name": "Chelsea - Djurgarden",
+        "day": "08",
+        "time": "22:00",
+        "channel": "tabii Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "Fiorentina - Real Betis",
+        "day": "08",
+        "time": "22:00",
+        "channel": "tabii Spor"
+    },
+    {
         "type": "basketbol",
-        "name": "Cleveland Cavaliers - Indiana Pacers",
-        "day": "07",
+        "name": "Boston Celtics - New York Knicks",
+        "day": "08",
         "time": "02:00",
-        "channel": "S Sport 2"
+        "channel": "S Sport"
+    },
+    {
+        "type": "basketbol",
+        "name": "Leyma Coruna - Barcelona",
+        "day": "08",
+        "time": "21:30",
+        "channel": "Spor Smart"
     },
     {
         "type": "tenis",
-        "name": "S.Errani - N.Osaka",
-        "day": "07",
+        "name": "N.Osaka - P.Badosa",
+        "day": "08",
         "time": "12:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "E.Cocciaretto - E.Avanesyan",
-        "day": "07",
+        "name": "E.Cocciaretto - I.Swiatek",
+        "day": "08",
         "time": "14:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "L.Stefanini - V.Kudermetova",
-        "day": "07",
+        "name": "J.Paolini - L.Sun",
+        "day": "08",
         "time": "15:30",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "A.Krueger - J.Pegula",
+        "day": "08",
+        "time": "18:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "L.Bronzetti - K.Muchova",
+        "day": "08",
+        "time": "21:30",
         "channel": "Bein Sports Max 1"
     }
 ]
