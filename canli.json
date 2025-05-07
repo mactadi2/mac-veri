@@ -1,10 +1,94 @@
 [
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Wenzhou Professional F.C - Guangdong Mingtu",
+        "type": "basketbol",
+        "name": "Pacific Caesar Surabaya - Satya Wacana Salatiga",
+        "time": "15:00",
+        "id": "269479376025948160"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Binan Tatak Gel - Pasig City",
+        "time": "15:00",
+        "id": "269474225859989504"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Taoyuan Pilots - Fubon Braves",
         "time": "14:30",
-        "id": "269457360318238720"
+        "id": "269462963304402944"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Barangay Ginebra San Miguel - NLEX Road Warriors",
+        "time": "14:30",
+        "id": "269401061708664832"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Tangerang Hawks - Satria Muda Pertamina",
+        "time": "14:00",
+        "id": "269479059731386368"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "TSU Hyundai Tbilisi - Gurjaani Delta",
+        "time": "15:00",
+        "id": "269494669554094080"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Zhejiang Guangsha Lions - Beijing Ducks",
+        "time": "14:35",
+        "id": "269474225920806912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Visakha FC - Phnom Penh Crown",
+        "time": "14:00",
+        "id": "269523807244521472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Songkhla FC - Thonburi United FC",
+        "time": "15:00",
+        "id": "269472766375366656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tanjong Pagar United FC - Young Lions",
+        "time": "14:45",
+        "id": "269299429764370432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tampines Rovers FC - Balestier Khalsa FC",
+        "time": "14:45",
+        "id": "269299429703553024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wolaita Dicha FC - Arba Minch City Fc",
+        "time": "15:00",
+        "id": "269301524959727616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lanzhou Longyuan Athletic - Jiangxi Lushan F.C.",
+        "time": "14:00",
+        "id": "269455981694554112"
     },
     {
         "tur": "live",
@@ -19,89 +103,5 @@
         "name": "FK Teplice B - FK Pardubice B",
         "time": "14:00",
         "id": "269324224567578624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lanzhou Longyuan Athletic - Jiangxi Lushan F.C.",
-        "time": "14:00",
-        "id": "269455981694554112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stromsgodset U19 - Brann U19",
-        "time": "14:00",
-        "id": "269563742663086080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Visakha FC - Phnom Penh Crown",
-        "time": "14:00",
-        "id": "269523807244521472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hong Kong FC U22 - Southern District U22",
-        "time": "13:30",
-        "id": "269551562186166272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Machida Zelvia - Kyoto Purple Sanga",
-        "time": "13:00",
-        "id": "269202146933739520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shonan Bellmare - Sanfrecce Hiroshima",
-        "time": "13:00",
-        "id": "269187005661974528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Kryvbas Kriviy Rih - FC Levy Bereg Kiev",
-        "time": "13:00",
-        "id": "269303375507623936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Osaka - Matsumoto Yamaga FC",
-        "time": "13:00",
-        "id": "269292248333684736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ghfa Spirit Fc - Apia Leichhardt Tigers",
-        "time": "13:00",
-        "id": "269445497611227136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hong Kong Rangers U22 - Kitchee U22",
-        "time": "13:00",
-        "id": "269551568553119744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sydney United - Sydney Olympic FC",
-        "time": "12:30",
-        "id": "269495071979737088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Newcastle Olympic - Weston Workers",
-        "time": "12:00",
-        "id": "269456956073316352"
     }
 ]
