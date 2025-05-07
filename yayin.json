@@ -1,37 +1,30 @@
 [
     {
         "type": "futbol",
-        "name": "Inter - Barcelona",
-        "day": "06",
+        "name": "Corinthians - America Cali",
+        "day": "07",
+        "time": "03:30",
+        "channel": "S Sport 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Al Nassr - Al Ittihad",
+        "day": "07",
+        "time": "21:00",
+        "channel": "TRT Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "PSG - Arsenal",
+        "day": "07",
         "time": "22:00",
         "channel": "TRT 1"
     },
     {
         "type": "basketbol",
-        "name": "OKC Thunder - Denver Nuggets",
-        "day": "06",
-        "time": "04:30",
-        "channel": "S Sport"
-    },
-    {
-        "type": "basketbol",
-        "name": "Fenerbahçe Beko - Karşıyaka",
-        "day": "06",
-        "time": "19:00",
-        "channel": "Bein Sports 5"
-    },
-    {
-        "type": "basketbol",
-        "name": "Monaco - Barcelona",
-        "day": "06",
-        "time": "20:00",
+        "name": "Cleveland Cavaliers - Indiana Pacers",
+        "day": "07",
+        "time": "02:00",
         "channel": "S Sport 2"
-    },
-    {
-        "type": "basketbol",
-        "name": "Panathinaikos - Anadolu Efes",
-        "day": "06",
-        "time": "21:45",
-        "channel": "S Sport"
     }
 ]
