@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SpVgg Unterhaching - FC Hansa Rostock",
+        "time": "20:00",
+        "id": "268578003150311424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Argentino de Rosario Reserves - CA Atlas Reserves",
+        "time": "20:00",
+        "id": "269434986545942528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ismaily SC - ENPPI Club",
+        "time": "20:00",
+        "id": "269213472175296512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PFC Lokomotiv Sofia - PFK Botev Vratsa",
         "time": "19:30",
         "id": "269137914000183296"
@@ -82,26 +103,5 @@
         "name": "SFC Opava - FC Trinity Zlín",
         "time": "18:30",
         "id": "269324224048533504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zbrojovka Brno - FK Viktoria Zizkov",
-        "time": "18:00",
-        "id": "269322294800814080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Banik Ostrava B - Slavia Prague B",
-        "time": "18:00",
-        "id": "269322294727413760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sparta Prague B - SK Sigma Olomouc 2",
-        "time": "18:00",
-        "id": "269322294890991616"
     }
 ]
