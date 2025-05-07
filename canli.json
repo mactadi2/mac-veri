@@ -1,6 +1,111 @@
 [
     {
         "tur": "live",
+        "type": "basketbol",
+        "name": "BC Juventus Utena - BC Rytas Vilnius",
+        "time": "18:30",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzIyMzU2MTQ3NzUyOTYwMzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "CSU Stiinta Bucuresti - CS  Universitatea Craiova",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NDc3NjA0OTIyMzYzOTA0MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Ciftlikkoy Belediyespor - Cukurova Uni",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NTU1NjA0MzI1MDExNDU2MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "CSM Corona Brasov - CSO Voluntari",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NDAyOTEyODA4MTEyMTI4MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "CS Municipal Ploiesti - BC Timisoara II",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NDAzNjc4ODczNjIwNDgwMzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Ironi Ramat Gan - Hapoel Jerusalem II",
+        "time": "18:45",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzE0ODI3NDk5OTk5MjMyMzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "BC Kutaisi - BC Margveti",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NDk0NjY5NDkyMjI4MDk2MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "SCMU Craiova - CSM Oradea II",
+        "time": "18:45",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NDY5MTE4MjMwNTY0ODY0MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Gkk Ohrid - KK Madzari",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NTc3ODk1OTA1NzI2NDY0MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "PAOK Thessaloniki - Panionios Athens",
+        "time": "17:15",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzE5Mzc0ODg5OTQ3MTM2MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC CSKA 1948 - Hebar 1918 Pazardzhik",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MTI4NDgxODkzMzg4Mjg4MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Erbil SC - Naft Maysan",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzIyMjkzMjI3OTUwMDgwMzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MKF Chrudim - Prostejov",
+        "time": "18:30",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzI0MjI0MTE2NjkwOTQ0MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Banik Ostrava B - Slavia Prague B",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzIyMjk0NzI3NDEzNzYwMzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sparta Prague B - SK Sigma Olomouc 2",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzIyMjk0ODkwOTkxNjE2MzUvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
         "type": "futbol",
         "name": "Al Hudod Fc - Naft Al-Basra SC",
         "time": "18:00",
@@ -50,101 +155,59 @@
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Sparta Prague B - SK Sigma Olomouc 2",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzIyMjk0ODkwOTkxNjE2MzUvbW9uby5tM3U4"
+        "type": "basketbol",
+        "name": "SCM Craiova - CSM Oradea",
+        "time": "18:45",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvbWl4LXNwb3J0NDAvbW9uby5tM3U4"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "Banik Ostrava B - Slavia Prague B",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzIyMjk0NzI3NDEzNzYwMzUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MKF Chrudim - Prostejov",
-        "time": "18:30",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzI0MjI0MTE2NjkwOTQ0MzUvbW9uby5tM3U4"
+        "type": "basketbol",
+        "name": "Maccabi Ironi Ramat Gan - Hapoel Jerusalem",
+        "time": "18:45",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvbWl4LXNwb3J0MzkvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Erbil SC - Naft Maysan",
+        "name": "Dila Gori - Torpedo Kutaisi",
         "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzIyMjkzMjI3OTUwMDgwMzUvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvbWl4LXNwb3J0NDYvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "basketbol",
+        "name": "Arges Pitesti - Valcea",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvbWl4LXNwb3J0NDUvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC CSKA 1948 - Hebar 1918 Pazardzhik",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MTI4NDgxODkzMzg4Mjg4MzUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "BC Juventus Utena - BC Rytas Vilnius",
-        "time": "18:30",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzIyMzU2MTQ3NzUyOTYwMzUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "CSM Athletic Constanta - Acs Targu Mures",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NDY5MjUzNDA3NzM5OTA0MzUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "PAOK Thessaloniki - Panionios Athens",
-        "time": "17:15",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5MzE5Mzc0ODg5OTQ3MTM2MzUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Gkk Ohrid - KK Madzari",
+        "name": "Vitebsk - Zorka-BDU W",
         "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NTc3ODk1OTA1NzI2NDY0MzUvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvZ29sYW5kcGFzL21vbm8ubTN1OA=="
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "BC Kutaisi - BC Margveti",
+        "name": "Petrolul Ploiesti - SCM Timisoara",
         "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NDk0NjY5NDkyMjI4MDk2MzUvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvdHY4ODgvbW9uby5tM3U4"
     },
     {
         "tur": "live",
         "type": "basketbol",
-        "name": "CS Municipal Ploiesti - BC Timisoara II",
+        "name": "Steaua Bucuresti  - Dinamo Bucharest",
         "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NDAzNjc4ODczNjIwNDgwMzUvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvb3JhbmcvbW9uby5tM3U4"
     },
     {
         "tur": "live",
-        "type": "basketbol",
-        "name": "CSM Corona Brasov - CSO Voluntari",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NDAyOTEyODA4MTEyMTI4MzUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "CSU Stiinta Bucuresti - CS  Universitatea Craiova",
+        "type": "futbol",
+        "name": "Strasbourg WOMEN - Reims WOMEN",
         "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NDc3NjA0OTIyMzYzOTA0MzUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Ciftlikkoy Belediyespor - Cukurova Uni",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvNDYxMzU2MjY5NTU1NjA0MzI1MDExNDU2MzUvbW9uby5tM3U4"
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvY2hhbm5lbDM2NS9tb25vLm0zdTg="
     },
     {
         "tur": "live",
@@ -163,65 +226,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vitebsk - Neman Grodno",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvYmV0dGluZy10b3AvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Strasbourg WOMEN - Reims WOMEN",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvY2hhbm5lbDM2NS9tb25vLm0zdTg="
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Steaua Bucuresti  - Dinamo Bucharest",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvb3JhbmcvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Petrolul Ploiesti - SCM Timisoara",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvdHY4ODgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "basketbol",
-        "name": "Arges Pitesti - Valcea",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvbWl4LXNwb3J0NDUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vitebsk - Zorka-BDU W",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvZ29sYW5kcGFzL21vbm8ubTN1OA=="
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dila Gori - Torpedo Kutaisi",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvbWl4LXNwb3J0NDYvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Leones de Centro Habana - Dragones del Cerro",
         "time": "18:15",
         "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIwMDYvbW9uby5tM3U4"
     },
     {
         "tur": "live",
-        "type": "futbol",
-        "name": "AO Rea (Bayanlar) - AEK Athens (Bayanlar)",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTE1ODMvbW9uby5tM3U4"
+        "type": "tenis",
+        "name": "Egor Ovchinnikov (RUS) - Vasily Lakeev (RUS)",
+        "time": "18:40",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIyODcvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -261,9 +275,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Platense (Bayanlar) - Talleres de Cordoba (Bayanlar)",
-        "time": "17:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTE1NjcvbW9uby5tM3U4"
+        "name": "KS Legionovia Legionowo - MKS Oskar Przysucha",
+        "time": "18:30",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIzNTEvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -271,6 +285,20 @@
         "name": "Ciftlikkoy - Çukurova Üniversitesi",
         "time": "18:00",
         "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIwMzkvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Platense (Bayanlar) - Talleres de Cordoba (Bayanlar)",
+        "time": "17:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTE1NjcvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ferrovalvulas - Real Santuario",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIzMjUvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -303,13 +331,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Blansko - Karvina II",
-        "time": "18:30",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIyNjgvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FK Admira Prague - Petrin Plzen",
         "time": "18:30",
         "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIyNTAvbW9uby5tM3U4"
@@ -317,9 +338,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dukla Prague II - Dynamo II",
-        "time": "18:00",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIwMTMvbW9uby5tM3U4"
+        "name": "FK Blansko - Karvina II",
+        "time": "18:30",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIyNjgvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -327,6 +348,13 @@
         "name": "Chlumec NC - Kolin",
         "time": "18:30",
         "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIyNjAvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dukla Prague II - Dynamo II",
+        "time": "18:00",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIwMTMvbW9uby5tM3U4"
     },
     {
         "tur": "live",
@@ -366,6 +394,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FK Varnsdorf - FC Vysočina Jihlava",
+        "time": "18:30",
+        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIyMzIvbW9uby5tM3U4"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "MFK Chrudim - 1. SK Prostějov",
         "time": "18:30",
         "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIyMzAvbW9uby5tM3U4"
@@ -376,13 +411,6 @@
         "name": "Banik Ostrava II - Slavia II",
         "time": "18:00",
         "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTE5NjUvbW9uby5tM3U4"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Varnsdorf - FC Vysočina Jihlava",
-        "time": "18:30",
-        "id": "aHR0cHM6Ly9zMS5lYzAxZGNmMzM0MTI5ZDhmYmRkMThjMWNiMWI4YjgxOS5zYnMvMTYxMTIyMzIvbW9uby5tM3U4"
     },
     {
         "tur": "live",
