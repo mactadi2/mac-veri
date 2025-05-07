@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PFC Lokomotiv Sofia - PFK Botev Vratsa",
+        "time": "19:30",
+        "id": "269137914000183296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ohod Madinah - Al Jubail Club",
+        "time": "19:30",
+        "id": "269328080061992960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Ahli Jeddah - Al Taawon Buraidah",
+        "time": "19:25",
+        "id": "268448489750532096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al-Bukayriyah FC - Al Hazm",
         "time": "19:20",
         "id": "269327434821799936"
@@ -26,13 +47,6 @@
         "name": "FC Politecnico - Bombarderos de Tecamac FC",
         "time": "19:00",
         "id": "269500580531146752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GKS Piast Gliwice II - Odra Wodzislaw",
-        "time": "19:00",
-        "id": "269406663430246400"
     },
     {
         "tur": "live",
@@ -72,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Legionovia Legionowo - Oskar Przysucha",
-        "time": "18:30",
-        "id": "269295890958782464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Zbrojovka Brno - FK Viktoria Zizkov",
         "time": "18:00",
         "id": "269322294800814080"
@@ -96,12 +103,5 @@
         "name": "Sparta Prague B - SK Sigma Olomouc 2",
         "time": "18:00",
         "id": "269322294890991616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Talent Warsaw - Hutnik Warsaw",
-        "time": "17:30",
-        "id": "269403552393334784"
     }
 ]
