@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Wenzhou Professional F.C - Guangdong Mingtu",
+        "time": "14:30",
+        "id": "269457360318238720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Viktoria Plzen B - Taborsko B",
         "time": "14:00",
         "id": "269299537627189248"
@@ -19,6 +26,27 @@
         "name": "Lanzhou Longyuan Athletic - Jiangxi Lushan F.C.",
         "time": "14:00",
         "id": "269455981694554112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stromsgodset U19 - Brann U19",
+        "time": "14:00",
+        "id": "269563742663086080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Visakha FC - Phnom Penh Crown",
+        "time": "14:00",
+        "id": "269523807244521472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hong Kong FC U22 - Southern District U22",
+        "time": "13:30",
+        "id": "269551562186166272"
     },
     {
         "tur": "live",
@@ -58,9 +86,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wollongong Olympic - Blacktown City Fc",
-        "time": "12:30",
-        "id": "269456960237211648"
+        "name": "Hong Kong Rangers U22 - Kitchee U22",
+        "time": "13:00",
+        "id": "269551568553119744"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Newmarket - University of Queensland",
-        "time": "12:30",
-        "id": "269519158528577536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Redlands United U23 - Caboolture FC U23",
-        "time": "12:30",
-        "id": "269399566473891840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pine Hills - Robina City FC",
-        "time": "12:30",
-        "id": "269451855762952192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Newcastle Olympic - Weston Workers",
         "time": "12:00",
         "id": "269456956073316352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adamstown Rosebud FC - Lambton Jaffas FC",
-        "time": "12:00",
-        "id": "269456945598042112"
     }
 ]
