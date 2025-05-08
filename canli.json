@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tivoli Gardens - Montego Bay United",
+        "time": "02:00",
+        "id": "269667122050895872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "DC Power (W) - Dallas Trinity (W)",
+        "time": "02:00",
+        "id": "269577087769251840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Guairena FC - Club Sportivo Carapegua",
         "time": "01:30",
         "id": "269523485889531904"
@@ -40,19 +54,5 @@
         "name": "Fuerte San Francisco - CD Luis Angel Firpo",
         "time": "00:30",
         "id": "269559033565941760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Cacahuatique Reserves - CD Aguila Reserves",
-        "time": "00:00",
-        "id": "269654279934054400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferroviaria (W) - Taubate (W)",
-        "time": "00:00",
-        "id": "269552686955892736"
     }
 ]
