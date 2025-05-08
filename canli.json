@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guairena FC - Club Sportivo Carapegua",
+        "time": "01:30",
+        "id": "269523485889531904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Velez Sarsfield - Olimpia Asuncion",
         "time": "01:00",
         "id": "268353014744616960"
@@ -47,12 +54,5 @@
         "name": "Ferroviaria (W) - Taubate (W)",
         "time": "00:00",
         "id": "269552686955892736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cumbaya FC - San Antonio FC Cotacachi",
-        "time": "23:30",
-        "id": "269337415438700544"
     }
 ]
