@@ -2,9 +2,44 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hapoel Tel Aviv (W) - AS Tel Aviv University (W)",
-        "time": "18:40",
-        "id": "269572045558386688"
+        "name": "Correcaminos II - Aguacateros CD Uruapan",
+        "time": "19:00",
+        "id": "269653620198346752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tractor Sazi FC - Nassaji Mazandaran",
+        "time": "19:00",
+        "id": "269489329295986688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Havadar SC - Sepahan",
+        "time": "19:00",
+        "id": "269489329072640000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aluminium Arak - Malavan",
+        "time": "19:00",
+        "id": "269489329134505984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Foolad Khuzestan FC - Esteghlal Khuzestan",
+        "time": "19:00",
+        "id": "269489329451175936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gol Gohar - Shams Azar Qazvin",
+        "time": "19:00",
+        "id": "269489329191129088"
     },
     {
         "tur": "live",
@@ -30,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CS Constantine U21 - US Biskra U21",
+        "time": "18:00",
+        "id": "269666880813404160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Olympique Akbou U21 - USM Khenchela U21",
         "time": "18:00",
         "id": "269667203488550912"
@@ -40,13 +82,6 @@
         "name": "ASO Chlef U21 - CR Belouizdad U21",
         "time": "18:00",
         "id": "269666880879464448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Constantine U21 - US Biskra U21",
-        "time": "18:00",
-        "id": "269666880813404160"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "ES Mostaganem U21 - MC El Bayadh U21",
         "time": "18:00",
         "id": "269666981661249536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Botev Plovdiv II - Nesebar",
-        "time": "18:00",
-        "id": "269337414853595136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Lovech - Pfc Pirin Blagoevgrad",
-        "time": "18:00",
-        "id": "269337415069601792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK CSKA 1948 Sofia II - Sportist Svoge",
-        "time": "18:00",
-        "id": "269337415002492928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC Minyor Pernik - FC Yantra Gabrovo",
-        "time": "18:00",
-        "id": "269337414593548288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Belasitsa Petrich - PFC Montana 1921",
-        "time": "17:30",
-        "id": "269337414653317120"
     }
 ]
