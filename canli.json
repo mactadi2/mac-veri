@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cumbaya FC - San Antonio FC Cotacachi",
+        "time": "23:30",
+        "id": "269337415438700544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Universidad del Golfo de Mexico - Heroes de Zaci",
         "time": "23:00",
         "id": "269562812252164096"
@@ -96,12 +103,5 @@
         "name": "Palmeiras U20 - Cruzeiro EC U20",
         "time": "22:00",
         "id": "269424036973514752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Flandria Reserves - CS Dock Sud Reserves",
-        "time": "21:30",
-        "id": "269579545844256768"
     }
 ]
