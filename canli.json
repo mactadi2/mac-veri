@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Universidad del Golfo de Mexico - Heroes de Zaci",
+        "time": "23:00",
+        "id": "269562812252164096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FK Bodo Glimt - Tottenham Hotspur",
         "time": "22:00",
         "id": "269061920682807296"
@@ -96,12 +103,5 @@
         "name": "Flandria Reserves - CS Dock Sud Reserves",
         "time": "21:30",
         "id": "269579545844256768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Barracas Central Reserves - Tigre Reserves",
-        "time": "21:00",
-        "id": "269572962789756928"
     }
 ]
