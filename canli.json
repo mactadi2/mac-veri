@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dire Dawa - Hawassa City",
+        "time": "13:00",
+        "id": "269419517679112192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shree Bhagwati Club - Planning Boys United",
+        "time": "13:00",
+        "id": "269613887407656960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Seoul City Wfc - Boeun Sangmu Wfc",
+        "time": "13:00",
+        "id": "269566408817512448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gyeongju H&N Power (W) - Sejong Sportstoto (W)",
+        "time": "13:00",
+        "id": "269515404082286592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Taringa Rovers - North Lakes United",
         "time": "12:45",
         "id": "269459371941040128"
@@ -58,23 +86,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Arges (W) - Universitatea Craiova (W)",
-        "time": "12:00",
-        "id": "269579431956320256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kuala Lumpur U20 - PDRM U20",
         "time": "11:45",
         "id": "269592994171195392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zlicin - Viktoria Zizkov B",
-        "time": "11:30",
-        "id": "269649215427317760"
     },
     {
         "tur": "live",
@@ -89,12 +103,5 @@
         "name": "Hoai Duc - Quang Ninh FC",
         "time": "11:30",
         "id": "269573372746272768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Vysoka N\/L - TJ Dobruska",
-        "time": "11:15",
-        "id": "269599144756252672"
     }
 ]
