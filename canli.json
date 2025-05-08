@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Velez Sarsfield - Olimpia Asuncion",
+        "time": "01:00",
+        "id": "268353014744616960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Talleres de Cordoba - Libertad Asuncion",
+        "time": "01:00",
+        "id": "268390044330496000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportes Iquique - Atletico Mineiro",
+        "time": "01:00",
+        "id": "268495698674192384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing Club de Montevideo - Atletico Huracan",
+        "time": "01:00",
+        "id": "268496203235332096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fuerte San Francisco - CD Luis Angel Firpo",
         "time": "00:30",
         "id": "269559033565941760"
@@ -26,19 +54,5 @@
         "name": "Cumbaya FC - San Antonio FC Cotacachi",
         "time": "23:30",
         "id": "269337415438700544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universidad del Golfo de Mexico - Heroes de Zaci",
-        "time": "23:00",
-        "id": "269562812252164096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo San Lorenzo - Guarani de Fram",
-        "time": "23:00",
-        "id": "269512148335595520"
     }
 ]
