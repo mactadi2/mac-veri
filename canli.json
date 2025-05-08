@@ -2,23 +2,93 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al-Najaf - Newroz SC",
+        "time": "18:00",
+        "id": "269337404451721216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Minaa - Al Quwa\/Jawiya",
+        "time": "18:00",
+        "id": "269514931566678016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MC Alger U21 - ES Setif U21",
+        "time": "18:00",
+        "id": "269667105775947776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Olympique Akbou U21 - USM Khenchela U21",
+        "time": "18:00",
+        "id": "269667203488550912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ASO Chlef U21 - CR Belouizdad U21",
+        "time": "18:00",
+        "id": "269666880879464448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MC Oran U21 - NC Magra U21",
+        "time": "18:00",
+        "id": "269669439571628032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JS Kabylie U21 - JS Saoura U21",
+        "time": "18:00",
+        "id": "269666981590994944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Constantine U21 - US Biskra U21",
+        "time": "18:00",
+        "id": "269666880813404160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ES Mostaganem U21 - MC El Bayadh U21",
+        "time": "18:00",
+        "id": "269666981661249536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Botev Plovdiv II - Nesebar",
+        "time": "18:00",
+        "id": "269337414853595136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Lovech - Pfc Pirin Blagoevgrad",
+        "time": "18:00",
+        "id": "269337415069601792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK CSKA 1948 Sofia II - Sportist Svoge",
+        "time": "18:00",
+        "id": "269337415002492928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Belasitsa Petrich - PFC Montana 1921",
         "time": "17:30",
         "id": "269337414653317120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boskovice - Tatran Kohoutovice",
-        "time": "17:30",
-        "id": "269671502608207872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Sharjah SC U21 - Al Nasr SC U21",
-        "time": "17:05",
-        "id": "269567697375858688"
     },
     {
         "tur": "live",
@@ -30,78 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Olympie Brezova - SK Hrebec",
-        "time": "17:00",
-        "id": "269653882474467328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Irtys Pavlodar - Akas FC",
-        "time": "17:00",
-        "id": "269669405428944896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Paradou AC U21 - USM Alger U21",
         "time": "16:30",
         "id": "269656401237905408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boca Juniors (W) - Gimnasia Y Esgrima La Plata (W)",
-        "time": "16:30",
-        "id": "269564084591136768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sidama Bunna - Mekelakeya",
-        "time": "16:00",
-        "id": "269421833117372416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Baku Sporting - Difai Agsu",
-        "time": "16:00",
-        "id": "269528353676070912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zaglebie Lubin U19 - Warta Poznan U19",
-        "time": "16:00",
-        "id": "269464286797107200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KF Ballkani - FC Drita Gjilan",
-        "time": "16:00",
-        "id": "269420281830969344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adana 01 FK - Altinordu SK",
-        "time": "16:00",
-        "id": "269492586977300480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "68 Yeni Aksaray Belediyspor - Karacabey Belediyespor",
-        "time": "16:00",
-        "id": "269492586760245248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Gori - FC Shturm Sartichala",
-        "time": "16:00",
-        "id": "269476045705580544"
     }
 ]
