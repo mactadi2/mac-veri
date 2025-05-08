@@ -1,86 +1,114 @@
 [
     {
         "type": "futbol",
-        "name": "Universidad de Chile - Estudiantes",
-        "day": "08",
-        "time": "03:00",
+        "name": "Barcelona SC - River Plate",
+        "day": "09",
+        "time": "03:30",
         "channel": "S Sport 2"
     },
     {
         "type": "futbol",
-        "name": "Bodo Glimt - Tottenham",
-        "day": "08",
-        "time": "22:00",
-        "channel": "TRT Spor"
+        "name": "Preussen Münster - Hertha Berlin",
+        "day": "09",
+        "time": "19:30",
+        "channel": "Bein Sports 4"
     },
     {
         "type": "futbol",
-        "name": "Manchester Utd - Athletic Bilbao",
-        "day": "08",
-        "time": "22:00",
-        "channel": "TRT 1"
+        "name": "Nürnberg - Köln",
+        "day": "09",
+        "time": "19:30",
+        "channel": "Bein Sports 3"
     },
     {
         "type": "futbol",
-        "name": "Chelsea - Djurgarden",
-        "day": "08",
-        "time": "22:00",
-        "channel": "tabii Spor 2"
+        "name": "Rams Başakşehir - Fenerbahçe",
+        "day": "09",
+        "time": "20:00",
+        "channel": "Bein Sports 1"
     },
     {
         "type": "futbol",
-        "name": "Fiorentina - Real Betis",
-        "day": "08",
-        "time": "22:00",
-        "channel": "tabii Spor 1"
+        "name": "Gaziantep FK - Alanyaspor",
+        "day": "09",
+        "time": "20:00",
+        "channel": "Bein Sports 2"
     },
     {
-        "type": "basketbol",
-        "name": "Boston Celtics - New York Knicks",
-        "day": "08",
-        "time": "02:00",
+        "type": "futbol",
+        "name": "Wolfsburg - Hoffenheim",
+        "day": "09",
+        "time": "21:30",
+        "channel": "Bein Sports 4"
+    },
+    {
+        "type": "futbol",
+        "name": "Milan - Bologna",
+        "day": "09",
+        "time": "21:45",
+        "channel": "S Sport 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Las Palmas - Rayo Vallecano",
+        "day": "09",
+        "time": "22:00",
         "channel": "S Sport"
     },
     {
         "type": "basketbol",
-        "name": "Leyma Coruna - Barcelona",
-        "day": "08",
-        "time": "21:30",
-        "channel": "Spor Smart"
+        "name": "Minnesota TW - GS Warriors",
+        "day": "09",
+        "time": "03:30",
+        "channel": "S Sport"
+    },
+    {
+        "type": "basketbol",
+        "name": "Iberostar Tenerife - Galatasaray",
+        "day": "09",
+        "time": "18:00",
+        "channel": "TRT Spor"
+    },
+    {
+        "type": "basketbol",
+        "name": "Bahçeşehir Klj - Mersin Spor",
+        "day": "09",
+        "time": "19:00",
+        "channel": "Bein Sports 5"
     },
     {
         "type": "tenis",
-        "name": "N.Osaka - P.Badosa",
-        "day": "08",
+        "name": "A.Sabalenka - A.Potapova",
+        "day": "09",
         "time": "12:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "E.Cocciaretto - I.Swiatek",
-        "day": "08",
+        "name": "O.Danilovic - Q.Zheng",
+        "day": "09",
         "time": "14:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "J.Paolini - L.Sun",
-        "day": "08",
+        "name": "E.Arango - M.Andreeva",
+        "day": "09",
         "time": "15:30",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "A.Krueger - J.Pegula",
-        "day": "08",
-        "time": "18:00",
+        "name": "E.Navarro - K.Rakhimova",
+        "day": "09",
+        "time": "17:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "L.Bronzetti - K.Muchova",
-        "day": "08",
-        "time": "21:30",
+        "name": "C.Gauff - V.Mboko",
+        "day": "09",
+        "time": "20:00",
         "channel": "Bein Sports Max 1"
     }
 ]
