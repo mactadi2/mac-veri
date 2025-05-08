@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Irtys Pavlodar - Akas FC",
+        "time": "17:00",
+        "id": "269669405428944896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Paradou AC U21 - USM Alger U21",
         "time": "16:30",
         "id": "269656401237905408"
@@ -54,13 +61,6 @@
         "name": "Sidama Bunna - Mekelakeya",
         "time": "16:00",
         "id": "269421833117372416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Gabala - Cabrayil",
-        "time": "16:00",
-        "id": "269528351356620800"
     },
     {
         "tur": "live",
@@ -86,22 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "OFK Trebatice - Sokol Sezimovo Usti",
+        "name": "Adana 01 FK - Altinordu SK",
         "time": "16:00",
-        "id": "269666186512437248"
+        "id": "269492586977300480"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gardabani - Bakhmaro",
+        "name": "68 Yeni Aksaray Belediyspor - Karacabey Belediyespor",
         "time": "16:00",
-        "id": "269549280891637760"
+        "id": "269492586760245248"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fc Merani Tbilisi - Aragvi Dusheti",
+        "name": "FC Gori - FC Shturm Sartichala",
         "time": "16:00",
-        "id": "269476045808340992"
+        "id": "269476045705580544"
     }
 ]
