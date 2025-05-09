@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Empoli FC U20 - AS Roma U20",
+        "time": "18:00",
+        "id": "269337405539094528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bologna U20 - Monza U20",
+        "time": "18:00",
+        "id": "269337405330427904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Polissya Zhytomyr - FC Dynamo Kiev",
+        "time": "18:00",
+        "id": "268738352786837504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sabah FK - Shamakhi FK",
+        "time": "18:00",
+        "id": "269337436579041280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Buzau - FC Unirea 2004 Slobozia",
+        "time": "18:00",
+        "id": "269368531923111936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IB Khemis El Khechna - Usm Annaba",
+        "time": "18:00",
+        "id": "269493028502245376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ESM Kolea - ES Ben Aknoun",
+        "time": "18:00",
+        "id": "269492897515180032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arda Kardzhali - PFC Ludogorets Razgrad",
         "time": "17:45",
         "id": "269302135163850752"
@@ -12,13 +61,6 @@
         "name": "FC Noah Artsakh - Pyunik Yerevan",
         "time": "17:30",
         "id": "269337421287657472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Wasl Dubai U21 - Gulf United FC U21",
-        "time": "17:05",
-        "id": "269667013763403776"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "NK Radnik Sesvete - NK Croatia Zmijavci",
         "time": "16:50",
         "id": "269337420211818496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Raanana - Hapoel Ramat Hasharon",
-        "time": "16:00",
-        "id": "269337413888905216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bnei-Yehuda Tel-Aviv - Hapoel Kfar-Saba",
-        "time": "16:00",
-        "id": "269438431893000192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maccabi Yafo Kabilyo - Hapoel Afula",
-        "time": "16:00",
-        "id": "269576388156198912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KAFR Qasim - Hapoel Nof HaGalil",
-        "time": "16:00",
-        "id": "269576388428828672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Qaradag Lokbatan FK - Moik Baku",
-        "time": "16:00",
-        "id": "269665816432218112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Energetik Mingechevir - Mil-Mugan Imisli         FK",
-        "time": "16:00",
-        "id": "269664668806680576"
     }
 ]
