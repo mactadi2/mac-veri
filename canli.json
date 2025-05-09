@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nacional-Humaita (W) - Cerro Porteno (W)",
+        "time": "01:15",
+        "id": "269663675218006016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Police FC - Morvant Caledonia United",
+        "time": "01:00",
+        "id": "269610399965515776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sao Francisco AC U20 - Galvez AC U20",
+        "time": "01:00",
+        "id": "269790363283230720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Independiente de La Chorrera Reserves - Sd Atletico Nacional",
         "time": "00:00",
         "id": "269692265583218688"
@@ -40,33 +61,5 @@
         "name": "Vinotinto FC Ecuador (W) - Universidad Catolica del Ecuador (W)",
         "time": "23:30",
         "id": "269691235170652160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Trinidense - 2 de Mayo",
-        "time": "23:00",
-        "id": "269210436366372864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portland Timbers II - Vancouver Whitecaps II",
-        "time": "23:00",
-        "id": "269337402657607680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UNSAAC (W) - Flamengo FBC (W)",
-        "time": "23:00",
-        "id": "269693938278993920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cucuta Deportivo U20 - Olympic Club Deportivo U20",
-        "time": "23:00",
-        "id": "269782505458110464"
     }
 ]
