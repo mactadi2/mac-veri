@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "One Knoxville SC - Forward Madison FC",
-        "time": "01:30",
-        "id": "269664537492459520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Nacional-Humaita (W) - Cerro Porteno (W)",
         "time": "01:15",
         "id": "269663675218006016"
@@ -103,5 +96,12 @@
         "name": "Police FC - Morvant Caledonia United",
         "time": "01:00",
         "id": "269610399965515776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tivoli Gardens - Montego Bay United",
+        "time": "02:00",
+        "id": "269667122050895872"
     }
 ]
