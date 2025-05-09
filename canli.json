@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Comerciantes Unidos - EM Deportivo Binacional",
+        "time": "23:30",
+        "id": "269099165430190080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Trinidense - 2 de Mayo",
+        "time": "23:00",
+        "id": "269210436366372864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portland Timbers II - Vancouver Whitecaps II",
+        "time": "23:00",
+        "id": "269337402657607680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Feirense - CD Mafra",
+        "time": "22:15",
+        "id": "269380378021728256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Las Palmas - Rayo Vallecano",
         "time": "22:00",
         "id": "268518420243419136"
@@ -16,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chicago Fire FC II - FC Cincinnati II",
+        "time": "22:00",
+        "id": "269337402999443456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AC Milan - Bologna F.C.",
         "time": "21:45",
         "id": "268702444258725888"
@@ -23,23 +58,37 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VfL Wolfsburg - TSG 1899 Hoffenheim",
-        "time": "21:30",
-        "id": "268701966774964224"
+        "name": "Ayr United - Partick Thistle",
+        "time": "21:45",
+        "id": "269507958590803968"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cadiz - Union Deportiva Almeria",
-        "time": "21:30",
-        "id": "269317285477486592"
+        "name": "Shamrock Rovers FC - Drogheda United",
+        "time": "21:45",
+        "id": "269309149865709568"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sassuolo - Catanzaro",
-        "time": "21:30",
-        "id": "269321046399782912"
+        "name": "Cork City FC - Derry City",
+        "time": "21:45",
+        "id": "269309118706225152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Waterford FC - Galway United",
+        "time": "21:45",
+        "id": "269309118760751104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Royal Charleroi SC - KVC Westerlo",
+        "time": "21:45",
+        "id": "269298432490999808"
     },
     {
         "tur": "live",
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Palermo - Frosinone",
+        "name": "GKS 71 Tychy - TS Wisla Krakow",
         "time": "21:30",
-        "id": "269304011298050048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pisa - FC Sudtirol Bolzano",
-        "time": "21:30",
-        "id": "269304011130277888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cittadella - Bari",
-        "time": "21:30",
-        "id": "269304011437510656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Modena - Brescia",
-        "time": "21:30",
-        "id": "269304011217309696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sampdoria - Salernitana",
-        "time": "21:30",
-        "id": "269304011575922688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Spezia - Cremonese",
-        "time": "21:30",
-        "id": "269321046324285440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juve Stabia - AC Reggiana 1919",
-        "time": "21:30",
-        "id": "269304011655614464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mantova - Carrarese",
-        "time": "21:30",
-        "id": "269304011372498944"
+        "id": "269230422467153920"
     }
 ]
