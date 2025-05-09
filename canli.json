@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Nurnberg - 1. FC Köln",
+        "time": "19:30",
+        "id": "268682778094211072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Preussen Munster - Hertha BSC Berlin",
+        "time": "19:30",
+        "id": "268683138007437312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AC Horsens - OB Odense",
+        "time": "19:30",
+        "id": "269204004121219072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Fredericia - Hvidovre IF",
+        "time": "19:30",
+        "id": "269135676459585536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santiago Morning - Magallanes",
+        "time": "19:30",
+        "id": "269415725447385088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Motor Lublin - Piast Gliwice",
         "time": "19:00",
         "id": "269193796002123776"
@@ -16,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Floridsdorfer AC - SV Horn",
+        "name": "SK Rapid Wien II - FC Liefering",
         "time": "19:00",
-        "id": "269134153315913728"
+        "id": "269337397502808064"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Rapid Wien II - FC Liefering",
+        "name": "Floridsdorfer AC - SV Horn",
         "time": "19:00",
-        "id": "269337397502808064"
+        "id": "269134153315913728"
     },
     {
         "tur": "live",
@@ -51,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "MKS Trzebinia - MKS Limanovia Limanowa",
-        "time": "19:00",
-        "id": "269559071198285824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Donau - WAF Brigittenau",
-        "time": "19:00",
-        "id": "269669942502232064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Empoli FC U20 - AS Roma U20",
         "time": "18:00",
         "id": "269337405539094528"
@@ -82,26 +103,5 @@
         "name": "Polissya Zhytomyr - FC Dynamo Kiev",
         "time": "18:00",
         "id": "268738352786837504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Marcovia Marki - Nadnarwianka Pultusk",
-        "time": "18:00",
-        "id": "269765081354604544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sabah FK - Shamakhi FK",
-        "time": "18:00",
-        "id": "269337436579041280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arda Kardzhali - PFC Ludogorets Razgrad",
-        "time": "17:45",
-        "id": "269302135163850752"
     }
 ]
