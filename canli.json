@@ -51,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IB Khemis El Khechna - Usm Annaba",
+        "time": "18:00",
+        "id": "269493028502245376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arda Kardzhali - PFC Ludogorets Razgrad",
         "time": "17:45",
         "id": "269302135163850752"
@@ -96,12 +103,5 @@
         "name": "El Madina El Monowara - Al Nasr Taaden",
         "time": "17:00",
         "id": "269719458481836032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Radnik Sesvete - NK Croatia Zmijavci",
-        "time": "16:50",
-        "id": "269337420211818496"
     }
 ]
