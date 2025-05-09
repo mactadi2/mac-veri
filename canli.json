@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Arda Kardzhali - PFC Ludogorets Razgrad",
+        "time": "17:45",
+        "id": "269302135163850752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Noah Artsakh - Pyunik Yerevan",
         "time": "17:30",
         "id": "269337421287657472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Wasl Dubai U21 - Gulf United FC U21",
+        "time": "17:05",
+        "id": "269667013763403776"
     },
     {
         "tur": "live",
@@ -79,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hapoel Akko FC - Hapoel Umm Al Fahm",
-        "time": "16:00",
-        "id": "269337413961256960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Qaradag Lokbatan FK - Moik Baku",
         "time": "16:00",
         "id": "269665816432218112"
@@ -96,12 +103,5 @@
         "name": "Energetik Mingechevir - Mil-Mugan Imisli         FK",
         "time": "16:00",
         "id": "269664668806680576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethiopian Medhin - Bahir Dar Kenema",
-        "time": "10:00",
-        "id": "269312674682245120"
     }
 ]
