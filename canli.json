@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vinotinto FC Ecuador (W) - Universidad Catolica del Ecuador (W)",
+        "time": "23:30",
+        "id": "269691235170652160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sportivo Trinidense - 2 de Mayo",
         "time": "23:00",
         "id": "269210436366372864"
@@ -23,9 +30,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "UNSAAC (W) - Flamengo FBC (W)",
+        "time": "23:00",
+        "id": "269693938278993920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fylkir Reykjavik - UMF Selfoss",
+        "time": "22:30",
+        "id": "269337419636150272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Feirense - CD Mafra",
         "time": "22:15",
         "id": "269380378021728256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Keflavik - Throttur Reykjavik",
+        "time": "22:15",
+        "id": "269337419523952640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kopavogur - IR Reykjavik",
+        "time": "22:15",
+        "id": "269606503042912256"
     },
     {
         "tur": "live",
@@ -51,57 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AC Milan - Bologna F.C.",
-        "time": "21:45",
-        "id": "268702444258725888"
+        "name": "NSI Runavík - KI Klaksvík",
+        "time": "22:00",
+        "id": "269337432437166080"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ayr United - Partick Thistle",
-        "time": "21:45",
-        "id": "269507958590803968"
+        "name": "Provincial Ovalle - Deportes Linares",
+        "time": "22:00",
+        "id": "269689555926519808"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shamrock Rovers FC - Drogheda United",
-        "time": "21:45",
-        "id": "269309149865709568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cork City FC - Derry City",
-        "time": "21:45",
-        "id": "269309118706225152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Waterford FC - Galway United",
-        "time": "21:45",
-        "id": "269309118760751104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Royal Charleroi SC - KVC Westerlo",
-        "time": "21:45",
-        "id": "269298432490999808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cosenza - Cesena FC",
-        "time": "21:30",
-        "id": "269304011508813824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GKS 71 Tychy - TS Wisla Krakow",
-        "time": "21:30",
-        "id": "269230422467153920"
+        "name": "CD Extremadura - SP Villafranca",
+        "time": "22:00",
+        "id": "269599063887974400"
     }
 ]
