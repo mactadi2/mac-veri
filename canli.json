@@ -2,79 +2,93 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AC Milan - Bologna F.C.",
+        "time": "21:45",
+        "id": "268702444258725888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VfL Wolfsburg - TSG 1899 Hoffenheim",
+        "time": "21:30",
+        "id": "268701966774964224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cadiz - Union Deportiva Almeria",
+        "time": "21:30",
+        "id": "269317285477486592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cosenza - Cesena FC",
+        "time": "21:30",
+        "id": "269304011508813824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sassuolo - Catanzaro",
+        "time": "21:30",
+        "id": "269321046399782912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palermo - Frosinone",
+        "time": "21:30",
+        "id": "269304011298050048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pisa - FC Sudtirol Bolzano",
+        "time": "21:30",
+        "id": "269304011130277888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cittadella - Bari",
+        "time": "21:30",
+        "id": "269304011437510656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Modena - Brescia",
+        "time": "21:30",
+        "id": "269304011217309696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sampdoria - Salernitana",
+        "time": "21:30",
+        "id": "269304011575922688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juve Stabia - AC Reggiana 1919",
+        "time": "21:30",
+        "id": "269304011655614464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Spezia - Cremonese",
+        "time": "21:30",
+        "id": "269321046324285440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Willem II Tilburg - Heracles Almelo",
         "time": "21:00",
         "id": "268748658044964864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cambuur Leeuwarden - MVV Maastricht",
-        "time": "21:00",
-        "id": "269141743765688320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Dordrecht - FC Volendam",
-        "time": "21:00",
-        "id": "269141743473135616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AZ Alkmaar Reserves - Excelsior Rotterdam",
-        "time": "21:00",
-        "id": "269141743412318208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VVV Venlo - ADO Den Haag",
-        "time": "21:00",
-        "id": "269141743668170752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Telstar - FC Emmen",
-        "time": "21:00",
-        "id": "269141744062435328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Helmond Sport - De Graafschap",
-        "time": "21:00",
-        "id": "269141744152612864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Roda JC Kerkrade - FC Eindhoven",
-        "time": "21:00",
-        "id": "269141743847477248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SBV Vitesse - FC Den Bosch",
-        "time": "21:00",
-        "id": "269141743960723456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PSV Reserves - FC Utrecht Reserves",
-        "time": "21:00",
-        "id": "269141744227061760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ajax Amsterdam Reserves - FC Oss \/ Top Oss",
-        "time": "21:00",
-        "id": "269141743548633088"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Gaziantep FK - Alanyaspor",
         "time": "20:00",
         "id": "269213472057856000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BV Borussia 09 Dortmund II - VfB Stuttgart II",
-        "time": "20:00",
-        "id": "268695310577045504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Preussen Munster - Hertha BSC Berlin",
-        "time": "19:30",
-        "id": "268683138007437312"
     }
 ]
