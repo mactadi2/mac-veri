@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SL Benfica - Sporting Clube de Portugal",
+        "time": "20:00",
+        "id": "268931316322537472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fortuna Sittard - NAC Breda",
+        "time": "19:45",
+        "id": "268748750072188928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bournemouth AFC - Aston Villa",
         "time": "19:30",
         "id": "268702098120642560"
@@ -44,6 +58,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al Wahda Mecca - Al Fateh",
+        "time": "19:25",
+        "id": "269225916864008192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Kholood - Al-Ettifaq Dammam",
+        "time": "19:20",
+        "id": "269230422607663104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Trabzonspor - Galatasaray SK",
         "time": "19:00",
         "id": "269337414249615360"
@@ -58,50 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Lorient - Martigues",
-        "time": "18:00",
-        "id": "269224763375882240"
+        "name": "FC St. Gallen - FC Winterthur",
+        "time": "19:00",
+        "id": "269224211171643392"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Paris FC - AC Ajaccio",
-        "time": "18:00",
-        "id": "269224832233771008"
+        "name": "FC Zurich - Grasshopper Club Zurich",
+        "time": "19:00",
+        "id": "269225302701510656"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Stade Laval - FC Metz",
-        "time": "18:00",
-        "id": "269224832683610112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pau FC - EA Guingamp",
-        "time": "18:00",
-        "id": "269224832409931776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rodez Aveyron - Clermont",
-        "time": "18:00",
-        "id": "269224763488079872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ES Troyes AC - SC Amiens",
-        "time": "18:00",
-        "id": "269224832136253440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Annecy FC - Grenoble Foot 38",
-        "time": "18:00",
-        "id": "269224832006230016"
+        "name": "Yverdon-Sports - FC Sion Sitten",
+        "time": "19:00",
+        "id": "269224211097194496"
     }
 ]
