@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Casa Pia - SC Braga",
+        "time": "22:30",
+        "id": "269319142993170432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gil Vicente - FC Arouca",
+        "time": "22:30",
+        "id": "269328587661905920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico Madrid - Real Sociedad",
         "time": "22:00",
         "id": "268557757448327168"
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Real Zaragoza - FC Cartagena",
-        "time": "22:00",
-        "id": "269317285575004160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Empoli - AC Parma",
         "time": "21:45",
         "id": "268702444814471168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hamburger SV - SSV Ulm",
-        "time": "21:30",
-        "id": "268683863357788160"
     }
 ]
