@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Madura United - Pusamania Borneo",
+        "time": "11:30",
+        "id": "269300247611707392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Psm Makassar - Malut United FC",
+        "time": "11:30",
+        "id": "269209734181163008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fc Viktoria Plzen U19 - Slavia Prague",
+        "time": "11:30",
+        "id": "269651969871843328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Altona Magic - Melbourne Knights",
         "time": "11:15",
         "id": "269337415897976832"
@@ -12,34 +33,6 @@
         "name": "Dukla Praha U19 - Jablonec U19",
         "time": "11:15",
         "id": "269648189784723456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ashdod U19 - Maccabi Haifa U19",
-        "time": "11:10",
-        "id": "269745502942269440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maccabi Netanya U19 - Maccabi Tel Aviv U19",
-        "time": "11:10",
-        "id": "269745516587388928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Beer Sheva U19 - Hapoel Rishon Lezion U19",
-        "time": "11:10",
-        "id": "269745503010426880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bnei Sakhnin FC U19 - Hapoel Haifa U19",
-        "time": "11:10",
-        "id": "269745516658692096"
     },
     {
         "tur": "live",
@@ -61,6 +54,13 @@
         "name": "CSM Focsani - CS Corvinul Hunedoara",
         "time": "11:00",
         "id": "269337402195185664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ACS Dumbravita - FC U Craiova 1948",
+        "time": "11:00",
+        "id": "269244496835907584"
     },
     {
         "tur": "live",
