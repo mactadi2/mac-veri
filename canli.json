@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico San Juan de Aragon II - Atlante Chalco",
+        "time": "01:00",
+        "id": "269777870590709760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Halcones Zapopan II - Inter de Guanajuato FC",
+        "time": "01:00",
+        "id": "269860607879155712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bombarderos de Tecamac FC - FC Politecnico",
+        "time": "01:00",
+        "id": "269782734160924672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Barranquilla FC - Boca Juniors Cali",
+        "time": "01:00",
+        "id": "269463313394569216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Racing Club - Platense",
         "time": "00:45",
         "id": "269439433384792064"
@@ -65,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CD Jaguares de Cordoba - Patriotas Tunja",
-        "time": "00:00",
-        "id": "269462599425462272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Carabobo FC - Academia Puerto Cabello",
-        "time": "00:00",
-        "id": "269345082909528064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Minnesota United - Inter Miami CF",
         "time": "23:30",
         "id": "268747365224157184"
@@ -89,19 +103,5 @@
         "name": "Toronto FC - D.C. United (Washington)",
         "time": "23:30",
         "id": "268747545637949440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Cali F.C. - FC Leones",
-        "time": "23:00",
-        "id": "269341109469188096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Envigado - Rionegro Aguilas Doradas",
-        "time": "23:00",
-        "id": "269099891551244288"
     }
 ]
