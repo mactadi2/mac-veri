@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Trabzonspor - Galatasaray SK",
+        "time": "19:00",
+        "id": "269337414249615360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SS Lazio - Juventus FC",
+        "time": "19:00",
+        "id": "268702414102728704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Lorient - Martigues",
         "time": "18:00",
         "id": "269224763375882240"
@@ -37,6 +51,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "ES Troyes AC - SC Amiens",
+        "time": "18:00",
+        "id": "269224832136253440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Annecy FC - Grenoble Foot 38",
+        "time": "18:00",
+        "id": "269224832006230016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Bastia - Stade Caen",
+        "time": "18:00",
+        "id": "269224763603423232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Red Star 93 Saint Ouen - Dunkerque",
+        "time": "18:00",
+        "id": "269224832330240000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Santa Clara - Famalicao",
         "time": "17:30",
         "id": "269228561041330176"
@@ -61,47 +103,5 @@
         "name": "Celta de Vigo - Sevilla FC",
         "time": "17:15",
         "id": "268557930478047232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Mirandes - Castellon",
-        "time": "17:15",
-        "id": "269337402384977920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Sporting de Gijon - Deportivo La Coruna",
-        "time": "17:15",
-        "id": "269337402318917632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Southampton FC - Manchester City",
-        "time": "17:00",
-        "id": "268702098034659328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ipswich Town FC - Brentford",
-        "time": "17:00",
-        "id": "268702098195091456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wolverhampton Wanderers - Brighton and Hove Albion",
-        "time": "17:00",
-        "id": "268702098343989248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fulham - Everton",
-        "time": "17:00",
-        "id": "268702098264297472"
     }
 ]
