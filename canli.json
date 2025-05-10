@@ -2,9 +2,65 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rakow Czestochowa - Jagiellonia Bialystok SSA",
+        "time": "21:15",
+        "id": "269193794767949824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al-Khaleej - Al Riyadh",
+        "time": "21:00",
+        "id": "269232522243739648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SL Benfica - Sporting Clube de Portugal",
         "time": "20:00",
         "id": "268931316322537472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Lorenzo - Tigre",
+        "time": "20:00",
+        "id": "269462319783874560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Panetolikos FC - Volos NFC",
+        "time": "20:00",
+        "id": "269337409039241216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Slavia Prague - AC Sparta Praha",
+        "time": "20:00",
+        "id": "269317234906763264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chaves - Uniao de Leiria",
+        "time": "20:00",
+        "id": "269380378181111808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Torrent CF - La Union CF",
+        "time": "20:00",
+        "id": "269586586049581056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Avila - Cacereno",
+        "time": "20:00",
+        "id": "269586632797196288"
     },
     {
         "tur": "live",
@@ -23,23 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Girona FC - Villarreal CF",
-        "time": "19:30",
-        "id": "268557928671350784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Real Mallorca - Real Valladolid",
         "time": "19:30",
         "id": "268558053263151104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Bayern Münih - Borussia Monchengladbach",
-        "time": "19:30",
-        "id": "268702097079406592"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Al Wahda Mecca - Al Fateh",
         "time": "19:25",
         "id": "269225916864008192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Kholood - Al-Ettifaq Dammam",
-        "time": "19:20",
-        "id": "269230422607663104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trabzonspor - Galatasaray SK",
-        "time": "19:00",
-        "id": "269337414249615360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SS Lazio - Juventus FC",
-        "time": "19:00",
-        "id": "268702414102728704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC St. Gallen - FC Winterthur",
-        "time": "19:00",
-        "id": "269224211171643392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zurich - Grasshopper Club Zurich",
-        "time": "19:00",
-        "id": "269225302701510656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yverdon-Sports - FC Sion Sitten",
-        "time": "19:00",
-        "id": "269224211097194496"
     }
 ]
