@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "West Adelaide Reserves - South Adelaide Reserves",
+        "time": "06:15",
+        "id": "269703245646139392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Salisbury Utd Reserves - Pontian Eagles Reserves",
+        "time": "06:15",
+        "id": "269703139203092480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "The Cove FC Reserves - Fulham United Reserves",
+        "time": "06:15",
+        "id": "269723347619811328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide Blue Eagles Reserves - Adelaide Cobras Reserves",
+        "time": "06:15",
+        "id": "269723310864076800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide Croatia Raiders Reserves - Para Hills Knights Reserves",
+        "time": "06:00",
+        "id": "269613500973846528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Auckland United FC - West Coast Rangers",
+        "time": "06:00",
+        "id": "269744208304279552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Eastern Suburbs Auckland AFC - Auckland City",
+        "time": "06:00",
+        "id": "269743517094514688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bay Olympic -  Tauranga City AFC",
+        "time": "06:00",
+        "id": "269743515616022528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "East Coast Bays - Manurewa AFC",
+        "time": "06:00",
+        "id": "269796421552705536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "West Torrens Birkalla Reserves - Modbury Jets Reserves",
         "time": "05:45",
         "id": "269645884256555008"
@@ -23,34 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Brisbane City U23 - Gold Coast United U23",
-        "time": "05:30",
-        "id": "269636286716973056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cooma Tigers U23 - Canberra Croatia U23",
-        "time": "05:30",
-        "id": "269640792076849152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Taroona - Tasmania University SC",
-        "time": "05:15",
-        "id": "269617039594885120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Launceston City Reserves - Riverside Olympic Reserves",
-        "time": "05:15",
-        "id": "269788540581318656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Pachuca (W) - Club America (W)",
         "time": "05:00",
         "id": "269513184976703488"
@@ -68,40 +103,5 @@
         "name": "Weston Workers Bears FC Reserves - Valentine Phoenix Reserves",
         "time": "05:00",
         "id": "269634729048936448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Bucaramanga - Independiente Medellin",
-        "time": "04:30",
-        "id": "269337411052507136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SWQ Thunder U23 - Magic United U23",
-        "time": "04:30",
-        "id": "269617270979956736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "North Sunshine Eagles U23 - Langwarrin U23",
-        "time": "04:15",
-        "id": "269663414205419520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tauro Fc Reserves - San Martin Fc",
-        "time": "04:00",
-        "id": "269755809028771840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Panama City FC - Costa Del Este Reserves",
-        "time": "04:00",
-        "id": "269755693011177472"
     }
 ]
