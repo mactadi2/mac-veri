@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Celta de Vigo - Sevilla FC",
+        "time": "17:15",
+        "id": "268557930478047232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Southampton FC - Manchester City",
         "time": "17:00",
         "id": "268702098034659328"
@@ -30,13 +37,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Werder Bremen - RB Leipzig",
-        "time": "16:30",
-        "id": "268702096939945984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Eyupspor - Kasimpasa SK",
         "time": "16:00",
         "id": "269337414299947008"
@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Umraniyespor - Manisa Futbol Kulubu",
+        "time": "16:00",
+        "id": "269451258754109440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sanliurfaspor - Erzurumspor FK",
         "time": "16:00",
         "id": "269451258601017344"
@@ -65,9 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Umraniyespor - Manisa Futbol Kulubu",
+        "name": "Ankaragucu - Amed Sportif Faaliyetler",
         "time": "16:00",
-        "id": "269451258754109440"
+        "id": "269451258833801216"
     },
     {
         "tur": "live",
@@ -82,13 +89,6 @@
         "name": "Bandirmaspor - Pendikspor",
         "time": "16:00",
         "id": "269451259008913408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ankaragucu - Amed Sportif Faaliyetler",
-        "time": "16:00",
-        "id": "269451258833801216"
     },
     {
         "tur": "live",
