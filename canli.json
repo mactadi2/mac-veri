@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mirassol FC - Corinthians Paulista",
+        "time": "00:30",
+        "id": "268617310652207104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gremio Porto Alegrense RS - Bragantino Red Bull",
+        "time": "00:30",
+        "id": "268617463450701824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EC Vitoria - Vasco da Gama RJ",
+        "time": "00:30",
+        "id": "268617617269460992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Quilmes Atletico Club - CA Patronato",
         "time": "00:10",
         "id": "269337409691455488"
@@ -9,16 +30,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportiva Venados FC II - Alebrijes de Oaxaca III (Teotihuacan)",
+        "name": "Club Deportivo Águila Azteca - Corsarios de Campeche",
         "time": "00:00",
-        "id": "269860623732576256"
+        "id": "269777400066347008"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Deportivo Águila Azteca - Corsarios de Campeche",
+        "name": "Deportiva Venados FC II - Alebrijes de Oaxaca III (Teotihuacan)",
         "time": "00:00",
-        "id": "269777400066347008"
+        "id": "269860623732576256"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Casa Pia - SC Braga",
-        "time": "22:30",
-        "id": "269319142993170432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gil Vicente - FC Arouca",
-        "time": "22:30",
-        "id": "269328587661905920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rosario Central - Estudiantes de la Plata",
-        "time": "22:30",
-        "id": "269442571106914304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Le Havre AC - Marsilya",
-        "time": "22:00",
-        "id": "268702097952870400"
+        "name": "Rhode Island - Monterey Bay",
+        "time": "23:00",
+        "id": "269341109540491264"
     }
 ]
