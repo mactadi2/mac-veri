@@ -2,37 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Melbourne Victory (K) - Adelaide United (K)",
+        "time": "07:15",
+        "id": "269277937270919168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Green Gully U23 - Avondale U23",
+        "time": "07:00",
+        "id": "269664385268584448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dandenong Thunder U23 - Preston Lions U23",
+        "time": "07:00",
+        "id": "269664385127026688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Heidelberg Utd U23 - Port Melbourne U23",
+        "time": "07:00",
+        "id": "269654560808767488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Weston Workers - Valentine Phoenix",
+        "time": "07:00",
+        "id": "269337417261125632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mitchelton (W) - North Lakes (W)",
+        "time": "07:00",
+        "id": "269545406821699584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SWQ Thunder - Magic United TFA",
         "time": "06:45",
         "id": "269547928805314560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "West Adelaide Reserves - South Adelaide Reserves",
-        "time": "06:15",
-        "id": "269703245646139392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Salisbury Utd Reserves - Pontian Eagles Reserves",
-        "time": "06:15",
-        "id": "269703139203092480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "The Cove FC Reserves - Fulham United Reserves",
-        "time": "06:15",
-        "id": "269723347619811328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide Blue Eagles Reserves - Adelaide Cobras Reserves",
-        "time": "06:15",
-        "id": "269723310864076800"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Angel City FC (W) - Utah Royals (W)",
         "time": "05:30",
         "id": "269262528330207232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pachuca (W) - Club America (W)",
-        "time": "05:00",
-        "id": "269513184976703488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ventura County - Los Angeles II",
-        "time": "05:00",
-        "id": "269337402862080000"
     }
 ]
