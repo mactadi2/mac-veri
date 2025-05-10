@@ -2,6 +2,83 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Quilmes Atletico Club - CA Patronato",
+        "time": "00:10",
+        "id": "269337409691455488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportiva Venados FC II - Alebrijes de Oaxaca III (Teotihuacan)",
+        "time": "00:00",
+        "id": "269860623732576256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Deportivo Águila Azteca - Corsarios de Campeche",
+        "time": "00:00",
+        "id": "269777400066347008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estudiantes del Cobach FC - PDLA FC",
+        "time": "00:00",
+        "id": "269796624373518336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Colegiales - Tristan Suarez",
+        "time": "00:00",
+        "id": "269337409529974784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Jaguares de Cordoba - Patriotas Tunja",
+        "time": "00:00",
+        "id": "269462599425462272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Carabobo FC - Academia Puerto Cabello",
+        "time": "00:00",
+        "id": "269345082909528064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Minnesota United - Inter Miami CF",
+        "time": "23:30",
+        "id": "268747365224157184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Toronto FC - D.C. United (Washington)",
+        "time": "23:30",
+        "id": "268747545637949440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Cali F.C. - FC Leones",
+        "time": "23:00",
+        "id": "269341109469188096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Envigado - Rionegro Aguilas Doradas",
+        "time": "23:00",
+        "id": "269099891551244288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Casa Pia - SC Braga",
         "time": "22:30",
         "id": "269319142993170432"
@@ -16,30 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Atletico Madrid - Real Sociedad",
-        "time": "22:00",
-        "id": "268557757448327168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Monaco - Olympique Lyonnais",
-        "time": "22:00",
-        "id": "268702097395027968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brest - OSC Lille",
-        "time": "22:00",
-        "id": "268702097320579072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Montpellier HSC - Paris Saint-Germain FC",
-        "time": "22:00",
-        "id": "268702097733718016"
+        "name": "Rosario Central - Estudiantes de la Plata",
+        "time": "22:30",
+        "id": "269442571106914304"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "Le Havre AC - Marsilya",
         "time": "22:00",
         "id": "268702097952870400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rennes FC - OGC Nice",
-        "time": "22:00",
-        "id": "268702097489399808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Angers SCO - Strasbourg",
-        "time": "22:00",
-        "id": "268702097663463424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Toulouse - RC Lens",
-        "time": "22:00",
-        "id": "268702097814458368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Reims - AS St. Etienne",
-        "time": "22:00",
-        "id": "268702097580625920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "A.J. Auxerre - FC Nantes",
-        "time": "22:00",
-        "id": "268702097878421504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Almere City - Sparta Rotterdam",
-        "time": "22:00",
-        "id": "268748919709765632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fortaleza CE - EC Juventude",
-        "time": "22:00",
-        "id": "268616999215697920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Zaragoza - FC Cartagena",
-        "time": "22:00",
-        "id": "269317285575004160"
     }
 ]
