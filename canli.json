@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Ituzaingo - El Porvenir",
+        "time": "02:05",
+        "id": "269341110049050624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Muxes - CD Pioneros de Cancun II",
+        "time": "02:00",
+        "id": "269844317893431296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hartford Athletic - Detroit City FC",
+        "time": "02:00",
+        "id": "269352656512880640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fortaleza FC - La Equidad",
         "time": "01:10",
         "id": "269099999472783360"
@@ -16,16 +37,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Halcones Zapopan II - Inter de Guanajuato FC",
+        "name": "Bombarderos de Tecamac FC - FC Politecnico",
         "time": "01:00",
-        "id": "269860607879155712"
+        "id": "269782734160924672"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bombarderos de Tecamac FC - FC Politecnico",
+        "name": "Halcones Zapopan II - Inter de Guanajuato FC",
         "time": "01:00",
-        "id": "269782734160924672"
+        "id": "269860607879155712"
     },
     {
         "tur": "live",
@@ -72,36 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Quilmes Atletico Club - CA Patronato",
-        "time": "00:10",
-        "id": "269337409691455488"
+        "name": "Coquimbo Unido - San Marcos de Arica",
+        "time": "00:30",
+        "id": "269415725371887616"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Deportivo Águila Azteca - Corsarios de Campeche",
-        "time": "00:00",
-        "id": "269777400066347008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estudiantes del Cobach FC - PDLA FC",
-        "time": "00:00",
-        "id": "269796624373518336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Colegiales - Tristan Suarez",
-        "time": "00:00",
-        "id": "269337409529974784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Jaguares de Cordoba - Patriotas Tunja",
-        "time": "00:00",
-        "id": "269462599425462272"
+        "name": "Deportes Temuco - Huachipato",
+        "time": "00:30",
+        "id": "269415983183171584"
     }
 ]
