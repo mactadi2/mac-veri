@@ -2,9 +2,44 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Tokyo - Vissel Kobe",
+        "time": "09:00",
+        "id": "269337407645683712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Altona Magic U23 - Melbourne Knights U23",
+        "time": "09:00",
+        "id": "269665863157813248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Adelaide Croatia Raiders - Para Hills Knights",
         "time": "08:30",
         "id": "269337423110082560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Salisbury United - Pontian Eagles",
+        "time": "08:30",
+        "id": "269700572285898752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "West Adelaide - South Adelaide",
+        "time": "08:30",
+        "id": "269701002923479040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide Blue Eagles - Adelaide Cobras",
+        "time": "08:30",
+        "id": "269700530915381248"
     },
     {
         "tur": "live",
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Maitland FC Reserves - Lambton Jaffas FC Reserves",
-        "time": "07:30",
-        "id": "269634728992313344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melbourne Victory (K) - Adelaide United (K)",
-        "time": "07:15",
-        "id": "269277937270919168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Green Gully U23 - Avondale U23",
-        "time": "07:00",
-        "id": "269664385268584448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dandenong Thunder U23 - Preston Lions U23",
-        "time": "07:00",
-        "id": "269664385127026688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Heidelberg Utd U23 - Port Melbourne U23",
-        "time": "07:00",
-        "id": "269654560808767488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Weston Workers - Valentine Phoenix",
-        "time": "07:00",
-        "id": "269337417261125632"
+        "name": "Central Coast United - Camden Tigers SC",
+        "time": "08:00",
+        "id": "269550944891572224"
     }
 ]
