@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Racing Club - Platense",
+        "time": "00:45",
+        "id": "269439433384792064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mirassol FC - Corinthians Paulista",
         "time": "00:30",
         "id": "268617310652207104"
@@ -96,12 +103,5 @@
         "name": "Envigado - Rionegro Aguilas Doradas",
         "time": "23:00",
         "id": "269099891551244288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rhode Island - Monterey Bay",
-        "time": "23:00",
-        "id": "269341109540491264"
     }
 ]
