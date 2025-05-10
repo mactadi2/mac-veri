@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fortaleza FC - La Equidad",
+        "time": "01:10",
+        "id": "269099999472783360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico San Juan de Aragon II - Atlante Chalco",
         "time": "01:00",
         "id": "269777870590709760"
@@ -26,6 +33,13 @@
         "name": "Barranquilla FC - Boca Juniors Cali",
         "time": "01:00",
         "id": "269463313394569216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Loudoun United FC - Lexington SC",
+        "time": "01:00",
+        "id": "269348784638660608"
     },
     {
         "tur": "live",
@@ -79,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportiva Venados FC II - Alebrijes de Oaxaca III (Teotihuacan)",
-        "time": "00:00",
-        "id": "269860623732576256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Club Atletico Colegiales - Tristan Suarez",
         "time": "00:00",
         "id": "269337409529974784"
@@ -96,12 +103,5 @@
         "name": "CD Jaguares de Cordoba - Patriotas Tunja",
         "time": "00:00",
         "id": "269462599425462272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Carabobo FC - Academia Puerto Cabello",
-        "time": "00:00",
-        "id": "269345082909528064"
     }
 ]
