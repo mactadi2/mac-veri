@@ -2,16 +2,58 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Meizhou Hakka - Chengdu Rongcheng FC",
-        "time": "14:35",
-        "id": "269337404995932160"
+        "name": "Valencia CF - Getafe",
+        "time": "15:00",
+        "id": "268557928597950464"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shandong Luneng Taishan FC - Zhejiang Professional FC",
-        "time": "14:35",
-        "id": "269337404784119808"
+        "name": "FC Hansa Rostock - FC Energie Cottbus",
+        "time": "15:00",
+        "id": "269324109927813120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TSV Alemannia Aachen - 1. FC Saarbrucken",
+        "time": "15:00",
+        "id": "268695381256310784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Waldhof 07 Mannheim - 1.FC Dynamo Dresden",
+        "time": "15:00",
+        "id": "268695381097975808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Verl 1924 - TSV 1860 Munchen",
+        "time": "15:00",
+        "id": "268695381176619008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Erzgebirge Aue - SV 1916 Sandhausen",
+        "time": "15:00",
+        "id": "268695524643835904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Persija Jakarta (Isl) - Bali United Pusam",
+        "time": "15:00",
+        "id": "269300247540404224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Samsunspor Under 19 - Galatasaray U19",
+        "time": "15:00",
+        "id": "269751707115851776"
     },
     {
         "tur": "live",
@@ -44,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Elversberg - TSV Eintracht Braunschweig",
-        "time": "14:00",
-        "id": "268683717665492992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "TSV Fortuna Dusseldorf - FC Schalke 04",
         "time": "14:00",
         "id": "268683280944074752"
@@ -58,50 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SV Elversberg - TSV Eintracht Braunschweig",
+        "time": "14:00",
+        "id": "268683717665492992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SS Lazio U20 - Fiorentina U20",
         "time": "14:00",
         "id": "269337405791801344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shanghai Shenhua - Qingdao West Coast FC",
-        "time": "14:00",
-        "id": "269337404918337536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pacos Ferreira - Felgueiras 1932",
-        "time": "13:00",
-        "id": "269380378099322880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eyupspor U19 - Istanbul Basaksehir Fk U19",
-        "time": "13:00",
-        "id": "269750806311473152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Vorskla Poltava - FC Chornomorets Odessa",
-        "time": "13:00",
-        "id": "268738352687222784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tampines Rovers FC - Young Lions",
-        "time": "13:00",
-        "id": "269337410945552384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tanjong Pagar United FC - Lion City Sailors FC",
-        "time": "13:00",
-        "id": "269337410876346368"
     }
 ]
