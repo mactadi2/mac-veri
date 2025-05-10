@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Adelaide Croatia Raiders - Para Hills Knights",
+        "time": "08:30",
+        "id": "269337423110082560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Melbourne Srbija U23 - Bulleen Lions U23",
         "time": "08:15",
         "id": "269667402080456704"
@@ -19,6 +26,13 @@
         "name": "Omiya Ardija - Vegalta Sendai",
         "time": "08:00",
         "id": "269182685750104064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "North Sunshine Eagles - Langwarrin Sc",
+        "time": "08:00",
+        "id": "269632689591685120"
     },
     {
         "tur": "live",
@@ -47,13 +61,6 @@
         "name": "Boroondara Carey Eagles - Essendon Royals",
         "time": "08:00",
         "id": "269650793851916288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Central Coast United - Camden Tigers SC",
-        "time": "08:00",
-        "id": "269550944891572224"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Weston Workers - Valentine Phoenix",
         "time": "07:00",
         "id": "269337417261125632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SWQ Thunder - Magic United TFA",
-        "time": "06:45",
-        "id": "269547928805314560"
     }
 ]
