@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gazovik Orenburg - FK Khimki",
+        "time": "14:30",
+        "id": "268695921242542080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Pardubice - Dynamo Ceske Budejovice",
         "time": "14:30",
         "id": "269296513349455872"
@@ -96,12 +103,5 @@
         "name": "Tanjong Pagar United FC - Lion City Sailors FC",
         "time": "13:00",
         "id": "269337410876346368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Daejeon Citizen - FC Seoul",
-        "time": "13:00",
-        "id": "269201861294297088"
     }
 ]
