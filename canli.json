@@ -2,23 +2,93 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Altona Magic - Melbourne Knights",
+        "time": "11:15",
+        "id": "269337415897976832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dukla Praha U19 - Jablonec U19",
+        "time": "11:15",
+        "id": "269648189784723456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ashdod U19 - Maccabi Haifa U19",
+        "time": "11:10",
+        "id": "269745502942269440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maccabi Netanya U19 - Maccabi Tel Aviv U19",
+        "time": "11:10",
+        "id": "269745516587388928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Beer Sheva U19 - Hapoel Rishon Lezion U19",
+        "time": "11:10",
+        "id": "269745503010426880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bnei Sakhnin FC U19 - Hapoel Haifa U19",
+        "time": "11:10",
+        "id": "269745516658692096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CSC 1599 Selimbar - CS Afumati",
+        "time": "11:00",
+        "id": "269244993341886464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chindia Targoviste - CSM Slatina",
+        "time": "11:00",
+        "id": "269337402099765248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CSM Focsani - CS Corvinul Hunedoara",
+        "time": "11:00",
+        "id": "269337402195185664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bihor Oradea - CS Unirea Ungheni 2018",
+        "time": "11:00",
+        "id": "269337401990713344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AFC Campulung-Muscel 2022 - FC Ceahlaul Piatra Neamt",
+        "time": "11:00",
+        "id": "269244823600500736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Banik Ostrava U19 - SFC Opava U19",
+        "time": "11:00",
+        "id": "269648190107684864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Pohang Steelers - Suwon City",
         "time": "10:30",
         "id": "269192459878273024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gyeongnam FC - Bucheon FC 1995",
-        "time": "10:30",
-        "id": "269283279326285824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimpo Citizen - Hwaseong Fc",
-        "time": "10:30",
-        "id": "269292712238387200"
     },
     {
         "tur": "live",
@@ -33,75 +103,5 @@
         "name": "Southern District Rsa - R&F Fc",
         "time": "10:00",
         "id": "269553621792854016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sydney Olympic FC - Sydney United",
-        "time": "10:00",
-        "id": "269337419447406592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mt Druitt Town Rangers - Sutherland Sharks",
-        "time": "10:00",
-        "id": "269337419296411648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Marconi Stallions U20 - Wollongong Wolves Fc U20",
-        "time": "10:00",
-        "id": "269598490460557312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Raiders U20 - Blacktown Spartans U20",
-        "time": "10:00",
-        "id": "269700531076861952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St George City FA U20 - APIA Leichhardt Tigers U20",
-        "time": "10:00",
-        "id": "269598490379816960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mounties Wanderers U20 - Hills United Fc U20",
-        "time": "10:00",
-        "id": "269709978212896768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Changchun Xidu - Wuxi Wugou",
-        "time": "10:00",
-        "id": "269710514735681536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hume City U23 - St Albans Saints U23",
-        "time": "09:30",
-        "id": "269666247558434816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maitland - Lambton Jaffas FC",
-        "time": "09:30",
-        "id": "269337417394294784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Tokyo - Vissel Kobe",
-        "time": "09:00",
-        "id": "269337407645683712"
     }
 ]
