@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Pohang Steelers - Suwon City",
+        "time": "10:30",
+        "id": "269192459878273024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gyeongnam FC - Bucheon FC 1995",
+        "time": "10:30",
+        "id": "269283279326285824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimpo Citizen - Hwaseong Fc",
+        "time": "10:30",
+        "id": "269292712238387200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kashiwa Reysol - Fagiano Okayama",
         "time": "10:00",
         "id": "269337407541874688"
@@ -65,23 +86,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Armadale - Perth Glory NPL",
-        "time": "10:00",
-        "id": "269528996613591040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Hume City U23 - St Albans Saints U23",
         "time": "09:30",
         "id": "269666247558434816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maitland - Lambton Jaffas FC",
-        "time": "09:30",
-        "id": "269337417394294784"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Altona Magic U23 - Melbourne Knights U23",
         "time": "09:00",
         "id": "269665863157813248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide Croatia Raiders - Para Hills Knights",
-        "time": "08:30",
-        "id": "269337423110082560"
     }
 ]
