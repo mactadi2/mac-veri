@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Athletic Bilbao - Alaves",
+        "time": "19:30",
+        "id": "268557880006938624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Albacete Balompie - SD Huesca",
+        "time": "19:30",
+        "id": "269326692266414080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Eldense - Malaga CF",
+        "time": "19:30",
+        "id": "269317285742776320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dinamo Moskova - Spartak Moskova",
+        "time": "19:30",
+        "id": "268696146163142656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Rubin Kazan - FC Rostov",
+        "time": "19:30",
+        "id": "268696226589970432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Taawon Buraidah - Al-Qadisiya",
         "time": "19:15",
         "id": "269315605574848512"
@@ -68,40 +103,5 @@
         "name": "FC Viktoria Plzen - FC Banik Ostrava",
         "time": "18:30",
         "id": "269321046218379264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AFC Ajax - NEC Nijmegen",
-        "time": "17:45",
-        "id": "268749003345235968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AZ Alkmaar - FC Groningen",
-        "time": "17:45",
-        "id": "268749003511959552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estrela - AVS Futebol SAD",
-        "time": "17:30",
-        "id": "269419187813879808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Servette Geneve FC - BSC Young Boys Bern",
-        "time": "17:30",
-        "id": "269309304306274304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chesterfield - Walsall FC",
-        "time": "17:30",
-        "id": "269272521837252608"
     }
 ]
