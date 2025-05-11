@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Argentinos Juniors - Instituto de Cordoba",
+        "time": "00:00",
+        "id": "269440380720779264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cucuta Deportivo - Real Cartagena",
+        "time": "00:00",
+        "id": "269480697371168768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alianza Valledupar - Deportivo Cali",
+        "time": "00:00",
+        "id": "269099571953668096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aguacateros CD Uruapan - Correcaminos II",
+        "time": "00:00",
+        "id": "269898891615408128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CSD Municipal - Deportivo Marquense",
+        "time": "00:00",
+        "id": "269486558564978688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Almirante Brown de Lules - Chacarita Juniors",
+        "time": "23:45",
+        "id": "269412778011398144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Palmeiras - Sao Paulo FC",
         "time": "23:30",
         "id": "268620319188717568"
@@ -12,6 +54,13 @@
         "name": "Atletico Mineiro - Fluminense RJ",
         "time": "23:30",
         "id": "268617926542757888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universidad Catolica Quito - Barcelona SC Guayaquil",
+        "time": "23:30",
+        "id": "269239402845310976"
     },
     {
         "tur": "live",
@@ -54,54 +103,5 @@
         "name": "Boavista FC - FC Porto",
         "time": "22:30",
         "id": "269419282345103360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vikingur Reykjavik - Fh Hafnarfjördur",
-        "time": "22:15",
-        "id": "269461663561945088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Betis - Osasuna",
-        "time": "22:00",
-        "id": "268557879904178176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sport Club do Recife - Cruzeiro MG",
-        "time": "22:00",
-        "id": "268617771561127936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tenerife - Racing de Ferrol",
-        "time": "22:00",
-        "id": "269326692363931648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Racing de Cordoba - Club Atletico Guemes",
-        "time": "22:00",
-        "id": "269388995182596096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bogota FC - Tigres FC",
-        "time": "22:00",
-        "id": "269479168251662336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "La Serena - Cobresal Salvador",
-        "time": "22:00",
-        "id": "269417575422758912"
     }
 ]
