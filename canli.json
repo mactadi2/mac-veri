@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Estrela - AVS Futebol SAD",
+        "time": "17:30",
+        "id": "269419187813879808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Servette Geneve FC - BSC Young Boys Bern",
+        "time": "17:30",
+        "id": "269309304306274304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chesterfield - Walsall FC",
+        "time": "17:30",
+        "id": "269272521837252608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Barcelona - Real Madrid",
         "time": "17:15",
         "id": "268041498505908224"
@@ -82,26 +103,5 @@
         "name": "Vizela - Academico Viseu",
         "time": "16:00",
         "id": "269380378262900736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GKS Dospel Katowice - MKS Cracovia Krakow",
-        "time": "15:45",
-        "id": "269193796694183936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Feyenoord Rotterdam - PSV Eindhoven",
-        "time": "15:30",
-        "id": "268749003433316352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Twente - FC Utrecht",
-        "time": "15:30",
-        "id": "268749129458520064"
     }
 ]
