@@ -2,23 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Karpaty Lviv - PFK Oleksandria",
-        "time": "18:00",
-        "id": "268738391089221632"
+        "name": "Liverpool - Arsenal",
+        "time": "18:30",
+        "id": "268702162472800256"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "OKS Odra Opole - MKP Kotwica Kolobrzeg",
-        "time": "18:00",
-        "id": "269409755855982592"
+        "name": "Eintracht Frankfurt - FC St. Pauli",
+        "time": "18:30",
+        "id": "268702162274619392"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PFK Botev Vratsa - Levski Krumovgrad",
-        "time": "18:00",
-        "id": "269476154303451136"
+        "name": "FC Viktoria Plzen - FC Banik Ostrava",
+        "time": "18:30",
+        "id": "269321046218379264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KP Legia Warszawa - KKS Lech Poznan",
+        "time": "18:30",
+        "id": "269193794699792384"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Smouha - ENPPI Club",
         "time": "17:00",
         "id": "269475382753890304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bayer 04 Leverkusen - Borussia Dortmund",
-        "time": "16:30",
-        "id": "268702162404642816"
     }
 ]
