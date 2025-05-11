@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Karpaty Lviv - PFK Oleksandria",
+        "time": "18:00",
+        "id": "268738391089221632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "OKS Odra Opole - MKP Kotwica Kolobrzeg",
+        "time": "18:00",
+        "id": "269409755855982592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFK Botev Vratsa - Levski Krumovgrad",
+        "time": "18:00",
+        "id": "269476154303451136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AFC Ajax - NEC Nijmegen",
         "time": "17:45",
         "id": "268749003345235968"
@@ -37,6 +58,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Rot-Weiss Essen - VfL Osnabruck",
+        "time": "17:30",
+        "id": "268695594105704448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Osters IF - IF Elfsborg",
+        "time": "17:30",
+        "id": "269309921170952192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Degerfors IF - Malmo FF",
+        "time": "17:30",
+        "id": "269309252899835904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Barcelona - Real Madrid",
         "time": "17:15",
         "id": "268041498505908224"
@@ -51,57 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Smouha - ENPPI Club",
+        "time": "17:00",
+        "id": "269475382753890304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bayer 04 Leverkusen - Borussia Dortmund",
         "time": "16:30",
         "id": "268702162404642816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Fakel - Lokomotiv Moskova",
-        "time": "16:30",
-        "id": "268695990510424064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nottingham Forest - Leicester City",
-        "time": "16:15",
-        "id": "268702162640572416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manchester United - West Ham United",
-        "time": "16:15",
-        "id": "268702162718167040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tottenham Hotspur - Crystal Palace FC",
-        "time": "16:15",
-        "id": "268702162796810240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sivasspor - Bodrumspor",
-        "time": "16:00",
-        "id": "269304010954117120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hellas Verona - Lecce",
-        "time": "16:00",
-        "id": "268702420365873152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Slovan Liberec - Bohemians 1905",
-        "time": "16:00",
-        "id": "269313908404260864"
     }
 ]
