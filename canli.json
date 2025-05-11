@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AFC Ajax - NEC Nijmegen",
+        "time": "17:45",
+        "id": "268749003345235968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AZ Alkmaar - FC Groningen",
+        "time": "17:45",
+        "id": "268749003511959552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Estrela - AVS Futebol SAD",
         "time": "17:30",
         "id": "269419187813879808"
@@ -89,19 +103,5 @@
         "name": "FC Slovan Liberec - Bohemians 1905",
         "time": "16:00",
         "id": "269313908404260864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Mlada Boleslav - AC Dukla Praha",
-        "time": "16:00",
-        "id": "269305884761526272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vizela - Academico Viseu",
-        "time": "16:00",
-        "id": "269380378262900736"
     }
 ]
