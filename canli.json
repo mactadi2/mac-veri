@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Balam FC - Artesanos Bajos De Chila",
+        "time": "00:30",
+        "id": "269882143154507776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union La Calera - San Luis de Quillota",
+        "time": "00:30",
+        "id": "269417514527756288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Everton Vina del Mar - Universidad Catolica",
+        "time": "00:30",
+        "id": "269417575352504320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Argentinos Juniors - Instituto de Cordoba",
         "time": "00:00",
         "id": "269440380720779264"
@@ -30,13 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CSD Municipal - Deportivo Marquense",
-        "time": "00:00",
-        "id": "269486558564978688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Almirante Brown de Lules - Chacarita Juniors",
         "time": "23:45",
         "id": "269412778011398144"
@@ -54,13 +68,6 @@
         "name": "Atletico Mineiro - Fluminense RJ",
         "time": "23:30",
         "id": "268617926542757888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universidad Catolica Quito - Barcelona SC Guayaquil",
-        "time": "23:30",
-        "id": "269239402845310976"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Universidad Central de Venezuela - Portuguesa FC",
         "time": "23:00",
         "id": "269479934836215808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boavista FC - FC Porto",
-        "time": "22:30",
-        "id": "269419282345103360"
     }
 ]
