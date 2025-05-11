@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Barcelona - Real Madrid",
+        "time": "17:15",
+        "id": "268041498505908224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AGF Aarhus - Randers FC",
+        "time": "17:00",
+        "id": "269121540060221440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bayer 04 Leverkusen - Borussia Dortmund",
         "time": "16:30",
         "id": "268702162404642816"
@@ -44,16 +58,37 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kocaelispor - Keçiörengücü",
+        "name": "Hellas Verona - Lecce",
         "time": "16:00",
-        "id": "269449361667264512"
+        "id": "268702420365873152"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hellas Verona - Lecce",
+        "name": "FC Slovan Liberec - Bohemians 1905",
         "time": "16:00",
-        "id": "268702420365873152"
+        "id": "269313908404260864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Mlada Boleslav - AC Dukla Praha",
+        "time": "16:00",
+        "id": "269305884761526272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vizela - Academico Viseu",
+        "time": "16:00",
+        "id": "269380378262900736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GKS Dospel Katowice - MKS Cracovia Krakow",
+        "time": "15:45",
+        "id": "269193796694183936"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "FC Twente - FC Utrecht",
         "time": "15:30",
         "id": "268749129458520064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Luzern - Lausanne-Sports",
-        "time": "15:15",
-        "id": "269301295955972096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leganes - RCD Espanyol",
-        "time": "15:00",
-        "id": "268557757329838080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Racing Santander - Real Oviedo",
-        "time": "15:00",
-        "id": "269317285384163328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Silkeborg IF - SonderjyskE",
-        "time": "15:00",
-        "id": "269121540700901376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Nordsjaelland - Brondby I.F.",
-        "time": "15:00",
-        "id": "269121540880207872"
     }
 ]
