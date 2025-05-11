@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Zwolle - Go Ahead Eagles",
+        "time": "13:15",
+        "id": "268748919820914688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Torreense - Leixoes",
+        "time": "13:00",
+        "id": "269477686866481152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Teruel - CD Atletico Baleares",
+        "time": "13:00",
+        "id": "269586609861693440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CF Villanovense - Real Madrid C",
+        "time": "13:00",
+        "id": "269602339745304576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Utebo - U.D. Talavera",
+        "time": "13:00",
+        "id": "269586609288122368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rayo Majadahonda - Sant Andreu Barcelona",
+        "time": "13:00",
+        "id": "269586609682386944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chrobry Glogow - Warta Poznan",
+        "time": "13:00",
+        "id": "269394149276520448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Balestier Khalsa FC - Brunei Dpmm FC",
+        "time": "13:00",
+        "id": "269472354365739008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Geylang United FC - Albirex Niigata Singapore FC",
+        "time": "13:00",
+        "id": "269472354639417344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "UM Escobedo - UD Barbastro",
         "time": "12:45",
         "id": "269602339812413440"
@@ -12,13 +75,6 @@
         "name": "Getafe B - CD Numancia",
         "time": "12:30",
         "id": "269586610438410240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eastern District - Shatin",
-        "time": "12:30",
-        "id": "269807189197197312"
     },
     {
         "tur": "live",
@@ -37,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cracovia Krakow II - KS Sokol Slopnice",
-        "time": "12:00",
-        "id": "269651025422585856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "North Bangkok University - Maejo United",
-        "time": "12:00",
-        "id": "269814622616424448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Arema Endonezya - Persik Kediri",
         "time": "11:30",
         "id": "269390871010611200"
@@ -61,47 +103,5 @@
         "name": "SV Ried - SK Sturm Graz II",
         "time": "11:30",
         "id": "269441822933258240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Metaloglobus Bucuresti - CSA Steaua Bucuresti",
-        "time": "11:30",
-        "id": "269366896093171712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Slovan Hac - Helfort 15",
-        "time": "11:30",
-        "id": "269836406698938368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Slavia Prague B - FC Zbrojovka Brno",
-        "time": "11:15",
-        "id": "269471056375451648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Viktoria Zizkov - Sparta Prague B",
-        "time": "11:15",
-        "id": "269471056299954176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SFC Opava 2 - FC Vratimov",
-        "time": "11:15",
-        "id": "269651025355476992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melbourne City U21 - Brunswick City",
-        "time": "11:00",
-        "id": "269633726120595456"
     }
 ]
