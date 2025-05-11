@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC PAOK Thessaloniki - AEK Athens",
+        "time": "20:00",
+        "id": "268666572341645312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Athletic Bilbao - Alaves",
         "time": "19:30",
         "id": "268557880006938624"
@@ -96,12 +103,5 @@
         "name": "Viborg FF - AaB Aalborg",
         "time": "19:00",
         "id": "269121541036445696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eintracht Frankfurt - FC St. Pauli",
-        "time": "18:30",
-        "id": "268702162274619392"
     }
 ]
