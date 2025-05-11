@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Irritilas FC - Magos Union Deportiva",
+        "time": "01:00",
+        "id": "269882107004850176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Saprissa - CS Herediano",
         "time": "01:00",
         "id": "269751332108374016"
@@ -40,6 +47,13 @@
         "name": "Union La Calera - San Luis de Quillota",
         "time": "00:30",
         "id": "269417514527756288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cuiaba MT - Operario Ferroviario EC PR",
+        "time": "00:30",
+        "id": "269270143545249792"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Almirante Brown de Lules - Chacarita Juniors",
         "time": "23:45",
         "id": "269412778011398144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palmeiras - Sao Paulo FC",
-        "time": "23:30",
-        "id": "268620319188717568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Mineiro - Fluminense RJ",
-        "time": "23:30",
-        "id": "268617926542757888"
     }
 ]
