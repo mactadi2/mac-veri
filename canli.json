@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Boavista FC - FC Porto",
+        "time": "22:30",
+        "id": "269419282345103360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vikingur Reykjavik - Fh Hafnarfjördur",
+        "time": "22:15",
+        "id": "269461663561945088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Betis - Osasuna",
         "time": "22:00",
         "id": "268557879904178176"
@@ -89,19 +103,5 @@
         "name": "CE Sabadell - SD Eibar B",
         "time": "20:45",
         "id": "269586609541877760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VfB Stuttgart - FC Augsburg",
-        "time": "20:30",
-        "id": "268702162343825408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wycombe Wanderers - Charlton Athletic FC",
-        "time": "20:30",
-        "id": "269230495995400192"
     }
 ]
