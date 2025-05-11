@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Heroes de Zaci - Universidad del Golfo de Mexico",
+        "time": "01:00",
+        "id": "269881324277469184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Irapuato Olimpo FC - Atletico Acaponeta",
+        "time": "01:00",
+        "id": "269881924626026496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Saprissa - CS Herediano",
+        "time": "01:00",
+        "id": "269751332108374016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Balam FC - Artesanos Bajos De Chila",
         "time": "00:30",
         "id": "269882143154507776"
@@ -19,6 +40,13 @@
         "name": "Union La Calera - San Luis de Quillota",
         "time": "00:30",
         "id": "269417514527756288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Aguila - C.D. FAS",
+        "time": "00:15",
+        "id": "269774953507852288"
     },
     {
         "tur": "live",
@@ -51,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CSD Municipal - Deportivo Marquense",
+        "time": "00:00",
+        "id": "269486558564978688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Almirante Brown de Lules - Chacarita Juniors",
         "time": "23:45",
         "id": "269412778011398144"
@@ -68,40 +103,5 @@
         "name": "Atletico Mineiro - Fluminense RJ",
         "time": "23:30",
         "id": "268617926542757888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dominica - Barbados",
-        "time": "23:00",
-        "id": "269858963739250688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juarez FC II - Club Atletico Quintanarroense",
-        "time": "23:00",
-        "id": "269881326362038272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Mitre - Estudiantes Rio Cuarto",
-        "time": "23:00",
-        "id": "269399685339418624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colon de Santa Fe - Talleres Remedios Escalada",
-        "time": "23:00",
-        "id": "269330079337811968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universidad Central de Venezuela - Portuguesa FC",
-        "time": "23:00",
-        "id": "269479934836215808"
     }
 ]
