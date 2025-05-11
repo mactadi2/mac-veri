@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "VfB Stuttgart - FC Augsburg",
+        "time": "20:30",
+        "id": "268702162343825408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wycombe Wanderers - Charlton Athletic FC",
+        "time": "20:30",
+        "id": "269230495995400192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vitoria Guimaraes - Farense",
         "time": "20:00",
         "id": "269319142849515520"
@@ -12,13 +26,6 @@
         "name": "Moreirense - Estoril",
         "time": "20:00",
         "id": "269319142910332928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC PAOK Thessaloniki - AEK Athens",
-        "time": "20:00",
-        "id": "268666572341645312"
     },
     {
         "tur": "live",
@@ -89,13 +96,6 @@
         "name": "Viborg FF - AaB Aalborg",
         "time": "19:00",
         "id": "269121541036445696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Liverpool - Arsenal",
-        "time": "18:30",
-        "id": "268702162472800256"
     },
     {
         "tur": "live",
