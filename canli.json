@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sivasspor - Bodrumspor",
+        "time": "16:00",
+        "id": "269304010954117120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kocaelispor - Keçiörengücü",
+        "time": "16:00",
+        "id": "269449361667264512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hellas Verona - Lecce",
+        "time": "16:00",
+        "id": "268702420365873152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Slovan Liberec - Bohemians 1905",
+        "time": "16:00",
+        "id": "269313908404260864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Mlada Boleslav - AC Dukla Praha",
+        "time": "16:00",
+        "id": "269305884761526272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Feyenoord Rotterdam - PSV Eindhoven",
         "time": "15:30",
         "id": "268749003433316352"
@@ -68,40 +103,5 @@
         "name": "SSV Jahn Regensburg - Karlsruher SC",
         "time": "14:30",
         "id": "268684513126780928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SpVgg Unterhaching - Arminia Bielefeld",
-        "time": "14:30",
-        "id": "268762675343921152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Newcastle United FC - Chelsea",
-        "time": "14:00",
-        "id": "268702162553540608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Glasgow Rangers FC - Aberdeen FC",
-        "time": "14:00",
-        "id": "269224418553761792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Akron Tolyatti - FK Akhmat Grozny",
-        "time": "14:00",
-        "id": "268696146092888064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Teplice - FC Slovacko",
-        "time": "14:00",
-        "id": "269305884618919936"
     }
 ]
