@@ -79,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Atlas - Yupanqui",
+        "time": "21:30",
+        "id": "269341110110916608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al-Ittihad - Al Feiha",
         "time": "21:00",
         "id": "269322645396393984"
@@ -96,12 +103,5 @@
         "name": "Club Atletico Alvarado - Deportivo Madryn",
         "time": "21:00",
         "id": "269412871982682112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CE Sabadell - SD Eibar B",
-        "time": "20:45",
-        "id": "269586609541877760"
     }
 ]
