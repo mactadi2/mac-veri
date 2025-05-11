@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bogota FC - Tigres FC",
+        "time": "22:00",
+        "id": "269479168251662336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Napoli - Genoa",
         "time": "21:45",
         "id": "268702444663476224"
@@ -96,12 +103,5 @@
         "name": "Wycombe Wanderers - Charlton Athletic FC",
         "time": "20:30",
         "id": "269230495995400192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viktoria Koln 1904 - Hannover 96 II",
-        "time": "20:30",
-        "id": "268695594033352704"
     }
 ]
