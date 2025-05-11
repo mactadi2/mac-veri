@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Getafe B - CD Numancia",
+        "time": "12:30",
+        "id": "269586610438410240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Eastern District - Shatin",
+        "time": "12:30",
+        "id": "269807189197197312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Torku Konyaspor U19 - Hatayspor U19",
         "time": "12:00",
         "id": "269881588806979584"
@@ -19,6 +33,20 @@
         "name": "Cracovia Krakow II - KS Sokol Slopnice",
         "time": "12:00",
         "id": "269651025422585856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "North Bangkok University - Maejo United",
+        "time": "12:00",
+        "id": "269814622616424448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fleet FC - Rasi Salai United",
+        "time": "12:00",
+        "id": "269814622691921920"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Melbourne City U21 - Brunswick City",
         "time": "11:00",
         "id": "269633726120595456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jeju United - Ulsan Hyundai Horang-i",
-        "time": "10:30",
-        "id": "269282849789710336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "3 Sing FC - Hoi King",
-        "time": "10:30",
-        "id": "269807189055639552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cheongju City FC - Busan I. Park",
-        "time": "10:30",
-        "id": "269292712135626752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jeonnam Dragons - Seongnam Ilhwa Chunma",
-        "time": "10:30",
-        "id": "269283375623311360"
     }
 ]
