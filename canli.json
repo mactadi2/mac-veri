@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Huracan - Deportivo Riestra",
+        "time": "02:30",
+        "id": "269440380801519616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universitario de Deportes - Alianza Atletico",
+        "time": "02:30",
+        "id": "269099334545575936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aurora - Bolivar",
+        "time": "02:30",
+        "id": "269403927773057024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Botafogo RJ - SC Internacional RS",
         "time": "02:00",
         "id": "268618082096910336"
@@ -30,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Prisons FC - AC Port Of Spain",
+        "time": "02:00",
+        "id": "269795568583315456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Temperley - Deportivo Moron",
         "time": "01:45",
         "id": "269407462168334336"
@@ -40,6 +68,13 @@
         "name": "Deportivo Garcilaso - Cusco FC",
         "time": "01:30",
         "id": "269099411536220160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Luqueno - Libertad Asuncion",
+        "time": "01:30",
+        "id": "269316983176171520"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Deportivo Saprissa - CS Herediano",
         "time": "01:00",
         "id": "269751332108374016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Balam FC - Artesanos Bajos De Chila",
-        "time": "00:30",
-        "id": "269882143154507776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Everton Vina del Mar - Universidad Catolica",
-        "time": "00:30",
-        "id": "269417575352504320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union La Calera - San Luis de Quillota",
-        "time": "00:30",
-        "id": "269417514527756288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cuiaba MT - Operario Ferroviario EC PR",
-        "time": "00:30",
-        "id": "269270143545249792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Novorizontino SP - Ferroviaria SP",
-        "time": "00:30",
-        "id": "269268533436878848"
     }
 ]
