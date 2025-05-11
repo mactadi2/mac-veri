@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al-Ittihad - Al Feiha",
+        "time": "21:00",
+        "id": "269322645396393984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Kopenhag - FC Midtjylland",
+        "time": "21:00",
+        "id": "269121540498526208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CE Sabadell - SD Eibar B",
+        "time": "20:45",
+        "id": "269586609541877760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "VfB Stuttgart - FC Augsburg",
         "time": "20:30",
         "id": "268702162343825408"
@@ -12,6 +33,13 @@
         "name": "Wycombe Wanderers - Charlton Athletic FC",
         "time": "20:30",
         "id": "269230495995400192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Viktoria Koln 1904 - Hannover 96 II",
+        "time": "20:30",
+        "id": "268695594033352704"
     },
     {
         "tur": "live",
@@ -37,6 +65,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Panathinaikos - Olympiakos Piraeus FC",
+        "time": "20:00",
+        "id": "268666572277682176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Benfica Lisbon B - FC Penafiel",
+        "time": "20:00",
+        "id": "269477686717583360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portimonense - FC Porto B",
+        "time": "20:00",
+        "id": "269380378375098368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Fabril - UCAM Murcia",
+        "time": "20:00",
+        "id": "269586609378299904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Athletic Bilbao - Alaves",
         "time": "19:30",
         "id": "268557880006938624"
@@ -47,61 +103,5 @@
         "name": "Albacete Balompie - SD Huesca",
         "time": "19:30",
         "id": "269326692266414080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eldense - Malaga CF",
-        "time": "19:30",
-        "id": "269317285742776320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Taawon Buraidah - Al-Qadisiya",
-        "time": "19:15",
-        "id": "269315605574848512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Damac FC - Al Raed Buraidah",
-        "time": "19:10",
-        "id": "269315911577636864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Shabab Riyadh - Al Ahli Jeddah",
-        "time": "19:05",
-        "id": "269315710361145344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Besiktas JK - Adana Demirspor",
-        "time": "19:00",
-        "id": "269315328835719168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Göztepe - Hatayspor",
-        "time": "19:00",
-        "id": "269315328746590208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Torino FC - İnter",
-        "time": "19:00",
-        "id": "268702444730585088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viborg FF - AaB Aalborg",
-        "time": "19:00",
-        "id": "269121541036445696"
     }
 ]
