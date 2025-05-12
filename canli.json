@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Maccabi Netanya - Maccabi Tel-Aviv",
+        "time": "20:30",
+        "id": "269419198057418752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Beer-Sheva - Maccabi Haifa FC",
+        "time": "20:30",
+        "id": "269419197982969856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "IFK Goteborg - Djurgardens IF",
         "time": "20:10",
         "id": "269397240594960384"
@@ -89,19 +103,5 @@
         "name": "Hapoel Kfar Shelem - Hapoel Ramat Gan",
         "time": "19:00",
         "id": "269779147187949568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MC El Bayadh - JS Kabylie",
-        "time": "19:00",
-        "id": "269507451681902592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CR Belouizdad - MC Alger",
-        "time": "19:00",
-        "id": "269507451609550848"
     }
 ]
