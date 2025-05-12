@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Alianza Universidad - Sport Huancayo",
+        "time": "23:30",
+        "id": "269099411615911936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Santander - Internacional Fc De Palmira",
         "time": "23:00",
         "id": "269612952588521472"
@@ -47,40 +54,5 @@
         "name": "Chabab Mohammedia - Raja Casablanca",
         "time": "22:00",
         "id": "269790384422522880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atalanta - AS Roma",
-        "time": "21:45",
-        "id": "268702420143575040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Granada CF - Eibar",
-        "time": "21:30",
-        "id": "269395009124569088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Barracas - Estrella del Sur",
-        "time": "21:30",
-        "id": "269341109903298560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Crystal Palace U21 - Southampton U21",
-        "time": "21:00",
-        "id": "269508687654162432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fram Reykjavik (W) - Valur Reykjavik (W)",
-        "time": "21:00",
-        "id": "269892364852662272"
     }
 ]
