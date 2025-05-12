@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SSC Venezia - AC Fiorentina",
+        "time": "19:30",
+        "id": "268702444326883328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Hilal Riyadh - Al-Orubah",
         "time": "19:05",
         "id": "269507812653142016"
@@ -96,12 +103,5 @@
         "name": "Diyala FC - Erbil SC",
         "time": "18:00",
         "id": "269692838542970880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethio Electric SC - Sidama Bunna",
-        "time": "18:00",
-        "id": "269764514094911488"
     }
 ]
