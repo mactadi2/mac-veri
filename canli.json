@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IFK Goteborg - Djurgardens IF",
+        "time": "20:10",
+        "id": "269397240594960384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kayserispor - Antalyaspor",
+        "time": "20:00",
+        "id": "269365748047155200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vejle Boldklub - Lyngby BK",
+        "time": "20:00",
+        "id": "269385251484209152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MKS Puszcza Niepolomice - Stal Mielec",
+        "time": "20:00",
+        "id": "269193796908093440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wisla Plock - Arka Gdynia",
+        "time": "20:00",
+        "id": "269367920128299008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Landskrona Bois - Orgryte IS",
+        "time": "20:00",
+        "id": "269409980314161152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Sharjah SCC - Al Ain",
+        "time": "20:00",
+        "id": "269863592352944128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SSC Venezia - AC Fiorentina",
         "time": "19:30",
         "id": "268702444326883328"
@@ -54,54 +103,5 @@
         "name": "CR Belouizdad - MC Alger",
         "time": "19:00",
         "id": "269507451609550848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Seinäjoen Jalkapallokerho - VPS Vaasan Palloseura",
-        "time": "19:00",
-        "id": "269330997796016128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "APOEL Nicosia FC - Pafos FC",
-        "time": "19:00",
-        "id": "269377940798705664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AEK Larnaca - Apollon Limmassol FC",
-        "time": "19:00",
-        "id": "269377940945506304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aris Limmasol - Omonia FC Nicosia",
-        "time": "19:00",
-        "id": "269377940730548224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Banik Ostrava B - SFC Opava",
-        "time": "18:00",
-        "id": "269594238499557376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Kahrabaa Club - Al Qasim SC",
-        "time": "18:00",
-        "id": "269692838803017728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Diyala FC - Erbil SC",
-        "time": "18:00",
-        "id": "269692838542970880"
     }
 ]
