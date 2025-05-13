@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "DC Power (W) - Spokane Zephyr (W)",
+        "time": "02:00",
+        "id": "270025245933572096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Desportivo Ferroviaria - Rio Branco ES",
+        "time": "02:00",
+        "id": "270066822947147776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportes Quindio - Orsomarso",
         "time": "01:00",
         "id": "269698561208356864"
@@ -33,12 +47,5 @@
         "name": "Gremio Porto Alegrense RS - Godoy Cruz",
         "time": "01:00",
         "id": "269742311912640512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Botafogo RJ U20 - Fluminense RJ U20",
-        "time": "00:00",
-        "id": "270025251368341504"
     }
 ]
