@@ -1,79 +1,44 @@
 [
     {
         "type": "futbol",
-        "name": "Argentinos Jrs. - Instituto AC",
-        "day": "12",
-        "time": "00:00",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Vancouver W.Caps - Los Angeles FC",
-        "day": "12",
-        "time": "02:00",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Huracan - Deportivo Riestra",
-        "day": "12",
+        "name": "River Plate - Barracas Central",
+        "day": "13",
         "time": "02:30",
         "channel": "Spor Smart"
     },
     {
         "type": "futbol",
-        "name": "Al Hilal - Al Orobah",
-        "day": "12",
-        "time": "19:05",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Venezia - Fiorentina",
-        "day": "12",
+        "name": "Bilinmiyor - Bilinmiyor",
+        "day": "13",
         "time": "19:30",
-        "channel": "S Sport 2"
+        "channel": "A Spor"
     },
     {
         "type": "futbol",
-        "name": "Kayserispor - Antalyaspor",
-        "day": "12",
+        "name": "Valladolid - Girona",
+        "day": "13",
         "time": "20:00",
-        "channel": "Bein Sports 1"
+        "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Al Okhdood - Al Nassr",
-        "day": "12",
+        "name": "Real Sociedad - Celta Vigo",
+        "day": "13",
         "time": "21:00",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Atalanta - Roma",
-        "day": "12",
-        "time": "21:45",
         "channel": "S Sport 2"
     },
     {
         "type": "futbol",
-        "name": "Sheffield Utd - Bristol City",
-        "day": "12",
-        "time": "22:00",
-        "channel": "TV 8 Buçuk"
+        "name": "Sevilla - Las Palmas",
+        "day": "13",
+        "time": "22:30",
+        "channel": "S Sport"
     },
     {
-        "type": "tenis",
-        "name": "P.Stearns - N.Osaka",
-        "day": "12",
-        "time": "12:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "B.Andreescu - Q.Zheng",
-        "day": "12",
-        "time": "19:30",
-        "channel": "Bein Sports Max 1"
+        "type": "basketbol",
+        "name": "New York Knicks - Boston Celtics",
+        "day": "13",
+        "time": "02:30",
+        "channel": "S Sport"
     }
 ]
