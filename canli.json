@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Jkt Tanzania - Fountain Gate FC",
+        "time": "14:00",
+        "id": "270020818564681728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Queensland Lions SC - Brisbane City",
         "time": "13:30",
         "id": "269667715860533248"
@@ -26,13 +33,6 @@
         "name": "Slavia Prague - Dukla Praha U19",
         "time": "13:00",
         "id": "269927517531541504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bansbari Club - Planning Boys United",
-        "time": "13:00",
-        "id": "270107442013147136"
     },
     {
         "tur": "live",
@@ -82,19 +82,5 @@
         "name": "Ispe U21 - Hantharwady United FC U21",
         "time": "12:30",
         "id": "270040229903208448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bodrumspor U19 - Beşiktaş Jk U19",
-        "time": "12:00",
-        "id": "270024939340435456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Broadmeadow Magic - Charlestown Azzurri",
-        "time": "12:00",
-        "id": "270071069140979712"
     }
 ]
