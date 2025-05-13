@@ -2,9 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "JK Tallinna Kalev - JK Nomme Kalju",
+        "time": "19:00",
+        "id": "269950202907070464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stabaek If 2 - Odds Ballklubb II",
+        "time": "19:00",
+        "id": "269688603375964160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Molde (A) - Aalesund FK II",
+        "time": "19:00",
+        "id": "269507451860160512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SC Znojmo - FC Zlinsko",
         "time": "18:30",
         "id": "269950192833400832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RiPS Riihimaki - FC Jazz Pori",
+        "time": "18:30",
+        "id": "270021648065892352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sjk Akatemia - Pk-35",
+        "time": "18:30",
+        "id": "269502930473848832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jippo Joensuu - FC Lahti",
+        "time": "18:30",
+        "id": "269686462388244480"
     },
     {
         "tur": "live",
@@ -30,6 +72,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Forge FC - Atletico Ottawa",
+        "time": "18:00",
+        "id": "269493807549124608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Noah Artsakh - FC Ararat-Armenia",
+        "time": "18:00",
+        "id": "269965177915576320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PFC Cherno More Varna - PFC Ludogorets Razgrad",
         "time": "17:45",
         "id": "269683769941823488"
@@ -44,64 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Al Urooba - Al Wasl",
-        "time": "17:10",
-        "id": "269929407845634048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Jazira - Al Bataeh",
-        "time": "17:10",
-        "id": "269942634480537600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Wahda Abu Dhabi U23 - Dibba Al Hisn U23",
-        "time": "17:10",
-        "id": "270045000726876160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Ain FC U23 - Sharjah SCC U23",
-        "time": "17:10",
-        "id": "270045000638795776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Khor Fakkan U23 - Baniyas SC U23",
-        "time": "17:10",
-        "id": "270028761819385856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yupanqui Reserves - Canuelas FC Reserves",
-        "time": "17:00",
-        "id": "270108472943710208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ceramica Cleopatra FC  - Al Ahly Cairo",
-        "time": "17:00",
-        "id": "269681024566431744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pharco - Al Masry Club",
-        "time": "17:00",
-        "id": "269681024635637760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Fard - Sepidrood Rasht",
-        "time": "17:00",
-        "id": "270118567353126912"
+        "name": "Al-Ahli Doha - Al Shahaniya",
+        "time": "17:15",
+        "id": "269939085795266560"
     }
 ]
