@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PFC Cherno More Varna - PFC Ludogorets Razgrad",
+        "time": "17:45",
+        "id": "269683769941823488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Italiano Reserves - Excursionistas Reserves",
+        "time": "17:30",
+        "id": "270053682884775936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Urooba - Al Wasl",
         "time": "17:10",
         "id": "269929407845634048"
@@ -58,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Defensor Sporting Reserves - La Luz Reserves",
-        "time": "16:00",
-        "id": "269928832850595840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Juventud De Las Piedras Reserves - Nacional de Montevideo Reserves",
         "time": "16:00",
         "id": "269928771563425792"
@@ -96,12 +103,5 @@
         "name": "12 de Junio de Villa Hayes - River Plate Asuncion",
         "time": "16:00",
         "id": "269847857364865024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Moron Reserves - Almirante Brown Reserves",
-        "time": "15:30",
-        "id": "270053682967613440"
     }
 ]
