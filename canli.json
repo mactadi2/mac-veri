@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "West Torrens Birkalla - Adelaide Comets",
+        "time": "12:30",
+        "id": "270029723727433728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gold Coast United - Brisbane Roar Youth",
         "time": "12:30",
         "id": "270015526024122368"
@@ -26,6 +33,13 @@
         "name": "Dagon Port FC U21 - Yangon United U21",
         "time": "12:30",
         "id": "270034505809661952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ispe U21 - Hantharwady United FC U21",
+        "time": "12:30",
+        "id": "270040229903208448"
     },
     {
         "tur": "live",
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Da Nang II - Vinh Long",
-        "time": "11:00",
-        "id": "270024195794145280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Lam Dong - Gia Dinh",
         "time": "11:00",
         "id": "270024042689466368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "DAK Lak - Van Hien University",
-        "time": "11:00",
-        "id": "270024118168064000"
     }
 ]
