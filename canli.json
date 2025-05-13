@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportes Quindio - Orsomarso",
+        "time": "01:00",
+        "id": "269698561208356864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nacional Potosi - Boston River",
+        "time": "01:00",
+        "id": "269741636611870720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Tachira FC - Central Cordoba De Santiago",
+        "time": "01:00",
+        "id": "269661472091672576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ca Talleres De Cordoba Reserves - Velez Sarsfield Reserves",
+        "time": "01:00",
+        "id": "270025245861220352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gremio Porto Alegrense RS - Godoy Cruz",
+        "time": "01:00",
+        "id": "269742311912640512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Botafogo RJ U20 - Fluminense RJ U20",
         "time": "00:00",
         "id": "270025251368341504"
@@ -12,12 +47,5 @@
         "name": "Indepiendente Juniors - Gualaceo SC",
         "time": "23:30",
         "id": "269886602933833728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Real Santander (W) - Millonarios (W)",
-        "time": "23:00",
-        "id": "270026790228070400"
     }
 ]
