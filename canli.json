@@ -2,44 +2,93 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Brescia - AC Reggiana 1919",
+        "time": "21:30",
+        "id": "269697799712542720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sassuolo - Frosinone",
+        "time": "21:30",
+        "id": "269697800248365056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juve Stabia - Sampdoria",
+        "time": "21:30",
+        "id": "269697799633899520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Spezia - Cosenza",
+        "time": "21:30",
+        "id": "269697800033406976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palermo - Carrarese",
+        "time": "21:30",
+        "id": "269697799952666624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pisa - Cremonese",
+        "time": "21:30",
+        "id": "269697799796428800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Sudtirol Bolzano - Bari",
+        "time": "21:30",
+        "id": "269697800105758720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Modena - Cesena FC",
+        "time": "21:30",
+        "id": "269697800180207616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mantova - Catanzaro",
+        "time": "21:30",
+        "id": "269697800325959680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cittadella - Salernitana",
+        "time": "21:30",
+        "id": "269697799883460608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Zurich - FC Winterthur",
+        "time": "21:30",
+        "id": "269515022455148544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Sion Sitten - FC St. Gallen",
+        "time": "21:30",
+        "id": "269697800412991488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Sociedad - Celta de Vigo",
         "time": "21:00",
         "id": "269332570533138432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boston River Reserves - Liverpool Montevideo Reserves",
-        "time": "21:00",
-        "id": "269928874917367808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orlando Pirates FC - Lamontville Golden Arrows",
-        "time": "20:30",
-        "id": "269502285811421184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Karma - Al Shorta",
-        "time": "20:30",
-        "id": "269694060030201856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Naft Maysan - AL Zawraa SC",
-        "time": "20:30",
-        "id": "269694059937927168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC CSKA Sofia - Pfc Spartak Varna",
-        "time": "20:15",
-        "id": "269693367657566208"
     },
     {
         "tur": "live",
@@ -54,54 +103,5 @@
         "name": "El Porvenir Reserves - Atletico Camioneros Reserves",
         "time": "20:00",
         "id": "270115224543170560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Argentino de Rosario Reserves - CA Ituzaingo Reserves",
-        "time": "20:00",
-        "id": "270111367389908992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "El Zamalek - Pyramids FC",
-        "time": "20:00",
-        "id": "269692321849806848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Haras El Hodood - National Bank of Egypt SC",
-        "time": "20:00",
-        "id": "269692321778503680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Helsingborgs IF - IK Brage Borlange",
-        "time": "20:00",
-        "id": "269378160837136384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Nasr - Shabab Al Ahli Dubai",
-        "time": "20:00",
-        "id": "269953971742969856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ajman - Ittihad Kalba",
-        "time": "20:00",
-        "id": "269953971562614784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Telstar - ADO Den Haag",
-        "time": "19:45",
-        "id": "269999908593995776"
     }
 ]
