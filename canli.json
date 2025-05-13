@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Orlando Pirates FC - Lamontville Golden Arrows",
+        "time": "20:30",
+        "id": "269502285811421184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Naft Maysan - AL Zawraa SC",
+        "time": "20:30",
+        "id": "269694059937927168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Karma - Al Shorta",
+        "time": "20:30",
+        "id": "269694060030201856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PFC CSKA Sofia - Pfc Spartak Varna",
         "time": "20:15",
         "id": "269693367657566208"
@@ -65,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "BK Frem - Thisted FC",
-        "time": "20:00",
-        "id": "269953971831050240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nykobing FC - Elite 3000 Helsingor",
-        "time": "20:00",
-        "id": "269953971634966528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Telstar - ADO Den Haag",
         "time": "19:45",
         "id": "269999908593995776"
@@ -96,12 +103,5 @@
         "name": "Skive IF - Fremad Amager",
         "time": "19:30",
         "id": "269912717333237760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Znojmo - FC Zlinsko",
-        "time": "18:30",
-        "id": "269950192833400832"
     }
 ]
