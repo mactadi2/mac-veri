@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lion City Sailors FC - Balestier Khalsa FC",
+        "time": "14:45",
+        "id": "270119005680963584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Jiangxi Lushan F.C. - Hubei Chufengheli",
         "time": "14:30",
         "id": "270105938563829760"
@@ -96,12 +103,5 @@
         "name": "Suwon City - Gwangju FC",
         "time": "13:00",
         "id": "269570149162553344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimpo Citizen - Pohang Steelers",
-        "time": "13:00",
-        "id": "270035692137091072"
     }
 ]
