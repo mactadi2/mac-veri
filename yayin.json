@@ -1,37 +1,79 @@
 [
     {
         "type": "futbol",
-        "name": "River Plate - Barracas Central",
-        "day": "13",
-        "time": "02:30",
-        "channel": "Spor Smart"
+        "name": "Gremio - Godoy Cruz",
+        "day": "14",
+        "time": "01:00",
+        "channel": "S Sport 2"
     },
     {
         "type": "futbol",
-        "name": "Valladolid - Girona",
-        "day": "13",
+        "name": "Alaves - Valencia",
+        "day": "14",
+        "time": "20:00",
+        "channel": "S Sport 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Villarreal - Leganes",
+        "day": "14",
         "time": "20:00",
         "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Real Sociedad - Celta Vigo",
-        "day": "13",
-        "time": "21:00",
-        "channel": "S Sport 2"
+        "name": "Trabzonspor - Galatasaray",
+        "day": "14",
+        "time": "20:45",
+        "channel": "ATV"
     },
     {
         "type": "futbol",
-        "name": "Sevilla - Las Palmas",
-        "day": "13",
+        "name": "Milan - Bologna",
+        "day": "14",
+        "time": "22:00",
+        "channel": "TRT Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "Stockport - Leyton Orient",
+        "day": "14",
+        "time": "22:00",
+        "channel": "TV 8 Buçuk"
+    },
+    {
+        "type": "futbol",
+        "name": "Real Madrid - Mallorca",
+        "day": "14",
         "time": "22:30",
         "channel": "S Sport"
     },
     {
         "type": "basketbol",
-        "name": "New York Knicks - Boston Celtics",
-        "day": "13",
-        "time": "02:30",
+        "name": "Cleveland Cavaliers - Indiana Pacers",
+        "day": "14",
+        "time": "02:00",
         "channel": "S Sport"
+    },
+    {
+        "type": "basketbol",
+        "name": "Gran Canaria - Lleida",
+        "day": "14",
+        "time": "22:00",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "tenis",
+        "name": "C.Gauff - M.Andreeva",
+        "day": "14",
+        "time": "14:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "A.Sabalenka - Q.Zheng",
+        "day": "14",
+        "time": "20:00",
+        "channel": "Bein Sports Max 1"
     }
 ]
