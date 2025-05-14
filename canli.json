@@ -2,23 +2,72 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Groningen - AFC Ajax",
+        "time": "21:00",
+        "id": "269926467136262144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PSV Eindhoven - Heracles Almelo",
+        "time": "21:00",
+        "id": "269927438368247808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Feyenoord Rotterdam - RKC Waalwijk",
+        "time": "21:00",
+        "id": "269926977647022080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Twente - AZ Alkmaar",
+        "time": "21:00",
+        "id": "269926600798244864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Utrecht - Sparta Rotterdam",
+        "time": "21:00",
+        "id": "269926727784992768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Almere City - Fortuna Sittard",
+        "time": "21:00",
+        "id": "269870249509261312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Go Ahead Eagles - SC Heerenveen",
+        "time": "21:00",
+        "id": "269927039076798464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NEC Nijmegen - NAC Breda",
+        "time": "21:00",
+        "id": "269927219054383104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Willem II Tilburg - FC Zwolle",
+        "time": "21:00",
+        "id": "269927538871111680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Galatasaray SK - Trabzonspor",
         "time": "20:45",
         "id": "268863864791240704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chippa United - Mamelodi Sundowns FC",
-        "time": "20:30",
-        "id": "269938793166016512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arda Kardzhali - PFC Levski Sofia",
-        "time": "20:15",
-        "id": "269862712462413824"
     },
     {
         "tur": "live",
@@ -54,54 +103,5 @@
         "name": "Tristan Suarez Reserves - Temperley Reserves",
         "time": "20:00",
         "id": "270139377647226880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chacarita Juniors Reserves - CA San Miguel Reserves",
-        "time": "20:00",
-        "id": "270137343766302720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Villa Dalmine Reserves - CS Dock Sud Reserves",
-        "time": "20:00",
-        "id": "270202000008941568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hammarby IF - IK Sirius FK",
-        "time": "20:00",
-        "id": "269590400316084224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BK Hacken - AIK",
-        "time": "20:00",
-        "id": "269591351621980160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Halmstads BK - GAIS",
-        "time": "20:00",
-        "id": "269591120949940224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CSKA Moskova - FK Zenit St. Petersburg",
-        "time": "19:30",
-        "id": "268967009207848960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Agropecuario Reserves - CA Estudiantes Caseros Reserves",
-        "time": "19:00",
-        "id": "270148622038994944"
     }
 ]
