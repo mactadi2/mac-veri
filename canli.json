@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CSKA Moskova - FK Zenit St. Petersburg",
+        "time": "19:30",
+        "id": "268967009207848960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Middelfart - Aarhus Fremad",
+        "time": "19:30",
+        "id": "270044338514432000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Beitar Jerusalem U19 - Hapoel Marmorek Irony Rehovot U19",
+        "time": "19:15",
+        "id": "270122560085168128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Agropecuario Reserves - CA Estudiantes Caseros Reserves",
+        "time": "19:00",
+        "id": "270148622038994944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wieczysta Krakow II - Cracovia Krakow II",
+        "time": "19:00",
+        "id": "270029272319660032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dalin Myslenice - LKS Orzel Ryczow",
+        "time": "19:00",
+        "id": "270027956242485248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Akademisk Boldklub Gladsaxe - Naestved BK",
+        "time": "19:00",
+        "id": "270042707884380160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Beskid Andrychow - BKS Bochnia",
         "time": "18:30",
         "id": "270042581100007424"
@@ -54,54 +103,5 @@
         "name": "FK Liepaja - Rigas Futbola Skola",
         "time": "18:00",
         "id": "269946524500365312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Beroe Stara Zagora - PFC Botev Plovdiv 1912",
-        "time": "17:45",
-        "id": "269858985385005056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BFC Daugava Daugavpils - Riga FC",
-        "time": "17:30",
-        "id": "269943243993649152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia Mendoza Reserves - All Boys Reserves",
-        "time": "17:00",
-        "id": "270136997769777152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Quilmes Reserves - CA San Telmo Reserves",
-        "time": "17:00",
-        "id": "270136997841080320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gomhoryet Shebin - Al Nasr Cairo",
-        "time": "17:00",
-        "id": "270172340138151936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Port Fouad - El Entag El Harby",
-        "time": "17:00",
-        "id": "270108619792584704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shabab El Obour SC - Team FC Cairo",
-        "time": "17:00",
-        "id": "270173172796624896"
     }
 ]
