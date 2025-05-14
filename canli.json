@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kaisar Kyzylorda - FK Aktobe",
+        "time": "18:30",
+        "id": "270051628594368512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Levadiakos - Panetolikos FC",
         "time": "18:00",
         "id": "269590388904431616"
@@ -96,12 +103,5 @@
         "name": "Shabab El Obour SC - Team FC Cairo",
         "time": "17:00",
         "id": "270173172796624896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guidonia Montecelio - Casarano",
-        "time": "17:00",
-        "id": "270042009527521280"
     }
 ]
