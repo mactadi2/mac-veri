@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dunkerque - EA Guingamp",
+        "time": "21:30",
+        "id": "270035222341488640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lausanne-Sports - FC Basel",
+        "time": "21:30",
+        "id": "269596784319401984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Grasshopper Club Zurich - Yverdon-Sports",
+        "time": "21:30",
+        "id": "269858983991447552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Groningen - AFC Ajax",
         "time": "21:00",
         "id": "269926467136262144"
@@ -82,26 +103,5 @@
         "name": "Alaves - Valencia CF",
         "time": "20:00",
         "id": "269332699472334848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Volos NFC - Lamia 1964",
-        "time": "20:00",
-        "id": "269862712538959872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kallithea - Panserraikos",
-        "time": "20:00",
-        "id": "269858985479376896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tristan Suarez Reserves - Temperley Reserves",
-        "time": "20:00",
-        "id": "270139377647226880"
     }
 ]
