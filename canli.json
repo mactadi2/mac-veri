@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Tigres de la UANL - Deportivo Toluca FC",
+        "time": "06:00",
+        "id": "270038043565625344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AMSG FC - Capo II",
         "time": "06:00",
         "id": "270197640017350656"
@@ -68,33 +75,5 @@
         "name": "Universitario de Deportes - Barcelona SC Guayaquil",
         "time": "05:00",
         "id": "269740991596072960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Salt Lake - Portland Timbers",
-        "time": "04:30",
-        "id": "269319836792918016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "C.D. FAS - Municipal Limeno",
-        "time": "04:30",
-        "id": "270166603987030016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Austin FC - Atlanta United",
-        "time": "04:00",
-        "id": "269319504895545344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "LD Alajuelense - Puntarenas FC",
-        "time": "03:45",
-        "id": "269971652710895616"
     }
 ]
