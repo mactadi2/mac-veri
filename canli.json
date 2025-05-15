@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PFC Lokomotiv Plovdiv 1936 - PFK Botev Vratsa",
+        "time": "17:45",
+        "id": "269945732002353152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Perspolis Teheran - Havadar SC",
         "time": "17:30",
         "id": "270131394563411968"
@@ -58,30 +65,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Police FC - Updf Fc",
-        "time": "16:00",
-        "id": "270119909517824000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gor Mahia - Nairobi City Stars",
-        "time": "16:00",
-        "id": "270160306879205376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Samgurali Tskaltubo - FC Torpedo Kutaisi",
         "time": "16:00",
         "id": "269971655661588480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Sportivo Carapegua - Resistencia SC",
-        "time": "16:00",
-        "id": "270058548215549952"
     },
     {
         "tur": "live",
@@ -103,5 +89,19 @@
         "name": "Kahramanmaras Istiklalspor - Sebat Genclik Spor",
         "time": "16:00",
         "id": "270215002298912768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fc Gonio - Dinamo Tbilisi II",
+        "time": "16:00",
+        "id": "269971673937219584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Samtredia - FC Sioni Bolnisi",
+        "time": "16:00",
+        "id": "269971673784127488"
     }
 ]
