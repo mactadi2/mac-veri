@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "LKS Lagow - MZKS Alit Ozarow",
+        "time": "18:30",
+        "id": "270055673188978688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Nueva Chicago Reserves - Defensores De Belgrano",
         "time": "18:00",
         "id": "270217588757368832"
@@ -16,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "US Biskra U21 - MC Oran U21",
+        "time": "18:00",
+        "id": "270230879244259328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "ES Mostaganem U21 - ASO Chlef U21",
         "time": "18:00",
         "id": "270230878962192384"
@@ -23,9 +37,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NC Magra U21 - JS Kabylie U21",
+        "name": "MC El Bayadh U21 - CS Constantine U21",
         "time": "18:00",
-        "id": "270230850288881664"
+        "id": "270230850215481344"
     },
     {
         "tur": "live",
@@ -47,13 +61,6 @@
         "name": "Bizertin - Olympique Beja",
         "time": "18:00",
         "id": "270060082237149184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Etoile Sportive Sahel - Club Sportif Sfaxien",
-        "time": "18:00",
-        "id": "270060082377658368"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Kafr El Zayat - MS Tala",
         "time": "17:00",
         "id": "270263128089038848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "El Atesalat - Al Sinaah",
-        "time": "16:30",
-        "id": "270209473209044992"
     }
 ]
