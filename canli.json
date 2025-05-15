@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Wotton FC - Silver Sands FC",
+        "time": "02:00",
+        "id": "270195707409993728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Varginha EC - Ca Patrocinense Mg",
         "time": "01:30",
         "id": "270227242399961088"
@@ -68,12 +75,5 @@
         "name": "Boca Juniors Reserves - Estudiantes La Plata Reserves",
         "time": "01:00",
         "id": "270204094569910272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fuerte San Francisco - Alianza FC San Salvador",
-        "time": "00:30",
-        "id": "270192724450349056"
     }
 ]
