@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "El Atesalat - Al Sinaah",
+        "time": "16:30",
+        "id": "270209473209044992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bandirmaspor - Erzurumspor FK",
         "time": "16:00",
         "id": "269941681368993792"
@@ -96,12 +103,5 @@
         "name": "AC Horsens U19 - Randers Freja U19",
         "time": "15:00",
         "id": "270193804114530304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Young Lions - Geylang United FC",
-        "time": "14:45",
-        "id": "270119006731636736"
     }
 ]
