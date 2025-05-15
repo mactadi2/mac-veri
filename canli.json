@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kafr El Zayat - MS Tala",
+        "time": "17:00",
+        "id": "270263128089038848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Jerusalem (W) - Kiryat Gat SC (W)",
+        "time": "17:00",
+        "id": "270157102811582464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "El Atesalat - Al Sinaah",
         "time": "16:30",
         "id": "270209473209044992"
@@ -72,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC WIT Georgia Tblisi - FC Gori",
+        "time": "16:00",
+        "id": "270119909441277952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Be Forward Wanderers - MAFCO",
         "time": "15:30",
         "id": "270161583301332992"
@@ -82,26 +103,5 @@
         "name": "Songwe Border United - Silver Strikers",
         "time": "15:30",
         "id": "270161502351265792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Levski Krumovgrad - PFC Slavia Sofia",
-        "time": "15:15",
-        "id": "269945732095676416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Gabala - Zaqatala",
-        "time": "15:00",
-        "id": "270296059909115904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AC Horsens U19 - Randers Freja U19",
-        "time": "15:00",
-        "id": "270193804114530304"
     }
 ]
