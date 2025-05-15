@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cavaliers FC - Arnett Gardens FC",
+        "time": "02:00",
+        "id": "270129841391669248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Fas Asdefuf (W) - Municipal Limeno (W)",
+        "time": "02:00",
+        "id": "270225387170172928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Varginha EC - Ca Patrocinense Mg",
         "time": "01:30",
         "id": "270227242399961088"
@@ -61,12 +75,5 @@
         "name": "Fuerte San Francisco - Alianza FC San Salvador",
         "time": "00:30",
         "id": "270192724450349056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sao Paulo FC U20 - Flamengo RJ U20",
-        "time": "00:00",
-        "id": "270112056038002688"
     }
 ]
