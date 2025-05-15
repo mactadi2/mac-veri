@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rochdale - Southend United",
+        "time": "21:45",
+        "id": "269470295951282176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BSC Young Boys Bern - FC Luzern",
+        "time": "21:30",
+        "id": "269687399468109824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Servette Geneve FC - FC Lugano",
+        "time": "21:30",
+        "id": "269686941892612096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Widzew Lodz - KP Legia Warszawa",
+        "time": "21:30",
+        "id": "269551325182824448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Raed Buraidah - Al-Ittihad",
         "time": "21:00",
         "id": "269684891599376384"
@@ -16,23 +44,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "General Lamadrid Reserves - Estrella del Sur Reserves",
-        "time": "21:00",
-        "id": "270230953339785216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Club Comunicaciones Reserves - Real Pilar Reserves",
         "time": "21:00",
         "id": "270217209186488320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Villa San Carlos Reserves - Acassuso Reserves",
-        "time": "21:00",
-        "id": "270216714842673152"
     },
     {
         "tur": "live",
@@ -79,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Defensores de Cambaceres Reserves - Deportivo Espanol Reserves",
-        "time": "20:00",
-        "id": "270208824031449088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "JJ Urquiza Reserves - Leandro N. Alem Reserves",
         "time": "20:00",
         "id": "270208718712475648"
@@ -93,15 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "IFK Varnamo - Malmo FF",
+        "name": "Defensores de Cambaceres Reserves - Deportivo Espanol Reserves",
         "time": "20:00",
-        "id": "269681269884981248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Elfsborg - IF Brommapojkarna",
-        "time": "20:00",
-        "id": "269681787723190272"
+        "id": "270208824031449088"
     }
 ]
