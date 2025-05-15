@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Charlton Athletic FC - Wycombe Wanderers",
+        "time": "22:00",
+        "id": "269960267342942208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palmeiras U20 - Athletico Paranaense U20",
+        "time": "22:00",
+        "id": "270111587001569280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rochdale - Southend United",
         "time": "21:45",
         "id": "269470295951282176"
@@ -51,6 +65,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "General Lamadrid Reserves - Estrella del Sur Reserves",
+        "time": "21:00",
+        "id": "270230953339785216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Villa San Carlos Reserves - Acassuso Reserves",
+        "time": "21:00",
+        "id": "270216714842673152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Queens Park Rangers U21 - Brentford U21",
+        "time": "21:00",
+        "id": "270192118297923584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Penafiel - Chaves",
         "time": "20:45",
         "id": "269989372363935744"
@@ -58,50 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Istanbulspor AS - Boluspor",
-        "time": "20:00",
-        "id": "269942355949391872"
+        "name": "AS Tel Aviv University (W) - Hapoel Petah Tikva (W)",
+        "time": "20:30",
+        "id": "270158176804016128"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Osasuna - Atletico Madrid",
+        "name": "IFK Goteborg - Osters IF",
         "time": "20:00",
-        "id": "269332764639236096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rayo Vallecano - Real Betis",
-        "time": "20:00",
-        "id": "269332765032452096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arsenal De Sarandi Reserves - Defensores Unidos Reserves",
-        "time": "20:00",
-        "id": "270232612495298560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Los Andes Reserves - CA Colegiales Reserves",
-        "time": "20:00",
-        "id": "270216714765078528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JJ Urquiza Reserves - Leandro N. Alem Reserves",
-        "time": "20:00",
-        "id": "270208718712475648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Defensores de Cambaceres Reserves - Deportivo Espanol Reserves",
-        "time": "20:00",
-        "id": "270208824031449088"
+        "id": "269681269948944384"
     }
 ]
