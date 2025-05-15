@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guayaquil City - Leones Del Norte",
+        "time": "23:30",
+        "id": "269971650974453760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cd Universitario Reserves - CA Independiente de La Chorrera Reserves",
         "time": "23:00",
         "id": "270238729235468288"
@@ -58,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vaengir Jupiters - Kria",
+        "name": "Ellidi - Hafnir",
         "time": "22:15",
-        "id": "270152942487736320"
+        "id": "270153042818633728"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ellidi - Hafnir",
+        "name": "Vaengir Jupiters - Kria",
         "time": "22:15",
-        "id": "270153042818633728"
+        "id": "270152942487736320"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Rochdale - Southend United",
         "time": "21:45",
         "id": "269470295951282176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BSC Young Boys Bern - FC Luzern",
-        "time": "21:30",
-        "id": "269687399468109824"
     }
 ]
