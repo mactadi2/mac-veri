@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Varginha EC - Ca Patrocinense Mg",
+        "time": "01:30",
+        "id": "270227242399961088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tapatios Soccer FC - Atletico Cocula",
         "time": "01:00",
         "id": "270211108756918272"
@@ -68,19 +75,5 @@
         "name": "Nauas U20 - Galvez AC U20",
         "time": "00:00",
         "id": "270289506832355328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guayaquil City - Leones Del Norte",
-        "time": "23:30",
-        "id": "269971650974453760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Flamengo FBC (W) - Carlos Mannucci (W)",
-        "time": "23:30",
-        "id": "270328397924798464"
     }
 ]
