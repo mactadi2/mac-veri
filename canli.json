@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sao Paulo FC U20 - Flamengo RJ U20",
+        "time": "00:00",
+        "id": "270112056038002688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Guayaquil City - Leones Del Norte",
         "time": "23:30",
         "id": "269971650974453760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Flamengo FBC (W) - Carlos Mannucci (W)",
+        "time": "23:30",
+        "id": "270328397924798464"
     },
     {
         "tur": "live",
@@ -19,6 +33,34 @@
         "name": "Real Sociedad Honduras Reserves - Genesis de Comayagua Reserves",
         "time": "23:00",
         "id": "270289198336053248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RB Bragantino (W) - Sao Paulo (W)",
+        "time": "23:00",
+        "id": "270146356382928896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Carlos Stein - Juan Aurich",
+        "time": "23:00",
+        "id": "270229271862185984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Municipal - Union Huaral",
+        "time": "23:00",
+        "id": "270229274021203968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Construccion Civil Huanuco - Club Deportivo Ucrania",
+        "time": "23:00",
+        "id": "270249353549058048"
     },
     {
         "tur": "live",
@@ -54,48 +96,6 @@
         "name": "Breidablik Kopavogur - IF Vestri",
         "time": "22:30",
         "id": "270078279529140224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Korofina - AS Real Bamako",
-        "time": "22:15",
-        "id": "270284034515537920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ellidi - Hafnir",
-        "time": "22:15",
-        "id": "270153042818633728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vaengir Jupiters - Kria",
-        "time": "22:15",
-        "id": "270152942487736320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Charlton Athletic FC - Wycombe Wanderers",
-        "time": "22:00",
-        "id": "269960267342942208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palmeiras U20 - Athletico Paranaense U20",
-        "time": "22:00",
-        "id": "270111587001569280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "New York City FC II - Toronto Fc Ii",
-        "time": "22:00",
-        "id": "269971661782126592"
     },
     {
         "tur": "live",
