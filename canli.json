@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nueva Chicago Reserves - Defensores De Belgrano",
+        "time": "18:00",
+        "id": "270217588757368832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CR Belouizdad U21 - Paradou AC U21",
+        "time": "18:00",
+        "id": "270230878783934464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ES Mostaganem U21 - ASO Chlef U21",
+        "time": "18:00",
+        "id": "270230878962192384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NC Magra U21 - JS Kabylie U21",
+        "time": "18:00",
+        "id": "270230850288881664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stade Tunisien - AS Soliman",
+        "time": "18:00",
+        "id": "270060082440572928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Esperance Tunis - US Monastir",
+        "time": "18:00",
+        "id": "270060082154311680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bizertin - Olympique Beja",
+        "time": "18:00",
+        "id": "270060082237149184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Etoile Sportive Sahel - Club Sportif Sfaxien",
+        "time": "18:00",
+        "id": "270060082377658368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PFC Lokomotiv Plovdiv 1936 - PFK Botev Vratsa",
         "time": "17:45",
         "id": "269945732002353152"
@@ -44,64 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hapoel Jerusalem (W) - Kiryat Gat SC (W)",
-        "time": "17:00",
-        "id": "270157102811582464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "El Atesalat - Al Sinaah",
         "time": "16:30",
         "id": "270209473209044992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bandirmaspor - Erzurumspor FK",
-        "time": "16:00",
-        "id": "269941681368993792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Samgurali Tskaltubo - FC Torpedo Kutaisi",
-        "time": "16:00",
-        "id": "269971655661588480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Encarnacion FC - Rubio nu",
-        "time": "16:00",
-        "id": "270058547561238528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mus 1984 Musspor - Karsiyaka SK",
-        "time": "16:00",
-        "id": "270215744633049088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kahramanmaras Istiklalspor - Sebat Genclik Spor",
-        "time": "16:00",
-        "id": "270215002298912768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Gonio - Dinamo Tbilisi II",
-        "time": "16:00",
-        "id": "269971673937219584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Samtredia - FC Sioni Bolnisi",
-        "time": "16:00",
-        "id": "269971673784127488"
     }
 ]
