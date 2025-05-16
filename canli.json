@@ -51,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "El Terasanah - Asyut Cement Petroleum",
+        "time": "17:00",
+        "id": "270214371128512512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "El Sekka El Hadid SC - Al Moqawloon Al Arab",
         "time": "17:00",
         "id": "270304403414716416"
@@ -58,9 +65,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "El Terasanah - Asyut Cement Petroleum",
+        "name": "El Dakhleya - Alexandria Sporting Club",
         "time": "17:00",
-        "id": "270214371128512512"
+        "id": "270254873668358144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kolkheti 1913 Poti - FC Iberia 1999",
+        "time": "17:00",
+        "id": "269971655862915072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Opatija - NK Radnik Sesvete",
+        "time": "16:50",
+        "id": "269971671682781184"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hapoel Ironi Rishon Lezion - Hapoel Kfar Shelem",
-        "time": "16:00",
-        "id": "269971652923756544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Hapoel Afula - KAFR Qasim",
         "time": "16:00",
         "id": "270123368377880576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Umm Al Fahm - Hapoel Raanana",
-        "time": "16:00",
-        "id": "270123803475054592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Nof HaGalil - Hapoel Akko FC",
-        "time": "16:00",
-        "id": "269971652854550528"
     }
 ]
