@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Nacional U20 - Independiente Medellin U20",
+        "time": "23:00",
+        "id": "270386627823669248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Alverca - Portimonense",
         "time": "22:30",
         "id": "269971678159835136"
@@ -65,6 +72,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Reynir Sandgerdi - IH Hafnarfjordur",
+        "time": "22:15",
+        "id": "270274489766514688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Augnablik Kopavogur - KV Vesturbaejar",
+        "time": "22:15",
+        "id": "270274581230653440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Walsall FC - Chesterfield",
         "time": "22:00",
         "id": "269953304851779584"
@@ -82,26 +103,5 @@
         "name": "Olympique Lyonnais (W) - Paris Saint Germain (K)",
         "time": "22:00",
         "id": "270287403617488896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St Patrick's Athletic - Cork City FC",
-        "time": "21:45",
-        "id": "269779713939083264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bohemian FC Dublin - Shelbourne FC",
-        "time": "21:45",
-        "id": "269870249290108928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Galway United - Sligo Rovers FC",
-        "time": "21:45",
-        "id": "269870249401257984"
     }
 ]
