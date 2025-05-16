@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "MC Oran - NC Magra",
+        "time": "18:30",
+        "id": "270078156627644416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CF Akbou - Usm Khenchela",
+        "time": "18:30",
+        "id": "270078156718870528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gnistan - Seinäjoen Jalkapallokerho",
         "time": "18:00",
         "id": "269971659718529024"
@@ -89,19 +103,5 @@
         "name": "El Dakhleya - Alexandria Sporting Club",
         "time": "17:00",
         "id": "270254873668358144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Opatija - NK Radnik Sesvete",
-        "time": "16:50",
-        "id": "269971671682781184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Anderlecht II - KRC Genk II",
-        "time": "16:30",
-        "id": "270375970584793088"
     }
 ]
