@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Aston Villa - Tottenham Hotspur",
+        "time": "21:30",
+        "id": "269333026207567872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Levante - Albacete Balompie",
+        "time": "21:30",
+        "id": "269951464502333440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Slask Wroclaw - Jagiellonia Bialystok SSA",
+        "time": "21:30",
+        "id": "269569440863096832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Bregenz - SV Ried",
+        "time": "21:30",
+        "id": "269921250695057408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Liefering - VfB Admira Wacker Modling",
+        "time": "21:30",
+        "id": "269777790896836608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Famalicao - Casa Pia",
+        "time": "21:00",
+        "id": "269872182179532800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rio Ave - Gil Vicente",
+        "time": "21:00",
+        "id": "269872182024343552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cambuur Leeuwarden - FC Den Bosch",
+        "time": "21:00",
+        "id": "270047673465311232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al-Nassr Riyadh - Al Taawon Buraidah",
+        "time": "21:00",
+        "id": "269775568400158720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Nordsjaelland - AGF Aarhus",
         "time": "20:00",
         "id": "269771836260225024"
@@ -40,68 +103,5 @@
         "name": "Koge - B93 Kopenhagen",
         "time": "20:00",
         "id": "269771827060019200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Roskilde - Hillerod",
-        "time": "20:00",
-        "id": "269771670707900416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vendsyssel FF - Hobro",
-        "time": "20:00",
-        "id": "269843847731875840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Orubah - Al-Khaleej",
-        "time": "19:40",
-        "id": "269770389146701824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stal Mielec - Radomiak Radom",
-        "time": "19:00",
-        "id": "269567587933884416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SKN St. Polten - SK Rapid Wien II",
-        "time": "19:00",
-        "id": "269768350495805440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Horn - SV Kapfenberg",
-        "time": "19:00",
-        "id": "269845715365269504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "First Vienna Fernwärme FC 1894 - SKU Amstetten",
-        "time": "19:00",
-        "id": "269845715193303040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Stripfing\/Weiden - SC Austria Lustenau",
-        "time": "19:00",
-        "id": "269845715277189120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Fateh - Al Hilal Riyadh",
-        "time": "18:55",
-        "id": "269768071351242752"
     }
 ]
