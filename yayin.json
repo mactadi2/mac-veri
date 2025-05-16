@@ -1,72 +1,65 @@
 [
     {
         "type": "futbol",
-        "name": "Botafogo RJ - Estudiantes",
-        "day": "15",
+        "name": "Flamengo - LDU Quito",
+        "day": "16",
         "time": "03:30",
         "channel": "S Sport 2"
     },
     {
         "type": "futbol",
-        "name": "Bandırmaspor - Erzurumspor",
-        "day": "15",
-        "time": "16:00",
+        "name": "Bilinmiyor - Bilinmiyor",
+        "day": "16",
+        "time": "14:00",
         "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Osasuna - Atletico Madrid",
-        "day": "15",
-        "time": "20:00",
-        "channel": "S Sport"
-    },
-    {
-        "type": "futbol",
-        "name": "Rayo Vallecano - Real Betis",
-        "day": "15",
-        "time": "20:00",
-        "channel": "S Sport 2"
-    },
-    {
-        "type": "futbol",
-        "name": "İstanbulspor - Boluspor",
-        "day": "15",
-        "time": "20:00",
+        "name": "Al Fateh - Al Hilal",
+        "day": "16",
+        "time": "19:00",
         "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Charlton Athletic - Wycombe",
-        "day": "15",
+        "name": "Al Nassr - Al Taawon",
+        "day": "16",
+        "time": "21:00",
+        "channel": "TRT Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "Aston Villa - Tottenham",
+        "day": "16",
+        "time": "21:30",
+        "channel": "Bein Sports 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Walsall - Chesterfield",
+        "day": "16",
         "time": "22:00",
         "channel": "TV 8 Buçuk"
     },
     {
         "type": "futbol",
-        "name": "Espanyol - Barcelona",
-        "day": "15",
-        "time": "22:30",
-        "channel": "S Sport"
-    },
-    {
-        "type": "futbol",
-        "name": "Getafe - Athletic Bilbao",
-        "day": "15",
-        "time": "22:30",
-        "channel": "S Sport 2"
+        "name": "Chelsea - Manchester Utd",
+        "day": "16",
+        "time": "22:15",
+        "channel": "Bein Sports 3"
     },
     {
         "type": "basketbol",
-        "name": "Boston Celtics - New York Knicks",
-        "day": "15",
-        "time": "02:00",
+        "name": "Denver Nuggets - OKC Thunder",
+        "day": "16",
+        "time": "03:30",
         "channel": "S Sport"
     },
     {
-        "type": "tenis",
-        "name": "J.Paolini - P.Stearns",
-        "day": "15",
-        "time": "16:00",
-        "channel": "Bein Sports Max 1"
+        "type": "basketbol",
+        "name": "Türk Telekom - Beşiktaş Fibabanka",
+        "day": "16",
+        "time": "19:00",
+        "channel": "Bein Sports 5"
     }
 ]
