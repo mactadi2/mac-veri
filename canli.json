@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Anderlecht II - KRC Genk II",
+        "time": "16:30",
+        "id": "270375970584793088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hapoel Ramat Hasharon - Maccabi Yafo Kabilyo",
         "time": "16:00",
         "id": "270123257665032192"
@@ -58,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Moik Baku - Energetik Mingechevir",
+        "time": "16:00",
+        "id": "270379330441449472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Maccabi Yavne Shimon U19 - FC Kfar Qasim U19",
         "time": "15:30",
         "id": "270388830635429888"
@@ -89,19 +103,5 @@
         "name": "Sidama Bunna - Wolaita Dicha FC",
         "time": "15:00",
         "id": "270115202429751296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Albirex Niigata Singapore FC - Tanjong Pagar United FC",
-        "time": "14:45",
-        "id": "270119005762752512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zhejiang Professional FC - Henan FC",
-        "time": "14:35",
-        "id": "269751115416997888"
     }
 ]
