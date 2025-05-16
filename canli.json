@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gnistan - Seinäjoen Jalkapallokerho",
+        "time": "18:00",
+        "id": "269971659718529024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hawassa City - Kedus Giorgis",
+        "time": "18:00",
+        "id": "270127087410614272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dobrudzha Dobrich - Pfc Pirin Blagoevgrad",
+        "time": "18:00",
+        "id": "269971651248132096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sampdoria U20 - Sassuolo U20",
         "time": "17:00",
         "id": "269971676164395008"
@@ -72,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kolkheti 1913 Poti - FC Iberia 1999",
-        "time": "17:00",
-        "id": "269971655862915072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Opatija - NK Radnik Sesvete",
         "time": "16:50",
         "id": "269971671682781184"
@@ -89,19 +103,5 @@
         "name": "Anderlecht II - KRC Genk II",
         "time": "16:30",
         "id": "270375970584793088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Ramat Hasharon - Maccabi Yafo Kabilyo",
-        "time": "16:00",
-        "id": "270123257665032192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Afula - KAFR Qasim",
-        "time": "16:00",
-        "id": "270123368377880576"
     }
 ]
