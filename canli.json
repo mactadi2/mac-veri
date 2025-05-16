@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cerro Porteno - General Caballero JLM",
+        "time": "01:30",
+        "id": "269799953872850944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Universidad Central de Venezuela - Deportivo La Guaira",
         "time": "01:00",
         "id": "269971656859062272"
@@ -54,12 +61,5 @@
         "name": "Sao Carlos FC U23 - Independente SP U23",
         "time": "01:00",
         "id": "270306996447744000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alianza Atletico - Deportivo Garcilaso",
-        "time": "23:30",
-        "id": "269332824388145152"
     }
 ]
