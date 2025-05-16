@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hume City U23 - Preston Lions U23",
+        "time": "11:15",
+        "id": "270255614837526528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Moreland City U23 - Bentleigh Greens U23",
+        "time": "11:15",
+        "id": "270256403464196096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Blacktown Spartans U20 - Hills United Fc U20",
+        "time": "11:00",
+        "id": "270180589919932416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guangzhou Dandelion Alpha FC - Guangxi Hengchen",
+        "time": "11:00",
+        "id": "270330788559589376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shenzhen 2028 FC - Guizhou Zhucheng Athletic",
+        "time": "11:00",
+        "id": "270330788637184000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Maccabi Amidar Ramat Gan U19 - Ironi Modiin U19",
         "time": "10:30",
         "id": "270290564579201024"
@@ -47,12 +82,5 @@
         "name": "Christchurch United - Cashmere Technical",
         "time": "10:00",
         "id": "270289763449311232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Hod Hasharon U19 - AS Nordia Jerusalem U19",
-        "time": "09:15",
-        "id": "270290653951430656"
     }
 ]
