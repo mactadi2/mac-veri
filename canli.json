@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Alianza Atletico - Deportivo Garcilaso",
+        "time": "23:30",
+        "id": "269332824388145152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Recoleta - Club Atletico Tembetary",
+        "time": "23:00",
+        "id": "269783178454110208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sporting Cristal (W) - Real Ancash FC (W)",
+        "time": "23:00",
+        "id": "270374891711238144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Alverca - Portimonense",
         "time": "22:30",
         "id": "269971678159835136"
@@ -30,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Leiknir Reykjavik - Kopavogur",
+        "time": "22:15",
+        "id": "269971674447876096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UMF Njardvik - IR Reykjavik",
+        "time": "22:15",
+        "id": "270211085863358464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Walsall FC - Chesterfield",
         "time": "22:00",
         "id": "269953304851779584"
@@ -37,71 +72,36 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Livingston - Partick Thistle",
+        "name": "Academia de Balompie Boliviano - Guabira Santa Cruz",
+        "time": "22:00",
+        "id": "269954289981591552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Olympique Lyonnais (W) - Paris Saint Germain (K)",
+        "time": "22:00",
+        "id": "270287403617488896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "St Patrick's Athletic - Cork City FC",
         "time": "21:45",
-        "id": "270081025629097984"
+        "id": "269779713939083264"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Aston Villa - Tottenham Hotspur",
-        "time": "21:30",
-        "id": "269333026207567872"
+        "name": "Bohemian FC Dublin - Shelbourne FC",
+        "time": "21:45",
+        "id": "269870249290108928"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Levante - Albacete Balompie",
-        "time": "21:30",
-        "id": "269951464502333440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Slask Wroclaw - Jagiellonia Bialystok SSA",
-        "time": "21:30",
-        "id": "269569440863096832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Bregenz - SV Ried",
-        "time": "21:30",
-        "id": "269921250695057408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Liefering - VfB Admira Wacker Modling",
-        "time": "21:30",
-        "id": "269777790896836608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "TS Wisla Krakow - ZKS Stal Stalowa Wola",
-        "time": "21:30",
-        "id": "269777790756327424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Ujpest - Nyiregyhaza Spartacus FC",
-        "time": "21:30",
-        "id": "269940116623069184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Annan Athletic - East Fife",
-        "time": "21:30",
-        "id": "269971653208969216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cambuur Leeuwarden - FC Den Bosch",
-        "time": "21:00",
-        "id": "270047673465311232"
+        "name": "Galway United - Sligo Rovers FC",
+        "time": "21:45",
+        "id": "269870249401257984"
     }
 ]
