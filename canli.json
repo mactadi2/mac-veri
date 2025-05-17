@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo La Coruna - Granada CF",
+        "time": "17:15",
+        "id": "269971661311315968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Eibar - Burgos CF",
+        "time": "17:15",
+        "id": "269971661260984320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Borussia Dortmund - KSV Holstein Kiel",
         "time": "16:30",
         "id": "269750684440727552"
@@ -44,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Borussia Monchengladbach - VfL Wolfsburg",
+        "name": "FC St. Pauli - VfL Bochum",
         "time": "16:30",
-        "id": "269971673007132672"
+        "id": "269971672946315264"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC St. Pauli - VfL Bochum",
+        "name": "Borussia Monchengladbach - VfL Wolfsburg",
         "time": "16:30",
-        "id": "269971672946315264"
+        "id": "269971673007132672"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Pogon Szczecin - Lechia Gdansk",
         "time": "15:45",
         "id": "269583270714413056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Persis Solo - Dewa United FC",
-        "time": "15:00",
-        "id": "269913678648840192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pss Sleman - Persija Jakarta (Isl)",
-        "time": "15:00",
-        "id": "269858984074285056"
     }
 ]
