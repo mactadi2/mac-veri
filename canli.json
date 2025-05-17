@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Metropolitanos FC - Academia Puerto Cabello",
+        "time": "02:30",
+        "id": "269988708834480128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charleston Battery - San Antonio Fc",
+        "time": "02:30",
+        "id": "269988708568141824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Miami FC - Loudoun United FC",
+        "time": "02:30",
+        "id": "269988708662513664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tampa Bay Rowdies - Rhode Island",
+        "time": "02:30",
+        "id": "269988708753739776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Athletic Club MG - Novorizontino SP",
+        "time": "02:30",
+        "id": "269933026713145344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Columbus Crew - FC Cincinnati",
+        "time": "02:15",
+        "id": "269948559496974336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Espana - Motagua",
         "time": "02:15",
         "id": "270102578754359296"
@@ -51,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Eagles Cunupia FC - La Horquetta Rangers FC",
-        "time": "02:00",
-        "id": "270306313615052800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Nacional Asunción Reserve - Sportivo Luqueno Reserves",
         "time": "01:30",
         "id": "270399443849842688"
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Libertad Asuncion - Sportivo Trinidense",
-        "time": "01:30",
-        "id": "269883874149011456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Atletico San Juan de Aragon II - Zitacuaro CF II",
         "time": "01:00",
         "id": "270420870545149952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vasco da Gama RJ - Fortaleza CE",
-        "time": "00:30",
-        "id": "269273354323759104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vila Nova GO - CA Paranaense PR",
-        "time": "00:30",
-        "id": "269933062373117952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mushuc Runa - Orense SC",
-        "time": "00:30",
-        "id": "269887278284935168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "O'Higgins - Universidad Catolica",
-        "time": "00:30",
-        "id": "269861433792139264"
     }
 ]
