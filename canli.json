@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sporting Clube de Portugal - Vitoria Guimaraes",
+        "time": "20:00",
+        "id": "269953305166352384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Braga - SL Benfica",
+        "time": "20:00",
+        "id": "269872182098792448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Porto - Nacional Madeira Funchal",
+        "time": "20:00",
+        "id": "269962724320088064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AVS Futebol SAD - Moreirense",
+        "time": "20:00",
+        "id": "269953305092952064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Farense - Santa Clara",
+        "time": "20:00",
+        "id": "269953305240801280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estoril - Estrela",
+        "time": "20:00",
+        "id": "269953305346707456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Arouca - Boavista FC",
+        "time": "20:00",
+        "id": "269962724255076352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SD Huesca - Elche",
         "time": "19:30",
         "id": "269951464810614784"
@@ -44,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Nizhny Novgorod - FK Fakel",
-        "time": "19:00",
-        "id": "269326381706514432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Al-Ettifaq Dammam - Damac FC",
         "time": "18:55",
         "id": "269858399293935616"
@@ -61,47 +103,5 @@
         "name": "Crystal Palace FC - Manchester City",
         "time": "18:30",
         "id": "268723918938968064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Piast Gliwice - KS Gornik Zabrze",
-        "time": "18:30",
-        "id": "269585308477165568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Catanzaro - Cesena FC",
-        "time": "18:15",
-        "id": "270191783443566592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Metz - Dunkerque",
-        "time": "18:00",
-        "id": "270280950174322688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dynamo Ceske Budejovice - FK Teplice",
-        "time": "18:00",
-        "id": "269930681582358528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pardubice - FK Mlada Boleslav",
-        "time": "18:00",
-        "id": "269938195884544000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ADO Den Haag - Telstar",
-        "time": "17:30",
-        "id": "270097269676707840"
     }
 ]
