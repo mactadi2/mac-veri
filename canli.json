@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sutherland Sharks U20 - Marconi Stallions U20",
+        "time": "06:30",
+        "id": "270157234581934080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Coast Flame FC - Fraser Park",
+        "time": "06:15",
+        "id": "270184621770149888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Modbury Jets Reserves - Playford City Patriots Reserves",
+        "time": "06:15",
+        "id": "270299758503006208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Campbelltown Reserves - Adelaide Croatia Raiders Reserves",
+        "time": "06:15",
+        "id": "270299439815593984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Para Hills Knights Reserves - White City Reserves",
+        "time": "06:15",
+        "id": "270300462851428352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fulham United Reserves - South Adelaide Reserves",
+        "time": "06:15",
+        "id": "270301292656726016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Auckland United FC - Western Springs AFC",
         "time": "06:00",
         "id": "270329286914871296"
@@ -16,9 +58,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "North Wellington AFC - Wellington Phoenix Reservers",
+        "name": "Fencibles United -  Tauranga City AFC",
         "time": "06:00",
-        "id": "270329165781274624"
+        "id": "270329539470692352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Manurewa AFC - West Coast Rangers",
+        "time": "06:00",
+        "id": "270329539393097728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nelson Suburbs FC - Wanaka AFC",
+        "time": "06:00",
+        "id": "270329286757584896"
     },
     {
         "tur": "live",
@@ -37,27 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Waterside Karori - Miramar Rangers",
-        "time": "05:30",
-        "id": "270330280294879232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cooma Tigers U23 - Yoogali SC U23",
-        "time": "05:30",
-        "id": "270274162728243200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Queanbeyan City U23 - Tuggeranong United U23",
-        "time": "05:30",
-        "id": "270274340742893568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Avondale U23 - Oakleigh Cannons U23",
         "time": "05:00",
         "id": "270267555768307712"
@@ -68,40 +103,5 @@
         "name": "Universities of Canterbury - Dunedin City Royals",
         "time": "05:00",
         "id": "270439712482791424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Davis Legacy - Almaden FC",
-        "time": "05:00",
-        "id": "270237900833165312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Junior Barranquilla (W) - Once Caldas (W)",
-        "time": "04:30",
-        "id": "270396874881634304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Petone - Napier City Rovers",
-        "time": "04:30",
-        "id": "270329286834130944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Deportivo Los Millonarios - Envigado",
-        "time": "04:15",
-        "id": "269993337608605696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "North Sunshine Eagles U23 - Northcote City U23",
-        "time": "04:15",
-        "id": "270256403138088960"
     }
 ]
