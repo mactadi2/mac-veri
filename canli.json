@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AA Ponte Preta - Brusque",
+        "time": "01:30",
+        "id": "269960420276703232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico San Juan de Aragon II - Zitacuaro CF II",
         "time": "01:00",
         "id": "270420870545149952"
@@ -96,12 +103,5 @@
         "name": "Morvant Caledonia United - Prisons FC",
         "time": "00:00",
         "id": "270331504955101184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "La Equidad - Atletico Bucaramanga",
-        "time": "23:45",
-        "id": "269885597707014144"
     }
 ]
