@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al Feiha - Al Akhdoud",
+        "time": "19:15",
+        "id": "269859524727410688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adana Demirspor - Hatayspor",
+        "time": "19:00",
+        "id": "269949558632615936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC St. Gallen - FC Zurich",
+        "time": "19:00",
+        "id": "269859200857935872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Winterthur - Yverdon-Sports",
+        "time": "19:00",
+        "id": "269858382870089728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nizhny Novgorod - FK Fakel",
+        "time": "19:00",
+        "id": "269326381706514432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "La Union CF - Torrent CF",
+        "time": "19:00",
+        "id": "270117374778281984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al-Ettifaq Dammam - Damac FC",
+        "time": "18:55",
+        "id": "269858399293935616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Crystal Palace FC - Manchester City",
         "time": "18:30",
         "id": "268723918938968064"
@@ -12,13 +61,6 @@
         "name": "Piast Gliwice - KS Gornik Zabrze",
         "time": "18:30",
         "id": "269585308477165568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Polonia Warszawa - LKS Lodz",
-        "time": "18:30",
-        "id": "269865300867026944"
     },
     {
         "tur": "live",
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Varazdin - NK Osijek",
-        "time": "18:00",
-        "id": "269584860676493312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Mirandes B - Atletico Tordesillas",
-        "time": "18:00",
-        "id": "270368389246095360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "ADO Den Haag - Telstar",
         "time": "17:30",
         "id": "270097269676707840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC CSKA Sofia - Beroe Stara Zagora",
-        "time": "17:30",
-        "id": "269971650603257856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SE Penya Independent - Constancia",
-        "time": "17:30",
-        "id": "270368290251083776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo La Coruna - Granada CF",
-        "time": "17:15",
-        "id": "269971661311315968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eibar - Burgos CF",
-        "time": "17:15",
-        "id": "269971661260984320"
     }
 ]
