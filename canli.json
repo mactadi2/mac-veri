@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportiva Venados FC II - Oaxaca II",
+        "time": "00:00",
+        "id": "270420870463361024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estudiantes Rio Cuarto - CA Chaco For Ever",
+        "time": "00:00",
+        "id": "269958608200011776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Tachira FC - Carabobo FC",
+        "time": "00:00",
+        "id": "269979193689903104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Morvant Caledonia United - Prisons FC",
+        "time": "00:00",
+        "id": "270331504955101184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "La Equidad - Atletico Bucaramanga",
         "time": "23:45",
         "id": "269885597707014144"
@@ -12,6 +40,13 @@
         "name": "New York City FC - New York Red Bull",
         "time": "23:30",
         "id": "269947771286589440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sporting Cristal Lima - Asociacion Deportiva Tarma",
+        "time": "23:30",
+        "id": "269332825943183360"
     },
     {
         "tur": "live",
@@ -30,78 +65,43 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "OSC Lille - Reims",
-        "time": "22:00",
-        "id": "269673479630098432"
+        "name": "Nacional Asuncion - Sportivo Luqueno",
+        "time": "23:00",
+        "id": "269874612225052672"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Strasbourg - Le Havre AC",
-        "time": "22:00",
-        "id": "269673492175261696"
+        "name": "Tombense MG - CS Alagoano AL",
+        "time": "23:00",
+        "id": "269932167215321088"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Paris Saint-Germain FC - A.J. Auxerre",
-        "time": "22:00",
-        "id": "269673511291850752"
+        "name": "Floresta EC - Guarani FC De Campinas",
+        "time": "23:00",
+        "id": "269869689278173184"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Marsilya - Rennes FC",
-        "time": "22:00",
-        "id": "269673479556698112"
+        "name": "Chorrillo FC (W) - Mario Mendez FC (W)",
+        "time": "23:00",
+        "id": "270486138158977024"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "RC Lens - AS Monaco",
-        "time": "22:00",
-        "id": "269673479696158720"
+        "name": "Cruzeiro MG (W) - Ferroviaria (W)",
+        "time": "23:00",
+        "id": "270178752291540992"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "OGC Nice - Brest",
-        "time": "22:00",
-        "id": "269673479816744960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS St. Etienne - FC Toulouse",
-        "time": "22:00",
-        "id": "269673492248662016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ceara SC CE - Sport Club do Recife",
-        "time": "22:00",
-        "id": "269273354590097408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malaga CF - Real Sporting de Gijon",
-        "time": "22:00",
-        "id": "269951464607191040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Operario Ferroviario EC PR - Botafogo SP ",
-        "time": "22:00",
-        "id": "269932944802582528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aucas - Manta FC",
-        "time": "22:00",
-        "id": "269952371187126272"
+        "name": "Asociacion Deportivo Cali (W) - Alianza FC (W)",
+        "time": "22:30",
+        "id": "270416394829565952"
     }
 ]
