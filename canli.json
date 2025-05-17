@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vasco da Gama RJ - Fortaleza CE",
+        "time": "00:30",
+        "id": "269273354323759104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vila Nova GO - CA Paranaense PR",
+        "time": "00:30",
+        "id": "269933062373117952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mushuc Runa - Orense SC",
+        "time": "00:30",
+        "id": "269887278284935168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "O'Higgins - Universidad Catolica",
+        "time": "00:30",
+        "id": "269861433792139264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jorge Wilstermann - Universitario De Vinto",
+        "time": "00:30",
+        "id": "269954826540027904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportiva Venados FC II - Oaxaca II",
         "time": "00:00",
         "id": "270420870463361024"
@@ -68,40 +103,5 @@
         "name": "Nacional Asuncion - Sportivo Luqueno",
         "time": "23:00",
         "id": "269874612225052672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tombense MG - CS Alagoano AL",
-        "time": "23:00",
-        "id": "269932167215321088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Floresta EC - Guarani FC De Campinas",
-        "time": "23:00",
-        "id": "269869689278173184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chorrillo FC (W) - Mario Mendez FC (W)",
-        "time": "23:00",
-        "id": "270486138158977024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cruzeiro MG (W) - Ferroviaria (W)",
-        "time": "23:00",
-        "id": "270178752291540992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Asociacion Deportivo Cali (W) - Alianza FC (W)",
-        "time": "22:30",
-        "id": "270416394829565952"
     }
 ]
