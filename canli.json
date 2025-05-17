@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Academico Viseu - Pacos Ferreira",
+        "time": "16:00",
+        "id": "269971678030860288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Felgueiras 1932 - UD Oliveirense",
+        "time": "16:00",
+        "id": "269971678312927232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pogon Szczecin - Lechia Gdansk",
+        "time": "15:45",
+        "id": "269583270714413056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Celtic FC - Saint Mirren FC",
         "time": "14:30",
         "id": "269971653061120000"
@@ -58,9 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Wehen Wiesbaden - TSV Alemannia Aachen",
+        "name": "1. FC Saarbrucken - BV Borussia 09 Dortmund II",
         "time": "14:30",
-        "id": "269327096058351616"
+        "id": "269326514735157248"
     },
     {
         "tur": "live",
@@ -72,9 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "1. FC Saarbrucken - BV Borussia 09 Dortmund II",
+        "name": "SV Wehen Wiesbaden - TSV Alemannia Aachen",
         "time": "14:30",
-        "id": "269326514735157248"
+        "id": "269327096058351616"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "VfB Stuttgart II - SC Rot-Weiss Essen",
         "time": "14:30",
         "id": "269326878087712768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VfL Osnabruck - SC Verl 1924",
-        "time": "14:30",
-        "id": "269327026361602048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gazovik Orenburg - FK Krasnodar",
-        "time": "14:00",
-        "id": "269326272615813120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Porto B - Benfica Lisbon B",
-        "time": "13:00",
-        "id": "269971677890351104"
     }
 ]
