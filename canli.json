@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ventforet Kofu - Imabari FC",
+        "time": "07:30",
+        "id": "269815249137438720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Riverside Olympic - South Hobart",
+        "time": "07:30",
+        "id": "270212460012769280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tokyo Musashino United FC - Yokohama S.C.C",
         "time": "07:00",
         "id": "270329110571651072"
@@ -9,16 +23,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Mio Biwako Shiga - Verspah Oita",
+        "name": "Atletico Suzuka Club - Honda F.C.",
         "time": "07:00",
-        "id": "270328958981115904"
+        "id": "270328958887792640"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Atletico Suzuka Club - Honda F.C.",
+        "name": "Mio Biwako Shiga - Verspah Oita",
         "time": "07:00",
-        "id": "270328958887792640"
+        "id": "270328958981115904"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Fencibles United -  Tauranga City AFC",
         "time": "06:00",
         "id": "270329539470692352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manurewa AFC - West Coast Rangers",
-        "time": "06:00",
-        "id": "270329539393097728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Croydon Kings Reserves - Metro Stars Reserves",
-        "time": "05:45",
-        "id": "270263528926089216"
     }
 ]
