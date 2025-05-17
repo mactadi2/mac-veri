@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fc Pardubice U19 - Mlada Boleslav U19",
+        "time": "12:00",
+        "id": "270286162303782912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bali United Pusam - Madura United",
         "time": "11:30",
         "id": "269843847636455424"
@@ -96,12 +103,5 @@
         "name": "ACS Dumbravita - Chindia Targoviste",
         "time": "11:00",
         "id": "269997645538398208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jeonbuk Hyundai Motors FC - FC Anyang",
-        "time": "10:30",
-        "id": "269826437487398912"
     }
 ]
