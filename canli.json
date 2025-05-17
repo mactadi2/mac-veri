@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Leones - Bogota FC",
+        "time": "23:00",
+        "id": "269975272738131968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "OSC Lille - Reims",
         "time": "22:00",
         "id": "269673479630098432"
@@ -93,15 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Dordrecht - De Graafschap",
-        "time": "21:00",
-        "id": "270099963534512128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Ahli Jeddah - Al Kholood",
-        "time": "21:00",
-        "id": "269949559249178624"
+        "name": "CF Montreal - Toronto FC",
+        "time": "21:30",
+        "id": "269947634796597248"
     }
 ]
