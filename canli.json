@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SSA Korona Kolporter Kielce - Rakow Czestochowa",
+        "time": "21:15",
+        "id": "269587427153285120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Dordrecht - De Graafschap",
+        "time": "21:00",
+        "id": "270099963534512128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Ahli Jeddah - Al Kholood",
+        "time": "21:00",
+        "id": "269949559249178624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Juve Stabia - Palermo",
         "time": "20:30",
         "id": "270191783508578304"
@@ -58,6 +79,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "UCAM Murcia - Deportivo Fabril",
+        "time": "20:00",
+        "id": "270097778932322304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Petrojet - Pyramids FC",
+        "time": "20:00",
+        "id": "269971655575605248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SD Huesca - Elche",
         "time": "19:30",
         "id": "269951464810614784"
@@ -68,40 +103,5 @@
         "name": "FC Cartagena - Tenerife",
         "time": "19:30",
         "id": "269960835468759040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Feiha - Al Akhdoud",
-        "time": "19:15",
-        "id": "269859524727410688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC St. Gallen - FC Zurich",
-        "time": "19:00",
-        "id": "269859200857935872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Winterthur - Yverdon-Sports",
-        "time": "19:00",
-        "id": "269858382870089728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nizhny Novgorod - FK Fakel",
-        "time": "19:00",
-        "id": "269326381706514432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Ettifaq Dammam - Damac FC",
-        "time": "18:55",
-        "id": "269858399293935616"
     }
 ]
