@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Juve Stabia - Palermo",
+        "time": "20:30",
+        "id": "270191783508578304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sporting Clube de Portugal - Vitoria Guimaraes",
         "time": "20:00",
         "id": "269953305166352384"
@@ -96,12 +103,5 @@
         "name": "Al-Ettifaq Dammam - Damac FC",
         "time": "18:55",
         "id": "269858399293935616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Crystal Palace FC - Manchester City",
-        "time": "18:30",
-        "id": "268723918938968064"
     }
 ]
