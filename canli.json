@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nacional Asunción Reserve - Sportivo Luqueno Reserves",
+        "time": "01:30",
+        "id": "270399443849842688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Libertad Asuncion - Sportivo Trinidense",
+        "time": "01:30",
+        "id": "269883874149011456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ypiranga RS - Nautico Capibaribe",
+        "time": "01:30",
+        "id": "269960567628894208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico San Juan de Aragon II - Zitacuaro CF II",
+        "time": "01:00",
+        "id": "270420870545149952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vasco da Gama RJ - Fortaleza CE",
         "time": "00:30",
         "id": "269273354323759104"
@@ -75,33 +103,5 @@
         "name": "La Equidad - Atletico Bucaramanga",
         "time": "23:45",
         "id": "269885597707014144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "New York City FC - New York Red Bull",
-        "time": "23:30",
-        "id": "269947771286589440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sporting Cristal Lima - Asociacion Deportiva Tarma",
-        "time": "23:30",
-        "id": "269332825943183360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Leones - Bogota FC",
-        "time": "23:00",
-        "id": "269975272738131968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Utc de Cajamarca - Comerciantes Unidos",
-        "time": "23:00",
-        "id": "269332828526874624"
     }
 ]
