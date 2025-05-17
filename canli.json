@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Catanzaro - Cesena FC",
+        "time": "18:15",
+        "id": "270191783443566592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Metz - Dunkerque",
+        "time": "18:00",
+        "id": "270280950174322688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "ADO Den Haag - Telstar",
         "time": "17:30",
         "id": "270097269676707840"
@@ -89,19 +103,5 @@
         "name": "FK Khimki - FK Rubin Kazan",
         "time": "16:30",
         "id": "269326258313236480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Academico Viseu - Pacos Ferreira",
-        "time": "16:00",
-        "id": "269971678030860288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Felgueiras 1932 - UD Oliveirense",
-        "time": "16:00",
-        "id": "269971678312927232"
     }
 ]
