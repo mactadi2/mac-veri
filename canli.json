@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "La Equidad - Atletico Bucaramanga",
+        "time": "23:45",
+        "id": "269885597707014144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "New York City FC - New York Red Bull",
         "time": "23:30",
         "id": "269947771286589440"
@@ -16,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Utc de Cajamarca - Comerciantes Unidos",
+        "time": "23:00",
+        "id": "269332828526874624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "OSC Lille - Reims",
         "time": "22:00",
         "id": "269673479630098432"
@@ -26,13 +40,6 @@
         "name": "Strasbourg - Le Havre AC",
         "time": "22:00",
         "id": "269673492175261696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Olympique Lyonnais - Angers SCO",
-        "time": "22:00",
-        "id": "269673479897485312"
     },
     {
         "tur": "live",
@@ -65,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Nantes - Montpellier HSC",
-        "time": "22:00",
-        "id": "269673479756976128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "AS St. Etienne - FC Toulouse",
         "time": "22:00",
         "id": "269673492248662016"
@@ -93,15 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Genoa - Atalanta",
-        "time": "21:45",
-        "id": "269333025155846144"
+        "name": "Operario Ferroviario EC PR - Botafogo SP ",
+        "time": "22:00",
+        "id": "269932944802582528"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Royal Antwerp FC - Union St.-Gilloise",
-        "time": "21:45",
-        "id": "269932647570083840"
+        "name": "Aucas - Manta FC",
+        "time": "22:00",
+        "id": "269952371187126272"
     }
 ]
