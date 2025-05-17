@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Galatasaray U19 - Bodrumspor U19",
+        "time": "12:00",
+        "id": "270387586062749696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hatayspor U19 - Fenerbahçe  Sk U19",
+        "time": "12:00",
+        "id": "270387486637821952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Torku Konyaspor U19 - Samsunspor Under 19",
+        "time": "12:00",
+        "id": "270387644831240192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rakow II Czestochowa - KS Kuznia Ustron",
+        "time": "12:00",
+        "id": "270195479185330176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rozwoj Katowice - Przemsza Siewierz",
+        "time": "12:00",
+        "id": "270195478417772544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Slavia Prague - Vysocina Jihlava U19",
+        "time": "12:00",
+        "id": "270286162529226752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Slovacko U19 - Banik Ostrava U19",
+        "time": "12:00",
+        "id": "270365255641731072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jablonec U19 - Fc Viktoria Plzen U19",
+        "time": "12:00",
+        "id": "270236733295169536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bali United Pusam - Madura United",
         "time": "11:30",
         "id": "269843847636455424"
@@ -37,34 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Aritma Praha - Petrin 2 Plzen",
-        "time": "11:15",
-        "id": "270195479266070528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Neratovice Byskovice - FK Olympie Brezova",
-        "time": "11:15",
-        "id": "270195479079424000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zdar Nad Sazavou - FC Spartak Velka Bites",
-        "time": "11:15",
-        "id": "270380909456396288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Hrebec - Ujezd Prague",
-        "time": "11:15",
-        "id": "270402257103753216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "ACS Dumbravita - Chindia Targoviste",
         "time": "11:00",
         "id": "269997645538398208"
@@ -75,33 +103,5 @@
         "name": "Jeonbuk Hyundai Motors FC - FC Anyang",
         "time": "10:30",
         "id": "269826437487398912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ghfa Spirit Fc - Mt Druitt Town Rangers",
-        "time": "10:30",
-        "id": "269971673223139328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gyeongnam FC - Chungnam Asan",
-        "time": "10:30",
-        "id": "269836299698049024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Urawa Red Diamonds - FC Tokyo",
-        "time": "10:00",
-        "id": "269908032059740160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "North District FC - Lee Man Warriors FC",
-        "time": "10:00",
-        "id": "269971675545735168"
     }
 ]
