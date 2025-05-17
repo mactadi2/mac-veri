@@ -44,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Nantes - Montpellier HSC",
+        "name": "RC Lens - AS Monaco",
         "time": "22:00",
-        "id": "269673479756976128"
+        "id": "269673479696158720"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "RC Lens - AS Monaco",
+        "name": "FC Nantes - Montpellier HSC",
         "time": "22:00",
-        "id": "269673479696158720"
+        "id": "269673479756976128"
     },
     {
         "tur": "live",
@@ -86,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Sion Sitten - Grasshopper Club Zurich",
+        "time": "21:30",
+        "id": "269869015334260736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Dordrecht - De Graafschap",
         "time": "21:00",
         "id": "270099963534512128"
@@ -96,12 +103,5 @@
         "name": "Al Ahli Jeddah - Al Kholood",
         "time": "21:00",
         "id": "269949559249178624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juve Stabia - Palermo",
-        "time": "20:30",
-        "id": "270191783508578304"
     }
 ]
