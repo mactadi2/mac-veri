@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "San Luis de Quillota - Curico Unido",
+        "time": "00:30",
+        "id": "270068327383175168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportiva Venados FC II - Oaxaca II",
         "time": "00:00",
         "id": "270420870463361024"
@@ -96,12 +103,5 @@
         "name": "Utc de Cajamarca - Comerciantes Unidos",
         "time": "23:00",
         "id": "269332828526874624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nacional Asuncion - Sportivo Luqueno",
-        "time": "23:00",
-        "id": "269874612225052672"
     }
 ]
