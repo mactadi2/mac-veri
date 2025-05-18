@@ -65,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Numancia - Getafe B",
+        "time": "19:00",
+        "id": "270115199800971264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arsenal - Newcastle United FC",
         "time": "18:30",
         "id": "269333026033504256"
@@ -96,12 +103,5 @@
         "name": "FC Banik Ostrava - AC Sparta Praha",
         "time": "18:00",
         "id": "269947645263482880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Jablonec nad Nisou 97 - SK Slavia Prague",
-        "time": "18:00",
-        "id": "269945731817803776"
     }
 ]
