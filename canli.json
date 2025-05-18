@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SonderjyskE - Lyngby BK",
+        "time": "17:00",
+        "id": "269750913770590208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Schalke 04 - SV Elversberg",
         "time": "16:30",
         "id": "269319583398236160"
@@ -37,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "1. FC Köln - FC Kaiserslautern",
+        "name": "SpVgg Greuther Furth - Hamburger SV",
         "time": "16:30",
-        "id": "269316077265227776"
+        "id": "269317682917150720"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SpVgg Greuther Furth - Hamburger SV",
+        "name": "1. FC Köln - FC Kaiserslautern",
         "time": "16:30",
-        "id": "269317682917150720"
+        "id": "269316077265227776"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "West Ham United - Nottingham Forest",
         "time": "16:15",
         "id": "269333025969541120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Heerenveen - Feyenoord Rotterdam",
-        "time": "15:30",
-        "id": "270029889589088256"
     }
 ]
