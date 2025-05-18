@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Maipu - Arsenal de Sarandi",
+        "time": "21:30",
+        "id": "269958608265023488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tristan Suarez - CA Atlanta",
         "time": "21:00",
         "id": "269916525082841088"
@@ -96,12 +103,5 @@
         "name": "Volos NFC - Kallithea",
         "time": "20:00",
         "id": "270115916691410944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pharco - Haras El Hodood",
-        "time": "20:00",
-        "id": "270115916756422656"
     }
 ]
