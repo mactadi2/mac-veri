@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Peninsula Power U23 - Brisbane Olympic U23",
+        "time": "06:45",
+        "id": "270211533703876608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "APIA Leichhardt Tigers U20 - Sydney Olympic U20",
         "time": "06:00",
         "id": "270174630645469184"
@@ -16,13 +23,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Rockdale Ilinden U20 - Sydney FC U20",
-        "time": "06:00",
-        "id": "270534233326489600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "South East United - Launceston City",
         "time": "06:00",
         "id": "270352756789874688"
@@ -30,9 +30,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rewa FC - Tavua",
+        "time": "06:00",
+        "id": "270437784694689792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "San Diego FC - Sporting Kansas City",
         "time": "05:30",
         "id": "269948531875385344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gungahlin Utd U23 - O'Connor Knights U23",
+        "time": "05:30",
+        "id": "270274787630563328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Canberra Croatia U23 - Monaro Panthers U23",
+        "time": "05:30",
+        "id": "270264157463515136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide Comets Reserves - West Torrens Birkalla Reserves",
+        "time": "05:15",
+        "id": "270264795386744832"
     },
     {
         "tur": "live",
@@ -65,37 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Portland Timbers - Seattle Sounders",
-        "time": "04:30",
-        "id": "269948487693635584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colorado Rapids - Real Salt Lake",
-        "time": "04:30",
-        "id": "269948489287471104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Olimpia Tegucigalpa - CD Victoria",
-        "time": "04:30",
-        "id": "270104236453400576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Dallas - Houston Dynamo",
-        "time": "04:25",
-        "id": "269948488843923456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boyaca Chico - Alianza Valledupar",
-        "time": "04:10",
-        "id": "269968742316904448"
+        "name": "Bay FC (W) - Angel City FC (W)",
+        "time": "05:00",
+        "id": "269953305013260288"
     },
     {
         "tur": "live",
