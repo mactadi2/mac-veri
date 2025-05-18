@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Motor Lublin - Zaglebie Lubin SSA",
+        "time": "13:15",
+        "id": "269599470120996864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Atletico Baleares - CD Teruel",
+        "time": "13:00",
+        "id": "270110666954772480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cacereno - Real Avila",
+        "time": "13:00",
+        "id": "270110666582528000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "U.D. Talavera - Utebo",
+        "time": "13:00",
+        "id": "270110666723037184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SD Eibar B - CE Sabadell",
+        "time": "13:00",
+        "id": "270110666806923264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UD Barbastro - UM Escobedo",
+        "time": "13:00",
+        "id": "270380624256307200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Warta Poznan - OKS Odra Opole",
+        "time": "13:00",
+        "id": "270017482286305280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UD Tomares - CD Ciudad de Lucena",
+        "time": "13:00",
+        "id": "270457521542664192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SAD Villaverde - AD Torrejon CF",
         "time": "12:30",
         "id": "270432276222971904"
@@ -30,27 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ehime FC - Tokushima Vortis",
-        "time": "12:00",
-        "id": "269922868639436800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cracovia Krakow II - KS Pcimianka Pcim",
-        "time": "12:00",
-        "id": "270369915803930624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ASV Salzburg - Salzburger AK",
-        "time": "12:00",
-        "id": "270448902690443264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Semen Padang - Persik Kediri",
         "time": "11:30",
         "id": "269934475322986496"
@@ -58,50 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "WSG Wattens Swarovski Tirol II - SV Fugen",
-        "time": "11:30",
-        "id": "270444322702364672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "WAF Brigittenau - SK Slovan Hac",
-        "time": "11:30",
-        "id": "270445291544645632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FSC Eggendorf Hartberg II - SV Frohnleiten",
-        "time": "11:30",
-        "id": "270443464028721152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "LAC Inter - FC 1980 Wien",
-        "time": "11:15",
-        "id": "270444168808108032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Meteor Praha - FC Predni Kopanina",
-        "time": "11:15",
-        "id": "270372751762657280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Podbeskidzie Bielsko-Biala II - KS Spojnia Landek",
-        "time": "11:00",
-        "id": "270366930576216064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CSA Steaua Bucuresti - CSM Scolar Resita",
         "time": "09:00",
         "id": "269971660063510528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lecce U20 - SS Lazio U20",
+        "time": "12:00",
+        "id": "269971676650934272"
     }
 ]
