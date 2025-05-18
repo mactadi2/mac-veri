@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Galatasaray SK - Kayserispor",
+        "time": "19:00",
+        "id": "270021645921554432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fenerbahce SK - Eyupspor",
+        "time": "19:00",
+        "id": "269949558160756736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alanyaspor - Besiktas JK",
+        "time": "19:00",
+        "id": "269949558731182080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Samsunspor - Sivasspor",
+        "time": "19:00",
+        "id": "269949558070579200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bodrumspor - Trabzonspor",
+        "time": "19:00",
+        "id": "269949558001373184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kasimpasa SK - Başakşehir FK",
+        "time": "19:00",
+        "id": "269949558276100096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Caykur Rizespor - Göztepe",
+        "time": "19:00",
+        "id": "269949558553972736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Antalyaspor - Gaziantep FK",
+        "time": "19:00",
+        "id": "270044101324443648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Randers FC - FC Kopenhag",
+        "time": "19:00",
+        "id": "269750910406758400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arsenal - Newcastle United FC",
         "time": "18:30",
         "id": "269333026033504256"
@@ -9,30 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "GKS Dospel Katowice - KKS Lech Poznan",
-        "time": "18:30",
-        "id": "269603440565555200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Lamia 1964 - Panetolikos FC",
         "time": "18:00",
         "id": "270115916496375808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Sigma Olomouc - FC Viktoria Plzen",
-        "time": "18:00",
-        "id": "269947645183791104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Banik Ostrava - AC Sparta Praha",
-        "time": "18:00",
-        "id": "269947645263482880"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Castellon - Eldense",
         "time": "17:15",
         "id": "269951464965804032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brentford - Fulham",
-        "time": "17:00",
-        "id": "269333026126827520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leicester City - Ipswich Town FC",
-        "time": "17:00",
-        "id": "269333026382680064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SonderjyskE - Lyngby BK",
-        "time": "17:00",
-        "id": "269750913770590208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ross County - Motherwell",
-        "time": "17:00",
-        "id": "270113664114233344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St. Johnstone - Dundee FC",
-        "time": "17:00",
-        "id": "270113665268715520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kilmarnock - Hearts Of Midlothian FC",
-        "time": "17:00",
-        "id": "270113665205800960"
     }
 ]
