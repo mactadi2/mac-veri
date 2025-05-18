@@ -44,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Valencia CF - Athletic Bilbao",
+        "time": "20:00",
+        "id": "269964091007832064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Galatasaray SK - Kayserispor",
         "time": "19:00",
         "id": "270021645921554432"
@@ -96,12 +103,5 @@
         "name": "Antalyaspor - Gaziantep FK",
         "time": "19:00",
         "id": "270044101324443648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arsenal - Newcastle United FC",
-        "time": "18:30",
-        "id": "269333026033504256"
     }
 ]
