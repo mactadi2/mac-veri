@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PFK Kryliya Sovetov Samara - Spartak Moskova",
+        "time": "13:30",
+        "id": "269326258392928256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Motor Lublin - Zaglebie Lubin SSA",
         "time": "13:15",
         "id": "269599470120996864"
@@ -58,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AD Llerenense - CF Jaraiz",
+        "time": "13:00",
+        "id": "270432069408133120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SAD Villaverde - AD Torrejon CF",
         "time": "12:30",
         "id": "270432276222971904"
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Semen Padang - Persik Kediri",
-        "time": "11:30",
-        "id": "269934475322986496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CSA Steaua Bucuresti - CSM Scolar Resita",
         "time": "09:00",
         "id": "269971660063510528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lecce U20 - SS Lazio U20",
-        "time": "12:00",
-        "id": "269971676650934272"
     }
 ]
