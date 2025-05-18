@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gimnasia Y Tiro De Salta - Club Atletico Colegiales",
+        "time": "23:00",
+        "id": "269964370837114880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Corinthians Paulista - Santos FC Sao Paulo ",
         "time": "22:00",
         "id": "269303637751238656"
@@ -26,6 +33,13 @@
         "name": "Union Deportiva Almeria - Racing Santander",
         "time": "22:00",
         "id": "269960835854635008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tigres FC - Barranquilla FC",
+        "time": "22:00",
+        "id": "269975272822018048"
     },
     {
         "tur": "live",
@@ -72,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lecce - Torino FC",
-        "time": "21:45",
-        "id": "269333025675939840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Hellas Verona - Calcio Como",
         "time": "21:45",
         "id": "269333025078251520"
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lecce - Torino FC",
+        "time": "21:45",
+        "id": "269333025675939840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cagliari - SSC Venezia",
         "time": "21:45",
         "id": "269333024987025408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Maipu - Arsenal de Sarandi",
-        "time": "21:30",
-        "id": "269958608265023488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Aviles CF - CA Antoniano",
-        "time": "20:30",
-        "id": "270117342203219968"
     }
 ]
