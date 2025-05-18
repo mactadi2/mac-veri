@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Flamengo RJ - Botafogo RJ",
+        "time": "00:30",
+        "id": "269270560189583360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bragantino Red Bull - Palmeiras",
+        "time": "00:30",
+        "id": "269273354408693760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paysandu - Goias EC",
+        "time": "00:30",
+        "id": "270024659524784128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico Huila - Real Santander",
         "time": "00:05",
         "id": "269975272664731648"
@@ -51,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Motagua Reserves - Olancho FC Reserves",
-        "time": "00:00",
-        "id": "270515877736222720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Deportivo Merlo - Real Pilar",
         "time": "23:40",
         "id": "269975273329528832"
@@ -89,19 +103,5 @@
         "name": "CSD Municipal - Antigua Guatemala",
         "time": "23:00",
         "id": "270158807557083136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aragua FC - Dvo Italia",
-        "time": "23:00",
-        "id": "270418409597046784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trujillanos FC - Falcon Heroes FC",
-        "time": "22:30",
-        "id": "270418409523646464"
     }
 ]
