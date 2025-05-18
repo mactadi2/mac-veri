@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Real Oviedo - Real Zaragoza",
+        "time": "17:15",
+        "id": "269943884545658880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Castellon - Eldense",
+        "time": "17:15",
+        "id": "269951464965804032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Brentford - Fulham",
         "time": "17:00",
         "id": "269333026126827520"
@@ -37,6 +51,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Karlsruher SC - SC Paderborn 07",
+        "time": "16:30",
+        "id": "269318926724370432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SSV Ulm - SC Preussen Munster",
+        "time": "16:30",
+        "id": "269319947720724480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Darmstadt 98 - SSV Jahn Regensburg",
+        "time": "16:30",
+        "id": "269316735603183616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TSV Eintracht Braunschweig - FC Nurnberg",
+        "time": "16:30",
+        "id": "269317246627745792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hertha BSC Berlin - Hannover 96",
+        "time": "16:30",
+        "id": "269318563097088000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "1.FC Magdeburg - TSV Fortuna Dusseldorf",
+        "time": "16:30",
+        "id": "269319291469434880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "West Ham United - Nottingham Forest",
         "time": "16:15",
         "id": "269333025969541120"
@@ -44,64 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sparta Rotterdam - PSV Eindhoven",
-        "time": "15:30",
-        "id": "270029868285169664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AFC Ajax - FC Twente",
-        "time": "15:30",
-        "id": "270029853837889536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AZ Alkmaar - Almere City",
-        "time": "15:30",
-        "id": "270029868431970304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SC Heerenveen - Feyenoord Rotterdam",
         "time": "15:30",
         "id": "270029889589088256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fortuna Sittard - FC Utrecht",
-        "time": "15:30",
-        "id": "270029853751906304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Heracles Almelo - NEC Nijmegen",
-        "time": "15:30",
-        "id": "270029868555702272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zwolle - FC Groningen",
-        "time": "15:30",
-        "id": "270029868496982016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "RKC Waalwijk - Go Ahead Eagles",
-        "time": "15:30",
-        "id": "270029868363812864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NAC Breda - Willem II Tilburg",
-        "time": "15:30",
-        "id": "270029889524076544"
     }
 ]
