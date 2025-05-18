@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Internacional RS - Mirassol FC",
+        "time": "02:30",
+        "id": "269269635309899776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cruzeiro MG - Atletico Mineiro",
+        "time": "02:30",
+        "id": "269269936465121280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Cartagena - Deportes Quindio",
+        "time": "02:20",
+        "id": "269975272896466944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Pasto - Once Caldas",
         "time": "02:10",
         "id": "270035458232291328"
@@ -33,6 +54,13 @@
         "name": "FBC Melgar Arequipa - Atletico Grau",
         "time": "02:00",
         "id": "269609056421941248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universidad de Chile - Huachipato",
+        "time": "01:30",
+        "id": "269956747813326848"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Barcelona SC Guayaquil - Emelec Guayaquil",
         "time": "01:00",
         "id": "269953265716826112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Flamengo RJ - Botafogo RJ",
-        "time": "00:30",
-        "id": "269270560189583360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bragantino Red Bull - Palmeiras",
-        "time": "00:30",
-        "id": "269273354408693760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paysandu - Goias EC",
-        "time": "00:30",
-        "id": "270024659524784128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Saprissa - LD Alajuelense",
-        "time": "00:00",
-        "id": "270370425854365696"
     }
 ]
