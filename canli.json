@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Irapuato Olimpo FC - Cimarrones de Sonora FC II",
+        "time": "01:00",
+        "id": "270498913882083328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mount Pleasant FC - Montego Bay United",
         "time": "01:00",
         "id": "270196199918800896"
@@ -65,16 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Patriotas Tunja - Atletico Cali F.C.",
+        "name": "Boca Juniors Cali - CD Jaguares de Cordoba",
         "time": "00:05",
-        "id": "270224589129388032"
+        "id": "269975272970915840"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Boca Juniors Cali - CD Jaguares de Cordoba",
+        "name": "Patriotas Tunja - Atletico Cali F.C.",
         "time": "00:05",
-        "id": "269975272970915840"
+        "id": "270224589129388032"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Birmingham Legion FC - Detroit City FC",
         "time": "00:00",
         "id": "270014170068553728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Delfin - Universidad Catolica Quito",
-        "time": "23:30",
-        "id": "269953265792323584"
     }
 ]
