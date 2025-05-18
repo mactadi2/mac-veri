@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "RSC Anderlecht - Club Brugge KV",
+        "time": "14:30",
+        "id": "269951501651283968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Everton - Southampton FC",
         "time": "14:00",
         "id": "269333026298793984"
@@ -96,12 +103,5 @@
         "name": "SD Beasain - SD Leioa",
         "time": "13:00",
         "id": "270406537590214656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SAD Villaverde - AD Torrejon CF",
-        "time": "12:30",
-        "id": "270432276222971904"
     }
 ]
