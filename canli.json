@@ -2,23 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Semen Padang - Persik Kediri",
+        "time": "11:30",
+        "id": "269934475322986496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "WSG Wattens Swarovski Tirol II - SV Fugen",
+        "time": "11:30",
+        "id": "270444322702364672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FSC Eggendorf Hartberg II - SV Frohnleiten",
+        "time": "11:30",
+        "id": "270443464028721152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "WAF Brigittenau - SK Slovan Hac",
+        "time": "11:30",
+        "id": "270445291544645632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "LAC Inter - FC 1980 Wien",
         "time": "11:15",
         "id": "270444168808108032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Meteor Praha - FC Predni Kopanina",
-        "time": "11:15",
-        "id": "270372751762657280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Tvd Slavicin - Sumperk",
-        "time": "11:15",
-        "id": "270372751341129728"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "South Melbourne - Port Melbourne Sharks",
         "time": "10:00",
         "id": "270065761800818688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kowloon City - Southern District Rsa",
-        "time": "10:00",
-        "id": "270108361137197056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PSBS Biak Numfor - Arema Endonezya",
-        "time": "09:30",
-        "id": "269921250386776064"
     }
 ]
