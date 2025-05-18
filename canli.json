@@ -65,9 +65,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Rostov - FK Zenit St. Petersburg",
+        "time": "19:00",
+        "id": "269326381801934848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arsenal - Newcastle United FC",
         "time": "18:30",
         "id": "269333026033504256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GKS Dospel Katowice - KKS Lech Poznan",
+        "time": "18:30",
+        "id": "269603440565555200"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "FC Luzern - Servette Geneve FC",
         "time": "17:30",
         "id": "269944155281690624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Oviedo - Real Zaragoza",
-        "time": "17:15",
-        "id": "269943884545658880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Castellon - Eldense",
-        "time": "17:15",
-        "id": "269951464965804032"
     }
 ]
