@@ -2,9 +2,100 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "RSC Anderlecht - Club Brugge KV",
-        "time": "14:30",
-        "id": "269951501651283968"
+        "name": "Sparta Rotterdam - PSV Eindhoven",
+        "time": "15:30",
+        "id": "270029868285169664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AFC Ajax - FC Twente",
+        "time": "15:30",
+        "id": "270029853837889536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AZ Alkmaar - Almere City",
+        "time": "15:30",
+        "id": "270029868431970304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Heerenveen - Feyenoord Rotterdam",
+        "time": "15:30",
+        "id": "270029889589088256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fortuna Sittard - FC Utrecht",
+        "time": "15:30",
+        "id": "270029853751906304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Heracles Almelo - NEC Nijmegen",
+        "time": "15:30",
+        "id": "270029868555702272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Zwolle - FC Groningen",
+        "time": "15:30",
+        "id": "270029868496982016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RKC Waalwijk - Go Ahead Eagles",
+        "time": "15:30",
+        "id": "270029868363812864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NAC Breda - Willem II Tilburg",
+        "time": "15:30",
+        "id": "270029889524076544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BSC Young Boys Bern - FC Basel",
+        "time": "15:15",
+        "id": "269935791974780928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing de Ferrol - Cadiz",
+        "time": "15:00",
+        "id": "269960835397455872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AaB Aalborg - Silkeborg IF",
+        "time": "15:00",
+        "id": "269750910612279296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Viborg FF - Vejle Boldklub",
+        "time": "15:00",
+        "id": "269750910478061568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Panserraikos - Levadiakos",
+        "time": "15:00",
+        "id": "270115917393956864"
     },
     {
         "tur": "live",
@@ -12,96 +103,5 @@
         "name": "Everton - Southampton FC",
         "time": "14:00",
         "id": "269333026298793984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Akhmat Grozny - FC Dynamo Makhachkala",
-        "time": "14:00",
-        "id": "269326422524432384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CF Badalona - Atletic Lleida",
-        "time": "13:30",
-        "id": "270432186004541440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Motor Lublin - Zaglebie Lubin SSA",
-        "time": "13:15",
-        "id": "269599470120996864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Atletico Baleares - CD Teruel",
-        "time": "13:00",
-        "id": "270110666954772480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cacereno - Real Avila",
-        "time": "13:00",
-        "id": "270110666582528000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "U.D. Talavera - Utebo",
-        "time": "13:00",
-        "id": "270110666723037184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Eibar B - CE Sabadell",
-        "time": "13:00",
-        "id": "270110666806923264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UD Barbastro - UM Escobedo",
-        "time": "13:00",
-        "id": "270380624256307200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Warta Poznan - OKS Odra Opole",
-        "time": "13:00",
-        "id": "270017482286305280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AD Llerenense - CF Jaraiz",
-        "time": "13:00",
-        "id": "270432069408133120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Cayon - SDA Albericia",
-        "time": "13:00",
-        "id": "270432291522744320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UD Tomares - CD Ciudad de Lucena",
-        "time": "13:00",
-        "id": "270457521542664192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Beasain - SD Leioa",
-        "time": "13:00",
-        "id": "270406537590214656"
     }
 ]
