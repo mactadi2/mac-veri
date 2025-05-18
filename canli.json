@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Arsenal - Newcastle United FC",
+        "time": "18:30",
+        "id": "269333026033504256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GKS Dospel Katowice - KKS Lech Poznan",
+        "time": "18:30",
+        "id": "269603440565555200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lamia 1964 - Panetolikos FC",
+        "time": "18:00",
+        "id": "270115916496375808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Sigma Olomouc - FC Viktoria Plzen",
+        "time": "18:00",
+        "id": "269947645183791104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Banik Ostrava - AC Sparta Praha",
+        "time": "18:00",
+        "id": "269947645263482880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lausanne-Sports - FC Lugano",
+        "time": "17:30",
+        "id": "269943546028625920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Luzern - Servette Geneve FC",
+        "time": "17:30",
+        "id": "269944155281690624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Oviedo - Real Zaragoza",
         "time": "17:15",
         "id": "269943884545658880"
@@ -37,71 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Schalke 04 - SV Elversberg",
-        "time": "16:30",
-        "id": "269319583398236160"
+        "name": "Ross County - Motherwell",
+        "time": "17:00",
+        "id": "270113664114233344"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SpVgg Greuther Furth - Hamburger SV",
-        "time": "16:30",
-        "id": "269317682917150720"
+        "name": "St. Johnstone - Dundee FC",
+        "time": "17:00",
+        "id": "270113665268715520"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "1. FC Köln - FC Kaiserslautern",
-        "time": "16:30",
-        "id": "269316077265227776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Karlsruher SC - SC Paderborn 07",
-        "time": "16:30",
-        "id": "269318926724370432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSV Ulm - SC Preussen Munster",
-        "time": "16:30",
-        "id": "269319947720724480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Darmstadt 98 - SSV Jahn Regensburg",
-        "time": "16:30",
-        "id": "269316735603183616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hertha BSC Berlin - Hannover 96",
-        "time": "16:30",
-        "id": "269318563097088000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "TSV Eintracht Braunschweig - FC Nurnberg",
-        "time": "16:30",
-        "id": "269317246627745792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "1.FC Magdeburg - TSV Fortuna Dusseldorf",
-        "time": "16:30",
-        "id": "269319291469434880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "West Ham United - Nottingham Forest",
-        "time": "16:15",
-        "id": "269333025969541120"
+        "name": "Kilmarnock - Hearts Of Midlothian FC",
+        "time": "17:00",
+        "id": "270113665205800960"
     }
 ]
