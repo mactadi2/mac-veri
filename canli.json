@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Racing Beirut - Shabab Al Sahel",
+        "time": "14:30",
+        "id": "270547529138049024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bidco United - Kenya Commercial Bank Nairobi",
         "time": "13:00",
         "id": "270438169741234176"
@@ -26,12 +33,5 @@
         "name": "Krylya Sovetov 2 - Ural 2 Yekaterinburg",
         "time": "13:00",
         "id": "270636243162894336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ubon Ratchathani Rajabhat University - Kasetsart University",
-        "time": "12:30",
-        "id": "270649067746496512"
     }
 ]
