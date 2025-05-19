@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lokomotiv Moskova - CSKA Moskova",
+        "time": "20:30",
+        "id": "269327064846438400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maccabi Haifa FC - Maccabi Tel-Aviv",
+        "time": "20:30",
+        "id": "270053877866434560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Beitar Jerusalem - Hapoel Beer-Sheva",
+        "time": "20:30",
+        "id": "270053825757450240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PFC Slavia Sofia - PFC Lokomotiv Plovdiv 1936",
         "time": "20:15",
         "id": "270146287930839040"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Al Wahda Abu Dhabi - Al Jazira",
-        "time": "20:00",
-        "id": "270497444481077248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Hapoel Kfar-Saba - Hapoel Tel-Aviv",
         "time": "19:00",
         "id": "270123167243177984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maccabi Herzliya - Hapoel Petah Tikva",
-        "time": "19:00",
-        "id": "270123257723752448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Ramat Gan - Bnei-Yehuda Tel-Aviv",
-        "time": "19:00",
-        "id": "270123545464541184"
     }
 ]
