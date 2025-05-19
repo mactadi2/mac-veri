@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Stjarnan - Vikingur Reykjavik",
+        "time": "22:15",
+        "id": "269970283592552448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Breidablik Kopavogur - Valur Reykjavik",
         "time": "22:15",
         "id": "270061088484233216"
@@ -37,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union Espanola - Everton Vina del Mar",
+        "time": "22:00",
+        "id": "269940564797034496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Shelbourne FC - Drogheda United",
         "time": "21:45",
         "id": "270151739912622080"
@@ -51,9 +65,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Montevideo Wanderers Reserves - Danubio Reserves",
-        "time": "21:00",
-        "id": "270563318000914432"
+        "name": "CA Fenix - Argentino Merlo",
+        "time": "21:30",
+        "id": "269975273054801920"
     },
     {
         "tur": "live",
@@ -61,6 +75,13 @@
         "name": "Nacional de Montevideo Reserves - La Luz Reserves",
         "time": "21:00",
         "id": "270563318188609536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Montevideo Wanderers Reserves - Danubio Reserves",
+        "time": "21:00",
+        "id": "270563318000914432"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lokomotiv Moskova - CSKA Moskova",
-        "time": "20:30",
-        "id": "269327064846438400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maccabi Haifa FC - Maccabi Tel-Aviv",
-        "time": "20:30",
-        "id": "270053877866434560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Beitar Jerusalem - Hapoel Beer-Sheva",
-        "time": "20:30",
-        "id": "270053825757450240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Landskrona Bois - Helsingborgs IF",
-        "time": "20:00",
-        "id": "270044515248771072"
+        "name": "Racing Club de Montevideo - Miramar Misiones",
+        "time": "21:00",
+        "id": "269927622218223616"
     }
 ]
