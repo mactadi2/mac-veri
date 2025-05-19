@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Plaza Colonia - Danubio",
+        "time": "00:00",
+        "id": "269879669355057152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Resistencia SC - Guairena FC",
         "time": "23:00",
         "id": "270291405439635456"
@@ -30,13 +37,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Smari - IB Uppsveitir",
-        "time": "23:00",
-        "id": "270658319875706880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "RB Keflavik - Stokkseyri",
         "time": "23:00",
         "id": "270556764622163968"
@@ -44,57 +44,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Stjarnan - Vikingur Reykjavik",
-        "time": "22:15",
-        "id": "269970283592552448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Breidablik Kopavogur - Valur Reykjavik",
-        "time": "22:15",
-        "id": "270061088484233216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IA Akranes - Fh Hafnarfjördur",
-        "time": "22:15",
-        "id": "270061148832927744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Real Bamako -  AS Police de Bamako",
-        "time": "22:15",
-        "id": "270646646385283072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brighton and Hove Albion - Liverpool",
-        "time": "22:00",
-        "id": "269333688211345408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Patronato - CA San Miguel",
-        "time": "22:00",
-        "id": "269960567459024896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shamrock Rovers FC - St Patrick's Athletic",
-        "time": "22:00",
-        "id": "270243462036721664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Espanola - Everton Vina del Mar",
-        "time": "22:00",
-        "id": "269940564797034496"
+        "name": "Smari - IB Uppsveitir",
+        "time": "23:00",
+        "id": "270658319875706880"
     }
 ]
