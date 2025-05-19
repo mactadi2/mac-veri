@@ -2,16 +2,58 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Bravo U19 - NK Domzale U19",
-        "time": "18:30",
-        "id": "270541902090211328"
+        "name": "Hapoel Kfar-Saba - Hapoel Tel-Aviv",
+        "time": "19:00",
+        "id": "270123167243177984"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Olympique Sport d'Abobo FC - Fc San Pedro",
-        "time": "18:30",
-        "id": "270411339023912960"
+        "name": "Maccabi Herzliya - Hapoel Petah Tikva",
+        "time": "19:00",
+        "id": "270123257723752448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Ramat Gan - Bnei-Yehuda Tel-Aviv",
+        "time": "19:00",
+        "id": "270123545464541184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MC Alger - ES Setif",
+        "time": "19:00",
+        "id": "270232185811898368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ASO Chlef - CR Belouizdad",
+        "time": "19:00",
+        "id": "270232185722769408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "LKS Lodz II - Pogon Grodzisk Mazowiecki",
+        "time": "19:00",
+        "id": "270133281526255616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Riga FC - FK Liepaja",
+        "time": "19:00",
+        "id": "270141593090134016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JK Tallinna Kalev - JK Trans Narva",
+        "time": "19:00",
+        "id": "270128500495749120"
     },
     {
         "tur": "live",
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Indjija - FK Zemun",
-        "time": "18:00",
-        "id": "270489887211393024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Aluminij U19 - Olimpija Ljubljana U19",
-        "time": "18:00",
-        "id": "270669781798096896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Neftekhimik Nizhnekamsk - FK Chernomorets Novorossiysk",
-        "time": "18:00",
-        "id": "270012960322228224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kamaz Nab Chelny - Alania Vladikavkaz",
-        "time": "18:00",
-        "id": "270013626998460416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC CSKA 1948 - Levski Krumovgrad",
         "time": "17:45",
         "id": "270136854222868480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Ain - Ajman",
-        "time": "17:10",
-        "id": "270486422058831872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ittihad Kalba - Al-Nasr",
-        "time": "17:10",
-        "id": "270406239493689344"
     }
 ]
