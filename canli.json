@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Resistencia SC - Guairena FC",
+        "time": "23:00",
+        "id": "270291405439635456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Millonarios (W) - Atletico Nacional Medellin (W)",
+        "time": "23:00",
+        "id": "270568605444345856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Stjarnan - Vikingur Reykjavik",
         "time": "22:15",
         "id": "269970283592552448"
@@ -19,6 +33,13 @@
         "name": "IA Akranes - Fh Hafnarfjördur",
         "time": "22:15",
         "id": "270061148832927744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AS Real Bamako -  AS Police de Bamako",
+        "time": "22:15",
+        "id": "270646646385283072"
     },
     {
         "tur": "live",
@@ -58,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Loughgall Reserves - Carrick Rangers Reserves",
+        "time": "21:45",
+        "id": "270580964798894080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cordoba - CD Mirandes",
         "time": "21:30",
         "id": "270028890032967680"
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Nacional de Montevideo Reserves - La Luz Reserves",
-        "time": "21:00",
-        "id": "270563318188609536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Montevideo Wanderers Reserves - Danubio Reserves",
-        "time": "21:00",
-        "id": "270563318000914432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Liverpool Montevideo Reserves - Montevideo City Torque Reserve",
-        "time": "21:00",
-        "id": "270563318074314752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Progreso Reserves - Ca Penarol Reserves",
-        "time": "21:00",
-        "id": "270563420987854848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Racing Club de Montevideo - Miramar Misiones",
-        "time": "21:00",
-        "id": "269927622218223616"
+        "name": "Deportivo Liniers - Club Atletico Acassuso",
+        "time": "21:30",
+        "id": "269975273189019648"
     }
 ]
