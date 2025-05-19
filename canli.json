@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC CSKA 1948 - Levski Krumovgrad",
+        "time": "17:45",
+        "id": "270136854222868480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Ain - Ajman",
         "time": "17:10",
         "id": "270486422058831872"
@@ -54,12 +61,5 @@
         "name": "Clube Ferroviario De Maputo - Ferroviario de Lichinga",
         "time": "16:00",
         "id": "270638731634020352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sebat Genclik Spor - Kahramanmaras Istiklalspor",
-        "time": "15:30",
-        "id": "270549791845519360"
     }
 ]
