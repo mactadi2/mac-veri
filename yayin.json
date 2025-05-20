@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "type": "futbol",
+        "name": "Argentinos Jrs. - San Lorenzo",
+        "day": "20",
+        "time": "01:00",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Boca Juniors - CA Independiente",
+        "day": "20",
+        "time": "03:30",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Al Shabab - Al Ittihad",
+        "day": "20",
+        "time": "21:00",
+        "channel": "TRT Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "Crystal Palace - Wolverhampton",
+        "day": "20",
+        "time": "22:00",
+        "channel": "Bein Sports 4"
+    },
+    {
+        "type": "futbol",
+        "name": "Manchester City - Bournemouth",
+        "day": "20",
+        "time": "22:00",
+        "channel": "Bein Sports 3"
+    },
+    {
+        "type": "basketbol",
+        "name": "Galatasaray - Anadolu Efes",
+        "day": "20",
+        "time": "19:00",
+        "channel": "Bein Sports 5"
+    }
+]
