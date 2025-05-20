@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "HJK Helsinki - Seinäjoen Jalkapallokerho",
+        "time": "18:00",
+        "id": "270318805057671168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Hudod Fc - AL Zawraa SC",
+        "time": "18:00",
+        "id": "270137585154789376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK CSKA 1948 Sofia II - PFC CSKA Sofia II",
+        "time": "18:00",
+        "id": "270318804747292672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Auda - BFC Daugava Daugavpils",
+        "time": "18:00",
+        "id": "270318804942327808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Dila Gori - FC Samgurali Tskaltubo",
+        "time": "18:00",
+        "id": "270318804668649472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Platense (W) - San Lorenzo (W)",
+        "time": "18:00",
+        "id": "270681191651348480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hebar 1918 Pazardzhik - PFK Botev Vratsa",
         "time": "17:45",
         "id": "270317598718169088"
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Torreense U23 - Gil Vicente FC U23",
-        "time": "17:00",
-        "id": "270634113250234368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JK Nomme Kalju U19 - Tallinna JK Legion U19",
-        "time": "17:00",
-        "id": "270756714354184192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tartu FC Helios U19 - Viimsi JK U19",
-        "time": "17:00",
-        "id": "270757955433009152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nomme United U19 - Tulevik Viljandi U19",
-        "time": "17:00",
-        "id": "270757825432653824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Sinaat Al-Kahrabaiya SC - Masafi Club",
-        "time": "16:30",
-        "id": "270735123723456512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Parma U19 - Frosinone U19",
         "time": "16:00",
         "id": "270585887760453632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Spaeri - FC Merani Martvili",
-        "time": "16:00",
-        "id": "270573011933990912"
     }
 ]
