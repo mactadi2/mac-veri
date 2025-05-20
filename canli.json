@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Manchester City - Bournemouth AFC",
+        "time": "22:00",
+        "id": "269333653670203392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Crystal Palace FC - Wolverhampton Wanderers",
+        "time": "22:00",
+        "id": "269333653739409408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Boulogne - Clermont",
         "time": "21:45",
         "id": "270651267040284672"
@@ -89,19 +103,5 @@
         "name": "Al Shabab Riyadh - Al-Ittihad",
         "time": "21:00",
         "id": "270319493854662656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Supersport United - Orlando Pirates FC",
-        "time": "20:30",
-        "id": "270328262341824512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Septemvri Sofia - PFC Lokomotiv Sofia",
-        "time": "20:15",
-        "id": "270317598436102144"
     }
 ]
