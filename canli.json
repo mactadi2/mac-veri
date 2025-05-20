@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Paranaense PR - Brusque",
+        "time": "01:30",
+        "id": "269065832887357440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rubio nu - Fernando de la Mora",
+        "time": "01:30",
+        "id": "270517009151823872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sportivo Trinidense - Nacional Asuncion",
         "time": "01:00",
         "id": "270248069829890048"
@@ -26,19 +40,5 @@
         "name": "Porto Vitoria - SC Brasil Capixaba ES",
         "time": "01:00",
         "id": "270682216046137344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club 9 de Octubre - Chacaritas SC",
-        "time": "23:30",
-        "id": "270520941821431808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Vargas Torres - San Antonio FC Cotacachi",
-        "time": "23:30",
-        "id": "270533887903535104"
     }
 ]
