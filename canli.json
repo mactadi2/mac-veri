@@ -65,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Asane IL Ulset - Viking Stavanger",
-        "time": "19:00",
-        "id": "270584348065009664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Stabaek - Mjondalen IF",
         "time": "19:00",
         "id": "270584348329250816"
@@ -103,5 +96,12 @@
         "name": "Bahrain SC - Manama",
         "time": "19:00",
         "id": "270589935276396544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Iberia 1999 - Dinamo Tbilisi",
+        "time": "19:00",
+        "id": "270322682605735936"
     }
 ]
