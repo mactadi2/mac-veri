@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Bahia - Paysandu",
+        "time": "01:30",
+        "id": "269073439987470336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AA Aparecidense - Fluminense RJ",
+        "time": "01:30",
+        "id": "269073440136368128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Ameliano - Cerro Porteno",
+        "time": "01:30",
+        "id": "270248054541651968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Olimpia Asuncion - Libertad Asuncion",
+        "time": "01:30",
+        "id": "270248066121076736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Tembetary - Guarani Asuncion",
+        "time": "01:30",
+        "id": "270331256811687936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo La Guaira - Universidad Central de Venezuela",
         "time": "01:00",
         "id": "270605802520317952"
@@ -68,12 +103,5 @@
         "name": "FC Petropolis Goncalense - Olaria AC",
         "time": "01:00",
         "id": "270775357877129216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sporting Cristal (W) - Universitario de Deportes (W)",
-        "time": "23:30",
-        "id": "270786657055281152"
     }
 ]
