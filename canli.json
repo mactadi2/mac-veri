@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Taringa Rovers - Yeronga FC",
+        "time": "12:45",
+        "id": "270711336171868160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Yokohama FC - Machida Zelvia",
         "time": "12:30",
         "id": "270204344827252736"
@@ -51,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Adana Demirspor U19 - Sivasspor U19",
+        "name": "Eyupspor U19 - Torku Konyaspor U19",
         "time": "12:00",
-        "id": "270722390983577600"
+        "id": "270723663214546944"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Eyupspor U19 - Torku Konyaspor U19",
+        "name": "Adana Demirspor U19 - Sivasspor U19",
         "time": "12:00",
-        "id": "270723663214546944"
+        "id": "270722390983577600"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Samsunspor Under 19 - Kasımpaşa U19",
         "time": "11:00",
         "id": "270722390895497216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gia Dinh - Van Hien University",
-        "time": "11:00",
-        "id": "270741640490127360"
     }
 ]
