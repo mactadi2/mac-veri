@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Forest Green Rovers - Southend United",
+        "time": "21:45",
+        "id": "270372126382493696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Catanzaro - Spezia",
+        "time": "21:30",
+        "id": "270514205585707008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juve Stabia - Cremonese",
+        "time": "21:30",
+        "id": "270514107901415424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Dock Sud Reserves - Deportivo Armenio Reserves",
+        "time": "21:30",
+        "id": "270840951487991808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Muniz - Deportivo Espanol",
+        "time": "21:30",
+        "id": "270637271758278656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Leandro Niceforo Alem - Puerto Nuevo",
+        "time": "21:30",
+        "id": "270629769360576512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estrella del Sur - Deportivo Paraguayo",
+        "time": "21:30",
+        "id": "270629769259913216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Metz - Reims",
         "time": "21:00",
         "id": "270664507416776704"
@@ -19,13 +68,6 @@
         "name": "Bournemouth U21 - Brentford U21",
         "time": "21:00",
         "id": "270737272006119424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Meppen - SV Werder Bremen",
-        "time": "20:00",
-        "id": "270735965737324544"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Falkenbergs FF - Trelleborgs FF",
         "time": "20:00",
         "id": "270224732774862848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Energetyk ROW Rybnik - GKS Piast Gliwice II",
-        "time": "20:00",
-        "id": "270598231751266304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lechia Dzierzoniow - LKS Blyskawica Gac",
-        "time": "20:00",
-        "id": "270678480886304768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "General Caballero Reserve - 2 de Mayo Reserves",
-        "time": "20:00",
-        "id": "270786560431099904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lillestrom SK - Fredrikstad FK",
-        "time": "20:00",
-        "id": "270635422890201088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Super Nova - FK Jelgava",
-        "time": "20:00",
-        "id": "270587116761780224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Dordrecht - Willem II Tilburg",
-        "time": "19:45",
-        "id": "270580375014739968"
     }
 ]
