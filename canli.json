@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kiryat Gat SC (W) - Maccabi Kishronot Hadera (W)",
+        "time": "18:40",
+        "id": "270762212814098432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Excursionistas Reserves - Flandria Reserves",
+        "time": "18:30",
+        "id": "270786483578867712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Hanacka Slavia Kromeriz - FC Slovan Rosice",
+        "time": "18:30",
+        "id": "270592530122412032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Atlanta Reserves - Quilmes Reserves",
         "time": "18:00",
         "id": "270788635063881728"
@@ -9,16 +30,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Almirante Brown Reserves - Gimnasia Mendoza Reserves",
+        "name": "Ferrocarril Midland Reserves - Sportivo Italiano Reserves",
         "time": "18:00",
-        "id": "270797369845616640"
+        "id": "270795963285770240"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ferrocarril Midland Reserves - Sportivo Italiano Reserves",
+        "name": "Almirante Brown Reserves - Gimnasia Mendoza Reserves",
         "time": "18:00",
-        "id": "270795963285770240"
+        "id": "270797369845616640"
     },
     {
         "tur": "live",
@@ -72,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dibba Al Hisn U23 - Shabab Al Ahli Dubai U23",
-        "time": "17:10",
-        "id": "270751117550424064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Bataeh U23 - Al Urooba U23",
-        "time": "17:10",
-        "id": "270727884362092544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CA San Telmo Reserves - Agropecuario Reserves",
         "time": "17:00",
         "id": "270796090221137920"
@@ -96,12 +103,5 @@
         "name": "Acassuso Reserves - UAI Urquiza Reserves",
         "time": "17:00",
         "id": "270784088700489728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HNK Gorica U19 - HNK Rijeka U19",
-        "time": "17:00",
-        "id": "270739563049259008"
     }
 ]
