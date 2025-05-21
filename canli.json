@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Trem DC - Independencia",
+        "time": "02:00",
+        "id": "270605784626368512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Long Island Rough Riders - Manhattan SC",
+        "time": "02:00",
+        "id": "270785489675620352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "EC Bahia - Paysandu",
         "time": "01:30",
         "id": "269073439987470336"
@@ -89,19 +103,5 @@
         "name": "Real Tomayapo - Always Ready",
         "time": "01:00",
         "id": "270784406501855232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bangu RJ - Sao Goncalo",
-        "time": "01:00",
-        "id": "270775259357122560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Petropolis Goncalense - Olaria AC",
-        "time": "01:00",
-        "id": "270775357877129216"
     }
 ]
