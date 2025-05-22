@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AS Fortuna - Yong Sports Academy",
+        "time": "17:30",
+        "id": "270588810782445568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Pilar Reserves - Argentino Quilmes Reserves",
         "time": "17:00",
         "id": "270733336128917504"
@@ -19,6 +26,13 @@
         "name": "Talleres Remedios Reserves - Los Andes Reserves",
         "time": "17:00",
         "id": "270838455276277760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Lugano Reserves - Victoriano Arenas Reserves",
+        "time": "17:00",
+        "id": "270850192093351936"
     },
     {
         "tur": "live",
@@ -65,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Qaradag Lokbatan FK - FK Gabala",
-        "time": "16:00",
-        "id": "270930728138706944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Energetik Mingechevir - Karvan Yevlakh",
         "time": "16:00",
         "id": "270930553603231744"
@@ -93,15 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Danubio Reserves - Nacional de Montevideo Reserves",
-        "time": "15:30",
-        "id": "270835691837067264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mighty Tigers - Chitipa United",
-        "time": "15:30",
-        "id": "270797265799614464"
+        "name": "Police Fc (Rwanda) - AS Kigali",
+        "time": "16:00",
+        "id": "270754034990845952"
     }
 ]
