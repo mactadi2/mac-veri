@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cumbaya FC - Guayaquil City",
+        "time": "23:30",
+        "id": "270605793023365120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gualaceo SC - Vinotinto Ecuador",
+        "time": "23:30",
+        "id": "270605792947867648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sport Recife PE (W) - EC Bahia BA (W)",
         "time": "23:00",
         "id": "270690227781242880"
@@ -44,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kr Reykjavik - Smari (W)",
+        "time": "22:15",
+        "id": "270848069126459392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Twente - NEC Nijmegen",
         "time": "22:00",
         "id": "270597193998667776"
@@ -75,33 +96,5 @@
         "name": "Sierra Leone (W) - Gambia (W)",
         "time": "22:00",
         "id": "270682949830184960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Iteno - Atlantida SC",
-        "time": "21:45",
-        "id": "270828264225902592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Heidenheim 1846 - SV Elversberg",
-        "time": "21:30",
-        "id": "270637333571833856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yverdon-Sports - FC Zurich",
-        "time": "21:30",
-        "id": "270321557585399808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Borac Banjaluka - HSK Zrinjski Mostar",
-        "time": "21:30",
-        "id": "270938371003650048"
     }
 ]
