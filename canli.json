@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Academia de Balompie Boliviano - GV Club Deportivo San Jose de Oruro",
+        "time": "00:30",
+        "id": "270837481345257472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Humaita U20 - Andira U20",
         "time": "00:00",
         "id": "270949239506472960"
@@ -40,12 +47,5 @@
         "name": "Universitario Beni - 3 de Febrero FC",
         "time": "23:00",
         "id": "270920650683715584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Twente - NEC Nijmegen",
-        "time": "22:00",
-        "id": "270597193998667776"
     }
 ]
