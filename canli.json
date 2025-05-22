@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bombarderos de Tecamac FC - Heroes de Zaci",
+        "time": "01:00",
+        "id": "270927264402771968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Carabobo FC - Deportivo Tachira FC",
+        "time": "01:00",
+        "id": "270605802450063360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vila Nova GO - Cruzeiro MG",
+        "time": "01:00",
+        "id": "269164084974456832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maracana EC - SC Internacional RS",
+        "time": "01:00",
+        "id": "269164085463093248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Cordoba Reserves - Independiente Rivadavia Reserves",
+        "time": "01:00",
+        "id": "270766809360240640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sao Carlos FC U23 - Flamengo SP U23",
+        "time": "01:00",
+        "id": "270843232068440064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Academia de Balompie Boliviano - GV Club Deportivo San Jose de Oruro",
         "time": "00:30",
         "id": "270837481345257472"
@@ -26,12 +68,5 @@
         "name": "Gualaceo SC - Vinotinto Ecuador",
         "time": "23:30",
         "id": "270605792947867648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sport Recife PE (W) - EC Bahia BA (W)",
-        "time": "23:00",
-        "id": "270690227781242880"
     }
 ]
