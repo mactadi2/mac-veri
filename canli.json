@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kairat Zhastar - FC Shakhter Karagandy",
+        "time": "14:30",
+        "id": "270852388019113984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ceske Budejovice U19 - FC Slovacko U19",
         "time": "14:00",
         "id": "270746479374766080"
@@ -23,13 +30,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Suwon Wfc - Jeonbuk Hwacheon  KSPO (W)",
-        "time": "13:00",
-        "id": "270795077507485696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Seoul City Wfc - Sejong Sportstoto (W)",
         "time": "13:00",
         "id": "270795091913871360"
@@ -37,8 +37,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bonnyrigg White Eagles U20 - Inter Lions U20",
-        "time": "12:30",
-        "id": "270818715318226944"
+        "name": "Suwon Wfc - Jeonbuk Hwacheon  KSPO (W)",
+        "time": "13:00",
+        "id": "270795077507485696"
     }
 ]
