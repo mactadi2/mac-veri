@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Humaita U20 - Andira U20",
+        "time": "00:00",
+        "id": "270949239506472960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cumbaya FC - Guayaquil City",
         "time": "23:30",
         "id": "270605793023365120"
@@ -37,57 +44,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Arborg - Ellidi",
-        "time": "22:15",
-        "id": "270786925718278144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HK Kopavogur (W) - Afturelding\/Fram (W)",
-        "time": "22:15",
-        "id": "270787168684871680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fylkir Reykjavik (W) - Haukar Hafnafjordur (W)",
-        "time": "22:15",
-        "id": "270787168757223424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kr Reykjavik - Smari (W)",
-        "time": "22:15",
-        "id": "270848069126459392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Twente - NEC Nijmegen",
         "time": "22:00",
         "id": "270597193998667776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palmeiras (W) - Cruzeiro MG (W)",
-        "time": "22:00",
-        "id": "270690227903926272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Senegal (W) - Guinea (W)",
-        "time": "22:00",
-        "id": "270680652379197440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sierra Leone (W) - Gambia (W)",
-        "time": "22:00",
-        "id": "270682949830184960"
     }
 ]
