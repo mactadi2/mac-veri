@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Heidenheim 1846 - SV Elversberg",
+        "time": "21:30",
+        "id": "270637333571833856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Grasshopper Club Zurich - FC St. Gallen",
+        "time": "21:30",
+        "id": "270320789365067776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yverdon-Sports - FC Zurich",
+        "time": "21:30",
+        "id": "270321557585399808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Winterthur - FC Sion Sitten",
+        "time": "21:30",
+        "id": "270320830780674048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Ahli Jeddah - Al-Ettifaq Dammam",
         "time": "21:00",
         "id": "270320174481149952"
@@ -9,16 +37,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Canuelas FC Reserves - General Lamadrid Reserves",
+        "name": "Temperley Reserves - Almagro Reserves",
         "time": "21:00",
-        "id": "270865764563685376"
+        "id": "270838542149750784"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Temperley Reserves - Almagro Reserves",
+        "name": "Canuelas FC Reserves - General Lamadrid Reserves",
         "time": "21:00",
-        "id": "270838542149750784"
+        "id": "270865764563685376"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "B93 Kopenhagen - FC Roskilde",
         "time": "20:00",
         "id": "270315413081034752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hobro - Koge",
-        "time": "20:00",
-        "id": "270315208883441664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kalmar FF - Umea FC",
-        "time": "20:00",
-        "id": "270315095018573824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Varbergs BoIS FC - Landskrona Bois",
-        "time": "20:00",
-        "id": "270315095091974144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AZ Alkmaar - SC Heerenveen",
-        "time": "19:45",
-        "id": "270597118277849088"
     }
 ]
