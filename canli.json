@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al Khaleej Khor Fakkan - Al Sharjah SCC",
+        "time": "18:40",
+        "id": "270765369025761280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SavU (MP II) - Edustus",
+        "time": "18:30",
+        "id": "270899509699153920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Levadiakos - Volos NFC",
         "time": "18:00",
         "id": "270579372491149312"
@@ -51,6 +65,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "JS Kabylie U21 - ES Setif U21",
+        "time": "18:00",
+        "id": "270605787363151872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BKMA Yerevan - Alashkert",
+        "time": "18:00",
+        "id": "270605797981032448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Pilar Reserves - Argentino Quilmes Reserves",
         "time": "17:00",
         "id": "270733336128917504"
@@ -75,33 +103,5 @@
         "name": "CA Lugano Reserves - Victoriano Arenas Reserves",
         "time": "17:00",
         "id": "270850192093351936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paradou AC U21 - NC Magra U21",
-        "time": "16:30",
-        "id": "270605787426066432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bnei Yehuda Tel Aviv U19 - Bnei Sakhnin FC U19",
-        "time": "16:30",
-        "id": "270792931906031616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Rishon Lezion U19 - Hapoel Kfar Saba U19",
-        "time": "16:30",
-        "id": "270795353034461184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Beer Sheva U19 - Hapoel Petach Tikva U19",
-        "time": "16:30",
-        "id": "270802423770124288"
     }
 ]
