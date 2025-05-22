@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AZ Alkmaar - SC Heerenveen",
+        "time": "19:45",
+        "id": "270597118277849088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Damac FC - Al Fateh",
         "time": "19:15",
         "id": "270312581483335680"
@@ -44,13 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Al Khalidiyah - A'Ali FC",
-        "time": "19:00",
-        "id": "270657293884985344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Al Khaleej Khor Fakkan - Al Sharjah SCC",
         "time": "18:40",
         "id": "270765369025761280"
@@ -68,6 +68,13 @@
         "name": "Panetolikos FC - Panserraikos",
         "time": "18:00",
         "id": "270579372802576384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Estudiantes Caseros Reserves - Arsenal De Sarandi Reserves",
+        "time": "18:00",
+        "id": "270697119354064896"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "CS Constantine U21 - CR Belouizdad U21",
         "time": "18:00",
         "id": "270605787226836992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JS Kabylie U21 - ES Setif U21",
-        "time": "18:00",
-        "id": "270605787363151872"
     }
 ]
