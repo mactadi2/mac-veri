@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sport Recife PE (W) - EC Bahia BA (W)",
+        "time": "23:00",
+        "id": "270690227781242880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hafnir - Kria",
+        "time": "23:00",
+        "id": "270786979759788032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universitario Beni - 3 de Febrero FC",
+        "time": "23:00",
+        "id": "270920650683715584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arborg - Ellidi",
+        "time": "22:15",
+        "id": "270786925718278144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HK Kopavogur (W) - Afturelding\/Fram (W)",
+        "time": "22:15",
+        "id": "270787168684871680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fylkir Reykjavik (W) - Haukar Hafnafjordur (W)",
+        "time": "22:15",
+        "id": "270787168757223424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Twente - NEC Nijmegen",
         "time": "22:00",
         "id": "270597193998667776"
@@ -16,16 +58,37 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Heidenheim 1846 - SV Elversberg",
-        "time": "21:30",
-        "id": "270637333571833856"
+        "name": "Palmeiras (W) - Cruzeiro MG (W)",
+        "time": "22:00",
+        "id": "270690227903926272"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Grasshopper Club Zurich - FC St. Gallen",
+        "name": "Senegal (W) - Guinea (W)",
+        "time": "22:00",
+        "id": "270680652379197440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sierra Leone (W) - Gambia (W)",
+        "time": "22:00",
+        "id": "270682949830184960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Iteno - Atlantida SC",
+        "time": "21:45",
+        "id": "270828264225902592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Heidenheim 1846 - SV Elversberg",
         "time": "21:30",
-        "id": "270320789365067776"
+        "id": "270637333571833856"
     },
     {
         "tur": "live",
@@ -37,71 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Winterthur - FC Sion Sitten",
+        "name": "FK Borac Banjaluka - HSK Zrinjski Mostar",
         "time": "21:30",
-        "id": "270320830780674048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manchester City U21 - Southampton U21",
-        "time": "21:15",
-        "id": "270873954360627200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Ahli Jeddah - Al-Ettifaq Dammam",
-        "time": "21:00",
-        "id": "270320174481149952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Temperley Reserves - Almagro Reserves",
-        "time": "21:00",
-        "id": "270838542149750784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Canuelas FC Reserves - General Lamadrid Reserves",
-        "time": "21:00",
-        "id": "270865764563685376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fluminense RJ U20 - Gremio RS U20",
-        "time": "21:00",
-        "id": "270682070982987776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lanus Reserves - San Martin de San Juan Reserves",
-        "time": "21:00",
-        "id": "270675169437159424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Aldosivi Reserves - Banfield Reserves",
-        "time": "21:00",
-        "id": "270675248711602176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Instituto AC Cordoba Reserves - CA Sarmiento Reserves",
-        "time": "21:00",
-        "id": "270675319594291200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ca Platense Reserves - Ca Talleres De Cordoba Reserves",
-        "time": "21:00",
-        "id": "270675248825896960"
+        "id": "270938371003650048"
     }
 ]
