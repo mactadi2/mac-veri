@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Paradou AC U21 - NC Magra U21",
+        "time": "16:30",
+        "id": "270605787426066432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bnei Yehuda Tel Aviv U19 - Bnei Sakhnin FC U19",
+        "time": "16:30",
+        "id": "270792931906031616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Raanana U19 - Beitar Ness Toubruk U19",
+        "time": "16:30",
+        "id": "270800429000036352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Beer Sheva U19 - Hapoel Petach Tikva U19",
+        "time": "16:30",
+        "id": "270802423770124288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Rishon Lezion U19 - Hapoel Kfar Saba U19",
+        "time": "16:30",
+        "id": "270795353034461184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Hadera U19 - Hapoel Haifa U19",
+        "time": "16:30",
+        "id": "270795396605939712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Qaradag Lokbatan FK - FK Gabala",
         "time": "16:00",
         "id": "270930728138706944"
@@ -44,34 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Betlemi Keda - FC Shturm Sartichala",
-        "time": "16:00",
-        "id": "270754035073683456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Borjomi - Bakhmaro",
-        "time": "16:00",
-        "id": "270851361999032320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Mabarrah - Salam Zgharta",
-        "time": "16:00",
-        "id": "270812560330199040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zimamoto Sc - Inter Zanzibar FC",
-        "time": "16:00",
-        "id": "270934358232272896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Danubio Reserves - Nacional de Montevideo Reserves",
         "time": "15:30",
         "id": "270835691837067264"
@@ -89,19 +103,5 @@
         "name": "Deportivo Muniz Reserves - JJ Urquiza Reserves",
         "time": "15:00",
         "id": "270921646464962560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Family - FK Kaspyi Aktau",
-        "time": "15:00",
-        "id": "270852382173302784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kairat Zhastar - FC Shakhter Karagandy",
-        "time": "14:30",
-        "id": "270852388019113984"
     }
 ]
