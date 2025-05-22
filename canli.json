@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Twente - NEC Nijmegen",
+        "time": "22:00",
+        "id": "270597193998667776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Livingston - Ross County",
+        "time": "22:00",
+        "id": "270605803418947584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Heidenheim 1846 - SV Elversberg",
         "time": "21:30",
         "id": "270637333571833856"
@@ -30,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Manchester City U21 - Southampton U21",
+        "time": "21:15",
+        "id": "270873954360627200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Ahli Jeddah - Al-Ettifaq Dammam",
         "time": "21:00",
         "id": "270320174481149952"
@@ -51,57 +72,36 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kallithea - Lamia 1964",
-        "time": "20:00",
-        "id": "270579372554063872"
+        "name": "Fluminense RJ U20 - Gremio RS U20",
+        "time": "21:00",
+        "id": "270682070982987776"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hammarby IF - Mjallby AIF",
-        "time": "20:00",
-        "id": "270315254775418880"
+        "name": "Lanus Reserves - San Martin de San Juan Reserves",
+        "time": "21:00",
+        "id": "270675169437159424"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Malmo FF - AIK",
-        "time": "20:00",
-        "id": "270315824620900352"
+        "name": "CA Aldosivi Reserves - Banfield Reserves",
+        "time": "21:00",
+        "id": "270675248711602176"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Argentino Merlo Reserves - San Martin Burzaco Reserves",
-        "time": "20:00",
-        "id": "270863477407617024"
+        "name": "Instituto AC Cordoba Reserves - CA Sarmiento Reserves",
+        "time": "21:00",
+        "id": "270675319594291200"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA San Miguel Reserves - Tristan Suarez Reserves",
-        "time": "20:00",
-        "id": "270838443862528000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Ituzaingo Reserves - Club Sportivo Barracas Reserves",
-        "time": "20:00",
-        "id": "270842593114460160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hillerod - Vendsyssel FF",
-        "time": "20:00",
-        "id": "270315824708980736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "B93 Kopenhagen - FC Roskilde",
-        "time": "20:00",
-        "id": "270315413081034752"
+        "name": "Hallein - ASV Salzburg",
+        "time": "20:15",
+        "id": "270818512865464320"
     }
 ]
