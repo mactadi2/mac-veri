@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Palmeiras - Ceara SC CE",
+        "time": "01:30",
+        "id": "269164085681197056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bombarderos de Tecamac FC - Heroes de Zaci",
         "time": "01:00",
         "id": "270927264402771968"
@@ -54,19 +61,5 @@
         "name": "Humaita U20 - Andira U20",
         "time": "00:00",
         "id": "270949239506472960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cumbaya FC - Guayaquil City",
-        "time": "23:30",
-        "id": "270605793023365120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gualaceo SC - Vinotinto Ecuador",
-        "time": "23:30",
-        "id": "270605792947867648"
     }
 ]
