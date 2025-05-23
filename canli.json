@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Pereira - La Equidad",
+        "time": "02:30",
+        "id": "270700246789656576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Nacional de Montevideo - CA Progreso Montevideo",
+        "time": "02:30",
+        "id": "270797405267562496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charlotte Eagles - Charlotte Independence 2",
+        "time": "02:30",
+        "id": "270931952137277440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Western Mass Pioneers - Seacoast United Phantoms",
+        "time": "02:30",
+        "id": "270698530493042688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "West Chester United - Delaware FC",
+        "time": "02:30",
+        "id": "271064839479234560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Almirante Brown de Lules - Estudiantes Rio Cuarto",
         "time": "02:00",
         "id": "270687264567332864"
@@ -37,34 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SJEB FC (W) - PHL Ukrainian Nationals (W)",
-        "time": "02:00",
-        "id": "270959303427493888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Michigan Rangers - FC Pride",
-        "time": "02:00",
-        "id": "270959367115902976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Varginha EC - Mamore",
-        "time": "01:30",
-        "id": "270931927935094784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ipatinga - Valeriodoce EC",
-        "time": "01:30",
-        "id": "270930814513057792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Deportivo Recoleta (W) - Cerro Porteno (W)",
         "time": "01:15",
         "id": "271017016936239104"
@@ -96,12 +103,5 @@
         "name": "Encarnacion FC - Guarani de Fram",
         "time": "01:00",
         "id": "270758109900836864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente Del Valle - Mushuc Runa",
-        "time": "00:30",
-        "id": "270581605872046080"
     }
 ]
