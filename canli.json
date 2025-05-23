@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Magallanes (W) - San Luis Quillota (W)",
+        "time": "17:30",
+        "id": "271007232403050496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Nasr Taaden - Luxor SC",
         "time": "17:00",
         "id": "270988657136111616"
@@ -86,9 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Ingulets Petrove - FC Vorskla Poltava",
-        "time": "15:30",
-        "id": "270589942941487104"
+        "name": "Scotland FC Mabvuku - Chicken Inn",
+        "time": "16:00",
+        "id": "270926981760159744"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "FC Obolon Kiev - FC Levy Bereg Kiev",
         "time": "15:30",
         "id": "270590582820311040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lekie Filles FC (W) - As Awa Ff (W)",
-        "time": "15:30",
-        "id": "271004030812164096"
     }
 ]
