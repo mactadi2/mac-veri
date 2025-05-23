@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Real Pilar - Sacachispas",
+        "time": "23:00",
+        "id": "270609446814748672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KR Reykjavik - Fram Reykjavik",
         "time": "22:30",
         "id": "270605361531195392"
@@ -12,6 +19,13 @@
         "name": "Real Betis - Valencia CF",
         "time": "22:00",
         "id": "270610611773247488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MC Alger - USM Alger",
+        "time": "22:00",
+        "id": "270605786590351360"
     },
     {
         "tur": "live",
@@ -44,6 +58,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Galway United - Cork City FC",
+        "time": "21:45",
+        "id": "270413877323370496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shelbourne FC - Sligo Rovers FC",
+        "time": "21:45",
+        "id": "270605790512025600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Drogheda United - Bohemian FC Dublin",
+        "time": "21:45",
+        "id": "270605790273998848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dundalk FC - Kerry FC",
+        "time": "21:45",
+        "id": "270413877140918272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bray Wanderers AFC - Wexford FC",
+        "time": "21:45",
+        "id": "270605810302849024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "1. FC Saarbrucken - TSV Eintracht Braunschweig",
         "time": "21:30",
         "id": "270728903608373248"
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Aarau - Stade Nyonnais",
-        "time": "21:15",
-        "id": "270415718468685824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Thun - Etoile Carouge FC",
-        "time": "21:15",
-        "id": "270415718718246912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Neuchatel Xamax FC - FC Wil 1900",
-        "time": "21:15",
-        "id": "270415718560960512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Stade Lausanne Ouchy - FC Vaduz",
-        "time": "21:15",
-        "id": "270415718399479808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Schaffhausen - AC Bellinzona",
-        "time": "21:15",
-        "id": "270415718639603712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paksi FC - Kecskemeti TE",
-        "time": "21:15",
-        "id": "270605796057944064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Telstar - FC Den Bosch",
         "time": "21:00",
         "id": "270650246140399616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Hazm - Al-Tai",
-        "time": "21:00",
-        "id": "270936664564699136"
     }
 ]
