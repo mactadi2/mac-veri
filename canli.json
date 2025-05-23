@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bandirmaspor - Boluspor",
+        "time": "16:00",
+        "id": "270605788005928960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gardabani - Margveti 2006",
+        "time": "16:00",
+        "id": "270974370023870464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Akhaa Al Ahli - Irshad Shahim",
+        "time": "16:00",
+        "id": "270927771490979840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gala - CD Lun Lok",
+        "time": "16:00",
+        "id": "270852048606597120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Ingulets Petrove - FC Vorskla Poltava",
         "time": "15:30",
         "id": "270589942941487104"
@@ -75,33 +103,5 @@
         "name": "NK Domzale U19 - NK Brinje Grosuplje U19",
         "time": "15:00",
         "id": "271020842000977920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cabrayil - Zaqatala",
-        "time": "14:00",
-        "id": "271017347113947136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Baku Sporting - Moik Baku",
-        "time": "14:00",
-        "id": "271017347423277056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Perth - Bayswater City",
-        "time": "14:00",
-        "id": "270605806657998848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "West Torrens Birkalla - Croydon Kings",
-        "time": "13:45",
-        "id": "270605800312016896"
     }
 ]
