@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Alianza Universidad - FBC Melgar Arequipa",
+        "time": "23:30",
+        "id": "270366374626463744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Pilar - Sacachispas",
         "time": "23:00",
         "id": "270609446814748672"
@@ -9,9 +16,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "New York City FC II - Chicago Fire FC II",
+        "time": "23:00",
+        "id": "270605785641390080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Independiente Santa Fe (W) - Junior Barranquilla (W)",
+        "time": "23:00",
+        "id": "270959361243877376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al-Merreikh Juba - AS Pompier",
+        "time": "22:50",
+        "id": "271046650327339008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KR Reykjavik - Fram Reykjavik",
         "time": "22:30",
         "id": "270605361531195392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "12 de Junio de Villa Hayes - Deportivo Capiata",
+        "time": "22:30",
+        "id": "270777715072831488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Keflavik - Leiknir Reykjavik",
+        "time": "22:15",
+        "id": "270605802288582656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IR Reykjavik - UMF Selfoss",
+        "time": "22:15",
+        "id": "270766994546102272"
     },
     {
         "tur": "live",
@@ -44,34 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Derry City - Shamrock Rovers FC",
-        "time": "21:45",
-        "id": "270605790350544896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St Patrick's Athletic - Waterford FC",
-        "time": "21:45",
-        "id": "270605790423945216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Galway United - Cork City FC",
-        "time": "21:45",
-        "id": "270413877323370496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shelbourne FC - Sligo Rovers FC",
-        "time": "21:45",
-        "id": "270605790512025600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Drogheda United - Bohemian FC Dublin",
         "time": "21:45",
         "id": "270605790273998848"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dundalk FC - Kerry FC",
+        "name": "Finn Harps FC - University College Dublin FC",
         "time": "21:45",
-        "id": "270413877140918272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bray Wanderers AFC - Wexford FC",
-        "time": "21:45",
-        "id": "270605810302849024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "1. FC Saarbrucken - TSV Eintracht Braunschweig",
-        "time": "21:30",
-        "id": "270728903608373248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Telstar - FC Den Bosch",
-        "time": "21:00",
-        "id": "270650246140399616"
+        "id": "270502589149351936"
     }
 ]
