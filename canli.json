@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Port Melbourne Sharks - Avondale Fc",
+        "time": "13:15",
+        "id": "270605802867396608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Oakleigh Cannons - Green Gully Cavaliers SC",
+        "time": "13:15",
+        "id": "270605803085500416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Blacktown Spartans - Rydalmere Lions",
+        "time": "13:15",
+        "id": "270805534295330816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Glenorchy Knights - Clarence Zebras",
+        "time": "13:15",
+        "id": "270605805264441344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hoang Anh Gia Lai - Da Nang",
+        "time": "13:00",
+        "id": "270605810096279552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dinaz Vyshgorod - Prykarpattya Ivano Frankivsk",
+        "time": "13:00",
+        "id": "270935385278910464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IMT Novi Beograd U19 - Graficar Beograd U19",
+        "time": "13:00",
+        "id": "271013508072738816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Saraswoti Youth Club - Shree Bhagwati Club",
+        "time": "12:45",
+        "id": "271013202837508096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Melbourne Knights - South Melbourne",
         "time": "12:30",
         "id": "270605802786656256"
@@ -37,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Afak Relizane (W) - CS Constantine (W)",
-        "time": "12:00",
-        "id": "271011494781652992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mindil Aces - Casuarina FC",
-        "time": "12:00",
-        "id": "270801387078684672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Salisbury Inter (W) - Adelaide City (W)",
         "time": "11:45",
         "id": "270883770441273344"
@@ -58,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Adelaide Comets Reserves (W) - West Torrens Birkalla Reserves (W)",
-        "time": "11:45",
-        "id": "270889418139766784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Persik Kediri - Pusamania Borneo",
         "time": "11:30",
         "id": "270569327404650496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Broadbeach United U23 - Logan Lightning U23",
-        "time": "11:30",
-        "id": "270850322500554752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Port Melbourne U23 - Avondale U23",
-        "time": "11:15",
-        "id": "270906347350003712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Preston Lions (W) - Brunswick Juventus FC (W)",
-        "time": "11:15",
-        "id": "270877556930121728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bentleigh Greens SC (W) - Alamein FC (W)",
-        "time": "11:15",
-        "id": "270967085596807168"
     }
 ]
