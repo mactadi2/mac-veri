@@ -1,79 +1,100 @@
 [
     {
         "type": "futbol",
-        "name": "River Plate - CA Platense",
-        "day": "21",
-        "time": "02:30",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Wuhan Jiangda - Ho Chi Minh",
-        "day": "21",
-        "time": "11:00",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Incheon - Melbourne City",
-        "day": "21",
-        "time": "15:00",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Al Nassr - Al Khaleej",
-        "day": "21",
-        "time": "19:10",
+        "name": "Bandırmaspor - Boluspor",
+        "day": "23",
+        "time": "16:00",
         "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Metz - Reims",
-        "day": "21",
-        "time": "21:00",
-        "channel": "Bein Sports 4"
+        "name": "Saarbrucken FC - Braunschweig",
+        "day": "23",
+        "time": "21:30",
+        "channel": "Tivibu Spor 1"
     },
     {
         "type": "futbol",
-        "name": "Tottenham - Manchester Utd",
-        "day": "21",
+        "name": "Como - Inter",
+        "day": "23",
+        "time": "21:45",
+        "channel": "S Sport 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Napoli - Cagliari",
+        "day": "23",
+        "time": "21:45",
+        "channel": "S Sport 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Real Betis - Valencia",
+        "day": "23",
         "time": "22:00",
-        "channel": "TRT 1"
+        "channel": "Tivibu Spor 2"
     },
     {
         "type": "basketbol",
         "name": "OKC Thunder - Minnesota TW",
-        "day": "21",
+        "day": "23",
         "time": "03:30",
         "channel": "S Sport"
     },
     {
+        "type": "basketbol",
+        "name": "Fenerbahçe Beko - Panathinaikos",
+        "day": "23",
+        "time": "18:00",
+        "channel": "S Sport"
+    },
+    {
+        "type": "basketbol",
+        "name": "Olympiakos - Monaco",
+        "day": "23",
+        "time": "21:00",
+        "channel": "S Sport"
+    },
+    {
         "type": "tenis",
-        "name": "A.Li - H.Baptiste",
-        "day": "21",
-        "time": "13:00",
+        "name": "A.Tomljanovic - M.Joint",
+        "day": "23",
+        "time": "15:00",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "tenis",
+        "name": "E.Rybakina - B.Haddad Maia",
+        "day": "23",
+        "time": "15:30",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "T.Pieri - A.Tomljanovic",
-        "day": "21",
-        "time": "14:30",
-        "channel": "Bein Sports Max 1"
+        "name": "J.Cristian - C.Osorio",
+        "day": "23",
+        "time": "16:30",
+        "channel": "Bein Sports Max 2"
     },
     {
         "type": "tenis",
-        "name": "K.Rakhimova - C.Osorio",
-        "day": "21",
-        "time": "16:00",
-        "channel": "Bein Sports Max 1"
+        "name": "T.M.Etcheverry - F.Cobolli",
+        "day": "23",
+        "time": "16:30",
+        "channel": "tabii Spor"
     },
     {
         "type": "tenis",
-        "name": "A.Sevastova - Zeynep Sönmez",
-        "day": "21",
+        "name": "D.Collins - L.Samsonova",
+        "day": "23",
         "time": "17:30",
         "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "F.Auger Aliassime - A.Rublev",
+        "day": "23",
+        "time": "18:30",
+        "channel": "tabii Spor"
     }
 ]
