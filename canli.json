@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KR Reykjavik - Fram Reykjavik",
+        "time": "22:30",
+        "id": "270605361531195392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Betis - Valencia CF",
+        "time": "22:00",
+        "id": "270610611773247488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Napoli - Cagliari",
         "time": "21:45",
         "id": "270610457124016128"
@@ -12,6 +26,20 @@
         "name": "Calcio Como - İnter",
         "time": "21:45",
         "id": "270610457032790016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Derry City - Shamrock Rovers FC",
+        "time": "21:45",
+        "id": "270605790350544896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "St Patrick's Athletic - Waterford FC",
+        "time": "21:45",
+        "id": "270605790423945216"
     },
     {
         "tur": "live",
@@ -58,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Paksi FC - Kecskemeti TE",
+        "time": "21:15",
+        "id": "270605796057944064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Telstar - FC Den Bosch",
         "time": "21:00",
         "id": "270650246140399616"
@@ -68,40 +103,5 @@
         "name": "Al Hazm - Al-Tai",
         "time": "21:00",
         "id": "270936664564699136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Berazategui Reserves - Central Ballester Reserves ",
-        "time": "20:00",
-        "id": "271040243419975680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Fredericia - Kolding IF",
-        "time": "20:00",
-        "id": "270405869585436672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "OB Odense - Esbjerg F.B.",
-        "time": "20:00",
-        "id": "270406559298883584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hvidovre IF - AC Horsens",
-        "time": "20:00",
-        "id": "270405769829158912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Adalah - Al-Bukayriyah FC",
-        "time": "19:00",
-        "id": "270936664630759424"
     }
 ]
