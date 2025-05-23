@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rotor Volgograd II - Khimki Ii",
+        "time": "17:00",
+        "id": "270998573464817664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NK Radnik Sesvete - Vukovar 1991",
         "time": "16:50",
         "id": "270605797644439552"
@@ -96,12 +103,5 @@
         "name": "Scotland FC Mabvuku - Chicken Inn",
         "time": "16:00",
         "id": "270926981760159744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Obolon Kiev - FC Levy Bereg Kiev",
-        "time": "15:30",
-        "id": "270590582820311040"
     }
 ]
