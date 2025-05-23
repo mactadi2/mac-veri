@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al-Nasr - Al Ain",
+        "time": "18:45",
+        "id": "270856040794427392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Radomlje - Primorje Ajdovscina",
         "time": "18:30",
         "id": "270493168254980096"
@@ -19,6 +26,13 @@
         "name": "OKS Swit Skolwin - Resovia Rzeszow",
         "time": "18:30",
         "id": "270605795232714752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Spartak Velka Bites - SFK Vrchovina",
+        "time": "18:30",
+        "id": "270856041642725376"
     },
     {
         "tur": "live",
@@ -47,13 +61,6 @@
         "name": "TiPS - RiPS Riihimaki",
         "time": "18:30",
         "id": "270874024722173952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FCJ Blackbird - HoDy",
-        "time": "18:30",
-        "id": "270874102715256832"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "El Madina El Monowara - FC Masar",
         "time": "17:00",
         "id": "270988657052225536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Radnik Sesvete - Vukovar 1991",
-        "time": "16:50",
-        "id": "270605797644439552"
     }
 ]
