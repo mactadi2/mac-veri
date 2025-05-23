@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Berazategui Reserves - Central Ballester Reserves ",
+        "time": "20:00",
+        "id": "271040243419975680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Fredericia - Kolding IF",
+        "time": "20:00",
+        "id": "270405869585436672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "OB Odense - Esbjerg F.B.",
+        "time": "20:00",
+        "id": "270406559298883584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hvidovre IF - AC Horsens",
+        "time": "20:00",
+        "id": "270405769829158912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mamry Gizycko - MKS Rominta Goldap",
+        "time": "20:00",
+        "id": "270859818462482432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hutnik Warsaw - MKS Przasnysz",
         "time": "19:30",
         "id": "270859817147568128"
@@ -9,44 +44,44 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Banga Gargzdai - FK Panevezys",
+        "name": "LZS Sparta Grebocice - GKS Prochowiczanka Prochowice",
         "time": "19:30",
-        "id": "270605803925409792"
+        "id": "270946530241941504"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Zalgiris Kaunas - Siauliai FA",
-        "time": "19:30",
-        "id": "270605803852009472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GKS Jastrzebie - Zaglebie Lubin II",
+        "name": "VfB Borussia Neunkirchen - Borussia Monchengladbach",
         "time": "19:00",
-        "id": "270605795102691328"
+        "id": "270950090846375936"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Pribram - Loko Vltavin",
+        "name": "Fiorentina U20 - Juventus U20",
         "time": "19:00",
-        "id": "270764549296230400"
+        "id": "271011710430744576"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wallidan - Gunjur United",
+        "name": "Al Adalah - Al-Bukayriyah FC",
         "time": "19:00",
-        "id": "270946327163179008"
+        "id": "270936664630759424"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "DAC Dunajska - Podbrezova",
+        "name": "Krypnianka Krypno - Hetman Tykocin",
         "time": "19:00",
-        "id": "270917135021248512"
+        "id": "270947865191387136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stal Lancut - Stal Mielec II",
+        "time": "19:00",
+        "id": "270856041393164288"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Sabayil FK - FK Sumgayit",
         "time": "18:30",
         "id": "270605807733837824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "OKS Swit Skolwin - Resovia Rzeszow",
-        "time": "18:30",
-        "id": "270605795232714752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Toejoen Veikot - SalPa II",
-        "time": "18:30",
-        "id": "270921646556188672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kotkan Tyovaen Palloilijat - FC Haka Valkeakoski",
-        "time": "18:00",
-        "id": "270493233655713792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethiopia Bunna - Ethiopian Medhin",
-        "time": "18:00",
-        "id": "270761316997795840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Radnik Surdulica - Borac Cacak",
-        "time": "18:00",
-        "id": "270853405856108544"
     }
 ]
