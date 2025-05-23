@@ -37,6 +37,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Kalsdorf - Kindberg Murzhofen",
+        "time": "20:00",
+        "id": "270914297081761792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ilzer SV - FC Hohenhaus Tenne Schladming",
+        "time": "20:00",
+        "id": "270914246604361728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TUS Heiligenkreuz - Weinland Gamlitz",
+        "time": "20:00",
+        "id": "270915840888672256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hutnik Warsaw - MKS Przasnysz",
         "time": "19:30",
         "id": "270859817147568128"
@@ -51,9 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VfB Borussia Neunkirchen - Borussia Monchengladbach",
-        "time": "19:00",
-        "id": "270950090846375936"
+        "name": "SAK Klagenfurt - Spittal",
+        "time": "19:30",
+        "id": "270882554517786624"
     },
     {
         "tur": "live",
@@ -72,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Krypnianka Krypno - Hetman Tykocin",
-        "time": "19:00",
-        "id": "270947865191387136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Stal Lancut - Stal Mielec II",
         "time": "19:00",
         "id": "270856041393164288"
@@ -89,19 +103,5 @@
         "name": "Dornbirner SV - Blau Weiss Feldkirch",
         "time": "19:00",
         "id": "270910797530664960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Red Star Penzing - SV Gerasdorf Stammersdorf",
-        "time": "19:00",
-        "id": "270881312287625216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Nasr - Al Ain",
-        "time": "18:45",
-        "id": "270856040794427392"
     }
 ]
