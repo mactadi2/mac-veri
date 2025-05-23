@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Independiente Del Valle - Mushuc Runa",
+        "time": "00:30",
+        "id": "270581605872046080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EC Futgol U20 - Itabirito FC MG U20",
+        "time": "00:30",
+        "id": "270933052174241792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arnett Gardens FC - Montego Bay United",
         "time": "00:00",
         "id": "270762785359663104"
@@ -68,26 +82,5 @@
         "name": "Al-Merreikh Juba - AS Pompier",
         "time": "22:50",
         "id": "271046650327339008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KR Reykjavik - Fram Reykjavik",
-        "time": "22:30",
-        "id": "270605361531195392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "12 de Junio de Villa Hayes - Deportivo Capiata",
-        "time": "22:30",
-        "id": "270777715072831488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Aurora FCF (W) - Jorge Wilstermann (W)",
-        "time": "22:30",
-        "id": "271007356877410304"
     }
 ]
