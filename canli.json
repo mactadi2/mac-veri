@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Basel - FC Luzern",
-        "time": "19:00",
-        "id": "270492418690912256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Lugano - BSC Young Boys Bern",
         "time": "19:00",
         "id": "270492538120572928"
@@ -103,5 +96,12 @@
         "name": "Servette Geneve FC - Lausanne-Sports",
         "time": "19:00",
         "id": "270492723884199936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arsenal (K) - FC Barcelona (W)",
+        "time": "19:00",
+        "id": "268743985297756160"
     }
 ]
