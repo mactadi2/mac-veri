@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Göztepe - Galatasaray SK",
+        "time": "19:00",
+        "id": "270650756150988800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gaziantep FK - Kasimpasa SK",
+        "time": "19:00",
+        "id": "270650756058714112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bologna F.C. - Genoa",
+        "time": "19:00",
+        "id": "270610442367406080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Basel - FC Luzern",
+        "time": "19:00",
+        "id": "270492418690912256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Lugano - BSC Young Boys Bern",
+        "time": "19:00",
+        "id": "270492538120572928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Servette Geneve FC - Lausanne-Sports",
+        "time": "19:00",
+        "id": "270492723884199936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KKS Lech Poznan - Piast Gliwice",
         "time": "18:30",
         "id": "270557265606610944"
@@ -61,47 +103,5 @@
         "name": "Zaglebie Lubin SSA - MKS Cracovia Krakow",
         "time": "18:30",
         "id": "270557265356001280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GAIS - IK Sirius FK",
-        "time": "18:30",
-        "id": "270491562706866176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Madrid - Real Sociedad",
-        "time": "17:15",
-        "id": "270608577385861120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sheffield United FC - Sunderland",
-        "time": "17:01",
-        "id": "270157665973440512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AC Sparta Praha - SK Sigma Olomouc",
-        "time": "17:00",
-        "id": "270579922386423808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Slavia Prague - FC Banik Ostrava",
-        "time": "17:00",
-        "id": "270579921671294976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Viktoria Plzen - FK Jablonec nad Nisou 97",
-        "time": "17:00",
-        "id": "270579922048782336"
     }
 ]
