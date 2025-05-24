@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Philadelphia Union - Inter Miami CF",
+        "time": "02:30",
+        "id": "270581873150922752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Orlando City SC - Portland Timbers",
         "time": "02:30",
         "id": "270581815949004800"
@@ -9,9 +16,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Charlotte - Columbus Crew",
+        "time": "02:30",
+        "id": "270521463002501120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CF Montreal - Los Angeles FC",
+        "time": "02:30",
+        "id": "270581873060745216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Toronto FC - Nashville SC",
         "time": "02:30",
         "id": "270525203376902144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "D.C. United (Washington) - New York Red Bull",
+        "time": "02:30",
+        "id": "270525203281481728"
     },
     {
         "tur": "live",
@@ -51,27 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sando - Police FC",
-        "time": "02:00",
-        "id": "271027304088604672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blooming - Nacional Potosi",
-        "time": "02:00",
-        "id": "270620963632189440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Itabaiana - SER Caxias",
-        "time": "01:30",
-        "id": "270562437080682496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CA Chaco For Ever - Talleres Remedios Escalada",
         "time": "01:00",
         "id": "270652646525898752"
@@ -96,12 +103,5 @@
         "name": "Guarani Asuncion - Sportivo Luqueno",
         "time": "01:00",
         "id": "270596479496884224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Independiente Avellaneda - Atletico Huracan",
-        "time": "00:30",
-        "id": "270756210293215232"
     }
 ]
