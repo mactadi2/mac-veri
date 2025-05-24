@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Auckland FC - Melbourne Victory",
+        "time": "09:00",
+        "id": "270468566168506368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cerezo Osaka - Avispa Fukuoka",
+        "time": "09:00",
+        "id": "270545965657755648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sutherland Sharks - Sydney United",
+        "time": "09:00",
+        "id": "270605801874395136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Northcote City - Moreland City Fc",
+        "time": "09:00",
+        "id": "270825338506973184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Redlands United - Southside Eagles",
+        "time": "09:00",
+        "id": "270803093583695872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Adelaide Croatia Raiders - Adelaide City",
         "time": "08:30",
         "id": "270605800459866112"
@@ -44,30 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "The Cove Fc - Adelaide Cobras",
-        "time": "08:30",
-        "id": "270897943530311680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Manningham United Blues - Eastern Lions",
         "time": "08:15",
         "id": "270825338724028416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melbourne Srbija U23 - Brunswick City U23",
-        "time": "08:15",
-        "id": "270876445011742720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Metro Stars Reserves - Para Hills Knights Reserves",
-        "time": "08:15",
-        "id": "270891022030082048"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Magic United TFA - Capalaba",
         "time": "08:00",
         "id": "270803919079346176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide Blue Eagles - Cumberland United",
-        "time": "07:30",
-        "id": "270897943704375296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kingborough Lions - South Hobart",
-        "time": "07:30",
-        "id": "270605805396561920"
     }
 ]
