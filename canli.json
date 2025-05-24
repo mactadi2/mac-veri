@@ -30,6 +30,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "New Town Eagles - Olympia FC Warriors",
+        "time": "07:30",
+        "id": "270899839970185216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Seoul Jungnang FC - Geoje Citizen FC",
+        "time": "07:00",
+        "id": "270965479229755392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sutherland Sharks U20 - Sydney United 58 U20",
         "time": "06:30",
         "id": "270864177305882624"
@@ -40,6 +54,13 @@
         "name": "Island Bay United - Western Suburbs",
         "time": "06:30",
         "id": "270996344493182976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Playford City Patriots Reserves - Adelaide Comets Reserves",
+        "time": "06:15",
+        "id": "270928279105572864"
     },
     {
         "tur": "live",
@@ -72,36 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SWQ Thunder (W) - Logan Lightning (W)",
+        "time": "06:15",
+        "id": "270969700986523648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Manningham Utd Blues U23 - Eastern Lions U23",
         "time": "06:00",
         "id": "270850575262945280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": " Tauranga City AFC - Manurewa AFC",
-        "time": "06:00",
-        "id": "270989941161463808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide Croatia Raiders Reserves - Adelaide City Reserves",
-        "time": "06:00",
-        "id": "271047564718116864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wellington Phoenix Reservers - Waterside Karori",
-        "time": "06:00",
-        "id": "270995406028148736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Metro United FC Reserves (W) - Flinders United Reserves (W)",
-        "time": "06:00",
-        "id": "270887043400339456"
     }
 ]
