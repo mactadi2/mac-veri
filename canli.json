@@ -16,6 +16,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cerro Porteno - 2 de Mayo",
+        "time": "01:00",
+        "id": "270506063789428736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guarani Asuncion - Sportivo Luqueno",
+        "time": "01:00",
+        "id": "270596479496884224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sao Paulo FC - Mirassol FC",
         "time": "00:30",
         "id": "269937390026625024"
@@ -89,19 +103,5 @@
         "name": "San Diego FC - Los Angeles Galaxy",
         "time": "23:45",
         "id": "270581873273606144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Grau - EM Deportivo Binacional",
-        "time": "23:30",
-        "id": "270366374556209152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Penarol Montevideo - Plaza Colonia",
-        "time": "23:30",
-        "id": "270797693947875328"
     }
 ]
