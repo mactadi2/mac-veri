@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vikingur Reykjavik - IA Akranes",
+        "time": "22:15",
+        "id": "270606801474555904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IF Vestri - Stjarnan",
+        "time": "22:15",
+        "id": "270606801562636288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Alaves - Osasuna",
         "time": "22:00",
         "id": "270608577662685184"
@@ -44,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Envigado - Llaneros FC",
+        "time": "22:00",
+        "id": "270700246921777152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AC Milan - SSD Monza 1912",
         "time": "21:45",
         "id": "270610457435443200"
@@ -82,26 +103,5 @@
         "name": "Willem II Tilburg - FC Dordrecht",
         "time": "21:00",
         "id": "270640573581496320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arminia Bielefeld - VfB Stuttgart",
-        "time": "21:00",
-        "id": "266434947206746112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CF Os Belenenses - Pacos Ferreira",
-        "time": "21:00",
-        "id": "271030008308436992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colon de Santa Fe - CA Estudiantes Caseros",
-        "time": "21:00",
-        "id": "270688954493308928"
     }
 ]
