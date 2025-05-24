@@ -72,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Wollongong Wolves FC - Apia Leichhardt Tigers",
+        "time": "12:00",
+        "id": "270605801961426944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Nagoya Grampus Eight - Urawa Red Diamonds",
         "time": "11:30",
         "id": "270605794253344768"
@@ -96,12 +103,5 @@
         "name": "AKS SMS Lodz - KS Kutno",
         "time": "11:00",
         "id": "271035232131616768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Seoul - Suwon City",
-        "time": "10:30",
-        "id": "270461263070498816"
     }
 ]
