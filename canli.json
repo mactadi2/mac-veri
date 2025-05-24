@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Alaves - Osasuna",
+        "time": "22:00",
+        "id": "270608577662685184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Getafe - Celta de Vigo",
+        "time": "22:00",
+        "id": "270608577999278080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rayo Vallecano - Real Mallorca",
+        "time": "22:00",
+        "id": "270608576958042112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paris Saint-Germain FC - Reims",
+        "time": "22:00",
+        "id": "266482838357020672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Seattle Sounders - FC Dallas",
+        "time": "22:00",
+        "id": "270529016357851136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ferro Carril Oeste - CA Los Andes",
+        "time": "22:00",
+        "id": "270605788173701120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AC Milan - SSD Monza 1912",
+        "time": "21:45",
+        "id": "270610457435443200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AVS Futebol SAD - Vizela",
+        "time": "21:45",
+        "id": "270726672228159488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Temperley - CA Defensores Unidos",
         "time": "21:30",
         "id": "270605788419067904"
@@ -23,27 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Espanol - CA Claypole",
-        "time": "21:30",
-        "id": "270609447422922752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Victoriano Arenas - Yupanqui",
-        "time": "21:30",
-        "id": "270609447894781952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Paraguayo - Deportivo Lujan",
-        "time": "21:30",
-        "id": "270609447623200768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Willem II Tilburg - FC Dordrecht",
         "time": "21:00",
         "id": "270640573581496320"
@@ -58,16 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Colon de Santa Fe - CA Estudiantes Caseros",
+        "name": "CF Os Belenenses - Pacos Ferreira",
         "time": "21:00",
-        "id": "270688954493308928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Teruel - CD Numancia",
-        "time": "20:00",
-        "id": "270851541426114560"
+        "id": "271030008308436992"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Torrent CF - U.D. Talavera",
         "time": "20:00",
         "id": "270850473720942592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Petrojet - El Zamalek",
-        "time": "20:00",
-        "id": "270499223576907776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "National Bank of Egypt SC - Al Masry Club",
-        "time": "20:00",
-        "id": "270496890385207296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ceramica Cleopatra FC  - Haras El Hodood",
-        "time": "20:00",
-        "id": "270587492414132224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KA Akureyri - UMF Afturelding",
-        "time": "20:00",
-        "id": "270596912708718592"
     }
 ]
