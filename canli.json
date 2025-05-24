@@ -2,6 +2,90 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Eyupspor - Antalyaspor",
+        "time": "16:00",
+        "id": "270650755974828032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Silkeborg IF - Viborg FF",
+        "time": "16:00",
+        "id": "270391888880734208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lyngby BK - AaB Aalborg",
+        "time": "16:00",
+        "id": "270391964087750656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vejle Boldklub - SonderjyskE",
+        "time": "16:00",
+        "id": "270391889027534848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IFK Varnamo - Osters IF",
+        "time": "16:00",
+        "id": "270481236226609152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ostersunds FK - Orebro SK",
+        "time": "16:00",
+        "id": "270481532877148160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cape Town City - Stellenbosch FC",
+        "time": "16:00",
+        "id": "270481813748715520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Amazulu FC - Orlando Pirates FC",
+        "time": "16:00",
+        "id": "270605786259001344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kaizer Chiefs - Polokwane City FC",
+        "time": "16:00",
+        "id": "270482165390774272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Magesi FC - Marumo Gallants FC",
+        "time": "16:00",
+        "id": "270581818936397824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lamontville Golden Arrows - Sekhukhune United",
+        "time": "16:00",
+        "id": "270481855577460736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MTK Budapest - FC Ujpest",
+        "time": "16:00",
+        "id": "270605796235153408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SV Kapfenberg - SC Bregenz",
         "time": "15:30",
         "id": "270605805798166528"
@@ -19,89 +103,5 @@
         "name": "FC Rukh Lviv - FC Shakhtar Donetsk",
         "time": "15:30",
         "id": "270590025816739840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grom Nowy Staw - Anioly Garczegorze",
-        "time": "15:30",
-        "id": "270886261486653440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Big Bullets - Kamuzu Barracks",
-        "time": "15:30",
-        "id": "271021035616342016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FF Jaro - Gnistan",
-        "time": "15:00",
-        "id": "270493233588604928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kedus Giorgis - Sidama Bunna",
-        "time": "15:00",
-        "id": "270842587288571904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Ararat Yerevan - FC Urartu Banants Yerevan",
-        "time": "15:00",
-        "id": "270605797840523264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MKS Pilica Bialobrzegi - MKS Piaseczno",
-        "time": "14:30",
-        "id": "270930235328958464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trabzonspor U19 - Kasımpaşa U19",
-        "time": "14:00",
-        "id": "271012562162814976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UD San Fernando - CD Mensajero",
-        "time": "14:00",
-        "id": "270927831108816896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UD Tamaraceite - UD Ibarra",
-        "time": "14:00",
-        "id": "270927831480012800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KS Blonianka Blonie - Wilga Garwolin",
-        "time": "14:00",
-        "id": "270927831565996032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KP Chemik Police - Gwardia Koszalin",
-        "time": "14:00",
-        "id": "270927831329017856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KS Bogacica - LZS Walce",
-        "time": "14:00",
-        "id": "271108182451032064"
     }
 ]
