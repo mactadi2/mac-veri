@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Chaco For Ever - Talleres Remedios Escalada",
+        "time": "01:00",
+        "id": "270652646525898752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Libertad Asuncion - General Caballero JLM",
+        "time": "01:00",
+        "id": "270516394289926144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sao Paulo FC - Mirassol FC",
         "time": "00:30",
         "id": "269937390026625024"
@@ -89,19 +103,5 @@
         "name": "Penarol Montevideo - Plaza Colonia",
         "time": "23:30",
         "id": "270797693947875328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Detroit City FC - Charleston Battery",
-        "time": "23:00",
-        "id": "270609447274024960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rhode Island - Pittsburgh Riverhounds",
-        "time": "23:00",
-        "id": "270406546558685184"
     }
 ]
