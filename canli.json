@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Willem II Tilburg - FC Dordrecht",
+        "time": "21:00",
+        "id": "270640573581496320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arminia Bielefeld - VfB Stuttgart",
+        "time": "21:00",
+        "id": "266434947206746112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CF Os Belenenses - Pacos Ferreira",
+        "time": "21:00",
+        "id": "271030008308436992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Colon de Santa Fe - CA Estudiantes Caseros",
+        "time": "21:00",
+        "id": "270688954493308928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maccabi Tel-Aviv - Beitar Jerusalem",
+        "time": "20:30",
+        "id": "270605785425383424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Teruel - CD Numancia",
         "time": "20:00",
         "id": "270851541426114560"
@@ -37,9 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Leganes - Real Valladolid",
-        "time": "19:30",
-        "id": "270608577241157632"
+        "name": "Valur Reykjavik - IBV Vestmannaeyjar",
+        "time": "20:00",
+        "id": "270605783926968320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KA Akureyri - UMF Afturelding",
+        "time": "20:00",
+        "id": "270596912708718592"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "CA Atlanta - Gimnasia Y Tiro De Salta",
         "time": "19:30",
         "id": "270605788243955712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Göztepe - Galatasaray SK",
-        "time": "19:00",
-        "id": "270650756150988800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gaziantep FK - Kasimpasa SK",
-        "time": "19:00",
-        "id": "270650756058714112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bologna F.C. - Genoa",
-        "time": "19:00",
-        "id": "270610442367406080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Lugano - BSC Young Boys Bern",
-        "time": "19:00",
-        "id": "270492538120572928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Servette Geneve FC - Lausanne-Sports",
-        "time": "19:00",
-        "id": "270492723884199936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arsenal (K) - FC Barcelona (W)",
-        "time": "19:00",
-        "id": "268743985297756160"
     }
 ]
