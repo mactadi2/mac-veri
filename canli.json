@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Itabaiana - SER Caxias",
+        "time": "01:30",
+        "id": "270562437080682496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Chaco For Ever - Talleres Remedios Escalada",
         "time": "01:00",
         "id": "270652646525898752"
@@ -96,12 +103,5 @@
         "name": "Remo PA - Volta Redonda",
         "time": "00:00",
         "id": "270521093766385664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Diego FC - Los Angeles Galaxy",
-        "time": "23:45",
-        "id": "270581873273606144"
     }
 ]
