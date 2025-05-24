@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Real Madrid - Real Sociedad",
+        "time": "17:15",
+        "id": "270608577385861120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sheffield United FC - Sunderland",
         "time": "17:01",
         "id": "270157665973440512"
@@ -96,12 +103,5 @@
         "name": "IFK Varnamo - Osters IF",
         "time": "16:00",
         "id": "270481236226609152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Kapfenberg - SC Bregenz",
-        "time": "15:30",
-        "id": "270605805798166528"
     }
 ]
