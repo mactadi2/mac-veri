@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Seoul - Suwon City",
+        "time": "10:30",
+        "id": "270461263070498816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hwaseong Fc - Seoul E-Land FC",
+        "time": "10:30",
+        "id": "270561096171130880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cheongju City FC - Ansan Greeners",
+        "time": "10:30",
+        "id": "270551620168847360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "St George Saints U20 - Sydney Olympic U20",
+        "time": "10:30",
+        "id": "270866783278338048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "White City Beograd - Campbelltown City",
+        "time": "10:30",
+        "id": "270605800125370368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Wollongong Wolves Fc U20 - APIA Leichhardt Tigers U20",
         "time": "10:00",
         "id": "270866465448660992"
@@ -16,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "St George City FA U20 - Rockdale Ilinden U20",
+        "name": "Hills United Fc U20 - Macarthur Rams U20",
         "time": "10:00",
-        "id": "270866465522061312"
+        "id": "270887723698622464"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hills United Fc U20 - Macarthur Rams U20",
+        "name": "St George City FA U20 - Rockdale Ilinden U20",
         "time": "10:00",
-        "id": "270887723698622464"
+        "id": "270866465522061312"
     },
     {
         "tur": "live",
@@ -37,30 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Balcatta - Floreat Athena",
-        "time": "10:00",
-        "id": "270605806518538240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sorrento - Perth RedStar FC",
-        "time": "10:00",
-        "id": "270605806792216576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Dire Dawa - Bahir Dar Kenema",
         "time": "09:30",
         "id": "270821723455229952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hakoah Sydney City East - Dulwich Hill F.C.",
-        "time": "09:30",
-        "id": "270805439246110720"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Northcote City - Moreland City Fc",
         "time": "09:00",
         "id": "270825338506973184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide Croatia Raiders - Adelaide City",
-        "time": "08:30",
-        "id": "270605800459866112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Playford Patriots - Adelaide Comets",
-        "time": "08:30",
-        "id": "270605800250150912"
     }
 ]
