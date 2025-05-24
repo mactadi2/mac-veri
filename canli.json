@@ -37,23 +37,16 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bryne FK - Fredrikstad FK",
+        "time": "17:00",
+        "id": "270486059565060096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FK Krasnodar - Dinamo Moskova",
         "time": "16:30",
         "id": "270484832272912384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Akron Tolyatti - Lokomotiv Moskova",
-        "time": "16:30",
-        "id": "270588365843337216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CSKA Moskova - Nizhny Novgorod",
-        "time": "16:30",
-        "id": "270589087417765888"
     },
     {
         "tur": "live",
@@ -79,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Silkeborg IF - Viborg FF",
-        "time": "16:00",
-        "id": "270391888880734208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Lyngby BK - AaB Aalborg",
         "time": "16:00",
         "id": "270391964087750656"
@@ -103,5 +89,19 @@
         "name": "IFK Varnamo - Osters IF",
         "time": "16:00",
         "id": "270481236226609152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ostersunds FK - Orebro SK",
+        "time": "16:00",
+        "id": "270481532877148160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Amazulu FC - Orlando Pirates FC",
+        "time": "16:00",
+        "id": "270605786259001344"
     }
 ]
