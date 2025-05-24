@@ -2,9 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Zenit St. Petersburg - FK Akhmat Grozny",
-        "time": "16:30",
-        "id": "270583713223544832"
+        "name": "Sheffield United FC - Sunderland",
+        "time": "17:01",
+        "id": "270157665973440512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AC Sparta Praha - SK Sigma Olomouc",
+        "time": "17:00",
+        "id": "270579922386423808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Slavia Prague - FC Banik Ostrava",
+        "time": "17:00",
+        "id": "270579921671294976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Viktoria Plzen - FK Jablonec nad Nisou 97",
+        "time": "17:00",
+        "id": "270579922048782336"
     },
     {
         "tur": "live",
@@ -26,13 +47,6 @@
         "name": "CSKA Moskova - Nizhny Novgorod",
         "time": "16:30",
         "id": "270589087417765888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Spartak Moskova - FK Khimki",
-        "time": "16:30",
-        "id": "270574339047428096"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "SV Kapfenberg - SC Bregenz",
         "time": "15:30",
         "id": "270605805798166528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Floridsdorfer AC - SK Sturm Graz II",
-        "time": "15:30",
-        "id": "270605805866323968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Rukh Lviv - FC Shakhtar Donetsk",
-        "time": "15:30",
-        "id": "270590025816739840"
     }
 ]
