@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hakoah Sydney City East U20 - Dulwich Hill U20",
+        "time": "11:30",
+        "id": "270919137748979712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fc Pardubice U19 - Sparta Prague U19",
         "time": "11:15",
         "id": "270916484421783552"
@@ -33,6 +40,13 @@
         "name": "FK Olympie Brezova - Meteor Praha",
         "time": "11:15",
         "id": "271016675680325632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Trinec - FC Strani",
+        "time": "11:15",
+        "id": "270916484339994624"
     },
     {
         "tur": "live",
@@ -79,9 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wollongong Wolves Fc U20 - APIA Leichhardt Tigers U20",
-        "time": "10:00",
-        "id": "270866465448660992"
+        "name": "St George Saints U20 - Sydney Olympic U20",
+        "time": "10:30",
+        "id": "270866783278338048"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Hills United Fc U20 - Macarthur Rams U20",
         "time": "10:00",
         "id": "270887723698622464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mounties Wanderers U20 - Canterbury Bankstown U20",
-        "time": "10:00",
-        "id": "270919137670336512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St George City FA U20 - Rockdale Ilinden U20",
-        "time": "10:00",
-        "id": "270866465522061312"
     }
 ]
