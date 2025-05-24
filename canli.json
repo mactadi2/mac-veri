@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sao Paulo FC - Mirassol FC",
+        "time": "00:30",
+        "id": "269937390026625024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fluminense RJ - Vasco da Gama RJ",
+        "time": "00:30",
+        "id": "268264485663412224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Independiente Avellaneda - Atletico Huracan",
+        "time": "00:30",
+        "id": "270756210293215232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Avai - Chapecoense SC",
+        "time": "00:30",
+        "id": "270513388841472000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universidad Catolica Quito - LDU Quito ",
+        "time": "00:30",
+        "id": "270581670147657728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Colo Colo - Union Espanola",
+        "time": "00:30",
+        "id": "270448402151641088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cucuta Deportivo - Patriotas Tunja",
         "time": "00:05",
         "id": "270996327895273472"
@@ -26,20 +68,6 @@
         "name": "Remo PA - Volta Redonda",
         "time": "00:00",
         "id": "270521093766385664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Juan Jabloteh - Morvant Caledonia United",
-        "time": "00:00",
-        "id": "270934971041058816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Olimpia Reserves - Olancho FC Reserves",
-        "time": "00:00",
-        "id": "271045964634132480"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Rhode Island - Pittsburgh Riverhounds",
         "time": "23:00",
         "id": "270406546558685184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Alagoano AL - AD Confianca SE",
-        "time": "23:00",
-        "id": "270560334823165952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nautico Capibaribe - AA Ponte Preta",
-        "time": "23:00",
-        "id": "270562331713474560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chorrillo FC (W) - Santa Fe FC (W)",
-        "time": "23:00",
-        "id": "270991710837936128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Nacional Medellin (W) - Asociacion Deportivo Cali (W)",
-        "time": "23:00",
-        "id": "271086789098344448"
     }
 ]
