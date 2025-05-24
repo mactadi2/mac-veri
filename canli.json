@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Teruel - CD Numancia",
+        "time": "20:00",
+        "id": "270851541426114560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Torrent CF - U.D. Talavera",
+        "time": "20:00",
+        "id": "270850473720942592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Petrojet - El Zamalek",
+        "time": "20:00",
+        "id": "270499223576907776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "National Bank of Egypt SC - Al Masry Club",
+        "time": "20:00",
+        "id": "270496890385207296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ceramica Cleopatra FC  - Haras El Hodood",
+        "time": "20:00",
+        "id": "270587492414132224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Leganes - Real Valladolid",
         "time": "19:30",
         "id": "270608577241157632"
@@ -19,6 +54,13 @@
         "name": "Albacete Balompie - Racing de Ferrol",
         "time": "19:30",
         "id": "270597161905950720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Atlanta - Gimnasia Y Tiro De Salta",
+        "time": "19:30",
+        "id": "270605788243955712"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Servette Geneve FC - Lausanne-Sports",
         "time": "19:00",
         "id": "270492723884199936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KKS Lech Poznan - Piast Gliwice",
-        "time": "18:30",
-        "id": "270557265606610944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rakow Czestochowa - Widzew Lodz",
-        "time": "18:30",
-        "id": "270557265419964416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KP Legia Warszawa - Stal Mielec",
-        "time": "18:30",
-        "id": "270557265482878976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Radomiak Radom - Motor Lublin",
-        "time": "18:30",
-        "id": "270557265230172160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jagiellonia Bialystok SSA - Pogon Szczecin",
-        "time": "18:30",
-        "id": "270493168151171072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MKS Puszcza Niepolomice - Slask Wroclaw",
-        "time": "18:30",
-        "id": "270557265533210624"
     }
 ]
