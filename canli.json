@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IF Brommapojkarna - AIK",
+        "time": "17:30",
+        "id": "270578666328690688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Djurgardens IF - BK Hacken",
+        "time": "17:30",
+        "id": "270577634119913472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Villarreal CF - Sevilla FC",
         "time": "17:15",
         "id": "270608577049268224"
@@ -51,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sokol Ostroda - DKS Dobre Miasto",
+        "time": "17:00",
+        "id": "270934196801900544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Varbergs BoIS FC - Kalmar FF",
         "time": "16:00",
         "id": "270571973218799616"
@@ -82,26 +103,5 @@
         "name": "Stolem Gniewino - Radunia Stezyca",
         "time": "16:00",
         "id": "271120845172248576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SKU Amstetten - FC Liefering",
-        "time": "15:30",
-        "id": "270580917251215360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Veres Rivne - LNZ Cherkasy",
-        "time": "15:30",
-        "id": "270590676795789312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ham-Kam - Molde FK",
-        "time": "15:30",
-        "id": "270559787112075264"
     }
 ]
