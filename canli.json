@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Spezia - Catanzaro",
+        "time": "20:30",
+        "id": "270690867422040064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Colegiales - CD Maipu",
+        "time": "20:00",
+        "id": "270652646114856960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Modern Sport FC - Al Ittihad Al Sakandary",
+        "time": "20:00",
+        "id": "270587492342829056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ismaily SC - El Gouna FC",
+        "time": "20:00",
+        "id": "270589504040079360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Talaea El Gaish - Ghazl Al Mehalla",
+        "time": "20:00",
+        "id": "270672597778305024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ENPPI Club - FC Masr (ZED)",
+        "time": "20:00",
+        "id": "270582615726231552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Elche - Malaga CF",
         "time": "19:30",
         "id": "270634809336926208"
@@ -16,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tenerife - Real Oviedo",
+        "name": "Granada CF - Castellon",
         "time": "19:30",
-        "id": "270580201522597888"
+        "id": "270634857747582976"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Granada CF - Castellon",
+        "name": "Tenerife - Real Oviedo",
         "time": "19:30",
-        "id": "270634857747582976"
+        "id": "270580201522597888"
     },
     {
         "tur": "live",
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cadiz - SD Huesca",
+        "name": "Eibar - Cordoba",
         "time": "19:30",
-        "id": "270597161977253888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Besiktas JK - Caykur Rizespor",
-        "time": "19:00",
-        "id": "270684948841762816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trabzonspor - Samsunspor",
-        "time": "19:00",
-        "id": "270684949006389248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Başakşehir FK - Adana Demirspor",
-        "time": "19:00",
-        "id": "270684949068255232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Konyaspor - Alanyaspor",
-        "time": "19:00",
-        "id": "270684949134315520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kayserispor - Bodrumspor",
-        "time": "19:00",
-        "id": "270684948910968832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AZ Alkmaar - FC Twente",
-        "time": "19:00",
-        "id": "270970951254020096"
+        "id": "270648763875463168"
     }
 ]
