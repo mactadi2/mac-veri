@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Atletico Mitre - Deportivo Moron",
+        "time": "23:00",
+        "id": "270692411179667456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing de Cordoba - Tristan Suarez",
+        "time": "23:00",
+        "id": "270598411642867712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Athletic Bilbao - FC Barcelona",
         "time": "22:00",
         "id": "270608578331676672"
@@ -44,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gimnasia Y Esgrima de Jujuy - CA San Telmo",
+        "time": "22:00",
+        "id": "270652646256414720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SSC Venezia - Juventus FC",
         "time": "21:45",
         "id": "270610442456535040"
@@ -82,26 +103,5 @@
         "name": "Udinese - AC Fiorentina",
         "time": "21:45",
         "id": "270610442281422848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Almagro - CA Patronato",
-        "time": "21:30",
-        "id": "270605788325744640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA All Boys - Club Atletico Alvarado",
-        "time": "21:30",
-        "id": "270652646162042880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia Mendoza - Chacarita Juniors",
-        "time": "21:30",
-        "id": "270652646424186880"
     }
 ]
