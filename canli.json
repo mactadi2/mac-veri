@@ -2,9 +2,72 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Almagro - CA Patronato",
+        "time": "21:30",
+        "id": "270605788325744640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnasia Mendoza - Chacarita Juniors",
+        "time": "21:30",
+        "id": "270652646424186880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA All Boys - Club Atletico Alvarado",
+        "time": "21:30",
+        "id": "270652646162042880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Cordoba de Rosario - Club Leandro Niceforo Alem",
+        "time": "21:30",
+        "id": "271135624147374080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Levski Krumovgrad - Septemvri Sofia",
+        "time": "20:45",
+        "id": "270757687167422464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFK Botev Vratsa - PFC Slavia Sofia",
+        "time": "20:45",
+        "id": "270757694267330560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFC Lokomotiv Sofia - Hebar 1918 Pazardzhik",
+        "time": "20:45",
+        "id": "270757696967413760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFC Lokomotiv Plovdiv 1936 - FC CSKA 1948",
+        "time": "20:45",
+        "id": "270757691378503680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Spezia - Catanzaro",
         "time": "20:30",
         "id": "270690867422040064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Haugesund - SK Brann Bergen",
+        "time": "20:15",
+        "id": "270559787033432064"
     },
     {
         "tur": "live",
@@ -40,68 +103,5 @@
         "name": "ENPPI Club - FC Masr (ZED)",
         "time": "20:00",
         "id": "270582615726231552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Elche - Malaga CF",
-        "time": "19:30",
-        "id": "270634809336926208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Burgos CF - Levante",
-        "time": "19:30",
-        "id": "270580244384190464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Granada CF - Castellon",
-        "time": "19:30",
-        "id": "270634857747582976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tenerife - Real Oviedo",
-        "time": "19:30",
-        "id": "270580201522597888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Mirandes - Union Deportiva Almeria",
-        "time": "19:30",
-        "id": "270649083701628928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Sporting de Gijon - FC Cartagena",
-        "time": "19:30",
-        "id": "270634857688862720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Zaragoza - Deportivo La Coruna",
-        "time": "19:30",
-        "id": "270580244273041408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eldense - Racing Santander",
-        "time": "19:30",
-        "id": "270595217170763776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eibar - Cordoba",
-        "time": "19:30",
-        "id": "270648763875463168"
     }
 ]
