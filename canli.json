@@ -72,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "MFK Karvina B - SC Znojmo",
-        "time": "11:15",
-        "id": "271007155290771456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Bohemians 1905 B - Sokol Hostoun",
         "time": "11:15",
         "id": "270916407373467648"
@@ -103,5 +96,12 @@
         "name": "Guangdong Mingtu - Guangxi Lanhang",
         "time": "11:00",
         "id": "271070339682930688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ganzhou Ruishi - Guangzhou Dandelion Alpha FC",
+        "time": "11:00",
+        "id": "271070447179796480"
     }
 ]
