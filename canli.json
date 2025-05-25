@@ -44,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NK Maribor - NK Nafta Lendava",
+        "time": "16:00",
+        "id": "270593149458583552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SKU Amstetten - FC Liefering",
         "time": "15:30",
         "id": "270580917251215360"
@@ -86,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Halmstads BK - IF Elfsborg",
-        "time": "15:00",
-        "id": "270567942437081088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "IFK Goteborg - Malmo FF",
         "time": "15:00",
         "id": "270567942506287104"
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Hradec Kralove - Bohemians 1905",
-        "time": "14:30",
-        "id": "270570518541897728"
+        "name": "Halmstads BK - IF Elfsborg",
+        "time": "15:00",
+        "id": "270567942437081088"
     }
 ]
