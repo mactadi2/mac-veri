@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Zhetysu Taldykorgan - FK Aktobe",
+        "time": "14:00",
+        "id": "270666264229318656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Libertad Asuncion Reserves - General Caballero Reserve",
         "time": "13:30",
         "id": "271140804945383424"
@@ -72,6 +79,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Suwon Samsung Bluewings - Gimpo Citizen",
+        "time": "13:00",
+        "id": "270561096086196224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Odra Opole U19 - Warta Poznan U19",
+        "time": "13:00",
+        "id": "271014711744663552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD La Nucia - UD Castellonense",
         "time": "12:30",
         "id": "271008656009596928"
@@ -82,26 +103,5 @@
         "name": "AD Torrejon CF - SAD Villaverde",
         "time": "12:30",
         "id": "271008656132280320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chrobry Glogow II - Polonia-Stal Swidnica",
-        "time": "12:00",
-        "id": "270956470456160256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GKS Piast Gliwice II - Przemsza Siewierz",
-        "time": "12:00",
-        "id": "270945144073752576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jennersdorf - SPG Edelserpentin",
-        "time": "12:00",
-        "id": "271060874914041856"
     }
 ]
