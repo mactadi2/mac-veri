@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Nacional Asunción Reserve - Olimpia Asuncion Reserves",
-        "time": "01:00",
-        "id": "271140929149210624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Anapolis FC - Maringa FC PR",
         "time": "01:00",
         "id": "270597259402547200"
@@ -103,5 +96,12 @@
         "name": "Columbus Crew II - New York Red Bulls Ii",
         "time": "01:00",
         "id": "270707811775811584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orsomarso (W) - La Equidad (W)",
+        "time": "01:00",
+        "id": "271138990214746112"
     }
 ]
