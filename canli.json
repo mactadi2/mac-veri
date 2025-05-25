@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atlanta United - FC Cincinnati",
+        "time": "02:00",
+        "id": "270581946384519168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "LD Alajuelense - CS Herediano",
+        "time": "02:00",
+        "id": "270946855826886656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "El Nacional Quito - Emelec Guayaquil",
+        "time": "02:00",
+        "id": "270620210927636480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Garcilaso - Juan Pablo II College",
+        "time": "02:00",
+        "id": "270610120322453504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Olimpia Tegucigalpa - Real Espana",
+        "time": "02:00",
+        "id": "270895700975423488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Point Fortin FC - Defence Force FC",
+        "time": "02:00",
+        "id": "271063822584909824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Heroes de Zaci - Bombarderos de Tecamac FC",
         "time": "01:00",
         "id": "271108262801313792"
@@ -37,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Columbus Crew II - New York Red Bulls Ii",
+        "time": "01:00",
+        "id": "270707811775811584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "EC Vitoria - Santos FC Sao Paulo ",
         "time": "00:30",
         "id": "269938533936009216"
@@ -54,54 +103,5 @@
         "name": "Santiago Wanderers - Santiago Morning",
         "time": "00:30",
         "id": "270686151112790016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GV Club Deportivo San Jose de Oruro - CDT Real Oruro",
-        "time": "00:15",
-        "id": "270584111516749824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportes Tolima - Rionegro Aguilas Doradas",
-        "time": "00:00",
-        "id": "270828313084301312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Once Caldas - Deportivo Cali",
-        "time": "00:00",
-        "id": "270826486110490624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "America de Cali - Independiente Medellin",
-        "time": "00:00",
-        "id": "270700246859911168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Bucaramanga - Deportivo Pasto",
-        "time": "00:00",
-        "id": "270828312970006528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Deportivo Los Millonarios - Boyaca Chico",
-        "time": "00:00",
-        "id": "270828160022614016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Nacional de Medellin - CD Junior de Barranquilla ",
-        "time": "00:00",
-        "id": "270828541898264576"
     }
 ]
