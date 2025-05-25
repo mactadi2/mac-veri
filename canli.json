@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Anapolis FC - Maringa FC PR",
+        "time": "01:00",
+        "id": "270597259402547200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "EC Vitoria - Santos FC Sao Paulo ",
         "time": "00:30",
         "id": "269938533936009216"
@@ -40,6 +47,13 @@
         "name": "Amazonas FC - Operario Ferroviario EC PR",
         "time": "00:30",
         "id": "270533878395047936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GV Club Deportivo San Jose de Oruro - CDT Real Oruro",
+        "time": "00:15",
+        "id": "270584111516749824"
     },
     {
         "tur": "live",
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Argentino Merlo - Flandria",
-        "time": "23:40",
-        "id": "270609447198527488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tecnico Universitario - Delfin",
-        "time": "23:30",
-        "id": "270605057391726592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Montevideo Wanderers - Club Atletico River Plate",
-        "time": "23:30",
-        "id": "270798005791232000"
+        "name": "Eagles Cunupia FC - 1976 FC Phoenix",
+        "time": "00:00",
+        "id": "271008657013084160"
     }
 ]
