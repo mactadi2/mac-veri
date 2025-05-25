@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Varbergs BoIS FC - Kalmar FF",
+        "time": "16:00",
+        "id": "270571973218799616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KuPS Kuopio - VPS Vaasan Palloseura",
+        "time": "16:00",
+        "id": "270673270617018368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orkan Buczek - Widzew Lodz II",
+        "time": "16:00",
+        "id": "270961364982435840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sniadowo - Olimpia Zambrow",
+        "time": "16:00",
+        "id": "271097218442858496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stolem Gniewino - Radunia Stezyca",
+        "time": "16:00",
+        "id": "271120845172248576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Celje - NK Domzale",
+        "time": "16:00",
+        "id": "270581818995118080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SKU Amstetten - FC Liefering",
         "time": "15:30",
         "id": "270580917251215360"
@@ -19,27 +61,6 @@
         "name": "Ham-Kam - Molde FK",
         "time": "15:30",
         "id": "270559787112075264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Fugen - Innsbrucker AC",
-        "time": "15:30",
-        "id": "271061639115182080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Be Forward Wanderers - Silver Strikers",
-        "time": "15:30",
-        "id": "271105920142020608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dedza Dynamos - Civil Service Utd",
-        "time": "15:30",
-        "id": "271106024177537024"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ethiopia Nigd Bank - Adama Kenema",
-        "time": "15:00",
-        "id": "270930553738498048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Hradec Kralove - Bohemians 1905",
         "time": "14:30",
         "id": "270570518541897728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Varea - CDFC La Calzada",
-        "time": "13:00",
-        "id": "271008666566660096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Utrera - Atletico Central",
-        "time": "13:00",
-        "id": "271067368867893248"
     }
 ]
