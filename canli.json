@@ -9,13 +9,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "MFK Karvina B - SC Znojmo",
-        "time": "11:15",
-        "id": "271007155290771456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Dukla Prague B - TJ Jiskra Domazlice",
         "time": "11:15",
         "id": "270916407448965120"
@@ -23,9 +16,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fc Slovacko B - FC Zlinsko",
+        "name": "MFK Karvina B - SC Znojmo",
         "time": "11:15",
-        "id": "271007155373608960"
+        "id": "271007155290771456"
     },
     {
         "tur": "live",
@@ -37,9 +30,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fc Slovacko B - FC Zlinsko",
+        "time": "11:15",
+        "id": "271007155373608960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Banik Ostrava U19 - Fastav Zlin U19",
         "time": "11:00",
         "id": "271007155120902144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guangdong Mingtu - Guangxi Lanhang",
+        "time": "11:00",
+        "id": "271070339682930688"
     },
     {
         "tur": "live",
@@ -65,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nantong Haimen Codion - Shanxi Chongde Ronghai Football Club",
+        "time": "10:30",
+        "id": "271070400141725696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kawasaki Frontale - Gamba Osaka",
         "time": "10:00",
         "id": "270650998876409856"
@@ -79,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Eastern Sports Club - Kitchee",
-        "time": "10:00",
-        "id": "270650999198322688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Hong Kong Rangers - Lee Man Warriors FC",
         "time": "10:00",
         "id": "270650999033696256"
@@ -96,12 +103,5 @@
         "name": "Wofoo Tai Po - North District FC",
         "time": "10:00",
         "id": "270650999122825216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kowloon City - R&F Fc",
-        "time": "10:00",
-        "id": "270911702632108032"
     }
 ]
