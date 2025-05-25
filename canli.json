@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gwangju FC - Gangwon FC",
+        "time": "10:30",
+        "id": "270551619974860800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Incheon United FC - Jeonnam Dragons",
+        "time": "10:30",
+        "id": "270551620250636288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chungnam Asan - Bucheon FC 1995",
+        "time": "10:30",
+        "id": "270551620069232640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nantong Haimen Codion - Shanxi Chongde Ronghai Football Club",
+        "time": "10:30",
+        "id": "271070400141725696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kawasaki Frontale - Gamba Osaka",
         "time": "10:00",
         "id": "270650998876409856"
@@ -58,27 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Macarthur Rams (W) - NWS Koalas Spirit (W)",
-        "time": "10:00",
-        "id": "270884480956370944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manly United FC (W) - University of New South Wales (W)",
-        "time": "10:00",
-        "id": "270884670788472832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Apia Leichhardt Tigers (W) - Illawarra Stingrays (W)",
-        "time": "10:00",
-        "id": "270884578783268864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "North Lakes United - Mitchelton FC",
         "time": "09:15",
         "id": "270811581950070784"
@@ -96,12 +103,5 @@
         "name": "Tokyo Verdy 1969 - Kyoto Purple Sanga",
         "time": "09:00",
         "id": "270545965602181120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brisbane City (W) - Mitchelton (W)",
-        "time": "09:00",
-        "id": "270886987093905408"
     }
 ]
