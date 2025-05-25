@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tecnico Universitario - Delfin",
+        "time": "23:30",
+        "id": "270605057391726592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Montevideo Wanderers - Club Atletico River Plate",
+        "time": "23:30",
+        "id": "270798005791232000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Atletico Mitre - Deportivo Moron",
         "time": "23:00",
         "id": "270692411179667456"
@@ -12,6 +26,20 @@
         "name": "Racing de Cordoba - Tristan Suarez",
         "time": "23:00",
         "id": "270598411642867712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Norte Salta  - CA Defensores de Belgrano",
+        "time": "23:00",
+        "id": "270598446455590912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fh Hafnarfjördur - Breidablik Kopavogur",
+        "time": "22:15",
+        "id": "270687519732011008"
     },
     {
         "tur": "live",
@@ -65,43 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SSC Venezia - Juventus FC",
-        "time": "21:45",
-        "id": "270610442456535040"
+        "name": "Novorizontino SP - Paysandu",
+        "time": "22:00",
+        "id": "270535129897766912"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SS Lazio - Lecce",
-        "time": "21:45",
-        "id": "270610442193342464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Torino FC - AS Roma",
-        "time": "21:45",
-        "id": "270610442104213504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Empoli - Hellas Verona",
-        "time": "21:45",
-        "id": "270610457333731328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atalanta - AC Parma",
-        "time": "21:45",
-        "id": "270610457195319296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Udinese - AC Fiorentina",
-        "time": "21:45",
-        "id": "270610442281422848"
+        "name": "Universidad Catolica - La Serena",
+        "time": "22:00",
+        "id": "270448399844773888"
     }
 ]
