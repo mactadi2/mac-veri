@@ -51,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Santiago Wanderers - Santiago Morning",
+        "time": "00:30",
+        "id": "270686151112790016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "GV Club Deportivo San Jose de Oruro - CDT Real Oruro",
         "time": "00:15",
         "id": "270584111516749824"
@@ -58,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Once Caldas - Deportivo Cali",
+        "name": "Deportes Tolima - Rionegro Aguilas Doradas",
         "time": "00:00",
-        "id": "270826486110490624"
+        "id": "270828313084301312"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportes Tolima - Rionegro Aguilas Doradas",
+        "name": "Once Caldas - Deportivo Cali",
         "time": "00:00",
-        "id": "270828313084301312"
+        "id": "270826486110490624"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Atletico Nacional de Medellin - CD Junior de Barranquilla ",
         "time": "00:00",
         "id": "270828541898264576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eagles Cunupia FC - 1976 FC Phoenix",
-        "time": "00:00",
-        "id": "271008657013084160"
     }
 ]
