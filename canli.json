@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cremonese - Juve Stabia",
-        "time": "18:15",
-        "id": "270682291532075008"
+        "name": "Besiktas JK - Caykur Rizespor",
+        "time": "19:00",
+        "id": "270684948841762816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Trabzonspor - Samsunspor",
+        "time": "19:00",
+        "id": "270684949006389248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Başakşehir FK - Adana Demirspor",
+        "time": "19:00",
+        "id": "270684949068255232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Konyaspor - Alanyaspor",
+        "time": "19:00",
+        "id": "270684949134315520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kayserispor - Bodrumspor",
+        "time": "19:00",
+        "id": "270684948910968832"
     },
     {
         "tur": "live",
@@ -58,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wolverhampton Wanderers - Brentford",
-        "time": "18:00",
-        "id": "270583581157494784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Bournemouth AFC - Leicester City",
         "time": "18:00",
         "id": "270583611226460160"
@@ -72,36 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Wolverhampton Wanderers - Brentford",
+        "time": "18:00",
+        "id": "270583581157494784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ipswich Town FC - West Ham United",
         "time": "18:00",
         "id": "270583581293809664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Clermont - Boulogne",
-        "time": "18:00",
-        "id": "270789128937934848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Midtjylland - Randers FC",
-        "time": "18:00",
-        "id": "270391964163248128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Villarreal CF - Sevilla FC",
-        "time": "17:15",
-        "id": "270608577049268224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gremio Porto Alegrense RS - EC Bahia",
-        "time": "17:00",
-        "id": "269937530824167424"
     }
 ]
