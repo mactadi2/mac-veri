@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Orkan Buczek - Widzew Lodz II",
-        "time": "16:00",
-        "id": "270961364982435840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Sniadowo - Olimpia Zambrow",
         "time": "16:00",
         "id": "271097218442858496"
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Stolem Gniewino - Radunia Stezyca",
+        "name": "Orkan Buczek - Widzew Lodz II",
         "time": "16:00",
-        "id": "271120845172248576"
+        "id": "270961364982435840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Celje - NK Domzale",
+        "time": "16:00",
+        "id": "270581818995118080"
     }
 ]
