@@ -2,6 +2,90 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Athletic Bilbao - FC Barcelona",
+        "time": "22:00",
+        "id": "270608578331676672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palmeiras - Flamengo RJ",
+        "time": "22:00",
+        "id": "269937679526924288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sport Club do Recife - SC Internacional RS",
+        "time": "22:00",
+        "id": "269937831783305216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New York City FC - Chicago Fire",
+        "time": "22:00",
+        "id": "270581937223110656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Lorenzo - Platense",
+        "time": "22:00",
+        "id": "270834641895821312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Estepona - Cacereno",
+        "time": "22:00",
+        "id": "270851681564102656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SSC Venezia - Juventus FC",
+        "time": "21:45",
+        "id": "270610442456535040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Torino FC - AS Roma",
+        "time": "21:45",
+        "id": "270610442104213504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SS Lazio - Lecce",
+        "time": "21:45",
+        "id": "270610442193342464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Empoli - Hellas Verona",
+        "time": "21:45",
+        "id": "270610457333731328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atalanta - AC Parma",
+        "time": "21:45",
+        "id": "270610457195319296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Udinese - AC Fiorentina",
+        "time": "21:45",
+        "id": "270610442281422848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Almagro - CA Patronato",
         "time": "21:30",
         "id": "270605788325744640"
@@ -16,92 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA All Boys - Club Atletico Alvarado",
-        "time": "21:30",
-        "id": "270652646162042880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Central Cordoba de Rosario - Club Leandro Niceforo Alem",
-        "time": "21:30",
-        "id": "271135624147374080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Levski Krumovgrad - Septemvri Sofia",
-        "time": "20:45",
-        "id": "270757687167422464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFK Botev Vratsa - PFC Slavia Sofia",
-        "time": "20:45",
-        "id": "270757694267330560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC Lokomotiv Sofia - Hebar 1918 Pazardzhik",
-        "time": "20:45",
-        "id": "270757696967413760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC Lokomotiv Plovdiv 1936 - FC CSKA 1948",
-        "time": "20:45",
-        "id": "270757691378503680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Spezia - Catanzaro",
         "time": "20:30",
         "id": "270690867422040064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Haugesund - SK Brann Bergen",
-        "time": "20:15",
-        "id": "270559787033432064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Colegiales - CD Maipu",
-        "time": "20:00",
-        "id": "270652646114856960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Modern Sport FC - Al Ittihad Al Sakandary",
-        "time": "20:00",
-        "id": "270587492342829056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ismaily SC - El Gouna FC",
-        "time": "20:00",
-        "id": "270589504040079360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Talaea El Gaish - Ghazl Al Mehalla",
-        "time": "20:00",
-        "id": "270672597778305024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ENPPI Club - FC Masr (ZED)",
-        "time": "20:00",
-        "id": "270582615726231552"
     }
 ]
