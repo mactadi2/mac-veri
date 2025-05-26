@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SV Elversberg - FC Heidenheim 1846",
+        "time": "21:30",
+        "id": "270910479625490432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Fateh - Al-Nassr Riyadh",
         "time": "21:00",
         "id": "270783137393545216"
@@ -96,12 +103,5 @@
         "name": "IFK Norrkoping - Mjallby AIF",
         "time": "20:00",
         "id": "270666408205094912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KFUM Oslo - Valerenga IF Oslo",
-        "time": "20:00",
-        "id": "270559833371054080"
     }
 ]
