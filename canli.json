@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Volna Pinsk - Niva Dolbizno",
+        "time": "18:30",
+        "id": "271051231184687104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hawassa City - Fasil Kenema",
         "time": "18:00",
         "id": "271043574856028160"
@@ -96,12 +103,5 @@
         "name": "AFC Wimbledon - Walsall FC",
         "time": "17:01",
         "id": "270490476062314496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Masafi Club - Al Fahad",
-        "time": "16:30",
-        "id": "271277310882222080"
     }
 ]
