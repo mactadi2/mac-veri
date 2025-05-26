@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hawassa City - Fasil Kenema",
+        "time": "18:00",
+        "id": "271043574856028160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Grobinas - SK Super Nova",
+        "time": "18:00",
+        "id": "270762847047389184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PFC Ludogorets Razgrad - Arda Kardzhali",
         "time": "17:45",
         "id": "270757688451928064"
@@ -89,12 +103,5 @@
         "name": "Kadhimiya SC - Ghaz Al Shamal",
         "time": "16:30",
         "id": "271188229292691456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Olaria AC - Sao Goncalo",
-        "time": "21:00",
-        "id": "271104410735742976"
     }
 ]
