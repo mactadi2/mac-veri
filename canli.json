@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Social Atletico Television (W) - Platense (W)",
+        "time": "18:30",
+        "id": "271041943626190848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hawassa City - Fasil Kenema",
         "time": "18:00",
         "id": "271043574856028160"
@@ -12,6 +19,27 @@
         "name": "SC Grobinas - SK Super Nova",
         "time": "18:00",
         "id": "270762847047389184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Odds Ballklubb II - Fredrikstad 2",
+        "time": "18:00",
+        "id": "270771869812133888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Mash'al Mubarek - FC Bunyodkor",
+        "time": "18:00",
+        "id": "270907757767561216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zenit St Petersburg II - Chertanovo Moscow",
+        "time": "18:00",
+        "id": "271270358110310400"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Amanat Baghdad Sc - Al-Sinaat Al-Kahrabaiya SC",
-        "time": "16:30",
-        "id": "271188229466755072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Jolan SC - Al Ramadi SC",
-        "time": "16:30",
-        "id": "271217483677044736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Masafi Club - Al Fahad",
         "time": "16:30",
         "id": "271277310882222080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Masafi Al Janoob - Naft Al-Wasat",
-        "time": "16:30",
-        "id": "271188229379723264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kadhimiya SC - Ghaz Al Shamal",
-        "time": "16:30",
-        "id": "271188229292691456"
     }
 ]
