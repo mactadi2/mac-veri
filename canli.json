@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Maccabi Petach Tikva U19 - Hapoel Hadera U19",
+        "time": "20:30",
+        "id": "271300908711809024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Trelleborgs FF - Helsingborgs IF",
         "time": "20:00",
         "id": "270768154966364160"
@@ -30,9 +37,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "TUS Rein - GAK 1902 II",
+        "name": "Pitea IF - Boden City FC",
         "time": "20:00",
-        "id": "271402764747280384"
+        "id": "271141692923580416"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "JK Trans Narva - Harju Jalgpallikool",
         "time": "19:00",
         "id": "270956941143052288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Larsmo Bollklubb - FC Ylivieska",
-        "time": "19:00",
-        "id": "271377779933712384"
     }
 ]
