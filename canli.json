@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bologna U20 - Empoli FC U20",
+        "time": "18:00",
+        "id": "271272987019317248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Kuressaare - Flora Tallinn",
+        "time": "18:00",
+        "id": "270953084803485696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JK Tammeka Tartu - JK Tallinna Kalev",
+        "time": "18:00",
+        "id": "270953084733231104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Nasaf Qarshi - Andijan",
         "time": "17:30",
         "id": "271289778256875520"
@@ -40,19 +61,5 @@
         "name": "Bugesera FC - Kiyovu Sport",
         "time": "16:30",
         "id": "271357736475824128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Marines FC - AS Kigali",
-        "time": "16:30",
-        "id": "271348508766900224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Bourj - Shabab Al-Ghazieh",
-        "time": "16:00",
-        "id": "271287035140116480"
     }
 ]
