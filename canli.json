@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Nouadhibou - N'Zidane",
+        "time": "22:50",
+        "id": "271294429198946304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "WAC Wydad Casablanca - Sevilla FC",
         "time": "22:00",
         "id": "271285394860019712"
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Killester United - St Mochtas",
-        "time": "21:00",
-        "id": "271219252081594368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bangor Celtic FC - Malahide",
-        "time": "21:00",
-        "id": "271282053618733056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "France U23 (W) - Czech Republic U23 (W)",
         "time": "21:00",
         "id": "271325822854500352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Goiania EC GO U20 - Itaberai GO U20",
+        "time": "21:00",
+        "id": "271367236030173184"
     }
 ]
