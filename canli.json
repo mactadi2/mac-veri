@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sao Paulo FC - Talleres de Cordoba",
+        "time": "01:00",
+        "id": "270383084921294848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vasco da Gama RJ - FBC Melgar Arequipa",
+        "time": "01:00",
+        "id": "270397490214342656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Lanus - Academia Puerto Cabello",
+        "time": "01:00",
+        "id": "270396396162650112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ge Gloria - Sport Clube Gaucho",
+        "time": "01:00",
+        "id": "271317897278787584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Corinthians U20 - Santos FC U20",
         "time": "00:00",
         "id": "271156806447927296"
@@ -12,12 +40,5 @@
         "name": "Leones Del Norte - San Antonio FC Cotacachi",
         "time": "23:30",
         "id": "271146128459829248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fram\/Ulfarnir U19 - Afturelding\/Hviti Riddarinn U19",
-        "time": "23:15",
-        "id": "271378300956446720"
     }
 ]
