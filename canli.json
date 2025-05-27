@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Puch - Salzburger AK",
+        "time": "20:00",
+        "id": "271284768571789312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AS Pompier - Chemal FC",
         "time": "20:00",
         "id": "271293100937318400"
@@ -23,9 +30,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Pitea IF - Boden City FC",
+        "name": "TUS Rein - GAK 1902 II",
         "time": "20:00",
-        "id": "271141692923580416"
+        "id": "271402764747280384"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Larsmo Bollklubb - FC Ylivieska",
         "time": "19:00",
         "id": "271377779933712384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fk Hodonin - Unicov",
-        "time": "18:30",
-        "id": "271124831043457024"
     }
 ]
