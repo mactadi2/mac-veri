@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "America Mineiro MG - Atletico Clube Goianiense",
+        "time": "01:30",
+        "id": "270534529041698816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Libertad Asuncion - Alianza Lima",
+        "time": "01:30",
+        "id": "270382972511850496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Uniao Frederiquense - Veranopolis Rs",
+        "time": "01:30",
+        "id": "271317897349042176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sao Paulo FC - Talleres de Cordoba",
         "time": "01:00",
         "id": "270383084921294848"
@@ -26,19 +47,5 @@
         "name": "Ge Gloria - Sport Clube Gaucho",
         "time": "01:00",
         "id": "271317897278787584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Corinthians U20 - Santos FC U20",
-        "time": "00:00",
-        "id": "271156806447927296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leones Del Norte - San Antonio FC Cotacachi",
-        "time": "23:30",
-        "id": "271146128459829248"
     }
 ]
