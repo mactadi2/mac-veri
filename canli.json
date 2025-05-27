@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Groningen U21 - PEC Zwolle U21",
+        "time": "19:30",
+        "id": "271295861878820864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Go Ahead Eagles U21 - ADO Den Haag U21",
+        "time": "19:30",
+        "id": "271280778798829568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Tevragh Zeina - Al-Merreikh Juba",
         "time": "19:15",
         "id": "271312531523506176"
@@ -79,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Kazlu Ruda-Svyturys - Lietava Jonava",
-        "time": "18:30",
-        "id": "271302925986435072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Bologna U20 - Empoli FC U20",
         "time": "18:00",
         "id": "271272987019317248"
@@ -96,12 +103,5 @@
         "name": "FC Kuressaare - Flora Tallinn",
         "time": "18:00",
         "id": "270953084803485696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JK Tammeka Tartu - JK Tallinna Kalev",
-        "time": "18:00",
-        "id": "270953084733231104"
     }
 ]
