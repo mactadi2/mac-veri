@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nasaf Qarshi - Andijan",
+        "time": "17:30",
+        "id": "271289778256875520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rekord Bielsko-Biala - OKS Swit Skolwin",
         "time": "17:00",
         "id": "271120402521133056"
@@ -61,12 +68,5 @@
         "name": "Olimpik-Mobiuz - PFK Aral",
         "time": "16:00",
         "id": "271242282201649152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tampines Rovers FC - Bangkok Glass Pathumthani United FC",
-        "time": "14:45",
-        "id": "271203288968466432"
     }
 ]
