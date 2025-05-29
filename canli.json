@@ -72,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "United IK Nordic - Orebro SK",
+        "time": "17:00",
+        "id": "271392154289573888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Blau Weiss Feldkirch - SV Ludesch",
         "time": "16:30",
         "id": "271483226922553344"
@@ -96,12 +103,5 @@
         "name": "Malmo FF - BK Hacken",
         "time": "16:00",
         "id": "270291300848373760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EBK - NuPS",
-        "time": "16:00",
-        "id": "271430196616368128"
     }
 ]
