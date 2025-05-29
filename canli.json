@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Telstar - Willem II Tilburg",
+        "time": "21:00",
+        "id": "271240021960429568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Hazm - Al Adalah",
+        "time": "21:00",
+        "id": "271417709243273216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Domzale - ND Triglav Kranj",
+        "time": "21:00",
+        "id": "271455236606005248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing Club de Montevideo Reserves - Danubio Reserves",
+        "time": "21:00",
+        "id": "271456967313199104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fatih Karagumruk - Bandirmaspor",
         "time": "20:00",
         "id": "271102833074507776"
@@ -9,16 +37,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "JJ Urquiza Reserves - Central Espanol Reserves",
+        "name": "El Porvenir Reserves - Estrella del Sur Reserves",
         "time": "20:00",
-        "id": "271472547105738752"
+        "id": "271495044749463552"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "El Porvenir Reserves - Estrella del Sur Reserves",
+        "name": "JJ Urquiza Reserves - Central Espanol Reserves",
         "time": "20:00",
-        "id": "271495044749463552"
+        "id": "271472547105738752"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Breidablik Kopavogur - IA Akranes",
-        "time": "19:15",
-        "id": "271231127491055616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Brommapojkarna - Djurgardens IF",
-        "time": "19:00",
-        "id": "270962888492060672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Agropecuario Reserves - CA Atlanta Reserves",
-        "time": "19:00",
-        "id": "271487897653350400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Mitre Reserves - Arsenal De Sarandi Reserves",
-        "time": "19:00",
-        "id": "271487897739333632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Brann Bergen - Molde FK",
-        "time": "19:00",
-        "id": "270941473710673920"
+        "name": "Royal Antwerp FC - Royal Charleroi SC",
+        "time": "19:30",
+        "id": "271282825600307200"
     }
 ]
