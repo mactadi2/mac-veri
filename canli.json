@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "TS Wisla Krakow - Miedz Legnica",
+        "time": "22:00",
+        "id": "271281753302372352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Reims - FC Metz",
         "time": "21:30",
         "id": "270882002580934656"
@@ -37,6 +44,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NK Domzale - ND Triglav Kranj",
+        "time": "21:00",
+        "id": "271455236606005248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing Club de Montevideo Reserves - Danubio Reserves",
+        "time": "21:00",
+        "id": "271456967313199104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Botafogo RJ U20 - Fortaleza CE U20",
+        "time": "21:00",
+        "id": "271325079136243712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo La Coruna U19 - Real Betis Balompie Under 19",
+        "time": "21:00",
+        "id": "271417251324891136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ca Huracan Reserves - Barracas Central Reserves",
+        "time": "21:00",
+        "id": "271309737638891520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union Santa Fe Reserves - CA Belgrano Cordoba Reserves",
+        "time": "21:00",
+        "id": "271310695269797888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Beitar Jerusalem - Hapoel Beer-Sheva",
+        "time": "20:30",
+        "id": "271240020910804992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fatih Karagumruk - Bandirmaspor",
         "time": "20:00",
         "id": "271102833074507776"
@@ -44,64 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "El Porvenir Reserves - Estrella del Sur Reserves",
-        "time": "20:00",
-        "id": "271495044749463552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JJ Urquiza Reserves - Central Espanol Reserves",
-        "time": "20:00",
-        "id": "271472547105738752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chacarita Juniors Reserves - All Boys Reserves",
-        "time": "20:00",
-        "id": "271424573096988672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "General Lamadrid Reserves - Berazategui Reserves",
-        "time": "20:00",
-        "id": "271473316682928128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Tristan Suarez Reserves - Defensores De Belgrano",
         "time": "20:00",
         "id": "271488968878592000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Ittihad Al Sakandary - ENPPI Club",
-        "time": "20:00",
-        "id": "271221640875085824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ghazl Al Mehalla - Ismaily SC",
-        "time": "20:00",
-        "id": "271221640682147840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Talaea El Gaish - Modern Sport FC",
-        "time": "20:00",
-        "id": "271221640456704000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Masr (ZED) - Smouha",
-        "time": "20:00",
-        "id": "271206594240450560"
     }
 ]
