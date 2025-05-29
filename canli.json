@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Reims - FC Metz",
+        "time": "21:30",
+        "id": "270882002580934656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cremonese - Spezia",
+        "time": "21:30",
+        "id": "271242579304124416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Flandria Reserves - Ferrocarril Midland Reserves",
+        "time": "21:30",
+        "id": "271493939662557184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Telstar - Willem II Tilburg",
         "time": "21:00",
         "id": "271240021960429568"
@@ -12,20 +33,6 @@
         "name": "Al Hazm - Al Adalah",
         "time": "21:00",
         "id": "271417709243273216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Domzale - ND Triglav Kranj",
-        "time": "21:00",
-        "id": "271455236606005248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Racing Club de Montevideo Reserves - Danubio Reserves",
-        "time": "21:00",
-        "id": "271456967313199104"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "FC Masr (ZED) - Smouha",
         "time": "20:00",
         "id": "271206594240450560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Royal Antwerp FC - Royal Charleroi SC",
-        "time": "19:30",
-        "id": "271282825600307200"
     }
 ]
