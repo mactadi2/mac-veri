@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Jaguares de Cordoba - Internacional Fc De Palmira",
+        "time": "01:15",
+        "id": "271459941259284480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Penarol Montevideo - Velez Sarsfield",
+        "time": "01:00",
+        "id": "270363749599285248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Olimpia Asuncion - San Antonio Bulo Bulo",
+        "time": "01:00",
+        "id": "270387195555221504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Godoy Cruz - Atletico Grau",
+        "time": "01:00",
+        "id": "270396029323579392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gremio Porto Alegrense RS - Sportivo Luqueno",
+        "time": "01:00",
+        "id": "270395994695405568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Serc Brasil De Farroupilha RS U20 - Real SC RS U20",
+        "time": "01:00",
+        "id": "271547270096359424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Honduras (W) - Dominican Republic (W)",
         "time": "00:00",
         "id": "271472209227288576"
@@ -26,26 +68,5 @@
         "name": "Guayaquil City - Gualaceo SC",
         "time": "23:30",
         "id": "271240009987788800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mexico U20 (W) - Nicaragua U20 (W)",
-        "time": "23:00",
-        "id": "271470535603523584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Kivon - Universitario Beni",
-        "time": "23:00",
-        "id": "271557983384768512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Santander - Union Magdalena Santa Marta",
-        "time": "23:00",
-        "id": "271558034473488384"
     }
 ]
