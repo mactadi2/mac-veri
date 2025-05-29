@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guayaquil City - Gualaceo SC",
+        "time": "23:30",
+        "id": "271240009987788800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mexico U20 (W) - Nicaragua U20 (W)",
         "time": "23:00",
         "id": "271470535603523584"
@@ -68,33 +75,5 @@
         "name": "Reims - FC Metz",
         "time": "21:30",
         "id": "270882002580934656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cremonese - Spezia",
-        "time": "21:30",
-        "id": "271242579304124416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Flandria Reserves - Ferrocarril Midland Reserves",
-        "time": "21:30",
-        "id": "271493939662557184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Mornar Bar - FK Decic Tuzi",
-        "time": "21:30",
-        "id": "271475067248054272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "24 de Setiembre - Fulgencio Yegros",
-        "time": "21:30",
-        "id": "271462346360229888"
     }
 ]
