@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Stjarnan - KR Reykjavik",
+        "time": "22:15",
+        "id": "271140518861344768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "TS Wisla Krakow - Miedz Legnica",
         "time": "22:00",
         "id": "271281753302372352"
@@ -96,12 +103,5 @@
         "name": "Fatih Karagumruk - Bandirmaspor",
         "time": "20:00",
         "id": "271102833074507776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tristan Suarez Reserves - Defensores De Belgrano",
-        "time": "20:00",
-        "id": "271488968878592000"
     }
 ]
