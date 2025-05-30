@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tobol Kostanay - FC Atyrau",
+        "time": "16:30",
+        "id": "271240016088403968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sleza Wroclaw - Stal Brzeg",
+        "time": "16:30",
+        "id": "271311950988840960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Muniz Reserves - Lujan Reserves",
         "time": "16:00",
         "id": "271643058641178624"
@@ -33,6 +47,13 @@
         "name": "Colon FC - Tacuarembo",
         "time": "16:00",
         "id": "271459260520599552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MUST CPK Elite - University of Macau",
+        "time": "16:00",
+        "id": "271479037661155328"
     },
     {
         "tur": "live",
@@ -82,12 +103,5 @@
         "name": "Kazakhstan (W) - Lihtenştayn (Kadınlar)",
         "time": "15:00",
         "id": "271504529386770432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Unia Tarnow - NKP Podhale",
-        "time": "14:30",
-        "id": "271299870267150336"
     }
 ]
