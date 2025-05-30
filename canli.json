@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Toronto Fc Ii - Crown Legacy FC",
+        "time": "02:00",
+        "id": "271240005686530048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Reading United (W) - Pennsylvania Classics (W)",
+        "time": "02:00",
+        "id": "271658222024265728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Pride (W) - Lou Fusz Athletic (W)",
+        "time": "02:00",
+        "id": "271658188475076608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Ibarra - San Antonio FC Cotacachi",
+        "time": "02:00",
+        "id": "271516496785707008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Assisense U23 - Santacruzense U23",
         "time": "01:30",
         "id": "271568660723798016"
@@ -61,26 +89,5 @@
         "name": "EC Futgol U20 - Uberaba SC MG U20",
         "time": "00:30",
         "id": "271567508889276416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "New York Red Bulls Ii - Atlanta United II",
-        "time": "00:00",
-        "id": "271240005612081152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fortaleza FC - Bogota FC",
-        "time": "00:00",
-        "id": "271597164126408704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orsomarso - Envigado",
-        "time": "00:00",
-        "id": "271597085004009472"
     }
 ]
