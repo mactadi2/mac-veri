@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Illes Akademia Haladas U19  - Gyori ETO FC U19",
+        "time": "14:00",
+        "id": "271521138533863424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Adelaide City - White City Beograd",
         "time": "13:45",
         "id": "271240015009419264"
@@ -96,12 +103,5 @@
         "name": "Broadmeadow Magic - New Lambton",
         "time": "13:00",
         "id": "271240011327868928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dandenong City - Dandenong Thunder",
-        "time": "12:45",
-        "id": "271240016713355264"
     }
 ]
