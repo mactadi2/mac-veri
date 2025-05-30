@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "BSK Bijelo Brdo - NK Dubrava Zagreb",
+        "time": "18:30",
+        "id": "271390320767406080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Velke Mezirici - FC Spartak Velka Bites",
+        "time": "18:30",
+        "id": "271663026533437440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Apos Blansko - TJ Start Brno",
+        "time": "18:30",
+        "id": "271396799811555328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Znojmo - Hlubina",
+        "time": "18:30",
+        "id": "271490054960058368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AIFK Turku - Toejoen Veikot",
+        "time": "18:30",
+        "id": "271513276590985216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mipk Mikkeli - FC LaPa",
+        "time": "18:30",
+        "id": "271517168863154176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "GOSK Gabela - HSK Zrinjski Mostar",
         "time": "18:00",
         "id": "271553503148773376"
@@ -51,41 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dibba AL Fujairah - Al Jazira Hamra",
-        "time": "17:15",
-        "id": "271560583860588544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Arabi Umm Al Quwain - AL Dhafra",
-        "time": "17:15",
-        "id": "271553592996007936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hatta Dubai - Gulf United FC",
-        "time": "17:15",
-        "id": "271553593054728192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Masfout Club - Dubai United FC",
-        "time": "17:15",
-        "id": "271553593424875520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Majd FC - Fujairah FC",
-        "time": "17:15",
-        "id": "271553593823334400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Yupanqui Reserves - CA Lugano Reserves",
         "time": "17:00",
         "id": "271564340319096832"
@@ -96,12 +103,5 @@
         "name": "Zaglebie Lubin II - OKS Swit Skolwin",
         "time": "17:00",
         "id": "271240009765490688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tobol Kostanay - FC Atyrau",
-        "time": "16:30",
-        "id": "271240016088403968"
     }
 ]
