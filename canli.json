@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "GOSK Gabela - HSK Zrinjski Mostar",
+        "time": "18:00",
+        "id": "271553503148773376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Igman Konjic - FK Borac Banjaluka",
+        "time": "18:00",
+        "id": "271553502877192192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tanzania (W) - DR Congo (W)",
+        "time": "18:00",
+        "id": "271456057889525760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ethiopia Nigd Bank - Dire Dawa",
+        "time": "18:00",
+        "id": "271486306313441280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "LKS Lodz II - GKS Jastrzebie",
+        "time": "18:00",
+        "id": "271240009701527552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Jelgava - FK Liepaja",
+        "time": "18:00",
+        "id": "271240009516978176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Aktobe - Kairat Almaty",
+        "time": "18:00",
+        "id": "271240015828357120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Dibba AL Fujairah - Al Jazira Hamra",
         "time": "17:15",
         "id": "271560583860588544"
@@ -9,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hatta Dubai - Gulf United FC",
+        "name": "Al Arabi Umm Al Quwain - AL Dhafra",
         "time": "17:15",
-        "id": "271553593054728192"
+        "id": "271553592996007936"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Al Arabi Umm Al Quwain - AL Dhafra",
+        "name": "Hatta Dubai - Gulf United FC",
         "time": "17:15",
-        "id": "271553592996007936"
+        "id": "271553593054728192"
     },
     {
         "tur": "live",
@@ -33,13 +82,6 @@
         "name": "Majd FC - Fujairah FC",
         "time": "17:15",
         "id": "271553593823334400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Dhaid - Al Hamriyah",
-        "time": "17:15",
-        "id": "271553593151197184"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Tobol Kostanay - FC Atyrau",
         "time": "16:30",
         "id": "271240016088403968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sleza Wroclaw - Stal Brzeg",
-        "time": "16:30",
-        "id": "271311950988840960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Canuelas FC Reserves - Victoriano Arenas Reserves",
-        "time": "16:00",
-        "id": "271659312848441344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Elimai FC - FC Astana",
-        "time": "16:00",
-        "id": "271240015960477696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zhenys - Ordabasy Shymkent",
-        "time": "16:00",
-        "id": "271240015896514560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colon FC - Tacuarembo",
-        "time": "16:00",
-        "id": "271459260520599552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MUST CPK Elite - University of Macau",
-        "time": "16:00",
-        "id": "271479037661155328"
     }
 ]
