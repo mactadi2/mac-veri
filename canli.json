@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "General Caballero JLM - Nacional Asuncion",
+        "time": "23:00",
+        "id": "271360595021926400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sportivo San Lorenzo - 12 de Junio de Villa Hayes",
         "time": "22:30",
         "id": "271306572162011136"
@@ -96,12 +103,5 @@
         "name": "Fiorentina U20 - Internazionale Milano U20",
         "time": "21:30",
         "id": "271546275520974848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Siroki Brijeg - FK Sloboda Tuzla",
-        "time": "21:00",
-        "id": "271553502818471936"
     }
 ]
