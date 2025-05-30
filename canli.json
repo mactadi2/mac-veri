@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Oriental - Atenas",
+        "time": "02:30",
+        "id": "271459260446150656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide City Reserves (W) - Adelaide University Reserves (W)",
+        "time": "02:30",
+        "id": "271533709955567616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Toronto Fc Ii - Crown Legacy FC",
         "time": "02:00",
         "id": "271240005686530048"
@@ -19,6 +33,13 @@
         "name": "FC Pride (W) - Lou Fusz Athletic (W)",
         "time": "02:00",
         "id": "271658188475076608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter Moengotapoe - PVV",
+        "time": "02:00",
+        "id": "271497420624498688"
     },
     {
         "tur": "live",
@@ -75,19 +96,5 @@
         "name": "Velo Clube U20 - CA Juventus SP U20",
         "time": "01:00",
         "id": "271423380047138816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Concon National - CSD San Antonio Unido",
-        "time": "00:30",
-        "id": "271493781346455552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EC Futgol U20 - Uberaba SC MG U20",
-        "time": "00:30",
-        "id": "271567508889276416"
     }
 ]
