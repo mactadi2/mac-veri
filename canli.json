@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NK Siroki Brijeg - FK Sloboda Tuzla",
+        "time": "21:00",
+        "id": "271553502818471936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Thor Akureyri - Fylkir Reykjavik",
+        "time": "21:00",
+        "id": "271240011625664512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Corinthians U20 - Ituano SP U20",
+        "time": "21:00",
+        "id": "271406070002487296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Galatasaray SK - İstanbul Başakşehir FK",
         "time": "20:00",
         "id": "271217957622910976"
@@ -58,50 +79,29 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Atus Velden - Asco Atsv Wolfsberg",
-        "time": "19:30",
-        "id": "271541889546719232"
+        "name": "Skeid Oslo - IL Hodd Ulsteinvik",
+        "time": "20:00",
+        "id": "271040549105045504"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Beskid Andrychow - MKS Limanovia Limanowa",
-        "time": "19:00",
-        "id": "271479542680522752"
+        "name": "Flora Tallinn - JK Tammeka Tartu",
+        "time": "20:00",
+        "id": "271240002805043200"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CF Akbou - CS Constantine",
-        "time": "19:00",
-        "id": "271240004286681088"
+        "name": "Akademisk Boldklub Gladsaxe - Fremad Amager",
+        "time": "20:00",
+        "id": "271494146826571776"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Gerasdorf Stammersdorf - SV Donau",
-        "time": "19:00",
-        "id": "271545054086172672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Mannsworth - Hellas Kagran",
-        "time": "19:00",
-        "id": "271545097544404992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Resovia Rzeszow - Skra Czestochowa",
-        "time": "19:00",
-        "id": "271240009836793856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Zalgiris Kaunas - DFK Dainava Alytus",
-        "time": "19:00",
-        "id": "271240021362741248"
+        "name": "VJS Vantaa II - Espoon Tikka",
+        "time": "20:00",
+        "id": "271511371992141824"
     }
 ]
