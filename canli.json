@@ -2,23 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bohemian FC Dublin - Derry City",
+        "time": "21:45",
+        "id": "271048003541929984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sligo Rovers FC - St Patrick's Athletic",
+        "time": "21:45",
+        "id": "271048003341651968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cork City FC - Shelbourne FC",
+        "time": "21:45",
+        "id": "271048003449655296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Waterford FC - Drogheda United",
+        "time": "21:45",
+        "id": "271048003259863040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Castellon - Real Zaragoza",
+        "time": "21:30",
+        "id": "271263158103052288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fiorentina U20 - Internazionale Milano U20",
+        "time": "21:30",
+        "id": "271546275520974848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NK Siroki Brijeg - FK Sloboda Tuzla",
         "time": "21:00",
         "id": "271553502818471936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Thor Akureyri - Fylkir Reykjavik",
-        "time": "21:00",
-        "id": "271240011625664512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Corinthians U20 - Ituano SP U20",
-        "time": "21:00",
-        "id": "271406070002487296"
     },
     {
         "tur": "live",
@@ -58,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "UFC Fehring - SV Frohnleiten",
-        "time": "20:00",
-        "id": "271545128505708544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Ask Klagenfurt Ii - St. Veit",
         "time": "20:00",
         "id": "271543133647540224"
@@ -82,26 +103,5 @@
         "name": "Skeid Oslo - IL Hodd Ulsteinvik",
         "time": "20:00",
         "id": "271040549105045504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Flora Tallinn - JK Tammeka Tartu",
-        "time": "20:00",
-        "id": "271240002805043200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Akademisk Boldklub Gladsaxe - Fremad Amager",
-        "time": "20:00",
-        "id": "271494146826571776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VJS Vantaa II - Espoon Tikka",
-        "time": "20:00",
-        "id": "271511371992141824"
     }
 ]
