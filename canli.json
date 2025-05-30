@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dandenong City - Dandenong Thunder",
+        "time": "12:45",
+        "id": "271240016713355264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Heidelberg United - St Albans Saints Sc",
         "time": "12:30",
         "id": "271240016641003520"
@@ -65,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chernihiv - Skala Stryi",
+        "time": "12:00",
+        "id": "271614870988918784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Adelaide City (W) - Adelaide University (W)",
         "time": "11:45",
         "id": "271531804085850112"
@@ -89,19 +103,5 @@
         "name": "Oakleigh Cannons U23 - Port Melbourne U23",
         "time": "11:15",
         "id": "271524023501983744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SFC Opava U19 - Fc Viktoria Plzen U19",
-        "time": "11:00",
-        "id": "271459835172753408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Broadmeadow Magic FC Reserves - New Lambton Reserves",
-        "time": "11:00",
-        "id": "271524325944856576"
     }
 ]
