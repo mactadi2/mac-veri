@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Beskid Andrychow - MKS Limanovia Limanowa",
+        "time": "19:00",
+        "id": "271479542680522752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CF Akbou - CS Constantine",
+        "time": "19:00",
+        "id": "271240004286681088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Gerasdorf Stammersdorf - SV Donau",
+        "time": "19:00",
+        "id": "271545054086172672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Mannsworth - Hellas Kagran",
+        "time": "19:00",
+        "id": "271545097544404992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Resovia Rzeszow - Skra Czestochowa",
+        "time": "19:00",
+        "id": "271240009836793856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Zalgiris Kaunas - DFK Dainava Alytus",
+        "time": "19:00",
+        "id": "271240021362741248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valasske Mezirici - SK Hranice",
+        "time": "19:00",
+        "id": "271490054211375104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "BSK Bijelo Brdo - NK Dubrava Zagreb",
         "time": "18:30",
         "id": "271390320767406080"
@@ -12,34 +61,6 @@
         "name": "FC Velke Mezirici - FC Spartak Velka Bites",
         "time": "18:30",
         "id": "271663026533437440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Apos Blansko - TJ Start Brno",
-        "time": "18:30",
-        "id": "271396799811555328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Znojmo - Hlubina",
-        "time": "18:30",
-        "id": "271490054960058368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AIFK Turku - Toejoen Veikot",
-        "time": "18:30",
-        "id": "271513276590985216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mipk Mikkeli - FC LaPa",
-        "time": "18:30",
-        "id": "271517168863154176"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "FK Jelgava - FK Liepaja",
         "time": "18:00",
         "id": "271240009516978176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Aktobe - Kairat Almaty",
-        "time": "18:00",
-        "id": "271240015828357120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yupanqui Reserves - CA Lugano Reserves",
-        "time": "17:00",
-        "id": "271564340319096832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zaglebie Lubin II - OKS Swit Skolwin",
-        "time": "17:00",
-        "id": "271240009765490688"
     }
 ]
