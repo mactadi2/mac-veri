@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "West Torrens Birkalla - Para Hills Knights",
+        "time": "13:45",
+        "id": "271240014933921792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide City - White City Beograd",
+        "time": "13:45",
+        "id": "271240015009419264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sportivo Ameliano Reserves - Cerro Porteno Reserve",
         "time": "13:30",
         "id": "271649438081093632"
@@ -12,13 +26,6 @@
         "name": "Hume City - Green Gully Cavaliers SC",
         "time": "13:30",
         "id": "271240016791998464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Altona City - Whittlesea United SC",
-        "time": "13:30",
-        "id": "271482675587584000"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Nunawading City - Box Hill United",
         "time": "12:30",
         "id": "271492253148647424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Osijek U19 - HNK Sibenik U19",
-        "time": "12:00",
-        "id": "271581063596347392"
     }
 ]
