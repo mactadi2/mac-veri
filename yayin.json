@@ -1,113 +1,71 @@
 [
     {
         "type": "futbol",
-        "name": "Fluminense - Once Caldas",
-        "day": "30",
-        "time": "03:30",
-        "channel": "S Sport 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Türkiye - İrlanda",
-        "day": "30",
-        "time": "20:00",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Antalyaspor - Trabzonspor",
-        "day": "30",
-        "time": "20:00",
+        "name": "Ç.Rizespor - Hatayspor",
+        "day": "31",
+        "time": "16:00",
         "channel": "Bein Sports 2"
     },
     {
         "type": "futbol",
-        "name": "Kasımpaşa - Göztepe",
-        "day": "30",
-        "time": "20:00",
-        "channel": "Bein Sports 3"
-    },
-    {
-        "type": "futbol",
-        "name": "Galatasaray - Rams Başakşehir",
-        "day": "30",
-        "time": "20:00",
+        "name": "Fenerbahçe - Konyaspor",
+        "day": "31",
+        "time": "16:00",
         "channel": "Bein Sports 1"
     },
     {
-        "type": "basketbol",
-        "name": "New York Knicks - Indiana Pacers",
-        "day": "30",
-        "time": "03:00",
-        "channel": "S Sport"
+        "type": "futbol",
+        "name": "Alanyaspor - Sivasspor",
+        "day": "31",
+        "time": "19:00",
+        "channel": "Bein Sports 1"
+    },
+    {
+        "type": "futbol",
+        "name": "Adana Demirspor - Gaziantep FK",
+        "day": "31",
+        "time": "19:00",
+        "channel": "Bein Sports 2"
+    },
+    {
+        "type": "futbol",
+        "name": "PSG - Inter",
+        "day": "31",
+        "time": "22:00",
+        "channel": "TRT 1"
     },
     {
         "type": "basketbol",
-        "name": "Anadolu Efes - Mersin Spor",
-        "day": "30",
+        "name": "Bahçeşehir Klj - Tofaş",
+        "day": "31",
         "time": "18:00",
         "channel": "Bein Sports 5"
     },
     {
         "type": "basketbol",
-        "name": "Zaragoza - Real Madrid",
-        "day": "30",
-        "time": "19:30",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "basketbol",
-        "name": "Bilbao Basket - Barcelona",
-        "day": "30",
-        "time": "19:30",
-        "channel": "Spor Smart 2"
-    },
-    {
-        "type": "basketbol",
-        "name": "Beşiktaş Fibabanka - Galatasaray",
-        "day": "30",
+        "name": "Türk Telekom - Fenerbahçe Beko",
+        "day": "31",
         "time": "20:30",
         "channel": "Bein Sports 5"
     },
     {
-        "type": "basketbol",
-        "name": "Valencia Basket - Breogan",
-        "day": "30",
-        "time": "22:00",
-        "channel": "Spor Smart 2"
-    },
-    {
-        "type": "basketbol",
-        "name": "Manresa - Iberostar Tenerife",
-        "day": "30",
-        "time": "22:00",
-        "channel": "Spor Smart"
-    },
-    {
         "type": "tenis",
-        "name": "Calvo\/Ulrich - Araujo\/Prieto",
-        "day": "30",
-        "time": "15:00",
+        "name": "Martin\/Fallada - Calvo\/Ulrich",
+        "day": "31",
+        "time": "20:30",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "Martin\/Fallada - Zielinski\/Pelegri",
-        "day": "30",
-        "time": "17:00",
+        "name": "Sanchez\/Fernandez - Senesi\/Pons",
+        "day": "31",
+        "time": "22:30",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "Nenno\/Tello - Chingotto\/Galan",
-        "day": "30",
-        "time": "19:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Alcorisa\/Jensen - Senesi\/Pons",
-        "day": "30",
+        "name": "Bilinmiyor - Bilinmiyor",
+        "day": "31",
         "time": "23:30",
         "channel": "Bein Sports Max 1"
     }
