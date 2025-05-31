@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Belmont Swansea United SC Reserves - Valentine Phoenix Reserves",
+        "time": "07:30",
+        "id": "271537202615422976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Clarence Zebras - Launceston City",
+        "time": "07:30",
+        "id": "271240017435824128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Devonport City Strikers - Kingborough Lions",
+        "time": "07:30",
+        "id": "271240017363472384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tasmania University SC - Clarence Zebras Reserves",
+        "time": "07:30",
+        "id": "271607062143832064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Honda F.C. - Grulla Morioka",
         "time": "07:00",
         "id": "271637638586437632"
@@ -30,34 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vonds Ichihara - Toho Titanium",
-        "time": "07:00",
-        "id": "271629716817055744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South Hobart (W) - Glenorchy Knights (W)",
-        "time": "07:00",
-        "id": "271608154160238592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Veertien Mie (W) - Nankatsu SC (W)",
-        "time": "07:00",
-        "id": "271628735701192704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Labasa - Nadi",
-        "time": "07:00",
-        "id": "271645184536743936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Adelaide City Reserves - White City Reserves",
         "time": "06:45",
         "id": "271567858872487936"
@@ -65,9 +65,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Metro Stars Reserves - Campbelltown Reserves",
+        "time": "06:15",
+        "id": "271540635392151552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Playford City Patriots Reserves - Croydon Kings Reserves",
+        "time": "06:15",
+        "id": "271567705509859328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "The Cove FC Reserves - Sturt Lions Reserves",
         "time": "06:15",
         "id": "271624647452266496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Adelaide Reserves - Adelaide Cobras Reserves",
+        "time": "06:15",
+        "id": "271624647531958272"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Fulham United Reserves - Pontian Eagles Reserves",
         "time": "06:15",
         "id": "271625418545696768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Altona Magic U23 - Preston Lions U23",
-        "time": "05:45",
-        "id": "271517009484845056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide Comets Reserves - Modbury Jets Reserves",
-        "time": "05:45",
-        "id": "271535938286522368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Upper Hutt City FC - Western Suburbs",
-        "time": "05:00",
-        "id": "271651208998031360"
     }
 ]
