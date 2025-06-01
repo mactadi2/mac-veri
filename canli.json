@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cruzeiro MG - Palmeiras",
+        "time": "01:30",
+        "id": "270572874598846464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Seattle Sounders - Minnesota United",
         "time": "01:00",
         "id": "271295147044638720"
@@ -65,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportes Concepcion - Santiago Wanderers",
+        "time": "00:30",
+        "id": "271252069831282688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Independiente Santa Fe - Club Deportivo Los Millonarios",
         "time": "00:05",
         "id": "271293248624005120"
@@ -89,19 +103,5 @@
         "name": "Eagles Cunupia FC - Morvant Caledonia United",
         "time": "00:00",
         "id": "271738320352055296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Cuenca - Universidad Catolica Quito",
-        "time": "23:30",
-        "id": "271237052124762112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cerro Largo FC - Penarol Montevideo",
-        "time": "23:30",
-        "id": "271275336682049536"
     }
 ]
