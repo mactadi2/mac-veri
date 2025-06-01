@@ -65,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dandenong City U23 - Dandenong Thunder U23",
+        "time": "08:00",
+        "id": "271542838129463296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Verspah Oita - Tokyo Musashino United FC",
         "time": "07:00",
         "id": "271697567003316224"
@@ -96,12 +103,5 @@
         "name": "Maruyasu Industries SC - Atletico Suzuka Club",
         "time": "07:00",
         "id": "271697503828709376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Charlestown Azzurri - Newcastle Olympic",
-        "time": "07:00",
-        "id": "271273881177821184"
     }
 ]
