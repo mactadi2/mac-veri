@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AD Confianca SE - Brusque",
+        "time": "22:30",
+        "id": "271168539551993856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Breidablik Kopavogur - Vikingur Reykjavik",
         "time": "22:15",
         "id": "271331494821236736"
@@ -96,12 +103,5 @@
         "name": "Sportivo Trinidense - Guarani Asuncion",
         "time": "22:00",
         "id": "271331109337436160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vizela - AVS Futebol SAD",
-        "time": "21:45",
-        "id": "271290559814045696"
     }
 ]
