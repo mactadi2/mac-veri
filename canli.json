@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Flamengo RJ - Fortaleza CE",
+        "time": "00:30",
+        "id": "270572708697346048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Corinthians Paulista - EC Vitoria",
+        "time": "00:30",
+        "id": "270572599460892672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ceara SC CE - Atletico Mineiro",
+        "time": "00:30",
+        "id": "270572524163698688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union La Calera - Colo Colo",
+        "time": "00:30",
+        "id": "271062978856620032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportes Concepcion - Santiago Wanderers",
+        "time": "00:30",
+        "id": "271252069831282688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Independiente Santa Fe - Club Deportivo Los Millonarios",
         "time": "00:05",
         "id": "271293248624005120"
@@ -68,40 +103,5 @@
         "name": "Urena Fc - Puerto Cabello Reserves",
         "time": "23:00",
         "id": "271739121348775936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AD Confianca SE - Brusque",
-        "time": "22:30",
-        "id": "271168539551993856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tombense MG - Anapolis FC",
-        "time": "22:30",
-        "id": "271167807218126848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trujillanos FC - Barquisimeto",
-        "time": "22:30",
-        "id": "271686482674192384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Monagas II - Bolivar SC",
-        "time": "22:30",
-        "id": "271686482575626240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico El Vigia - Falcon Heroes FC",
-        "time": "22:30",
-        "id": "271739187917623296"
     }
 ]
