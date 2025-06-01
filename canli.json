@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Huracan - Platense",
+        "time": "23:00",
+        "id": "271626875974062080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Santos FC Sao Paulo  - Botafogo RJ",
         "time": "22:00",
         "id": "270572338230202368"
@@ -96,12 +103,5 @@
         "name": "Talleres Remedios Escalada - Almirante Brown de Lules",
         "time": "21:30",
         "id": "271306440347619328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fh Hafnarfjördur - UMF Afturelding",
-        "time": "21:00",
-        "id": "271461780073615360"
     }
 ]
