@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vizela - AVS Futebol SAD",
+        "time": "21:45",
+        "id": "271290559814045696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Spezia - Cremonese",
+        "time": "21:30",
+        "id": "271357437894856704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Madryn - Club Atletico Colegiales",
+        "time": "21:30",
+        "id": "271306352328052736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Maipu - CA Atlanta",
+        "time": "21:30",
+        "id": "271271903018225664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Alvarado - Arsenal de Sarandi",
+        "time": "21:30",
+        "id": "271271902741401600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Defensores de Belgrano - Gimnasia Mendoza",
+        "time": "21:30",
+        "id": "271271902278979584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA San Telmo - Agropecuario",
+        "time": "21:30",
+        "id": "271271902551609344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Defensores Unidos - Colon de Santa Fe",
+        "time": "21:30",
+        "id": "271271902224453632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Talleres Remedios Escalada - Almirante Brown de Lules",
+        "time": "21:30",
+        "id": "271306440347619328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fh Hafnarfjördur - UMF Afturelding",
         "time": "21:00",
         "id": "271461780073615360"
@@ -12,13 +75,6 @@
         "name": "IA Akranes - IBV Vestmannaeyjar",
         "time": "21:00",
         "id": "271461780147015680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Badajoz - AD Llerenense",
-        "time": "21:00",
-        "id": "271678926823231488"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "KA Akureyri - Stjarnan",
         "time": "20:00",
         "id": "271322881495011328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Levante - Eibar",
-        "time": "19:30",
-        "id": "271219762656317440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo La Coruna - Elche",
-        "time": "19:30",
-        "id": "271219763018076160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Oviedo - Cadiz",
-        "time": "19:30",
-        "id": "271219762576625664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Cartagena - CD Mirandes",
-        "time": "19:30",
-        "id": "271219762786340864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Racing Santander - Granada CF",
-        "time": "19:30",
-        "id": "271219762721329152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Deportiva Almeria - Tenerife",
-        "time": "19:30",
-        "id": "271219762934190080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Huesca - Eldense",
-        "time": "19:30",
-        "id": "271219763177459712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Randers FC - Silkeborg IF",
-        "time": "19:30",
-        "id": "271724957701115904"
     }
 ]
