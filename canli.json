@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FK Suduva Marijampole - FK Riteriai",
+        "time": "16:30",
+        "id": "271464432658419712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Helsingborgs IF - Ostersunds FK",
         "time": "16:00",
         "id": "271206140266811392"
@@ -51,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Silver Strikers - Civil Service Utd",
+        "time": "15:30",
+        "id": "271760179251515392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Malmo FF - BK Hacken",
         "time": "15:00",
         "id": "271202292830703616"
@@ -89,19 +103,5 @@
         "name": "Admira Praha II - FC Predni Kopanina",
         "time": "15:00",
         "id": "271656262493671424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Parnu JK Vaprus - FC Kuressaare",
-        "time": "14:30",
-        "id": "271290550263615488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Vorskla Poltava - FK Kudrivka",
-        "time": "13:00",
-        "id": "271725649696264192"
     }
 ]
