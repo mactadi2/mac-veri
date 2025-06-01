@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Levante - Eibar",
+        "time": "19:30",
+        "id": "271219762656317440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo La Coruna - Elche",
+        "time": "19:30",
+        "id": "271219763018076160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Oviedo - Cadiz",
+        "time": "19:30",
+        "id": "271219762576625664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Cartagena - CD Mirandes",
+        "time": "19:30",
+        "id": "271219762786340864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union Deportiva Almeria - Tenerife",
+        "time": "19:30",
+        "id": "271219762934190080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing Santander - Granada CF",
+        "time": "19:30",
+        "id": "271219762721329152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SD Huesca - Eldense",
+        "time": "19:30",
+        "id": "271219763177459712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Randers FC - Silkeborg IF",
+        "time": "19:30",
+        "id": "271724957701115904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bodrumspor - Besiktas JK",
         "time": "19:00",
         "id": "271218058284109824"
@@ -37,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Claypole - CA Ituzaingo",
-        "time": "19:00",
-        "id": "271243628172677120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FF Jaro - FC Inter Turku",
-        "time": "18:30",
-        "id": "271215990608629760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FK Haugesund - FK Bodo Glimt",
         "time": "18:00",
         "id": "271213924643377152"
@@ -61,47 +103,5 @@
         "name": "Rosenborg BK - KFUM Oslo",
         "time": "18:00",
         "id": "271214287188529152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Brann Bergen - Kristiansund BK",
-        "time": "18:00",
-        "id": "271213924578365440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bryne FK - Sandefjord",
-        "time": "18:00",
-        "id": "271214099831066624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IK Oddevold - Landskrona Bois",
-        "time": "18:00",
-        "id": "271213924824780800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IK Sirius FK - AIK",
-        "time": "17:30",
-        "id": "271212208271265792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wisla Plock - Miedz Legnica",
-        "time": "17:30",
-        "id": "271669926220140544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Oldham Athletic - Southend United",
-        "time": "17:00",
-        "id": "270914068305547264"
     }
 ]
