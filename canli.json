@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mirassol FC - Sport Club do Recife",
+        "time": "17:00",
+        "id": "270572121028169728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Oldham Athletic - Southend United",
+        "time": "17:00",
+        "id": "270914068305547264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KR Reykjavik - IF Vestri",
+        "time": "17:00",
+        "id": "271311584303910912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "General Lamadrid - Deportivo Paraguayo",
+        "time": "17:00",
+        "id": "271243628226154496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico River Plate - Defensor Sporting",
+        "time": "17:00",
+        "id": "271275335770836992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Nenzing - Blau Weiss Feldkirch",
+        "time": "17:00",
+        "id": "271734474545434624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JK Tallinna Kalev - JK Nomme Kalju",
+        "time": "17:00",
+        "id": "271290550175535104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FK Suduva Marijampole - FK Riteriai",
         "time": "16:30",
         "id": "271464432658419712"
@@ -44,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fk Arsenal Ceska Lipa - SK Sokol Brozany",
-        "time": "16:00",
-        "id": "271486967404957696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Fredrikstad FK - Sarpsborg 08",
         "time": "15:30",
         "id": "271204509442772992"
@@ -61,47 +103,5 @@
         "name": "Metalist 1925 - FC Levy Bereg Kiev",
         "time": "15:30",
         "id": "271725649636495360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Silver Strikers - Civil Service Utd",
-        "time": "15:30",
-        "id": "271760179251515392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malmo FF - BK Hacken",
-        "time": "15:00",
-        "id": "271202292830703616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Brommapojkarna - IFK Goteborg",
-        "time": "15:00",
-        "id": "271202430159556608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Halmstads BK - Djurgardens IF",
-        "time": "15:00",
-        "id": "271202540792713216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rekord Bielsko-Biala - Wisla Pulawy",
-        "time": "15:00",
-        "id": "271553549181259776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Songkhla FC - North Bangkok University",
-        "time": "15:00",
-        "id": "271739987928682496"
     }
 ]
