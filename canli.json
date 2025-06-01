@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FK Haugesund - FK Bodo Glimt",
+        "time": "18:00",
+        "id": "271213924643377152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rosenborg BK - KFUM Oslo",
+        "time": "18:00",
+        "id": "271214287188529152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Brann Bergen - Kristiansund BK",
+        "time": "18:00",
+        "id": "271213924578365440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bryne FK - Sandefjord",
+        "time": "18:00",
+        "id": "271214099831066624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IK Oddevold - Landskrona Bois",
+        "time": "18:00",
+        "id": "271213924824780800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sniadowo - KS Wasilkow",
+        "time": "18:00",
+        "id": "271740007813877760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Supra Kwidzyn - Chojniczanka Chojnice II",
+        "time": "18:00",
+        "id": "271593011340775424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Olimpia Elblag II - Granica Ketrzyn",
+        "time": "18:00",
+        "id": "271562393345200128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mjallby AIF - IFK Varnamo",
         "time": "17:30",
         "id": "271211636594970624"
@@ -47,61 +103,5 @@
         "name": "General Lamadrid - Deportivo Paraguayo",
         "time": "17:00",
         "id": "271243628226154496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico River Plate - Defensor Sporting",
-        "time": "17:00",
-        "id": "271275335770836992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Nenzing - Blau Weiss Feldkirch",
-        "time": "17:00",
-        "id": "271734474545434624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JK Tallinna Kalev - JK Nomme Kalju",
-        "time": "17:00",
-        "id": "271290550175535104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Suduva Marijampole - FK Riteriai",
-        "time": "16:30",
-        "id": "271464432658419712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Helsingborgs IF - Ostersunds FK",
-        "time": "16:00",
-        "id": "271206140266811392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gnistan - Ilves Tampere",
-        "time": "16:00",
-        "id": "271206659349680128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Olimpia Asuncion - Deportivo Recoleta",
-        "time": "16:00",
-        "id": "271332478641377280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Rudes Zagreb - NK Radnik Sesvete",
-        "time": "16:00",
-        "id": "271390399911825408"
     }
 ]
