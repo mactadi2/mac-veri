@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Huila - Cucuta Deportivo",
+        "time": "02:10",
+        "id": "271747732801196032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aucas - Barcelona SC Guayaquil",
+        "time": "02:00",
+        "id": "271242084046999552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Cerro - Montevideo Wanderers",
+        "time": "02:00",
+        "id": "271239680027136000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter Miami II - Carolina Core",
+        "time": "02:00",
+        "id": "271345720047570944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cruzeiro MG - Palmeiras",
         "time": "01:30",
         "id": "270572874598846464"
@@ -75,33 +103,5 @@
         "name": "Deportes Concepcion - Santiago Wanderers",
         "time": "00:30",
         "id": "271252069831282688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente Santa Fe - Club Deportivo Los Millonarios",
-        "time": "00:05",
-        "id": "271293248624005120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CRB Clube de Regatas Brasil - Remo PA",
-        "time": "00:00",
-        "id": "271165052357316608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Honduras (W) - Dominican Republic (W)",
-        "time": "00:00",
-        "id": "271744787467603968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "East Atlanta FC - Asheville City SC",
-        "time": "00:00",
-        "id": "271338239272554496"
     }
 ]
