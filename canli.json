@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Parnu JK Vaprus - FC Kuressaare",
+        "time": "14:30",
+        "id": "271290550263615488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shenzhen 2028 FC - Guangdong Mingtu",
+        "time": "14:30",
+        "id": "271716188402356224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lech Rypin - Mustang Ostaszewo",
         "time": "14:00",
         "id": "271602389116653568"
@@ -12,13 +26,6 @@
         "name": "Naestved BK - Skive IF",
         "time": "14:00",
         "id": "271652484702932992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Rosengard - Torslanda IK",
-        "time": "14:00",
-        "id": "271561593205166080"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Valencia U19 - Real Betis Balompie Under 19",
         "time": "13:00",
         "id": "271828896591254784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AD Torrejon CF - Rayo Vallecano B",
-        "time": "12:30",
-        "id": "271648707544485888"
     }
 ]
