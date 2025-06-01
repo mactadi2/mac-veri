@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fh Hafnarfjördur - UMF Afturelding",
+        "time": "21:00",
+        "id": "271461780073615360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IA Akranes - IBV Vestmannaeyjar",
+        "time": "21:00",
+        "id": "271461780147015680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Badajoz - AD Llerenense",
+        "time": "21:00",
+        "id": "271678926823231488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chacarita Juniors - Gimnasia Y Esgrima de Jujuy",
         "time": "20:30",
         "id": "271271902379642880"
@@ -9,9 +30,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Molde FK - Viking Stavanger",
+        "time": "20:15",
+        "id": "271223316032917504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "UCAM Murcia - CE Sabadell",
         "time": "20:00",
         "id": "271664807063719936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KA Akureyri - Stjarnan",
+        "time": "20:00",
+        "id": "271322881495011328"
     },
     {
         "tur": "live",
@@ -44,16 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Union Deportiva Almeria - Tenerife",
+        "name": "Racing Santander - Granada CF",
         "time": "19:30",
-        "id": "271219762934190080"
+        "id": "271219762721329152"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Racing Santander - Granada CF",
+        "name": "Union Deportiva Almeria - Tenerife",
         "time": "19:30",
-        "id": "271219762721329152"
+        "id": "271219762934190080"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Randers FC - Silkeborg IF",
         "time": "19:30",
         "id": "271724957701115904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bodrumspor - Besiktas JK",
-        "time": "19:00",
-        "id": "271218058284109824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Samsunspor - Kayserispor",
-        "time": "19:00",
-        "id": "271217957895540736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Willem II Tilburg - Telstar",
-        "time": "19:00",
-        "id": "271319247201898496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pacos Ferreira - CF Os Belenenses",
-        "time": "19:00",
-        "id": "271464602529828864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Numancia - CD Teruel",
-        "time": "19:00",
-        "id": "271664807554453504"
     }
 ]
