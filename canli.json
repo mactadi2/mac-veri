@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Cuenca - Universidad Catolica Quito",
+        "time": "23:30",
+        "id": "271237052124762112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cerro Largo FC - Penarol Montevideo",
+        "time": "23:30",
+        "id": "271275336682049536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico Huracan - Platense",
         "time": "23:00",
         "id": "271626875974062080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Los Chankas CYC - Alianza Atletico",
+        "time": "23:00",
+        "id": "271378059291136000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Breidablik Kopavogur - Vikingur Reykjavik",
+        "time": "22:15",
+        "id": "271331494821236736"
     },
     {
         "tur": "live",
@@ -44,64 +72,36 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Operario Ferroviario EC PR - CA Paranaense PR",
+        "time": "22:00",
+        "id": "271165052639383552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palestino Santiago - Universidad Catolica",
+        "time": "22:00",
+        "id": "271062978565115904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "2 de Mayo - Libertad Asuncion",
+        "time": "22:00",
+        "id": "271360594942234624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Trinidense - Guarani Asuncion",
+        "time": "22:00",
+        "id": "271331109337436160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vizela - AVS Futebol SAD",
         "time": "21:45",
         "id": "271290559814045696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Spezia - Cremonese",
-        "time": "21:30",
-        "id": "271357437894856704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Madryn - Club Atletico Colegiales",
-        "time": "21:30",
-        "id": "271306352328052736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Maipu - CA Atlanta",
-        "time": "21:30",
-        "id": "271271903018225664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Alvarado - Arsenal de Sarandi",
-        "time": "21:30",
-        "id": "271271902741401600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Defensores de Belgrano - Gimnasia Mendoza",
-        "time": "21:30",
-        "id": "271271902278979584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA San Telmo - Agropecuario",
-        "time": "21:30",
-        "id": "271271902551609344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Defensores Unidos - Colon de Santa Fe",
-        "time": "21:30",
-        "id": "271271902224453632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Talleres Remedios Escalada - Almirante Brown de Lules",
-        "time": "21:30",
-        "id": "271306440347619328"
     }
 ]
