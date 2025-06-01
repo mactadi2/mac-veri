@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lech Rypin - Mustang Ostaszewo",
+        "time": "14:00",
+        "id": "271602389116653568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Naestved BK - Skive IF",
+        "time": "14:00",
+        "id": "271652484702932992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Rosengard - Torslanda IK",
+        "time": "14:00",
+        "id": "271561593205166080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "U.D. Talavera - Torrent CF",
         "time": "13:00",
         "id": "271664807125585920"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "UD Talavera La Real - Ciudad Plasencia",
-        "time": "13:00",
-        "id": "271830090883665920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "AD Torrejon CF - Rayo Vallecano B",
         "time": "12:30",
         "id": "271648707544485888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viimsi Jk - Tartu JK Tammeka II",
-        "time": "12:30",
-        "id": "271648707613691904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Gofis - Admira Dornbirn",
-        "time": "12:00",
-        "id": "271731922372268032"
     }
 ]
