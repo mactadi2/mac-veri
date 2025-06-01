@@ -72,6 +72,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Valencia U19 - Real Betis Balompie Under 19",
+        "time": "13:00",
+        "id": "271828896591254784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UD Talavera La Real - Ciudad Plasencia",
+        "time": "13:00",
+        "id": "271830090883665920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AD Torrejon CF - Rayo Vallecano B",
         "time": "12:30",
         "id": "271648707544485888"
@@ -89,19 +103,5 @@
         "name": "Dornbirner SV - SV Lochau",
         "time": "12:00",
         "id": "271731922428891136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "WSG Wattens Swarovski Tirol II - SV Vols",
-        "time": "11:30",
-        "id": "271731942090739712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "WAF Brigittenau - FC 1980 Wien",
-        "time": "11:30",
-        "id": "271731829590069248"
     }
 ]
