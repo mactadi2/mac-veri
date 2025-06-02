@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mamore - Varginha EC",
+        "time": "02:15",
+        "id": "271901615886307328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Cartagena - CD Jaguares de Cordoba",
+        "time": "02:10",
+        "id": "271842179536785408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brezilya (Kadınlar) - Japonya (Kadınlar)",
+        "time": "02:00",
+        "id": "271704960358551552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Marcilio Dias - Sao Luiz RS",
+        "time": "02:00",
+        "id": "271739016893829120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Pasto - Llaneros FC",
+        "time": "02:00",
+        "id": "271557950931341312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Bucaramanga - Deportivo Cali",
+        "time": "02:00",
+        "id": "271701372343291904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sao Bernardo FC - CS Alagoano AL",
         "time": "01:30",
         "id": "271169708765614080"
@@ -16,16 +58,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fc Trindade - Anapolina Go",
+        "name": "Lajeadense Rs - EC Novo Hamburgo",
         "time": "01:30",
-        "id": "271914438235394048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Carlos Renaux - Fluminense SC de Joinville",
-        "time": "01:30",
-        "id": "271863740291485696"
+        "id": "271864895049437184"
     },
     {
         "tur": "live",
@@ -61,5 +96,12 @@
         "name": "Deportivo Santani - Guairena FC",
         "time": "01:00",
         "id": "271501309252866048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mexico U20 (W) - Canada U20 (W)",
+        "time": "23:00",
+        "id": "271830061715427328"
     }
 ]
