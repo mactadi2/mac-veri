@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al Hussein - Afak SC",
+        "time": "16:30",
+        "id": "271842553484152832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Bahri - Al Jolan SC",
+        "time": "16:30",
+        "id": "271842553404461056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Sinaah - Masafi Al Janoob",
+        "time": "16:30",
+        "id": "271843074109476864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Fahad - Amanat Baghdad Sc",
+        "time": "16:30",
+        "id": "271842553320574976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Brann 2 - Fk Tonsberg",
         "time": "16:00",
         "id": "271489121284919296"
@@ -30,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "JKU FC - Malindi SC (ZAN)",
+        "name": "Uhamiaji - New City FC",
         "time": "16:00",
-        "id": "271930724565782528"
+        "id": "271931446577467392"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Uhamiaji - New City FC",
+        "name": "JKU FC - Malindi SC (ZAN)",
         "time": "16:00",
-        "id": "271931446577467392"
+        "id": "271930724565782528"
     },
     {
         "tur": "live",
@@ -61,12 +89,5 @@
         "name": "Çek Cumhuriyeti  U19 (Kadınlar) - Avusturya U19 (Kadınlar)",
         "time": "15:00",
         "id": "271916499106664448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tayland (Kadınlar) - Nepal (W)",
-        "time": "14:00",
-        "id": "271790980923002880"
     }
 ]
