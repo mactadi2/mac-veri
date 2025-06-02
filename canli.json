@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Los Angeles II - The Town FC",
+        "time": "05:00",
+        "id": "271356830255550464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ventura County - Real Monarchs SLC",
+        "time": "05:00",
+        "id": "271356830321610752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Tucson (W) - El Paso Surf (W)",
+        "time": "05:00",
+        "id": "271843012814966784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Beach Futbol Club (W) - FC Premier (W)",
+        "time": "05:00",
+        "id": "271889258613182464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "East Coast Bays - Western Springs AFC",
+        "time": "05:00",
+        "id": "271758434084458496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Southern California Eagles (W) - SoCal Dutch Lions (W)",
         "time": "04:30",
         "id": "271749835463462912"
@@ -12,40 +47,5 @@
         "name": "Atletico Nacional de Medellin - Once Caldas",
         "time": "04:15",
         "id": "271293239929212928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sd Atletico Nacional - CD Bocas Junior",
-        "time": "04:00",
-        "id": "271870047513874432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cruz Azul - Vancouver Whitecaps",
-        "time": "04:00",
-        "id": "269481493252935680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Auckland United FC (W) - Hibiscus Coast (W)",
-        "time": "04:00",
-        "id": "271794870746746880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Houston FC - AHFC Royals",
-        "time": "03:00",
-        "id": "271349297579167744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Napa Valley 1839 (W) - San Francisco Nighthawks (W)",
-        "time": "03:00",
-        "id": "271843023091011584"
     }
 ]
