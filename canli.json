@@ -65,6 +65,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KAC Kenitra - COD Meknes",
+        "time": "23:00",
+        "id": "271933217541591040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cucuta Deportivo U20 - Olimpicas Futbol U20",
+        "time": "23:00",
+        "id": "271900811623272448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rubio Nu - Independiente FBC",
         "time": "22:30",
         "id": "271308483427700736"
@@ -82,26 +96,5 @@
         "name": "Ternana - Pescara",
         "time": "22:15",
         "id": "271553736448544768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Centro Espanyol - Estrella del Sur",
-        "time": "21:30",
-        "id": "271243628291166208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Fenix - Club Atletico Acassuso",
-        "time": "21:30",
-        "id": "271679055777107968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Oruro Royal - Deportivo Escara",
-        "time": "21:00",
-        "id": "271864671075700736"
     }
 ]
