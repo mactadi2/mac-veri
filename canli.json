@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Darwin Olympic - Hellenic Athletic Club",
+        "time": "14:00",
+        "id": "271940915463065600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Logan Lightning - Ipswich Knights",
         "time": "13:30",
         "id": "271899314379427840"
@@ -68,19 +75,5 @@
         "name": "Redlands United - Holland Park Hawks",
         "time": "13:00",
         "id": "271910025074708480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St. George Willawong FC - Eastern Suburbs",
-        "time": "12:30",
-        "id": "271285106871767040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "USM Khenchela U21 - MC El Bayadh U21",
-        "time": "12:00",
-        "id": "271998076687880192"
     }
 ]
