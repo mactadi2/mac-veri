@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bogota FC - FC Leones",
+        "time": "00:00",
+        "id": "271919088441364480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Galvez AC U20 - Humaita U20",
+        "time": "00:00",
+        "id": "272009292470685696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club 9 de Octubre - Leones Del Norte",
         "time": "23:30",
         "id": "271779043036237824"
@@ -26,19 +40,5 @@
         "name": "Atletico Colegiales - General Diaz",
         "time": "22:30",
         "id": "271997942513143808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Espanola - Deportes Limache",
-        "time": "22:00",
-        "id": "271063059412422656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boca Juniors Cali - Deportes Quindio",
-        "time": "22:00",
-        "id": "271866521410736128"
     }
 ]
