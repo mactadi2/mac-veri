@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club 9 de Octubre - Leones Del Norte",
+        "time": "23:30",
+        "id": "271779043036237824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KH Hildarendi - Ellidi",
         "time": "23:00",
         "id": "271867801029971968"
@@ -33,26 +40,5 @@
         "name": "Boca Juniors Cali - Deportes Quindio",
         "time": "22:00",
         "id": "271866521410736128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hollanda (Kadınlar) - İskoçya (Kadınlar)",
-        "time": "21:30",
-        "id": "271842781104836608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Pontalinense U20 - Goiania EC GO U20",
-        "time": "21:30",
-        "id": "271986413584650240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "US Bougouba - US Bougouni",
-        "time": "21:15",
-        "id": "272035652980314112"
     }
 ]
