@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Feyenoord U21 - Sparta Rotterdam Reserves",
+        "time": "20:30",
+        "id": "272022670881722368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Ituzaingo Reserves - Puerto Nuevo Reserves",
         "time": "20:00",
         "id": "271986005533396992"
@@ -33,6 +40,13 @@
         "name": "TPV II - FC Haka Juniors",
         "time": "20:00",
         "id": "271930365033189376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Etoiles Mande -  AS Police de Bamako",
+        "time": "19:30",
+        "id": "272035652750675968"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Paradou AC U21 - ES Mostaganem U21",
         "time": "19:00",
         "id": "271998076285227008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zlinsko - TJ Start Brno",
-        "time": "19:00",
-        "id": "271852690498260992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ylamyllyn Yllatys - SC Zulimanit",
-        "time": "19:00",
-        "id": "271930365121269760"
     }
 ]
