@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tacuarembo - Cerrito CS",
+        "time": "01:00",
+        "id": "271783707375964160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Concordia AC U20 - Chapecoense AF U20",
+        "time": "01:00",
+        "id": "271926426292326400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bogota FC - FC Leones",
         "time": "00:00",
         "id": "271919088441364480"
@@ -19,19 +33,5 @@
         "name": "Club 9 de Octubre - Leones Del Norte",
         "time": "23:30",
         "id": "271779043036237824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KH Hildarendi - Ellidi",
-        "time": "23:00",
-        "id": "271867801029971968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "USA U20 (W) - Costa Rica U20 (W)",
-        "time": "23:00",
-        "id": "271867800440672256"
     }
 ]
