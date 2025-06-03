@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Redlands United - Holland Park Hawks",
+        "time": "13:00",
+        "id": "271910025074708480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "St. George Willawong FC - Eastern Suburbs",
         "time": "12:30",
         "id": "271285106871767040"
@@ -30,22 +37,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Broadbeach United U23 - Magic United U23",
-        "time": "11:15",
-        "id": "271922398082764800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CS Constantine U21 - JS Saoura U21",
         "time": "11:00",
         "id": "271998076779106304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Borjomi - Margveti 2006",
-        "time": "11:00",
-        "id": "271765608849346560"
     }
 ]
