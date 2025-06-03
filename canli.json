@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rampla Juniors - Club Oriental",
+        "time": "01:30",
+        "id": "271786460262305792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Philadelphia Union Ds - Wc Predators",
+        "time": "01:30",
+        "id": "271956848157003776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tacuarembo - Cerrito CS",
         "time": "01:00",
         "id": "271783707375964160"
@@ -26,12 +40,5 @@
         "name": "Galvez AC U20 - Humaita U20",
         "time": "00:00",
         "id": "272009292470685696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club 9 de Octubre - Leones Del Norte",
-        "time": "23:30",
-        "id": "271779043036237824"
     }
 ]
