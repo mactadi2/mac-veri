@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hırvatistan U21 - Katar U23",
+        "time": "17:45",
+        "id": "272009635812216832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Armenio Reserves - Excursionistas Reserves",
         "time": "17:00",
         "id": "271943079221661696"
@@ -44,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Pobeda Khasavyurt - Druzhba Maikop",
+        "time": "17:00",
+        "id": "271995858243948544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bakhmaro - FC Didube 2014",
         "time": "16:30",
         "id": "271960883045994496"
@@ -58,16 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lokomotivi Tbilisi II - FC WIT Georgia Tblisi",
+        "name": "FC Gori - Odishi 1919 Zugdidi",
         "time": "16:30",
-        "id": "272021428283510784"
+        "id": "272022933379092480"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Gori - Odishi 1919 Zugdidi",
+        "name": "Lokomotivi Tbilisi II - FC WIT Georgia Tblisi",
         "time": "16:30",
-        "id": "272022933379092480"
+        "id": "272021428283510784"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Mwembe Makumbi City FC - KVZ SC",
         "time": "16:00",
         "id": "272013989604626432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mighty Tigers - Moyale Barracks",
-        "time": "15:30",
-        "id": "271926659756724224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shatin (W) - Kitchee (W)",
-        "time": "15:30",
-        "id": "272020542768418816"
     }
 ]
