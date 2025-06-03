@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Ituzaingo Reserves - Puerto Nuevo Reserves",
+        "time": "20:00",
+        "id": "271986005533396992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Argentino de Rosario Reserves - Leandro N. Alem Reserves",
+        "time": "20:00",
+        "id": "271967253881294848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tanzania (W) - DR Congo (W)",
+        "time": "20:00",
+        "id": "271904125965438976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rionegro Aguilas Reserves - Politecnico J.I.C.",
+        "time": "20:00",
+        "id": "271927074823999488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Colegiales Reserves - Nueva Chicago Reserves",
         "time": "19:00",
         "id": "271956841080164352"
@@ -23,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "MC Oran U21 - USM Alger U21",
+        "name": "MC Alger U21 - NC Magra U21",
         "time": "19:00",
-        "id": "271998076085997568"
+        "id": "271998076498087936"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Paradou AC U21 - ES Mostaganem U21",
+        "name": "MC Oran U21 - USM Alger U21",
         "time": "19:00",
-        "id": "271998076285227008"
+        "id": "271998076085997568"
     },
     {
         "tur": "live",
@@ -51,9 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "MC Alger U21 - NC Magra U21",
+        "name": "Paradou AC U21 - ES Mostaganem U21",
         "time": "19:00",
-        "id": "271998076498087936"
+        "id": "271998076285227008"
     },
     {
         "tur": "live",
@@ -61,13 +89,6 @@
         "name": "FC Zlinsko - TJ Start Brno",
         "time": "19:00",
         "id": "271852690498260992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ylamyllyn Yllatys - SC Zulimanit",
-        "time": "19:00",
-        "id": "271930365121269760"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Nijerya (Kadınlar) - Kamerun (Kadınlar)",
         "time": "18:00",
         "id": "271881812593217536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethiopian Medhin - Kedus Giorgis",
-        "time": "18:00",
-        "id": "271814557828255744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Armenia U21 - Kıbrıs U21",
-        "time": "18:00",
-        "id": "271956055441936384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leones Reserves - Belen Arco Zaragoza",
-        "time": "18:00",
-        "id": "271928901376282624"
     }
 ]
