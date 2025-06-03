@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Laferrere Reserves - Real Pilar Reserves",
+        "time": "18:00",
+        "id": "271671094238384128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ethiopian Medhin - Kedus Giorgis",
+        "time": "18:00",
+        "id": "271814557828255744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Armenia U21 - Kıbrıs U21",
+        "time": "18:00",
+        "id": "271956055441936384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Leones Reserves - Belen Arco Zaragoza",
+        "time": "18:00",
+        "id": "271928901376282624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pirin Razlog - FC Vihren Sandanski",
+        "time": "18:00",
+        "id": "272028720792997888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hırvatistan U21 - Katar U23",
         "time": "17:45",
         "id": "272009635812216832"
@@ -30,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FA Tartu Kalev U19 - Johvi FC Phoenix U19",
+        "name": "Viimsi JK U19 - Tallinna FC Ajax U19",
         "time": "17:00",
-        "id": "271937717874593792"
+        "id": "271931315243323392"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Viimsi JK U19 - Tallinna FC Ajax U19",
+        "name": "FA Tartu Kalev U19 - Johvi FC Phoenix U19",
         "time": "17:00",
-        "id": "271931315243323392"
+        "id": "271937717874593792"
     },
     {
         "tur": "live",
@@ -58,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bakhmaro - FC Didube 2014",
-        "time": "16:30",
-        "id": "271960883045994496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Merani Tbilisi - Orbi",
-        "time": "16:30",
-        "id": "272022214895865856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Gori - Odishi 1919 Zugdidi",
         "time": "16:30",
         "id": "272022933379092480"
@@ -82,26 +103,5 @@
         "name": "Lokomotivi Tbilisi II - FC WIT Georgia Tblisi",
         "time": "16:30",
         "id": "272021428283510784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Güney Afrika (Kadınlar) - Zambiya (Kadınlar)",
-        "time": "16:00",
-        "id": "271881812509331456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Betlemi Keda - Kolkheti Khobi",
-        "time": "16:00",
-        "id": "271920445841870848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mwembe Makumbi City FC - KVZ SC",
-        "time": "16:00",
-        "id": "272013989604626432"
     }
 ]
