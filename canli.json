@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Weston FC - Kings Hammer",
+        "time": "01:30",
+        "id": "272038861489704960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Miami Dutch Lions FC - Global Soccer Pathways",
+        "time": "01:30",
+        "id": "272021910609596416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AD Confianca SE - EC Bahia",
         "time": "01:00",
         "id": "271874077260648448"
@@ -68,12 +82,5 @@
         "name": "CS Maritimo de La Guaira - Yaracuyanos FC",
         "time": "00:00",
         "id": "272031250839113728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Central Espanol FC - Colon FC",
-        "time": "23:30",
-        "id": "271868678701715456"
     }
 ]
