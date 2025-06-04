@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "UMF Njardvik - Fjolnir Reykjavik",
+        "time": "22:15",
+        "id": "271874072076488704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fylkir Reykjavik - Leiknir Reykjavik",
+        "time": "22:15",
+        "id": "272006060084170752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IR Reykjavik - Throttur Reykjavik",
+        "time": "22:15",
+        "id": "272008978185195520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Thor Akureyri - Volsungur",
+        "time": "22:15",
+        "id": "272098118643879936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KFK Kopavogur - Hviti Riddarinn",
+        "time": "22:15",
+        "id": "272015993385127936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KV Vesturbaejar - FC Arbaer",
+        "time": "22:15",
+        "id": "272015993321164800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Almanya - Portekiz",
+        "time": "22:00",
+        "id": "265535632242249728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "St Mochtas - Lucan United",
         "time": "21:45",
         "id": "271938936385966080"
@@ -9,23 +58,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Presidente Hayes - Sportivo Iteno",
-        "time": "21:45",
-        "id": "272099444698255360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Sacachispas - CD UAI Urquiza",
         "time": "21:30",
         "id": "271872329620000768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Belfast Celtic (W) - Ballyclare Comrades (W)",
-        "time": "21:30",
-        "id": "272125243076775936"
     },
     {
         "tur": "live",
@@ -58,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Realidade Jovem (W) - RB Bragantino (W)",
-        "time": "21:00",
-        "id": "271950649847058432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "VV Noordwijk - Harkemase Boys",
         "time": "20:30",
         "id": "272004160667389952"
@@ -75,33 +103,5 @@
         "name": "YF Juventus Zurich - Team Vaud Lausanne Ii",
         "time": "20:30",
         "id": "272019232049467392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IFK Stocksund - United IK Nordic",
-        "time": "20:00",
-        "id": "271946872566976512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "National Bank of Egypt SC - ENPPI Club",
-        "time": "20:00",
-        "id": "271946872765157376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ismaily SC - Ceramica Cleopatra FC ",
-        "time": "20:00",
-        "id": "272004323197718528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Rudar Plevlja - FK Jezero Plav",
-        "time": "20:00",
-        "id": "271866483743789056"
     }
 ]
