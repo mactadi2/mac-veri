@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AD Confianca SE - EC Bahia",
+        "time": "01:00",
+        "id": "271874077260648448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Virginia Marauders FC - Lionsbridge FC",
+        "time": "01:00",
+        "id": "272003420964130816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atenas - Deportivo Maldonado",
+        "time": "01:00",
+        "id": "271874063595606016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palmeiras (W) - Sao Paulo (W)",
+        "time": "01:00",
+        "id": "271964700634386432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Benjamin Aceval - 3 de Noviembre de B San Pablo",
+        "time": "01:00",
+        "id": "272026215245811712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Alianza Valledupar - Rionegro Aguilas Doradas",
         "time": "00:15",
         "id": "271789045941669888"
@@ -40,12 +75,5 @@
         "name": "Central Espanol FC - Colon FC",
         "time": "23:30",
         "id": "271868678701715456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Patriotas Tunja - Real Soacha Cundinamarca",
-        "time": "23:00",
-        "id": "272006952297566208"
     }
 ]
