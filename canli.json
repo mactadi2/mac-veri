@@ -2,30 +2,86 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sparta Katowice - Odra Wodzislaw",
+        "time": "19:00",
+        "id": "271862743399796736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rakow II Czestochowa - Ruch Radzionkow",
+        "time": "19:00",
+        "id": "271943096248438784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gwarek Ornontowice - KS Unia Dabrowa Gornicza",
+        "time": "19:00",
+        "id": "271961642242281472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zawisza Rzgow - Ceramika Opoczno",
+        "time": "19:00",
+        "id": "271943096040820736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Polonia-Stal Swidnica - Moto-Jelcz Olawa",
+        "time": "19:00",
+        "id": "271943095613001728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sırbistan U21 - Yunanistan U21",
+        "time": "19:00",
+        "id": "271999656631865344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Marino U21 - Malta U21",
+        "time": "19:00",
+        "id": "271999932816297984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Belarus U21 - Azerbaycan U21",
+        "time": "19:00",
+        "id": "272020794820923392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Algeria U20 - Tunisia U20",
+        "time": "19:00",
+        "id": "271999221370064896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Isa Town - Al-Hala",
+        "time": "19:00",
+        "id": "271862743486828544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "A'Ali FC - Bahrain SC",
+        "time": "19:00",
+        "id": "271862743575957504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Atlanta Reserves - CA San Telmo Reserves",
         "time": "18:30",
         "id": "272028692334645248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KS Unia Solec Kujawski - Sparta Brodnica",
-        "time": "18:30",
-        "id": "271943096101638144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Vysoke Myto - FK Prepere",
-        "time": "18:30",
-        "id": "271943096178184192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SavU (MP II) - Lautp",
-        "time": "18:30",
-        "id": "272000376312565760"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "Colombia U20 - Saudi Arabia U20",
         "time": "18:00",
         "id": "272093144582066176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Sportive de Douala - Stade Renard",
-        "time": "18:00",
-        "id": "271847712083808256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Panthere Sportive - Douala Ac",
-        "time": "18:00",
-        "id": "271847856730673152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Marsa - JS Kairouan",
-        "time": "18:00",
-        "id": "272012148510691328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AFC Odorheiu Secuiesc - CS Tunari",
-        "time": "17:30",
-        "id": "271909962138128384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estudiantes BA Reserves - Club Atletico Mitre Reserves",
-        "time": "17:00",
-        "id": "272055140184363008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Italiano Reserves - Villa Dalmine Reserves",
-        "time": "17:00",
-        "id": "271774092852596736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Talleres Remedios Reserves - Gimnasia Mendoza Reserves",
-        "time": "17:00",
-        "id": "272045878574977024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avai U20 - Nacao Esportes U20",
-        "time": "17:00",
-        "id": "272016835451424768"
     }
 ]
