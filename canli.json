@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Blacktown City Fc - SD Raiders FC",
+        "time": "12:30",
+        "id": "271995100138180608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Belconnen United - Canberra Juventus",
+        "time": "12:30",
+        "id": "271975322533105664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Avondale (W) - South Melbourne (W)",
+        "time": "12:30",
+        "id": "272098062639435776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kolos Kovalivka II - Podillia Khmelnytskyi",
         "time": "12:00",
         "id": "272096371596726272"
@@ -16,13 +37,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Penang U20 - PDRM U20",
-        "time": "11:45",
-        "id": "272032489750532096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Mlada Boleslav B - Fc Slovan Liberec U21",
         "time": "11:30",
         "id": "271856783157497856"
@@ -33,12 +47,5 @@
         "name": "WDSC Wolves U23 - Brisbane City U23",
         "time": "11:30",
         "id": "271979843182268416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brindabella Blues FC - Canberra Olympic",
-        "time": "10:30",
-        "id": "271975392317935616"
     }
 ]
