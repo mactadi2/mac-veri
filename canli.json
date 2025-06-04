@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "VV Noordwijk - Harkemase Boys",
+        "time": "20:30",
+        "id": "272004160667389952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rozwoj Katowice - KS Kuznia Ustron",
         "time": "20:00",
         "id": "271946872691757056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kings SC Kuopio - Jippo II",
+        "time": "19:45",
+        "id": "271992354233257984"
     },
     {
         "tur": "live",
@@ -26,13 +40,6 @@
         "name": "Sparta Katowice - Odra Wodzislaw",
         "time": "19:00",
         "id": "271862743399796736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rakow II Czestochowa - Ruch Radzionkow",
-        "time": "19:00",
-        "id": "271943096248438784"
     },
     {
         "tur": "live",
@@ -72,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Belarus U21 - Azerbaycan U21",
-        "time": "19:00",
-        "id": "272020794820923392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Algeria U20 - Tunisia U20",
         "time": "19:00",
         "id": "271999221370064896"
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Novy Jicin - SFC Opava 2",
+        "name": "FC Pisek - Ceske Budejovice B",
         "time": "19:00",
-        "id": "272109167907573760"
+        "id": "271903373773639680"
     }
 ]
