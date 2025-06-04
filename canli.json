@@ -30,6 +30,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Guarani Asuncion Reserves - Sportivo Ameliano Reserves",
+        "time": "14:00",
+        "id": "272021124461760512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Tembetary Reserves - Cerro Porteno Reserve",
+        "time": "14:00",
+        "id": "271951825815605248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Brisbane Wynnum Wolves FC - Brisbane City",
         "time": "13:30",
         "id": "266930071628025856"
@@ -82,26 +96,5 @@
         "name": "Sydney Olympic U20 - Manly United FC U20",
         "time": "13:00",
         "id": "268360376931979264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blacktown City Fc - SD Raiders FC",
-        "time": "12:30",
-        "id": "271995100138180608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Belconnen United - Canberra Juventus",
-        "time": "12:30",
-        "id": "271975322533105664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Broadbeach United - Magic United TFA",
-        "time": "13:15",
-        "id": "271912930954579968"
     }
 ]
