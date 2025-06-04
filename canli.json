@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Patriotas Tunja - Real Soacha Cundinamarca",
+        "time": "23:00",
+        "id": "272006952297566208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "UMF Njardvik - Fjolnir Reykjavik",
         "time": "22:15",
         "id": "271874072076488704"
@@ -58,6 +65,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Haukar Hafnarfjordur - Vikingur Olafsvik",
+        "time": "22:15",
+        "id": "272014630677778432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IF Grotta - KFG Gardabaer",
+        "time": "22:15",
+        "id": "272014699779985408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Almanya - Portekiz",
         "time": "22:00",
         "id": "265535632242249728"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Scheveningen - Kozakken Boys",
-        "time": "21:00",
-        "id": "271950650207768576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Centro Atletico Fenix Montevideo - Uruguay Montevideo",
-        "time": "21:00",
-        "id": "271870276193619968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IH Hafnarfjordur - IF Magni Grenivik",
-        "time": "21:00",
-        "id": "272016006822629376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "RSB Berkane - Union Sportive Musulmane Oujda",
-        "time": "21:00",
-        "id": "272005748799705088"
+        "name": "Belfast Celtic (W) - Ballyclare Comrades (W)",
+        "time": "21:30",
+        "id": "272125243076775936"
     }
 ]
