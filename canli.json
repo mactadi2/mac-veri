@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rozwoj Katowice - KS Kuznia Ustron",
+        "time": "20:00",
+        "id": "271946872691757056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mustang Ostaszewo - Cuiavia Inowroclaw",
         "time": "19:30",
         "id": "271946873581998080"
@@ -79,29 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Isa Town - Al-Hala",
+        "time": "19:00",
+        "id": "271862743486828544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "A'Ali FC - Bahrain SC",
+        "time": "19:00",
+        "id": "271862743575957504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Atlanta Reserves - CA San Telmo Reserves",
         "time": "18:30",
         "id": "272028692334645248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Omega Kleszczow - KS Kutno",
-        "time": "18:00",
-        "id": "271939319506276352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fasil Kenema - Wolaita Dicha FC",
-        "time": "18:00",
-        "id": "271858959647903744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colombia U20 - Saudi Arabia U20",
-        "time": "18:00",
-        "id": "272093144582066176"
     }
 ]
