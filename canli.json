@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kopavogur - UMF Selfoss",
+        "time": "22:15",
+        "id": "271874072207560704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fylkir Reykjavik - Leiknir Reykjavik",
         "time": "22:15",
         "id": "272006060084170752"
@@ -16,16 +23,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "IR Reykjavik - Throttur Reykjavik",
+        "name": "Thor Akureyri - Volsungur",
         "time": "22:15",
-        "id": "272008978185195520"
+        "id": "272098118643879936"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Thor Akureyri - Volsungur",
+        "name": "IR Reykjavik - Throttur Reykjavik",
         "time": "22:15",
-        "id": "272098118643879936"
+        "id": "272008978185195520"
     },
     {
         "tur": "live",
@@ -40,6 +47,13 @@
         "name": "KV Vesturbaejar - FC Arbaer",
         "time": "22:15",
         "id": "272015993321164800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Throttur Vogum - Aegir",
+        "time": "22:15",
+        "id": "272014721269501952"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "IH Hafnarfjordur - IF Magni Grenivik",
         "time": "21:00",
         "id": "272016006822629376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VV Noordwijk - Harkemase Boys",
-        "time": "20:30",
-        "id": "272004160667389952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "YF Juventus Zurich - Team Vaud Lausanne Ii",
-        "time": "20:30",
-        "id": "272019232049467392"
     }
 ]
