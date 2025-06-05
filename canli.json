@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "İspanya - Fransa",
+        "time": "22:00",
+        "id": "265536179919785984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Katar - İran",
         "time": "21:15",
         "id": "271387764887523328"
@@ -26,6 +33,13 @@
         "name": "Kuveyt - Filistin",
         "time": "21:15",
         "id": "271387843728904192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nordstrand U19 - Ullensaker\/Kisa U19",
+        "time": "21:15",
+        "id": "272125165917310976"
     },
     {
         "tur": "live",
@@ -58,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FH Hafnarfjordur U19 - Throttur Reykjavik U19",
+        "time": "21:00",
+        "id": "272088461960417280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Macaristan U21 - Arnavutluk U21",
         "time": "20:30",
         "id": "272021424591474688"
@@ -65,30 +86,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PPJ\/Lauttasaari - RiPS Riihimaki",
-        "time": "20:20",
-        "id": "272089290041856000"
+        "name": "El Zamalek - Pyramids FC",
+        "time": "20:30",
+        "id": "272201270922711040"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Espoon Tikka - EsPa\/Renat",
-        "time": "20:15",
-        "id": "272089465980325888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HJK Kantsu - Lps",
-        "time": "20:15",
-        "id": "272089257332576256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HooGee - EPS Reservi",
-        "time": "20:15",
-        "id": "272087046394351616"
+        "name": "SVG Reichenau - SV Kuchl",
+        "time": "20:30",
+        "id": "272041334617018368"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Belarus - Kazakistan",
         "time": "20:00",
         "id": "272037558733639680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arsenal De Sarandi Reserves - Los Andes Reserves",
-        "time": "20:00",
-        "id": "272095604762611712"
     }
 ]
