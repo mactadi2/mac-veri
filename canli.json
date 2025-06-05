@@ -65,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PPJ\/Lauttasaari - RiPS Riihimaki",
+        "time": "20:20",
+        "id": "272089290041856000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Espoon Tikka - EsPa\/Renat",
         "time": "20:15",
         "id": "272089465980325888"
@@ -96,12 +103,5 @@
         "name": "Arsenal De Sarandi Reserves - Los Andes Reserves",
         "time": "20:00",
         "id": "272095604762611712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Türkiye U21 - Karadağ U21",
-        "time": "20:00",
-        "id": "272055104295800832"
     }
 ]
