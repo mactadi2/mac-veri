@@ -23,9 +23,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Almirante Brown Reserves - Chacarita Juniors Reserves",
-        "time": "18:00",
-        "id": "272095604665094144"
+        "name": "Doumbe FC - Tambo FC",
+        "time": "18:20",
+        "id": "272212987935330304"
     },
     {
         "tur": "live",
@@ -33,6 +33,13 @@
         "name": "CA San Miguel Reserves - Quilmes Reserves",
         "time": "18:00",
         "id": "272118520316301312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Almirante Brown Reserves - Chacarita Juniors Reserves",
+        "time": "18:00",
+        "id": "272095604665094144"
     },
     {
         "tur": "live",
@@ -61,19 +68,5 @@
         "name": "Kazakistan U21 - Andorra U21",
         "time": "17:30",
         "id": "272119300170584064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Suduva Marijampole II - Banga Gargzdai II",
-        "time": "17:00",
-        "id": "272098235956465664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Endonezya - Çin",
-        "time": "16:45",
-        "id": "271386343493472256"
     }
 ]
