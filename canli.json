@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Alagoinhas U20 - EC Bahia U20",
+        "time": "01:00",
+        "id": "272115005161345024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cucuta Deportivo - Atletico Huila",
         "time": "00:00",
         "id": "272097520640987136"
@@ -30,29 +37,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cumbaya FC - Indepiendente Juniors",
-        "time": "23:30",
-        "id": "271874071767158784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Ferroviaria (W) - Santos FC (W)",
         "time": "23:30",
         "id": "271965776799469568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Nacional Medellin (W) - Independiente Santa Fe (W)",
-        "time": "23:00",
-        "id": "272188212101910528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KA Asvellir - Hafnir",
-        "time": "23:00",
-        "id": "272048888856317952"
     }
 ]
