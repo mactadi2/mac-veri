@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ymir - Augnablik Kopavogur",
+        "time": "22:15",
+        "id": "272045112063823872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "İspanya - Fransa",
         "time": "22:00",
         "id": "265536179919785984"
@@ -47,6 +54,13 @@
         "name": "Kuveyt - Filistin",
         "time": "21:15",
         "id": "271387843728904192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nordstrand U19 - Ullensaker\/Kisa U19",
+        "time": "21:15",
+        "id": "272125165917310976"
     },
     {
         "tur": "live",
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Macaristan U21 - Arnavutluk U21",
-        "time": "20:30",
-        "id": "272021424591474688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "El Zamalek - Pyramids FC",
         "time": "20:30",
         "id": "272201270922711040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SVG Reichenau - SV Kuchl",
-        "time": "20:30",
-        "id": "272041334617018368"
     }
 ]
