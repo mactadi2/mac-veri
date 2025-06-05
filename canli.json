@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cucuta Deportivo - Atletico Huila",
+        "time": "00:00",
+        "id": "272097520640987136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Mercedes - Central Cordoba de Rosario",
+        "time": "00:00",
+        "id": "271874064709193728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Santander - Deportivo Pasto",
+        "time": "00:00",
+        "id": "272090716068515840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union Magdalena Santa Marta - Atletico Cali F.C.",
+        "time": "00:00",
+        "id": "272090716010844160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Andira U20 - Nauas U20",
+        "time": "00:00",
+        "id": "272195300444213248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cumbaya FC - Indepiendente Juniors",
         "time": "23:30",
         "id": "271874071767158784"
@@ -30,57 +65,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vaengir Jupiters - Alftanes",
-        "time": "22:15",
-        "id": "272045112358473728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ymir - Augnablik Kopavogur",
-        "time": "22:15",
-        "id": "272045112063823872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grotta (W) - Haukar Hafnafjordur (W)",
-        "time": "22:15",
-        "id": "272083094860861440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fylkir Reykjavik (W) - Afturelding\/Fram (W)",
-        "time": "22:15",
-        "id": "272083015484706816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grindavik\/Njardvik (W) - Kr Reykjavik",
-        "time": "22:15",
-        "id": "272082944158470144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "İspanya - Fransa",
-        "time": "22:00",
-        "id": "265536179919785984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Unidos da Alvorada EC - CDC Manicore",
         "time": "22:00",
         "id": "272226780451049472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "El Zamalek - Pyramids FC",
-        "time": "20:30",
-        "id": "272201270922711040"
     }
 ]
