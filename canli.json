@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "LTU - EuPa",
+        "time": "19:00",
+        "id": "272124896721637376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Eif\/Akademi - VJS Vantaa II",
         "time": "18:30",
         "id": "272060324878880768"
@@ -96,12 +103,5 @@
         "name": "Ethio Electric SC - Ethiopia Nigd Bank",
         "time": "18:00",
         "id": "271938489580392448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Defensores Unidos Reserves - Deportivo Moron Reserves",
-        "time": "17:30",
-        "id": "272119172449832960"
     }
 ]
