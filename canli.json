@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Belarus - Kazakistan",
+        "time": "20:00",
+        "id": "272037558733639680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arsenal De Sarandi Reserves - Los Andes Reserves",
         "time": "20:00",
         "id": "272095604762611712"
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Eif\/Akademi - VJS Vantaa II",
-        "time": "18:30",
-        "id": "272060324878880768"
+        "name": "Larsmo Bollklubb - Seinajoen Sisu",
+        "time": "19:00",
+        "id": "272063408703148032"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Warkaus JK - Toivalan Urheilijat",
-        "time": "18:30",
-        "id": "272062838870249472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Plaani - Mipk Mikkeli",
-        "time": "18:30",
-        "id": "272066152407109632"
+        "name": "LTU - EuPa",
+        "time": "19:00",
+        "id": "272124896721637376"
     }
 ]
