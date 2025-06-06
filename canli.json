@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "San Luis de Quillota - La Serena",
+        "time": "02:00",
+        "id": "272058509306236928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sueno FC - Minneapolis City SC ESL2",
+        "time": "02:00",
+        "id": "272016692477038592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Reading United AC - Ocean City Nor'easters",
+        "time": "02:00",
+        "id": "271874069233799168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fluminense RJ (W) - Gremio RS (W)",
+        "time": "02:00",
+        "id": "271147246913982464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Guairena FC - Pastoreo FC",
         "time": "01:15",
         "id": "272060227787034624"
@@ -75,19 +103,5 @@
         "name": "Trindade U20 - Guanabara City GO U20",
         "time": "01:00",
         "id": "272220065474154496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sao Carlos FC U23 - Guarulhos U23",
-        "time": "01:00",
-        "id": "272199323774750720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santa Cruz AC U20 - Assermurb U20",
-        "time": "00:00",
-        "id": "272324441164353536"
     }
 ]
