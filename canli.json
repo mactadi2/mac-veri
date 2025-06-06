@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dukla Praha U19 - Fastav Zlin U19",
+        "time": "14:00",
+        "id": "272105548070129664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lunds BK - Bk Olympic",
+        "time": "14:00",
+        "id": "272013977525030912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Torslanda IK - Husqvarna FF",
+        "time": "14:00",
+        "id": "272013977595285504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hume City - Dandenong City",
         "time": "13:30",
         "id": "271874075165593600"
@@ -26,13 +47,6 @@
         "name": "Southside Eagles - Brisbane Strikers",
         "time": "13:30",
         "id": "272077729918226432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blacktown Spartans - Dulwich Hill F.C.",
-        "time": "13:15",
-        "id": "272074617907187712"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Newcastle Olympic - Belmont Swansea United FC",
         "time": "12:30",
         "id": "272067157168361472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Essendon Royals - Nunawading City",
-        "time": "12:30",
-        "id": "272153532739751936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Box Hill United - Pascoe Vale",
-        "time": "12:30",
-        "id": "272175311797489664"
     }
 ]
