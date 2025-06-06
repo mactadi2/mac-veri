@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Midwest United - Oakland FC",
+        "time": "02:30",
+        "id": "271874069097484288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Curacao - Saint Lucia",
+        "time": "02:30",
+        "id": "272016243834359808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Trinidad Tobago - Saint Kitts and Nevis",
+        "time": "02:30",
+        "id": "272009571915141120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "San Luis de Quillota - La Serena",
         "time": "02:00",
         "id": "272058509306236928"
@@ -82,26 +103,5 @@
         "name": "Penn Fusion SA (W) - SJEB FC (W)",
         "time": "01:00",
         "id": "272215542820114432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Suriname - Porto Riko",
-        "time": "01:00",
-        "id": "272015084657709056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Niagara 1812 - Rochester NY FC",
-        "time": "01:00",
-        "id": "272307234266025984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trindade U20 - Guanabara City GO U20",
-        "time": "01:00",
-        "id": "272220065474154496"
     }
 ]
