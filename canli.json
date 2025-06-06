@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Garuda FC - Port Darwin FC",
+        "time": "12:00",
+        "id": "272073544348864512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Salisbury Inter (W) - Metro United (W)",
         "time": "11:45",
         "id": "272164728829251584"
@@ -61,12 +68,5 @@
         "name": "Busan Transportation Corporation - Gangneung City",
         "time": "11:00",
         "id": "271874074781814784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sydney FC U20 - St George City FA U20",
-        "time": "10:30",
-        "id": "272272306817077248"
     }
 ]
