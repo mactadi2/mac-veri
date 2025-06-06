@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Macaristan - İsveç",
+        "time": "20:30",
+        "id": "271851063082094592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Güney Afrika - Tanzanya",
+        "time": "20:30",
+        "id": "272131991038726144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rusya - Nijerya",
         "time": "20:00",
         "id": "265941797054844928"
@@ -33,13 +47,6 @@
         "name": "SAK Klagenfurt - ATUS Ferlach",
         "time": "19:30",
         "id": "272178323449319424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vst Voelkermarkt - Lendorf",
-        "time": "19:30",
-        "id": "272178323372773376"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "SV Gerasdorf Stammersdorf - Hellas Kagran",
         "time": "19:00",
         "id": "272182672845049856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Red Star Penzing - SK Slovan Hac",
-        "time": "19:00",
-        "id": "272184523162259456"
     }
 ]
