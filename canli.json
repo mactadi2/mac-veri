@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Defensores de Belgrano - Almirante Brown de Lules",
+        "time": "21:15",
+        "id": "271931410317709312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "USA U20 - Norveç U20",
+        "time": "21:00",
+        "id": "272283353184604160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Macaristan - İsveç",
         "time": "20:30",
         "id": "271851063082094592"
@@ -12,6 +26,13 @@
         "name": "Güney Afrika - Tanzanya",
         "time": "20:30",
         "id": "272131991038726144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC ESV Parndorf 1919 - ASK Kohfidisch",
+        "time": "20:30",
+        "id": "272184439887499264"
     },
     {
         "tur": "live",
@@ -51,9 +72,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SAK Klagenfurt - ATUS Ferlach",
-        "time": "19:30",
-        "id": "272178323449319424"
+        "name": "Furstenfeld - UFC Fehring",
+        "time": "20:00",
+        "id": "272180410767773696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Su Tillmitsch - SV Lebring",
+        "time": "20:00",
+        "id": "272180489456062464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union Weisskirchen - Union Perg",
+        "time": "20:00",
+        "id": "272197056969445376"
     },
     {
         "tur": "live",
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vst Voelkermarkt - Lendorf",
-        "time": "19:30",
-        "id": "272178323372773376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bulgaristan - Kıbrıs",
-        "time": "19:00",
-        "id": "271907464036880384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportiva Venados FC II - Leones Negros de la Universidad de Guadalajara III",
-        "time": "19:00",
-        "id": "272265521660039168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hutnik Warsaw - KTS Weszlo",
-        "time": "19:00",
-        "id": "272124437449543680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Mannsworth - First Vienna Fernwärme FC 1894 II",
-        "time": "19:00",
-        "id": "272181437344649216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Gerasdorf Stammersdorf - Hellas Kagran",
-        "time": "19:00",
-        "id": "272182672845049856"
+        "name": "South Korea U20 - Colombia U20",
+        "time": "18:00",
+        "id": "272195834319343616"
     }
 ]
