@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fas - Tunus",
+        "time": "23:00",
+        "id": "272077532706246656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Cocula - Heroes de Zaci",
+        "time": "23:00",
+        "id": "272265521583493120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Independiente FBC - River Plate Asuncion",
+        "time": "23:00",
+        "id": "272058080419778560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pitea IF - Bodens BK",
+        "time": "23:00",
+        "id": "272015934275850240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Burundi - Gine Bissau",
         "time": "22:00",
         "id": "272288641702825984"
@@ -9,16 +37,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Polonya - Moldova",
+        "name": "İskoçya - İzlanda",
         "time": "21:45",
-        "id": "270461738852421632"
+        "id": "271914352873967616"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "İskoçya - İzlanda",
+        "name": "Polonya - Moldova",
         "time": "21:45",
-        "id": "271914352873967616"
+        "id": "270461738852421632"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "İspanya U21 - Ukrayna U21",
         "time": "21:30",
         "id": "272114022835425280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Defensores de Belgrano - Almirante Brown de Lules",
-        "time": "21:15",
-        "id": "271931410317709312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "USA U20 - Norveç U20",
-        "time": "21:00",
-        "id": "272283353184604160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santo Andre U20 - Sertaozinho U20",
-        "time": "21:00",
-        "id": "272040527149535232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferroviaria SP U20 - SC Aguai SP U20",
-        "time": "21:00",
-        "id": "272041222896488448"
     }
 ]
