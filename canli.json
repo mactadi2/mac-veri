@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Santa Cruz AC U20 - Assermurb U20",
+        "time": "00:00",
+        "id": "272324441164353536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kolombiya - Peru",
         "time": "23:30",
         "id": "267033556497338368"
@@ -61,19 +68,5 @@
         "name": "Fast Clube - Sul America EC AM",
         "time": "22:30",
         "id": "272281473744244736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nacional Sucre - Serrano Sport Club",
-        "time": "22:00",
-        "id": "272231539716263936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Antigua Barbuda - Küba",
-        "time": "22:00",
-        "id": "272012829559754752"
     }
 ]
