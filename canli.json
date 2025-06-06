@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Burundi - Gine Bissau",
+        "time": "22:00",
+        "id": "272288641702825984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Polonya - Moldova",
         "time": "21:45",
         "id": "270461738852421632"
@@ -37,6 +44,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Çekya - Karadağ",
+        "time": "21:45",
+        "id": "265937560369500160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cebelitarık - Hırvatistan",
+        "time": "21:45",
+        "id": "265939164476870656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kuzey Makedonya - Belçika",
+        "time": "21:45",
+        "id": "265939225102389248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Galler - Lihtenştayn",
+        "time": "21:45",
+        "id": "265937573668589568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "İspanya U21 - Ukrayna U21",
         "time": "21:30",
         "id": "272114022835425280"
@@ -68,40 +103,5 @@
         "name": "SC ESV Parndorf 1919 - ASK Kohfidisch",
         "time": "20:30",
         "id": "272184439887499264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rusya - Nijerya",
-        "time": "20:00",
-        "id": "265941797054844928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kosova Cumhuriyeti - Ermenistan",
-        "time": "20:00",
-        "id": "272128213026738176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lüksemburg - Slovenya",
-        "time": "20:00",
-        "id": "271912765473558528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Furstenfeld - UFC Fehring",
-        "time": "20:00",
-        "id": "272180410767773696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Su Tillmitsch - SV Lebring",
-        "time": "20:00",
-        "id": "272180489456062464"
     }
 ]
