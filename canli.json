@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Trinec - Hlubina",
+        "time": "18:30",
+        "id": "272124437593198592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KoPa - KJP Kouvola",
+        "time": "18:30",
+        "id": "272196351930011648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TiPS - MPS\/Atletico Malmi",
+        "time": "18:30",
+        "id": "272186372410970112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EIF Ekenas - FC Lahti",
+        "time": "18:30",
+        "id": "271874064020279296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sjk Akatemia - Jippo Joensuu",
+        "time": "18:30",
+        "id": "271850597891837952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JaPS - Kapa\/Pule",
+        "time": "18:30",
+        "id": "271874063939538944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pk-35 - FC TPS Turku",
+        "time": "18:30",
+        "id": "271874063876624384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Estonya U19 - Litvanya Under 19",
         "time": "18:00",
         "id": "272180951004614656"
@@ -44,27 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "İsveç U21 - Katar U23",
-        "time": "18:00",
-        "id": "272228167486410752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leones U20 - CD Uraba Soccer U20",
-        "time": "18:00",
-        "id": "272243547044974592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tigres FC U20 - Independiente Santa Fe U20",
-        "time": "18:00",
-        "id": "272290132530434048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Norveç U21 - Galler U21",
         "time": "17:00",
         "id": "272188674107641856"
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Eskilsminne IF - Angelholms FF",
-        "time": "17:00",
-        "id": "272025461248364544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Valinhos EC U20 - Colorado Caieiras U20",
         "time": "17:00",
         "id": "272297083800784896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nosaby IF - Högaborgs Bk",
-        "time": "17:00",
-        "id": "272015924381487104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFK Qizilqum Zarafshon - Xorazm Urganch",
-        "time": "17:00",
-        "id": "272116880337145856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Korsnas IF FK - Ytterhogdals IK",
-        "time": "17:00",
-        "id": "272015003935182848"
     }
 ]
