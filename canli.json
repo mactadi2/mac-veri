@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Carabobo FC - Metropolitanos FC",
+        "time": "00:30",
+        "id": "271891140069953536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportes Temuco - Audax Italiano Santiago",
+        "time": "00:30",
+        "id": "272060941072470016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Sportivo Carapegua - Rubio Nu",
+        "time": "00:30",
+        "id": "272091975518392320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Jaguares de Cordoba - Real Cartagena",
         "time": "00:00",
         "id": "272185950058188800"
@@ -72,36 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Portuguesa Desportos - Nova Iguacu FC",
+        "time": "23:00",
+        "id": "271878059405217792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Pilar - Deportivo Armenio",
         "time": "22:45",
         "id": "271913584988131328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ABD - Türkiye",
-        "time": "22:30",
-        "id": "272104656677769216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kanada - Ukrayna",
-        "time": "22:30",
-        "id": "272089704924581888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chile U20 - New Zealand U20",
-        "time": "22:30",
-        "id": "272302895022608384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Titanes FC Guanare - Trujillanos FC",
-        "time": "22:30",
-        "id": "272223854435373056"
     }
 ]
