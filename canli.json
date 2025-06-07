@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Maitland - Broadmeadow Magic",
+        "time": "07:00",
+        "id": "272107901834891264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Weston Workers - Lambton Jaffas FC",
+        "time": "07:00",
+        "id": "272107901762539520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Okinawa Sv - Verspah Oita",
+        "time": "07:00",
+        "id": "272260165646028800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tokyo Musashino United FC - Tiamo Hirakata",
+        "time": "07:00",
+        "id": "272260096688525312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mio Biwako Shiga - Veertien Mie",
+        "time": "07:00",
+        "id": "272259957762691072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Briobecca Urayasu SC - Minebea Mitsumi",
+        "time": "07:00",
+        "id": "272260433860235264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Grulla Morioka - Maruyasu Industries SC",
+        "time": "07:00",
+        "id": "272260165596745728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adamstown Rosebud Reserves - Charlestown Azzurri Reserves",
+        "time": "07:00",
+        "id": "272172737364103168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sutherland Sharks U20 - Western Sydney U20",
         "time": "06:30",
         "id": "272348083388551168"
@@ -19,13 +75,6 @@
         "name": "Campbelltown Reserves - West Torrens Birkalla Reserves",
         "time": "06:15",
         "id": "272189651141398528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide Cobras Reserves - Fulham United Reserves",
-        "time": "06:15",
-        "id": "272257055702781952"
     },
     {
         "tur": "live",
@@ -54,54 +103,5 @@
         "name": "Croydon Kings Reserves - Modbury Jets Reserves",
         "time": "05:45",
         "id": "272172037917773824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universities of Canterbury - Coastal Spirit",
-        "time": "05:45",
-        "id": "272260665922686976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferrymead Bays - Nomads United",
-        "time": "05:45",
-        "id": "272260621886689280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Northcote City U23 - Eastern Lions U23",
-        "time": "05:30",
-        "id": "272170949672046592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Miramar Rangers - Wellington Olympic",
-        "time": "05:30",
-        "id": "272254366636969984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BALLARD FC - Portland Bangers",
-        "time": "05:00",
-        "id": "272208326653251584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Tucson - AMSG FC",
-        "time": "05:00",
-        "id": "272194294783283200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Diego Wave (W) - Seattle Reign FC (W)",
-        "time": "05:00",
-        "id": "271712444299218944"
     }
 ]
