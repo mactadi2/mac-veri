@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kagoshima United - FC Gifu",
+        "time": "12:00",
+        "id": "271874078257844224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fc Viktoria Plzen U19 - FC Slovacko U19",
         "time": "11:30",
         "id": "272188650856517632"
@@ -96,12 +103,5 @@
         "name": "Mlada Boleslav U19 - FC Slovan Liberec U19",
         "time": "11:00",
         "id": "272184873285980160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Olympie Brezova - Admira Praha II",
-        "time": "11:00",
-        "id": "272184873499889664"
     }
 ]
