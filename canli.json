@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Villacanas - Socuellamos",
+        "time": "20:30",
+        "id": "272281686577909760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Danimarka - Kuzey İrlanda",
         "time": "20:00",
         "id": "271915730991190016"
@@ -40,6 +47,13 @@
         "name": "Magallanes - Nublense",
         "time": "19:30",
         "id": "272059095197028352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union San Felipe - San Marcos de Arica",
+        "time": "19:30",
+        "id": "271913584512077824"
     },
     {
         "tur": "live",
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "KKS 1925 Kalisz - GKS Jastrzebie",
-        "time": "18:30",
-        "id": "271874077409546240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wisla Pulawy - Resovia Rzeszow",
-        "time": "18:30",
-        "id": "271874077668544512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chojniczanka Chojnice - Olimpia Grudziadz",
-        "time": "18:30",
-        "id": "271874077346631680"
+        "name": "Cliftonville (Kadınlar) - Peamount Utd (W)",
+        "time": "19:00",
+        "id": "272299504537047040"
     }
 ]
