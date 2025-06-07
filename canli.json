@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Skovde AIK - FC Rosengard",
+        "time": "17:00",
+        "id": "272089705005322240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "HIFK - Tups",
         "time": "16:15",
         "id": "272286858406400000"
@@ -96,12 +103,5 @@
         "name": "Fk Banik Sous - FC Kolin",
         "time": "16:00",
         "id": "272113229429346304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Usti N Orlici - Jablonec B",
-        "time": "16:00",
-        "id": "272342917311500288"
     }
 ]
