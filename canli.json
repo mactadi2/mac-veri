@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "D.C. United (Washington) - Chicago Fire",
+        "time": "02:30",
+        "id": "271789957452009472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Avai - CRB Clube de Regatas Brasil",
+        "time": "02:30",
+        "id": "271791168342331392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportes Tolima - America de Cali",
         "time": "02:15",
         "id": "271906752654610432"
@@ -89,19 +103,5 @@
         "name": "Loudoun United FC - Charleston Battery",
         "time": "01:00",
         "id": "271956084935233536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Carabobo FC - Metropolitanos FC",
-        "time": "00:30",
-        "id": "271891140069953536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportes Temuco - Audax Italiano Santiago",
-        "time": "00:30",
-        "id": "272060941072470016"
     }
 ]
