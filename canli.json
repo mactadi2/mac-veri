@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Weston FC - St. Petersburg FC",
+        "time": "01:30",
+        "id": "271887264220581888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kings Hammer - FC Miami City",
+        "time": "01:30",
+        "id": "272360466033020928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Moron - Colon de Santa Fe",
         "time": "01:10",
         "id": "271933816414801920"
@@ -12,6 +26,13 @@
         "name": "Loudoun United FC - Charleston Battery",
         "time": "01:00",
         "id": "271956084935233536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pacific FC - Atletico Ottawa",
+        "time": "01:00",
+        "id": "271844472358309888"
     },
     {
         "tur": "live",
@@ -72,36 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Montevideo Wanderers - Plaza Colonia",
-        "time": "23:30",
-        "id": "271870356487278592"
+        "name": "Independencia - Manaus FC",
+        "time": "00:00",
+        "id": "271878059529998336"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "EC Bahia - Nautico Capibaribe",
-        "time": "23:30",
-        "id": "271879674143051776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sampaio Correa-MA - Ceara SC CE",
-        "time": "23:30",
-        "id": "271879674233229312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "America RN (Rio Grande do Norte) - CS Alagoano AL",
-        "time": "23:30",
-        "id": "271879674312921088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juazeirense Ba - AD Confianca SE",
-        "time": "23:30",
-        "id": "271879674027708416"
+        "name": "SC Internacional (W) - America MG (W)",
+        "time": "00:00",
+        "id": "271129964666032128"
     }
 ]
