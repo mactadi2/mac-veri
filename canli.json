@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ghfa Spirit Fc - Apia Leichhardt Tigers",
+        "time": "10:30",
+        "id": "271874072380575744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mt Druitt Town Rangers - St. George Saints",
         "time": "10:00",
         "id": "271874072479141888"
@@ -23,16 +30,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Inter Lions U20 - Canterbury Bankstown U20",
+        "name": "Hills United Fc U20 - Northern Tigers U20",
         "time": "10:00",
-        "id": "272209743862435840"
+        "id": "272172282288410624"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hills United Fc U20 - Northern Tigers U20",
+        "name": "Inter Lions U20 - Canterbury Bankstown U20",
         "time": "10:00",
-        "id": "272172282288410624"
+        "id": "272209743862435840"
     },
     {
         "tur": "live",
@@ -72,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Floreat Athena - Western Knights SC",
+        "time": "10:00",
+        "id": "271874076159643648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sutherland Sharks - Western Sydney Wanderers NPL",
         "time": "09:00",
         "id": "272056017197600768"
@@ -89,19 +103,5 @@
         "name": "Queanbeyan City FC - Canberra Fk",
         "time": "08:30",
         "id": "272107901997420544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Campbelltown City - West Torrens Birkalla",
-        "time": "08:30",
-        "id": "271874074386501632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Para Hills Knights - Playford Patriots",
-        "time": "08:30",
-        "id": "271874074442076160"
     }
 ]
