@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kanada - Ukrayna",
+        "time": "22:30",
+        "id": "272089704924581888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Union Deportiva Almeria - Real Oviedo",
         "time": "22:00",
         "id": "271938292589662208"
@@ -96,12 +103,5 @@
         "name": "Brown de Adrogue - Villa Dalmine",
         "time": "21:00",
         "id": "271913584633712640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Villacanas - Socuellamos",
-        "time": "20:30",
-        "id": "272281686577909760"
     }
 ]
