@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sutherland Sharks U20 - Western Sydney U20",
+        "time": "06:30",
+        "id": "272348083388551168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Para Hills Knights Reserves - Playford City Patriots Reserves",
+        "time": "06:15",
+        "id": "272189812035948544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Campbelltown Reserves - West Torrens Birkalla Reserves",
+        "time": "06:15",
+        "id": "272189651141398528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide Cobras Reserves - Fulham United Reserves",
+        "time": "06:15",
+        "id": "272257055702781952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "West Coast Rangers -  Tauranga City AFC",
         "time": "06:00",
         "id": "272259116746018816"
@@ -19,13 +47,6 @@
         "name": "East Coast Bays - Western Springs AFC",
         "time": "06:00",
         "id": "272258896094171136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Upper Hutt City FC - Wellington Phoenix Reservers",
-        "time": "06:00",
-        "id": "272254355220074496"
     },
     {
         "tur": "live",
@@ -65,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Waterside Karori - Petone",
-        "time": "05:30",
-        "id": "272254426687868928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "BALLARD FC - Portland Bangers",
         "time": "05:00",
         "id": "272208326653251584"
@@ -89,19 +103,5 @@
         "name": "San Diego Wave (W) - Seattle Reign FC (W)",
         "time": "05:00",
         "id": "271712444299218944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "California Storm (W) - Napa Valley 1839 (W)",
-        "time": "05:00",
-        "id": "272196020910297088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Los Angeles Surf (W) - San Diego Srikers (W)",
-        "time": "05:00",
-        "id": "272210227473027072"
     }
 ]
