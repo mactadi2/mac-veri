@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hakoah Sydney City East - Rydalmere Lions",
+        "time": "07:30",
+        "id": "272074752971116544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Maitland - Broadmeadow Magic",
         "time": "07:00",
         "id": "272107901834891264"
@@ -37,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Briobecca Urayasu SC - Minebea Mitsumi",
+        "name": "Grulla Morioka - Maruyasu Industries SC",
         "time": "07:00",
-        "id": "272260433860235264"
+        "id": "272260165596745728"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Grulla Morioka - Maruyasu Industries SC",
+        "name": "Briobecca Urayasu SC - Minebea Mitsumi",
         "time": "07:00",
-        "id": "272260165596745728"
+        "id": "272260433860235264"
     },
     {
         "tur": "live",
@@ -79,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "West Coast Rangers -  Tauranga City AFC",
-        "time": "06:00",
-        "id": "272259116746018816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Eastern Suburbs Auckland AFC - Bay Olympic",
         "time": "06:00",
         "id": "272258896013430784"
@@ -93,15 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "East Coast Bays - Western Springs AFC",
+        "name": "West Coast Rangers -  Tauranga City AFC",
         "time": "06:00",
-        "id": "272258896094171136"
+        "id": "272259116746018816"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Croydon Kings Reserves - Modbury Jets Reserves",
-        "time": "05:45",
-        "id": "272172037917773824"
+        "name": "East Coast Bays - Western Springs AFC",
+        "time": "06:00",
+        "id": "272258896094171136"
     }
 ]
