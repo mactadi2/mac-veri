@@ -37,6 +37,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tegevajaro Miyazaki - SC Sagamihara",
+        "time": "13:00",
+        "id": "271874078341730304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tochigi SC - ThespaKusatsu Gunma",
+        "time": "13:00",
+        "id": "271874078090072064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Imabari FC - Oita Trinita",
         "time": "12:00",
         "id": "271734425949179904"
@@ -58,16 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wieczysta Krakow II - LKS Luban Maniowy",
+        "name": "Termalica BB Nieciecza II - Beskid Andrychow",
         "time": "12:00",
-        "id": "272188650921529344"
+        "id": "272188651322085376"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Termalica BB Nieciecza II - Beskid Andrychow",
+        "name": "Wieczysta Krakow II - LKS Luban Maniowy",
         "time": "12:00",
-        "id": "272188651322085376"
+        "id": "272188650921529344"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Kagoshima United - FC Gifu",
         "time": "12:00",
         "id": "271874078257844224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Viktoria Plzen U19 - FC Slovacko U19",
-        "time": "11:30",
-        "id": "272188650856517632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Melbourne Serbia - Bentleigh Greens",
-        "time": "11:30",
-        "id": "272100548778528768"
     }
 ]
