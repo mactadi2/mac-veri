@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "HIFK - Tups",
+        "time": "16:15",
+        "id": "272286858406400000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Letonya - Azerbaycan",
         "time": "16:00",
         "id": "272111843644936192"
@@ -44,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kozakken Boys - Scheveningen",
+        "time": "16:00",
+        "id": "272203760859746304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Harkemase Boys - VV Noordwijk",
+        "time": "15:30",
+        "id": "272203760334409728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Motor Lublin II - Stal Krasnik",
         "time": "15:00",
         "id": "272323113680769024"
@@ -82,26 +103,5 @@
         "name": "FC LaPa - Peka",
         "time": "15:00",
         "id": "272379897488478208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bohemians 1905 B - FK Admira Praha",
-        "time": "14:30",
-        "id": "272094299370426368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ylojarvi United - FC Lasten",
-        "time": "14:30",
-        "id": "272285964608606208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guizhou Zhucheng Athletic - Guangxi Hengchen",
-        "time": "14:30",
-        "id": "272260048576712704"
     }
 ]
