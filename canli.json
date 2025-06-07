@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Imabari FC - Oita Trinita",
+        "time": "12:00",
+        "id": "271734425949179904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jaguar Gdansk - Kolejarz Chojnice",
+        "time": "12:00",
+        "id": "272188650796748800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Grom Nowy Staw - Bytovia Bytow",
+        "time": "12:00",
+        "id": "272096734220521472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wieczysta Krakow II - LKS Luban Maniowy",
+        "time": "12:00",
+        "id": "272188650921529344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Termalica BB Nieciecza II - Beskid Andrychow",
+        "time": "12:00",
+        "id": "272188651322085376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dandenong Thunder - Altona Magic",
+        "time": "12:00",
+        "id": "271874075029278720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wollongong Wolves FC - Sydney Olympic FC",
+        "time": "12:00",
+        "id": "271874072537862144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fc Viktoria Plzen U19 - FC Slovacko U19",
         "time": "11:30",
         "id": "272188650856517632"
@@ -12,20 +61,6 @@
         "name": "FC Melbourne Serbia - Bentleigh Greens",
         "time": "11:30",
         "id": "272100548778528768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hakoah Sydney City East U20 - Rydalmere Lions U20",
-        "time": "11:30",
-        "id": "272197319343083520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zlin B - SC Znojmo",
-        "time": "11:30",
-        "id": "272188651230859264"
     },
     {
         "tur": "live",
@@ -51,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "MFK Karvina B - Zbrojovka Brno B",
-        "time": "11:15",
-        "id": "272094002791190528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sk Petrin Plzen - Viktoria Plzen B",
-        "time": "11:15",
-        "id": "272094287205896192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Mlada Boleslav U19 - FC Slovan Liberec U19",
         "time": "11:00",
         "id": "272184873285980160"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Changchun Xidu - Beijing Institute of Technology FC",
-        "time": "11:00",
-        "id": "272259101979971584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Ghfa Spirit Fc - Apia Leichhardt Tigers",
         "time": "10:30",
         "id": "271874072380575744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mt Druitt Town Rangers - St. George Saints",
-        "time": "10:00",
-        "id": "271874072479141888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Raiders U20 - Macarthur Rams U20",
-        "time": "10:00",
-        "id": "272209743795326976"
     }
 ]
