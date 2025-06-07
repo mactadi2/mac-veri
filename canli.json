@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Jaguares de Cordoba - Real Cartagena",
+        "time": "00:00",
+        "id": "272185950058188800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Plaza Amador Reserves - Sd Atletico Nacional",
+        "time": "00:00",
+        "id": "272325441739689984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Barquisimeto - Atletico El Vigia",
+        "time": "00:00",
+        "id": "272223854270746624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Montevideo Wanderers - Plaza Colonia",
         "time": "23:30",
         "id": "271870356487278592"
@@ -44,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mineros Guayana - Monagas II",
+        "time": "23:00",
+        "id": "272223854375604224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Pilar - Deportivo Armenio",
         "time": "22:45",
         "id": "271913584988131328"
@@ -75,33 +103,5 @@
         "name": "Titanes FC Guanare - Trujillanos FC",
         "time": "22:30",
         "id": "272223854435373056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Deportiva Almeria - Real Oviedo",
-        "time": "22:00",
-        "id": "271938292589662208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tigres FC - Internacional Fc De Palmira",
-        "time": "22:00",
-        "id": "272220418325221376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Tachira FC - Academia Puerto Cabello",
-        "time": "22:00",
-        "id": "271881649620389888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "America Mineiro MG - Ferroviaria SP",
-        "time": "22:00",
-        "id": "271778687995744256"
     }
 ]
