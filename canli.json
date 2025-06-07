@@ -2,9 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Montevideo Wanderers - Plaza Colonia",
+        "time": "23:30",
+        "id": "271870356487278592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EC Bahia - Nautico Capibaribe",
+        "time": "23:30",
+        "id": "271879674143051776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sampaio Correa-MA - Ceara SC CE",
+        "time": "23:30",
+        "id": "271879674233229312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "America RN (Rio Grande do Norte) - CS Alagoano AL",
+        "time": "23:30",
+        "id": "271879674312921088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juazeirense Ba - AD Confianca SE",
+        "time": "23:30",
+        "id": "271879674027708416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Meksika - İsviçre",
         "time": "23:00",
         "id": "271463738797854720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Pilar - Deportivo Armenio",
+        "time": "22:45",
+        "id": "271913584988131328"
     },
     {
         "tur": "live",
@@ -19,6 +61,20 @@
         "name": "Kanada - Ukrayna",
         "time": "22:30",
         "id": "272089704924581888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chile U20 - New Zealand U20",
+        "time": "22:30",
+        "id": "272302895022608384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Titanes FC Guanare - Trujillanos FC",
+        "time": "22:30",
+        "id": "272223854435373056"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "America Mineiro MG - Ferroviaria SP",
         "time": "22:00",
         "id": "271778687995744256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yunanistan - Slovakya",
-        "time": "21:45",
-        "id": "271851132515651584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arnavutluk - Sırbistan",
-        "time": "21:45",
-        "id": "267041131389390848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avusturya - Romanya",
-        "time": "21:45",
-        "id": "265939276500439040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Finlandiya - Hollanda",
-        "time": "21:45",
-        "id": "265938282328756224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Excursionistas - CA Fenix",
-        "time": "21:30",
-        "id": "271912952530079744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Dock Sud - Sacachispas",
-        "time": "21:30",
-        "id": "271913585056288768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Argentino Merlo - Argentino Quilmes",
-        "time": "21:30",
-        "id": "271913584705015808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Acassuso - Flandria",
-        "time": "21:30",
-        "id": "271913584768978944"
     }
 ]
