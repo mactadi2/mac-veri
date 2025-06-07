@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Motor Lublin II - Stal Krasnik",
+        "time": "15:00",
+        "id": "272323113680769024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Polonia Laziska Gorne - Rakow II Czestochowa",
+        "time": "15:00",
+        "id": "272199983590150144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Nove Sady - Bzenec",
+        "time": "15:00",
+        "id": "272379790184550400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Akademisk Boldklub Gladsaxe - Middelfart",
+        "time": "15:00",
+        "id": "272013443365736448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Peimari United - KaaPo",
+        "time": "15:00",
+        "id": "272286938166333440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC LaPa - Peka",
+        "time": "15:00",
+        "id": "272379897488478208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bohemians 1905 B - FK Admira Praha",
         "time": "14:30",
         "id": "272094299370426368"
@@ -12,13 +54,6 @@
         "name": "Ylojarvi United - FC Lasten",
         "time": "14:30",
         "id": "272285964608606208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guizhou Zhucheng Athletic - Guangxi Hengchen",
-        "time": "14:30",
-        "id": "272260048576712704"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Niemisen Urheilijat - PK 37 Iisalmi",
         "time": "14:00",
         "id": "272285889110085632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Busan I. Park - Ansan Greeners",
-        "time": "13:00",
-        "id": "271738890729164800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jeonnam Dragons - Seoul E-Land FC",
-        "time": "13:00",
-        "id": "271738890975580160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gyeongnam FC - Hwaseong Fc",
-        "time": "13:00",
-        "id": "271738890825633792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tegevajaro Miyazaki - SC Sagamihara",
-        "time": "13:00",
-        "id": "271874078341730304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tochigi SC - ThespaKusatsu Gunma",
-        "time": "13:00",
-        "id": "271874078090072064"
     }
 ]
