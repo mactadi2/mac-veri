@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Zlin B - SC Znojmo",
+        "time": "11:30",
+        "id": "272188651230859264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Neratovice Byskovice - SK Mondi Steti",
         "time": "11:15",
         "id": "272184873433829376"
@@ -44,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "MFK Karvina B - Zbrojovka Brno B",
+        "time": "11:15",
+        "id": "272094002791190528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sk Petrin Plzen - Viktoria Plzen B",
+        "time": "11:15",
+        "id": "272094287205896192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mlada Boleslav U19 - FC Slovan Liberec U19",
         "time": "11:00",
         "id": "272184873285980160"
@@ -54,6 +75,13 @@
         "name": "FK Olympie Brezova - Admira Praha II",
         "time": "11:00",
         "id": "272184873499889664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Changchun Xidu - Beijing Institute of Technology FC",
+        "time": "11:00",
+        "id": "272259101979971584"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wollongong Wolves Fc U20 - Sydney Olympic U20",
-        "time": "10:00",
-        "id": "272082675801657344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SD Raiders U20 - Macarthur Rams U20",
         "time": "10:00",
         "id": "272209743795326976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hills United Fc U20 - Northern Tigers U20",
-        "time": "10:00",
-        "id": "272172282288410624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Inter Lions U20 - Canterbury Bankstown U20",
-        "time": "10:00",
-        "id": "272209743862435840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mounties Wanderers U20 - Bonnyrigg White Eagles U20",
-        "time": "10:00",
-        "id": "272197319428018176"
     }
 ]
