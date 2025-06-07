@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Stjordals-Blink - Ullensaker Kisa IL",
+        "time": "16:00",
+        "id": "271874072860823552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Harkemase Boys - VV Noordwijk",
         "time": "15:30",
         "id": "272203760334409728"
@@ -68,20 +75,6 @@
         "name": "Motor Lublin II - Stal Krasnik",
         "time": "15:00",
         "id": "272323113680769024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Polonia Laziska Gorne - Rakow II Czestochowa",
-        "time": "15:00",
-        "id": "272199983590150144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Nove Sady - Bzenec",
-        "time": "15:00",
-        "id": "272379790184550400"
     },
     {
         "tur": "live",
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC LaPa - Peka",
+        "name": "Eidsvold TF - Follo",
         "time": "15:00",
-        "id": "272379897488478208"
+        "id": "271874072780083200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Asker Fotball - Strindheim",
+        "time": "15:00",
+        "id": "271874072620699648"
     }
 ]
