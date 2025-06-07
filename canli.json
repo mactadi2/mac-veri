@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Meksika - İsviçre",
+        "time": "23:00",
+        "id": "271463738797854720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "ABD - Türkiye",
         "time": "22:30",
         "id": "272104656677769216"
@@ -93,15 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Danubio - Montevideo City Torque",
-        "time": "21:00",
-        "id": "271860810896248832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brown de Adrogue - Villa Dalmine",
-        "time": "21:00",
-        "id": "271913584633712640"
+        "name": "Club Atletico Acassuso - Flandria",
+        "time": "21:30",
+        "id": "271913584768978944"
     }
 ]
