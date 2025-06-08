@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Racing Santander - CD Mirandes",
+        "time": "19:30",
+        "id": "271938292525699072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Curico Unido - Universidad de Chile",
+        "time": "19:30",
+        "id": "272059713953337344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santiago Wanderers - CD Antofagasta",
+        "time": "19:30",
+        "id": "272059713787662336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Armenia U19 - Moldova U19",
+        "time": "19:30",
+        "id": "272465015732310016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gürcistan - Yeşil Burun Adaları",
         "time": "19:00",
         "id": "272265143038119936"
@@ -75,33 +103,5 @@
         "name": "TJ Sokol Lanzhot - Breclav",
         "time": "18:00",
         "id": "272301657901109248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Batov - 1. HFK Olomouc",
-        "time": "18:00",
-        "id": "272264513554878464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Horni Redice - Brandys Nad Labem",
-        "time": "18:00",
-        "id": "272481724946059264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kozlovice Fc - FC Kvasice",
-        "time": "18:00",
-        "id": "272475563660283904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Frenstat Pod Radhostem - Novy Jicin",
-        "time": "18:00",
-        "id": "272482095414251520"
     }
 ]
