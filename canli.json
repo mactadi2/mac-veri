@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cuiavia Inowroclaw - Kujawiak Kowal",
-        "time": "17:00",
-        "id": "272444731656638464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Ljungskile SK - Jonkopings Sodra",
         "time": "17:00",
         "id": "272089705213988864"
@@ -103,5 +96,12 @@
         "name": "Norrby IF - Hassleholms IF",
         "time": "17:00",
         "id": "272089705302069248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sotra Sportsklubb - Jerv",
+        "time": "17:00",
+        "id": "271945816232562688"
     }
 ]
