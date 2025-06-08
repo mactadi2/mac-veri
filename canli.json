@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA San Telmo - Gimnasia Mendoza",
+        "time": "21:00",
+        "id": "272124740577136640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Varea - Oyonesa",
+        "time": "21:00",
+        "id": "272312990363160576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juventud Piedras - Racing Club de Montevideo",
+        "time": "21:00",
+        "id": "271877767104172032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sol de America - Guarani de Fram",
+        "time": "21:00",
+        "id": "272093302974713856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Ciudad de Lucena - Atletico Central",
         "time": "20:30",
         "id": "272367638392475648"
@@ -75,33 +103,5 @@
         "name": "Armenia U19 - Moldova U19",
         "time": "19:30",
         "id": "272465015732310016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gürcistan - Yeşil Burun Adaları",
-        "time": "19:00",
-        "id": "272265143038119936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sporting Gijon B - CD Lealtad",
-        "time": "19:00",
-        "id": "272383435194109952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "İzlanda U21 - Colombia U20",
-        "time": "19:00",
-        "id": "272486927317471232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Numancia II - CD Betis CF",
-        "time": "19:00",
-        "id": "272383460977545216"
     }
 ]
