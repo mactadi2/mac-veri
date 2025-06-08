@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gürcistan - Yeşil Burun Adaları",
+        "time": "19:00",
+        "id": "272265143038119936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sporting Gijon B - CD Lealtad",
+        "time": "19:00",
+        "id": "272383435194109952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "İzlanda U21 - Colombia U20",
+        "time": "19:00",
+        "id": "272486927317471232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Demokratik Kongo Cumhuriyeti - Madagaskar",
         "time": "18:00",
         "id": "272443009479610368"
@@ -37,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Bohumin - SC Pusta Polom",
+        "name": "Sokol Tasovice - FC Kurim",
         "time": "18:00",
-        "id": "272399834341838848"
+        "id": "272399834408947712"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sokol Tasovice - FC Kurim",
+        "name": "FK Bohumin - SC Pusta Polom",
         "time": "18:00",
-        "id": "272399834408947712"
+        "id": "272399834341838848"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Frenstat Pod Radhostem - Novy Jicin",
         "time": "18:00",
         "id": "272482095414251520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ljungskile SK - Jonkopings Sodra",
-        "time": "17:00",
-        "id": "272089705213988864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Norrby IF - Hassleholms IF",
-        "time": "17:00",
-        "id": "272089705302069248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sotra Sportsklubb - Jerv",
-        "time": "17:00",
-        "id": "271945816232562688"
     }
 ]
