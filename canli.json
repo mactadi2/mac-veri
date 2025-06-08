@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Colon FC - Atenas",
+        "time": "02:30",
+        "id": "272099790019497984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Junior de Barranquilla  - Independiente Medellin",
         "time": "02:15",
         "id": "271906752722767872"
@@ -40,6 +47,13 @@
         "name": "San Diego Srikers (W) - Beach Futbol Club (W)",
         "time": "02:00",
         "id": "272390972126662656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Southern California Eagles (W) - San Diego Parceiro LFC (W)",
+        "time": "01:30",
+        "id": "272510319124942848"
     },
     {
         "tur": "live",
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Coquimbo Unido - Union La Calera",
-        "time": "00:30",
-        "id": "272064856460496896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Encarnacion FC - 12 de Junio de Villa Hayes",
-        "time": "00:30",
-        "id": "272095946742042624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trasandino Los Andes - General Velasquez",
-        "time": "00:30",
-        "id": "272372125738864640"
+        "name": "Mankato United (W) - Minnesota Bliss (W)",
+        "time": "01:00",
+        "id": "272390344109330432"
     }
 ]
