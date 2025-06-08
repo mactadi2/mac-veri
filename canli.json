@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kjelsas Oslo - Rana FK",
+        "time": "13:30",
+        "id": "271932582392893440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chemik Bydgoszcz - KS Unia Solec Kujawski",
         "time": "13:00",
         "id": "272444731914588160"
@@ -65,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Yeoju Citizen FC - Chuncheon FC",
+        "time": "13:00",
+        "id": "271930867239227392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Litvanya Under 19 - Letonya U19",
         "time": "12:30",
         "id": "272349771279241216"
@@ -89,19 +103,5 @@
         "name": "Podillia Khmelnytskyi - Kolos Kovalivka II",
         "time": "12:00",
         "id": "272174180974333952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "North Bangkok University - Songkhla FC",
-        "time": "11:30",
-        "id": "272368679133515776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hubei Chufengheli - Shandong Taishan Reserves",
-        "time": "11:30",
-        "id": "272337735490080768"
     }
 ]
