@@ -44,13 +44,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Jiskra Trebon - SK Rudolfov",
-        "time": "11:30",
-        "id": "272457687677145088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "LAC Inter - 1.ZS Simmeringer SC",
         "time": "11:15",
         "id": "272346370030047232"
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Redcliffe Dolphins - University of Queensland",
+        "name": "Mokpo City - Gimhae City",
         "time": "11:00",
-        "id": "272343360153456640"
+        "id": "271923318077132800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Daejeon Korail - Siheung Citizen",
+        "time": "11:00",
+        "id": "271923318007926784"
     }
 ]
