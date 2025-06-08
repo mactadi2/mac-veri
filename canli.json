@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Yokohama FC - Cerezo Osaka",
+        "time": "12:00",
+        "id": "271926967769632768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Podillia Khmelnytskyi - Kolos Kovalivka II",
+        "time": "12:00",
+        "id": "272174180974333952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Selangor FA U20 - Kuching City U20",
+        "time": "11:45",
+        "id": "272379567818280960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "North Bangkok University - Songkhla FC",
         "time": "11:30",
         "id": "272368679133515776"
@@ -12,13 +33,6 @@
         "name": "Hubei Chufengheli - Shandong Taishan Reserves",
         "time": "11:30",
         "id": "272337735490080768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jiskra Trebon - SK Rudolfov",
-        "time": "11:30",
-        "id": "272457687677145088"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Daejeon Korail - Siheung Citizen",
         "time": "11:00",
         "id": "271923318007926784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St. George Willawong FC - Gold Coast United",
-        "time": "10:00",
-        "id": "272066244873687040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Virginia United - North Brisbane",
-        "time": "10:00",
-        "id": "272164728908943360"
     }
 ]
