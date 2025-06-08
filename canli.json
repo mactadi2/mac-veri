@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD UAI Urquiza - Comunicaciones de Bueno Aires",
+        "time": "21:30",
+        "id": "271962857485242368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA San Telmo - Gimnasia Mendoza",
         "time": "21:00",
         "id": "272124740577136640"
@@ -26,6 +33,20 @@
         "name": "Sol de America - Guarani de Fram",
         "time": "21:00",
         "id": "272093302974713856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Azuriz FC PR - Sao Jose EC",
+        "time": "21:00",
+        "id": "272312990714433536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Maldonado - Rampla Juniors",
+        "time": "21:00",
+        "id": "272095620770172928"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Racing Santander - CD Mirandes",
-        "time": "19:30",
-        "id": "271938292525699072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Curico Unido - Universidad de Chile",
-        "time": "19:30",
-        "id": "272059713953337344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santiago Wanderers - CD Antofagasta",
-        "time": "19:30",
-        "id": "272059713787662336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Armenia U19 - Moldova U19",
-        "time": "19:30",
-        "id": "272465015732310016"
+        "name": "ENPPI Club - National Bank of Egypt SC",
+        "time": "20:00",
+        "id": "272224220873887744"
     }
 ]
