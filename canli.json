@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Puerto Cabello Reserves - Real Frontera",
+        "time": "22:30",
+        "id": "272320550206050304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dvo Italia - Angostura FC",
+        "time": "22:30",
+        "id": "272375433463468032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Portekiz - İspanya",
         "time": "22:00",
         "id": "272233115733331968"
@@ -51,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Central SC - Treze FC PB",
-        "time": "22:00",
-        "id": "271601609569603584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CD UAI Urquiza - Comunicaciones de Bueno Aires",
         "time": "21:30",
         "id": "271962857485242368"
@@ -96,12 +103,5 @@
         "name": "Azuriz FC PR - Sao Jose EC",
         "time": "21:00",
         "id": "272312990714433536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Ciudad de Lucena - Atletico Central",
-        "time": "20:30",
-        "id": "272367638392475648"
     }
 ]
