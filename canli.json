@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "St George Willawong FC U23 - Gold Coast United U23",
+        "time": "07:45",
+        "id": "272172365024202752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bulls Northbridge FC Academy (W) - Mt Druitt Town Rangers (W)",
+        "time": "07:40",
+        "id": "272079337820393472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ipswich FC U23 - Broadbeach United U23",
         "time": "07:30",
         "id": "272334367692558336"
@@ -72,27 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Marconi Stallions U20 - Rockdale Ilinden U20",
-        "time": "06:00",
-        "id": "272086079723671552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sydney United 58 U20 - Manly United FC U20",
-        "time": "06:00",
-        "id": "272108689336438784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blacktown City U20 - Central Coast Mariners U20",
-        "time": "06:00",
-        "id": "272436414867705856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Antelope Valley Alta - Spokane Velocity FC",
         "time": "06:00",
         "id": "272293972184010752"
@@ -103,5 +96,12 @@
         "name": "Labasa - Rewa FC",
         "time": "06:00",
         "id": "272438298887196672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gold Coast Knights U23 - WDSC Wolves U23",
+        "time": "05:45",
+        "id": "272165343456268288"
     }
 ]
