@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ipswich FC U23 - Broadbeach United U23",
+        "time": "07:30",
+        "id": "272334367692558336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vanraure Hachnohe FC - F.C. Ryukyu",
         "time": "07:00",
         "id": "271908117662535680"
@@ -30,13 +37,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Iga Kunoichi (W) - Okayama Yunogo Belle (W)",
-        "time": "07:00",
-        "id": "272260106432942080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Viamaterras Miyazaki (W) - Shizuoka Sangyo University (W)",
         "time": "07:00",
         "id": "272346640298414080"
@@ -44,9 +44,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Iga Kunoichi (W) - Okayama Yunogo Belle (W)",
+        "time": "07:00",
+        "id": "272260106432942080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SEISA OSA Rheia FC (W) - JFA Academy (W)",
         "time": "07:00",
         "id": "272347887665549312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Malaita Kingz - Central Coast FC",
+        "time": "07:00",
+        "id": "272379665868525568"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Labasa - Rewa FC",
         "time": "06:00",
         "id": "272438298887196672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Phoenix Rising - Orange County Sc",
-        "time": "05:30",
-        "id": "271956087593373696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nelson Suburbs FC - Selwyn United",
-        "time": "05:30",
-        "id": "272297637497147392"
     }
 ]
