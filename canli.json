@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Shenzhen 2028 FC - Guangzhou Dandelion Alpha FC",
+        "time": "14:30",
+        "id": "272337790472163328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Blekitni Stargard II - GKS Manowo",
         "time": "14:00",
         "id": "272444732051951616"
@@ -96,12 +103,5 @@
         "name": "University College Dublin II - Malahide",
         "time": "13:00",
         "id": "272463218826416128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yokohama FC - Cerezo Osaka",
-        "time": "12:00",
-        "id": "271926967769632768"
     }
 ]
