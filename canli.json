@@ -16,16 +16,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wissa Szczuczyn - Orleta Czyzew",
+        "name": "GKS Arka Pawlow - Naprzod Jedrzejow",
         "time": "18:00",
-        "id": "272452960044322816"
+        "id": "272444731808681984"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "GKS Arka Pawlow - Naprzod Jedrzejow",
+        "name": "Wissa Szczuczyn - Orleta Czyzew",
         "time": "18:00",
-        "id": "272444731808681984"
+        "id": "272452960044322816"
     },
     {
         "tur": "live",
@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SK Batov - 1. HFK Olomouc",
+        "time": "18:00",
+        "id": "272264513554878464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FK Horni Redice - Brandys Nad Labem",
         "time": "18:00",
         "id": "272481724946059264"
@@ -65,9 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Batov - 1. HFK Olomouc",
+        "name": "Kozlovice Fc - FC Kvasice",
         "time": "18:00",
-        "id": "272264513554878464"
+        "id": "272475563660283904"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Norrby IF - Hassleholms IF",
         "time": "17:00",
         "id": "272089705302069248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Progreso Montevideo - Miramar Misiones",
-        "time": "16:30",
-        "id": "271868673283723264"
     }
 ]
