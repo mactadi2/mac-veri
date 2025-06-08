@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ferrocarril Midland - Deportivo Laferrere",
+        "time": "23:10",
+        "id": "271969274587910144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chicago Fire FC II - New England Revolution II",
+        "time": "23:00",
+        "id": "271968639078502400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sueno FC - St Croix SC",
+        "time": "23:00",
+        "id": "272050690617118720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Dvo Italia - Angostura FC",
         "time": "22:30",
         "id": "272375433463468032"
@@ -65,43 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Goianesia - Mixto EC",
+        "time": "22:00",
+        "id": "271964786994057216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central SC - Treze FC PB",
+        "time": "22:00",
+        "id": "271601609569603584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD UAI Urquiza - Comunicaciones de Bueno Aires",
         "time": "21:30",
         "id": "271962857485242368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA San Telmo - Gimnasia Mendoza",
-        "time": "21:00",
-        "id": "272124740577136640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Varea - Oyonesa",
-        "time": "21:00",
-        "id": "272312990363160576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juventud Piedras - Racing Club de Montevideo",
-        "time": "21:00",
-        "id": "271877767104172032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sol de America - Guarani de Fram",
-        "time": "21:00",
-        "id": "272093302974713856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Azuriz FC PR - Sao Jose EC",
-        "time": "21:00",
-        "id": "272312990714433536"
     }
 ]
