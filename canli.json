@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Progreso Montevideo - Miramar Misiones",
+        "time": "16:30",
+        "id": "271868673283723264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Almanya - Fransa",
         "time": "16:00",
         "id": "272233651457101824"
@@ -96,12 +103,5 @@
         "name": "TEAM TG FF - FC Stockholm Internazionale",
         "time": "15:00",
         "id": "272105152328110080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shenzhen 2028 FC - Guangzhou Dandelion Alpha FC",
-        "time": "14:30",
-        "id": "272337790472163328"
     }
 ]
