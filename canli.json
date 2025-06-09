@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Criciuma EC - Vila Nova GO",
+        "time": "01:00",
+        "id": "271915805787164672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Millonarios (W) - Independiente Santa Fe (W)",
         "time": "00:00",
         "id": "272475237434658816"
@@ -12,19 +19,5 @@
         "name": "Llaneros FC - Real Santander",
         "time": "00:00",
         "id": "272380499283021824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fas - Benin",
-        "time": "23:00",
-        "id": "272363669937065984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "The Strongest (W) - Bolivar La Paz (W)",
-        "time": "23:00",
-        "id": "272467861810843648"
     }
 ]
