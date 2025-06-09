@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Millonarios (W) - Independiente Santa Fe (W)",
+        "time": "00:00",
+        "id": "272475237434658816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Llaneros FC - Real Santander",
+        "time": "00:00",
+        "id": "272380499283021824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fas - Benin",
         "time": "23:00",
         "id": "272363669937065984"
@@ -26,33 +40,5 @@
         "name": "Atletico Cliper Clube - Operario AM",
         "time": "22:30",
         "id": "272460345662115840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Keflavik - Fylkir Reykjavik",
-        "time": "22:15",
-        "id": "272146913988579328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Throttur Reykjavik - UMF Njardvik",
-        "time": "22:15",
-        "id": "272146913838632960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gabon - Gine Bissau",
-        "time": "22:00",
-        "id": "272425241003823104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Belçika - Galler",
-        "time": "21:45",
-        "id": "265939225203052544"
     }
 ]
