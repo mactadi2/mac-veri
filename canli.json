@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Karadağ - Ermenistan",
+        "time": "21:00",
+        "id": "272403648695373824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Miramar Misiones Reserves - Club Oriental Reserves",
+        "time": "21:00",
+        "id": "272543248109670400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Korea U20 - Brazil U20",
+        "time": "21:00",
+        "id": "272554028974608384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Doce Mel EC (W) - Pinda SC (W)",
+        "time": "21:00",
+        "id": "272463252084101120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SE Paraty RJ - Riostrense",
+        "time": "21:00",
+        "id": "272461059603959808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Duque de Caxias - Angra dos Reis",
+        "time": "21:00",
+        "id": "272583667065425920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "United IK Nordic - Karlbergs BK",
         "time": "20:30",
         "id": "272282820703031296"
@@ -12,6 +54,13 @@
         "name": "24 de Setiembre - CS Limpeno",
         "time": "20:30",
         "id": "272491569504980992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kosova Cumhuriyeti - Comoros",
+        "time": "20:00",
+        "id": "272583317290881024"
     },
     {
         "tur": "live",
@@ -44,16 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Saaksjaerven Loiske - FC Haka Juniors",
-        "time": "19:30",
-        "id": "272326754869317632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hinna Fotball - Viking (A)",
-        "time": "19:30",
-        "id": "272471499747758080"
+        "name": "Fbk Balkan - Lunds BK",
+        "time": "20:00",
+        "id": "272480296333611008"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Al-Hala - A'Ali FC",
         "time": "19:20",
         "id": "272044037603725312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bahrain SC - Isa Town",
-        "time": "19:20",
-        "id": "272044037538713600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lihtenştayn - İskoçya",
-        "time": "19:00",
-        "id": "272287200273633280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leiknir Reykjavik - Volsungur",
-        "time": "19:00",
-        "id": "272044037181149184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Comoros - Botsvana",
-        "time": "19:00",
-        "id": "272396094753869824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Haukar Hafnarfjordur - Kormakur\/hvot",
-        "time": "19:00",
-        "id": "272426827742580736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pacifico FC - Universitario de Deportes Reserves",
-        "time": "19:00",
-        "id": "272547882405597184"
     }
 ]
