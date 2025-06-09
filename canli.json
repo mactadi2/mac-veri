@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "İtalya - Moldova",
+        "time": "21:45",
+        "id": "267064152468623360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estonya - Norveç",
+        "time": "21:45",
+        "id": "265938283187539968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hırvatistan - Çekya",
+        "time": "21:45",
+        "id": "265939277195644928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Faroe Adaları - Cebelitarık",
+        "time": "21:45",
+        "id": "265939276765728768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Belçika - Galler",
+        "time": "21:45",
+        "id": "265939225203052544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Karadağ - Ermenistan",
         "time": "21:00",
         "id": "272403648695373824"
@@ -26,20 +61,6 @@
         "name": "Doce Mel EC (W) - Pinda SC (W)",
         "time": "21:00",
         "id": "272463252084101120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SE Paraty RJ - Riostrense",
-        "time": "21:00",
-        "id": "272461059603959808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Duque de Caxias - Angra dos Reis",
-        "time": "21:00",
-        "id": "272583667065425920"
     },
     {
         "tur": "live",
@@ -72,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bergnasets AIK - Boden City FC",
-        "time": "20:00",
-        "id": "272015934137438208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Linkopings FC (Kadınlar) - BK Hacken (K)",
         "time": "20:00",
         "id": "272047822678921216"
@@ -89,19 +103,5 @@
         "name": "Lendorf - ATUS Ferlach",
         "time": "20:00",
         "id": "272452690215309312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fbk Balkan - Lunds BK",
-        "time": "20:00",
-        "id": "272480296333611008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Hala - A'Ali FC",
-        "time": "19:20",
-        "id": "272044037603725312"
     }
 ]
