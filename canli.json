@@ -30,20 +30,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Augnablik Kopavogur - Sindri",
-        "time": "17:00",
-        "id": "272426735937654784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Reynir Sandgerdi - Hviti Riddarinn",
-        "time": "17:00",
-        "id": "272426808372236288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Aegir - Hottur\/Huginn",
         "time": "17:00",
         "id": "272426902246002688"
@@ -54,6 +40,20 @@
         "name": "KFG Gardabaer - Kari Akranes",
         "time": "17:00",
         "id": "272426756578873344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Augnablik Kopavogur - Sindri",
+        "time": "17:00",
+        "id": "272426735937654784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Reynir Sandgerdi - Hviti Riddarinn",
+        "time": "17:00",
+        "id": "272426808372236288"
     },
     {
         "tur": "live",
@@ -96,12 +96,5 @@
         "name": "B36 Torshavn (W) - Vikingur Gota (W)",
         "time": "16:00",
         "id": "272422412486840320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fk Tonsberg - Traeff",
-        "time": "15:30",
-        "id": "272030683923353600"
     }
 ]
