@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Northern Indiana FC - Ann Arbor",
+        "time": "01:00",
+        "id": "272588158246457344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Bucaramanga - Boyaca Chico",
+        "time": "01:00",
+        "id": "272422853651075072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Haiti - Curacao",
+        "time": "01:00",
+        "id": "272546530215464960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Saint Lucia - Barbados",
+        "time": "01:00",
+        "id": "272547074996834304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Botafogo Rj (W) - Tuna Luso (W)",
+        "time": "01:00",
+        "id": "272566907700383744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Yeni Zelanda - Ukrayna",
         "time": "00:00",
         "id": "272377240471343104"
@@ -12,33 +47,5 @@
         "name": "Junior Barranquilla (W) - Alianza FC (W)",
         "time": "00:00",
         "id": "272586342056202240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bolivya - Şili",
-        "time": "23:00",
-        "id": "271422097794928640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Arbaer - IH Hafnarfjordur",
-        "time": "23:00",
-        "id": "272501863215140864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bf 108 - Ulfarnir",
-        "time": "23:00",
-        "id": "272681938544889856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Küba - Bermuda",
-        "time": "23:00",
-        "id": "272421386576859136"
     }
 ]
