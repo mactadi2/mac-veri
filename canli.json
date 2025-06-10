@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Brera Ilch - Tuv Azarganuud",
+        "time": "14:15",
+        "id": "272648745813938176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Çin - Bahreyn",
         "time": "14:00",
         "id": "271387624122486784"
@@ -75,33 +82,5 @@
         "name": "Dandenong City - South Melbourne",
         "time": "12:45",
         "id": "272555472921432064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Peninsula Power U23 - Gold Coast Knights U23",
-        "time": "12:45",
-        "id": "272559121009610752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Northcote City - Heidelberg United",
-        "time": "12:30",
-        "id": "272555472800845824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eastern Suburbs (W) - Gold Coast Knights (W)",
-        "time": "12:30",
-        "id": "272554821638295552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gold Coast United (W) - Mitchelton (W)",
-        "time": "12:30",
-        "id": "272554745476026368"
     }
 ]
