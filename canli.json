@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Deportivo Itati - Independiente Tirol",
+        "time": "22:00",
+        "id": "272649855390846976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "İngiltere - Senegal",
         "time": "21:45",
         "id": "272286963113005056"
@@ -23,16 +30,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lüksemburg - İrlanda",
+        "name": "İsrail - Slovakya",
         "time": "21:45",
-        "id": "272287097780572160"
+        "id": "272544938087026688"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "İsrail - Slovakya",
+        "name": "Lüksemburg - İrlanda",
         "time": "21:45",
-        "id": "272544938087026688"
+        "id": "272287097780572160"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Ürdün - Irak",
         "time": "21:15",
         "id": "272233771726671872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Güney Afrika - Mozambik",
-        "time": "20:30",
-        "id": "272663515549011968"
     }
 ]
