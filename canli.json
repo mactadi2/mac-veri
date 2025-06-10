@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Yeni Zelanda - Ukrayna",
+        "time": "00:00",
+        "id": "272377240471343104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Junior Barranquilla (W) - Alianza FC (W)",
+        "time": "00:00",
+        "id": "272586342056202240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bolivya - Şili",
         "time": "23:00",
         "id": "271422097794928640"
@@ -37,20 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Deportivo Itati - Independiente Tirol",
-        "time": "22:00",
-        "id": "272649855390846976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tiro Futbol Club - CD Policiales",
-        "time": "22:00",
-        "id": "272647513379573760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "C.U.N.E. - CA Regional de Resistencia",
         "time": "22:00",
         "id": "272648765561769984"
@@ -58,43 +58,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Selfoss\/Arborg U19 - Keflavik\/Reynir\/Vidir U19",
-        "time": "22:00",
-        "id": "272654190999900160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Saint Kitts and Nevis - Grenada",
-        "time": "22:00",
-        "id": "272342063240056832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "WAF Fes - RSB Berkane",
-        "time": "22:00",
-        "id": "272563473474523136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "İngiltere - Senegal",
-        "time": "21:45",
-        "id": "272286963113005056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Finlandiya - Polonya",
         "time": "21:45",
         "id": "265714333880815616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Romanya - Kıbrıs",
-        "time": "21:45",
-        "id": "265714333814755328"
     }
 ]
