@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mexico Youth - Congo Youth",
+        "time": "18:30",
+        "id": "272404580446375936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Letonya U19 - Estonya U19",
         "time": "18:00",
         "id": "272549788060356608"
@@ -61,47 +68,5 @@
         "name": "Colombia U20 - USA U20",
         "time": "17:00",
         "id": "272644302851674112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tallinna JK Legion U19 - Tartu FC Helios U19",
-        "time": "17:00",
-        "id": "272548254790586368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Flora Tallinn U19 - Johvi FC Phoenix U19",
-        "time": "17:00",
-        "id": "272548187710033920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tallinna FC Ajax U19 - JK Trans Narva U19",
-        "time": "17:00",
-        "id": "272548260194947072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orgryte IS U21 - Falkenberg U21",
-        "time": "17:00",
-        "id": "272658397520859136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Özbekistan - Katar",
-        "time": "16:45",
-        "id": "272370054561140736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kırgızistan - Birleşik Arap Emirlikleri",
-        "time": "16:45",
-        "id": "272216626792894464"
     }
 ]
