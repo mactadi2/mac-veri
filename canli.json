@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tallinna JK Legion U19 - Tartu FC Helios U19",
+        "time": "17:00",
+        "id": "272548254790586368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Flora Tallinn U19 - Johvi FC Phoenix U19",
+        "time": "17:00",
+        "id": "272548187710033920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tallinna FC Ajax U19 - JK Trans Narva U19",
+        "time": "17:00",
+        "id": "272548260194947072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orgryte IS U21 - Falkenberg U21",
+        "time": "17:00",
+        "id": "272658397520859136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Özbekistan - Katar",
         "time": "16:45",
         "id": "272370054561140736"
@@ -44,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bangladeş - Singapur",
-        "time": "16:00",
-        "id": "272554636053975040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Helsingborgs U21 - Trelleborg U21",
         "time": "16:00",
         "id": "272655490211778560"
@@ -75,33 +96,5 @@
         "name": "FC Metalist 1925 (W) - Zhilstroy Kharkov Zhytlobud 2 (Kadınlar)",
         "time": "16:00",
         "id": "272635319389655040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brunei - Butan Krallığı",
-        "time": "15:15",
-        "id": "272555173182836736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethiopian Medhin - Mekelakeya",
-        "time": "15:00",
-        "id": "272381084582416384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hong Kong - Hindistan",
-        "time": "15:00",
-        "id": "272555549124595712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Denmark Youth - Japan Youth",
-        "time": "15:00",
-        "id": "272391151320961024"
     }
 ]
