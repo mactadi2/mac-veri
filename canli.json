@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NK Rogaska - Odranci",
+        "time": "18:30",
+        "id": "272755745636880384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ferrocarril Midland Reserves - Deportivo Armenio Reserves",
         "time": "18:00",
         "id": "272734716213465088"
@@ -82,12 +89,5 @@
         "name": "ZNK Hajduk Split (W) - ZNK Agram (W)",
         "time": "17:00",
         "id": "272647968905105408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Nerab - Afrin SC",
-        "time": "17:00",
-        "id": "272750656024088576"
     }
 ]
