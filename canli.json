@@ -44,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sporting Cristal (W) - Alianza Lima (W)",
+        "time": "23:00",
+        "id": "272656549038657536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Oviedo - Union Deportiva Almeria",
         "time": "22:00",
         "id": "272407487902257152"
@@ -96,12 +103,5 @@
         "name": "Raja Casablanca - COD Meknes",
         "time": "22:00",
         "id": "272649611539255296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sion Swifts LFC (W) - St. James Swifts (W)",
-        "time": "22:00",
-        "id": "272650670140690432"
     }
 ]
