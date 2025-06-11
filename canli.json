@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Leones Del Norte - Gualaceo SC",
+        "time": "23:30",
+        "id": "272508219433291776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Merlo Reserves - UAI Urquiza Reserves",
         "time": "23:00",
         "id": "272693062072930304"
@@ -19,13 +26,6 @@
         "name": "Atletico Bucaramanga (W) - Atletico Nacional Medellin (W)",
         "time": "23:00",
         "id": "272639824834465792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stokkseyri - SR Reykjavik",
-        "time": "23:00",
-        "id": "272651597169954816"
     },
     {
         "tur": "live",
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sportivo Italiano - Deportivo Armenio",
-        "time": "21:30",
-        "id": "272506476725145600"
+        "name": "Sion Swifts LFC (W) - St. James Swifts (W)",
+        "time": "22:00",
+        "id": "272650670140690432"
     }
 ]
