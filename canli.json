@@ -30,6 +30,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "İtalya U21 - Romanya U21",
+        "time": "22:00",
+        "id": "271795329640304640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portekiz U21 - Fransa U21",
+        "time": "22:00",
+        "id": "271919117575000064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Polonya U21 - Gürcistan U21",
+        "time": "22:00",
+        "id": "271919117657837568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sportivo Italiano - Deportivo Armenio",
         "time": "21:30",
         "id": "272506476725145600"
@@ -65,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cruzeiro EC U20 - Gremio RS U20",
-        "time": "21:00",
-        "id": "272639865789747200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Fluminense RJ U20 - Athletico Paranaense U20",
         "time": "21:00",
         "id": "272504425411645440"
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "San Martin de San Juan Reserves - Ca Huracan Reserves",
-        "time": "21:00",
-        "id": "272583694306381824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Botafogo SP U20 - Sao Bento U20",
         "time": "21:00",
         "id": "272504425595146240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Balzers - FC Schaffhausen 2",
-        "time": "21:00",
-        "id": "272661401281105920"
     }
 ]
