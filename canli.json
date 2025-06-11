@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Miami City - Sarasota Paradise",
+        "time": "02:00",
+        "id": "272508217158930432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hudson Valley Hammers - Manhattan SC",
         "time": "02:00",
         "id": "272508217987305472"
@@ -96,12 +103,5 @@
         "name": "Botafogo RJ U20 - Atletico Goianiense U20",
         "time": "01:00",
         "id": "272600072247709696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juazeirense Ba - Lagarto Se",
-        "time": "01:00",
-        "id": "272508214179926016"
     }
 ]
