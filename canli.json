@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": " Sunshine Coast Wanderers - Brisbane Roar Youth",
+        "time": "12:30",
+        "id": "272611014303944704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Logan Lightning - Magic United TFA",
+        "time": "12:30",
+        "id": "272610385352331264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Machida Zelvia - Kyoto Sangyo University",
+        "time": "12:30",
+        "id": "272597574331011072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tokushima Vortis - Renofa Yamaguchi",
+        "time": "12:30",
+        "id": "272539305001488384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sanfrecce Hiroshima - Kashima (Jpn)",
+        "time": "12:30",
+        "id": "272554743811936256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nagoya Grampus Eight - Veroskronos Tsuno",
+        "time": "12:30",
+        "id": "272554742754971648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yokohama F Marinos - Reinmeer Aomori",
+        "time": "12:30",
+        "id": "272554743541403648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Robina City FC - North Lakes United",
+        "time": "12:30",
+        "id": "272610913012551680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Zbrojovka Brno U19 - Ceske Budejovice U19",
         "time": "12:00",
         "id": "272550965363740672"
@@ -30,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dagon Port FC U21 - Yadanarbon FC U21",
-        "time": "12:00",
-        "id": "272666073335205888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Fastav Zlin U19 - Fc Viktoria Plzen U19",
         "time": "11:30",
         "id": "272550965802045440"
@@ -54,47 +103,5 @@
         "name": "Newcastle Olympic Reserves - New Lambton Reserves",
         "time": "11:00",
         "id": "272645082602147840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Beijing Phoenix (W) - Changchun Dazhong (W)",
-        "time": "11:00",
-        "id": "272639220896632832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shandong Sports Lottery (W) - Zhejiang Hangzhou (W)",
-        "time": "11:00",
-        "id": "272639751051415552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Henan Jianye (W) - Yongchuan Chashan (W)",
-        "time": "11:00",
-        "id": "272639523957116928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shanghai Shengli (W) - Liaoning Shenbei Hefeng (W)",
-        "time": "11:00",
-        "id": "272639824780988416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Daegu FC Reserves - Pyeongtaek Citizen Fc",
-        "time": "11:00",
-        "id": "272652555725705216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Myanmar U19 (W) - Laos U19 (W)",
-        "time": "11:00",
-        "id": "272668389174022144"
     }
 ]
