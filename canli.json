@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Pine Hills - Souths United",
+        "time": "12:45",
+        "id": "272611082942681088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": " Sunshine Coast Wanderers - Brisbane Roar Youth",
         "time": "12:30",
         "id": "272611014303944704"
@@ -96,12 +103,5 @@
         "name": "Eastern Suburbs U23 - Moreton City Excelsior U23",
         "time": "11:30",
         "id": "272614253227282432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Newcastle Olympic Reserves - New Lambton Reserves",
-        "time": "11:00",
-        "id": "272645082602147840"
     }
 ]
