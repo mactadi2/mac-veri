@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "LKS Promien Monki - MOSP Bialystok",
+        "time": "19:30",
+        "id": "272666415524352000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jippo II - Ylamyllyn Yllatys",
+        "time": "19:30",
+        "id": "272659278546997248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA San Telmo Reserves - Temperley Reserves",
         "time": "19:00",
         "id": "272677824680300544"
@@ -89,19 +103,5 @@
         "name": "Ferrocarril Midland Reserves - Deportivo Armenio Reserves",
         "time": "18:00",
         "id": "272734716213465088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Haka Valkeakoski - Gnistan",
-        "time": "18:00",
-        "id": "272159227660865536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia Mendoza Reserves - Defensores Unidos Reserves",
-        "time": "17:30",
-        "id": "272681738795356160"
     }
 ]
