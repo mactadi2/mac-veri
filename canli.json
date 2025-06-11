@@ -9,13 +9,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Internacional Fc De Palmira - CD Jaguares de Cordoba",
-        "time": "22:00",
-        "id": "272581315519451136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CA Chaco For Ever Reserves - Sarmiento de Resistencia Reserves",
         "time": "22:00",
         "id": "272748494492667904"
@@ -40,6 +33,13 @@
         "name": "Sportivo Italiano - Deportivo Armenio",
         "time": "21:30",
         "id": "272506476725145600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Grorud U19 - Lillehammer U19",
+        "time": "21:15",
+        "id": "272654419549622272"
     },
     {
         "tur": "live",
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VV Noordwijk - Kozakken Boys",
-        "time": "20:30",
-        "id": "272654362921275392"
+        "name": "Balzers - FC Schaffhausen 2",
+        "time": "21:00",
+        "id": "272661401281105920"
     }
 ]
