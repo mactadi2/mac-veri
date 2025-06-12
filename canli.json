@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PPJ\/Ruoholahti - Espa",
+        "time": "20:20",
+        "id": "272692021961035776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "EsPa\/Renat - HooGee",
         "time": "20:15",
         "id": "272705107317100544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Toolon Taisto - PPJ\/Lauttasaari",
+        "time": "20:15",
+        "id": "272691994796625920"
     },
     {
         "tur": "live",
@@ -40,13 +54,6 @@
         "name": "FC Lasten - TPV II",
         "time": "20:00",
         "id": "272694835498061824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hassleholms IF - Bk Olympic",
-        "time": "20:00",
-        "id": "272580211109924864"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "NoPS - Tampereen Peli-Toverit",
         "time": "19:00",
         "id": "272694835567267840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kultsu - KoPa",
-        "time": "18:30",
-        "id": "272693254148984832"
     }
 ]
