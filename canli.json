@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guayaquil City - Indepiendente Juniors",
+        "time": "23:30",
+        "id": "272508219361988608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "JS Kabylie - ES Setif",
         "time": "23:00",
         "id": "272508208437923840"
@@ -96,12 +103,5 @@
         "name": "Çek Cumhuriyeti U21 - İngiltere U21",
         "time": "22:00",
         "id": "271931943111757824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Skedsmo U19 - IF Ready U19",
-        "time": "21:30",
-        "id": "272746695348064256"
     }
 ]
