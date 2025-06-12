@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hassleholms IF - Bk Olympic",
+        "time": "20:00",
+        "id": "272580211109924864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SalPa II - Masku",
         "time": "19:30",
         "id": "272695164351418368"
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Chojniczanka Chojnice - OKS Swit Skolwin",
-        "time": "19:00",
-        "id": "272544398381813760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Seinajoen Sisu - FC Ylivieska",
-        "time": "19:00",
-        "id": "272694742809186304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "NoPS - Tampereen Peli-Toverit",
         "time": "19:00",
         "id": "272694835567267840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Serrekunda FC - Suwo Kono",
+        "time": "19:00",
+        "id": "272822613807599616"
     }
 ]
