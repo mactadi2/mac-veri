@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "JS Kabylie - ES Setif",
+        "time": "23:00",
+        "id": "272508208437923840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MC Alger - ES Mostaganem",
+        "time": "23:00",
+        "id": "272508208650784768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Constantine - CR Belouizdad",
+        "time": "23:00",
+        "id": "272508208376057856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paradou AC - NC Magra",
+        "time": "23:00",
+        "id": "272508208592064512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alianza Atletico - Comerciantes Unidos",
+        "time": "23:00",
+        "id": "271869917587968000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fortaleza FC - FC Leones",
+        "time": "23:00",
+        "id": "272508219085164544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "America de Cali (W) - Asociacion Deportivo Cali (W)",
+        "time": "23:00",
+        "id": "272731031317123072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arborg - KA Asvellir",
         "time": "22:15",
         "id": "272696143188725760"
@@ -37,71 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Asker U19 - Kongsvinger U19",
-        "time": "21:15",
-        "id": "272718745678516224"
+        "name": "Almanya U21 - Slovenya U21",
+        "time": "22:00",
+        "id": "271931943042551808"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Skeid U19 - KFUM U19",
-        "time": "21:15",
-        "id": "272718745574707200"
+        "name": "Çek Cumhuriyeti U21 - İngiltere U21",
+        "time": "22:00",
+        "id": "271931943111757824"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Valerenga U19 - Ullern U19",
-        "time": "21:15",
-        "id": "272741836453449728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nordstrand U19 - Follo U19",
-        "time": "21:15",
-        "id": "272720809581219840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Argentino Quilmes Reserves - Villa San Carlos Reserves",
-        "time": "21:00",
-        "id": "272746982118920192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bragantino Sp U20 - Palmeiras U20",
-        "time": "21:00",
-        "id": "272584050240262144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juventude U20 - Santos FC U20",
-        "time": "21:00",
-        "id": "272584825141071872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Velez Sarsfield Reserves - Tigre Reserves",
-        "time": "21:00",
-        "id": "272566081191809024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rosario Central Reserves - Union Santa Fe Reserves",
-        "time": "21:00",
-        "id": "272566151786139648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estudiantes La Plata Reserves - Instituto AC Cordoba Reserves",
-        "time": "21:00",
-        "id": "272566230043463680"
+        "name": "Skedsmo U19 - IF Ready U19",
+        "time": "21:30",
+        "id": "272746695348064256"
     }
 ]
