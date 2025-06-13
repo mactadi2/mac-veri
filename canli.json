@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Plaza Colonia - Club Atletico Cerro",
+        "time": "00:15",
+        "id": "272413383923470336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Ameliano (W) - Deportivo Recoleta (W)",
+        "time": "00:00",
+        "id": "272913439875272704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Andira U20 - Rio Branco AC U20",
+        "time": "00:00",
+        "id": "272919096578936832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Utc de Cajamarca - Atletico Grau",
         "time": "23:00",
         "id": "271870096529559552"
@@ -33,68 +54,5 @@
         "name": "IH Hafnarfjordur (W) - Alftanes (W)",
         "time": "22:30",
         "id": "272809072060928000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fylkir Reykjavik - UMF Grindavik ",
-        "time": "22:15",
-        "id": "272508207090503680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kopavogur - Fjolnir Reykjavik",
-        "time": "22:15",
-        "id": "272508207210041344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IR Reykjavik - Leiknir Reykjavik",
-        "time": "22:15",
-        "id": "272775317620396032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KFK Kopavogur - Reynir Sandgerdi",
-        "time": "22:15",
-        "id": "272775684974317568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Montevideo City Torque - CA Progreso Montevideo",
-        "time": "22:00",
-        "id": "272477276118061056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Defensores Puerto Vilelas - Central Benitez",
-        "time": "22:00",
-        "id": "272912335966965760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CSD Municipal Margarita Belen - Fontana",
-        "time": "22:00",
-        "id": "272912183325757440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Penarol de San Juan - 9 de Julio San Juan",
-        "time": "22:00",
-        "id": "272949635850571776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Crusaders Newtownabbey Strikers WFC  (W) - Lisburn Rangers (W)",
-        "time": "22:00",
-        "id": "272840433269346304"
     }
 ]
