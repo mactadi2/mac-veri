@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dandenong City - Green Gully Cavaliers SC",
+        "time": "12:45",
+        "id": "272508215289319424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Heidelberg United - Dandenong Thunder",
         "time": "12:30",
         "id": "272508215364816896"
@@ -75,26 +82,5 @@
         "name": "Northcote City U23 - Melbourne Srbija U23",
         "time": "11:15",
         "id": "272815023146012672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Indonesia U19 (W) - Malaysia U19 (W)",
-        "time": "11:00",
-        "id": "272809291388424192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vietnam U19 (W) - Laos U19 (W)",
-        "time": "11:00",
-        "id": "272819086648545280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Myanmar U19 (W) - East Timor U19 (W)",
-        "time": "11:00",
-        "id": "272830326006484992"
     }
 ]
