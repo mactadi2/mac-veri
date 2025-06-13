@@ -1,72 +1,79 @@
 [
     {
         "type": "futbol",
-        "name": "Ç.Rizespor - Hatayspor",
-        "day": "31",
-        "time": "16:00",
-        "channel": "Bein Sports 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Fenerbahçe - Konyaspor",
-        "day": "31",
-        "time": "16:00",
-        "channel": "Bein Sports 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Alanyaspor - Sivasspor",
-        "day": "31",
-        "time": "19:00",
-        "channel": "Bein Sports 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Adana Demirspor - Gaziantep FK",
-        "day": "31",
-        "time": "19:00",
-        "channel": "Bein Sports 2"
-    },
-    {
-        "type": "futbol",
-        "name": "PSG - Inter",
-        "day": "31",
+        "name": "Los Troncos - Fluxo",
+        "day": "13",
         "time": "22:00",
-        "channel": "TRT 1"
+        "channel": "S Sport"
+    },
+    {
+        "type": "futbol",
+        "name": "Porcinos - Furia",
+        "day": "13",
+        "time": "23:00",
+        "channel": "S Sport"
     },
     {
         "type": "basketbol",
-        "name": "Bahçeşehir Klj - Tofaş",
-        "day": "31",
-        "time": "18:00",
-        "channel": "Bein Sports 5"
-    },
-    {
-        "type": "basketbol",
-        "name": "Türk Telekom - Fenerbahçe Beko",
-        "day": "31",
-        "time": "20:30",
-        "channel": "Bein Sports 5"
+        "name": "Real Madrid - Unicaja Malaga",
+        "day": "13",
+        "time": "22:15",
+        "channel": "Spor Smart"
     },
     {
         "type": "tenis",
-        "name": "Martin\/Fallada - Calvo\/Ulrich",
-        "day": "31",
-        "time": "20:30",
+        "name": "V.Kudermetova - E.Alexandrova",
+        "day": "13",
+        "time": "12:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "Sanchez\/Fernandez - Senesi\/Pons",
-        "day": "31",
-        "time": "22:30",
+        "name": "Y.Yuan - E.Mertens",
+        "day": "13",
+        "time": "13:30",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "Bilinmiyor - Bilinmiyor",
-        "day": "31",
-        "time": "23:30",
+        "name": "D.Shnaider - M.Keys",
+        "day": "13",
+        "time": "14:00",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "tenis",
+        "name": "T.Maria - E.Rybakina",
+        "day": "13",
+        "time": "15:30",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "tenis",
+        "name": "E.Cocciaretto - S.Lamens",
+        "day": "13",
+        "time": "15:30",
         "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Q.Zheng - E.Raducanu",
+        "day": "13",
+        "time": "17:00",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "tenis",
+        "name": "E.G.Ruse - B.Andreescu",
+        "day": "13",
+        "time": "17:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "E.Navarro - A.Anisimova",
+        "day": "13",
+        "time": "18:30",
+        "channel": "Bein Sports Max 2"
     }
 ]
