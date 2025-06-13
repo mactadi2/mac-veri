@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Utc de Cajamarca - Atletico Grau",
+        "time": "23:00",
+        "id": "271870096529559552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fylkir Reykjavik - UMF Grindavik ",
         "time": "22:15",
         "id": "272508207090503680"
@@ -96,12 +103,5 @@
         "name": "Treaty United FC - Bray Wanderers AFC",
         "time": "21:45",
         "id": "272316874843361280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Athlone Town FC - Kerry FC",
-        "time": "21:45",
-        "id": "272316902471241728"
     }
 ]
