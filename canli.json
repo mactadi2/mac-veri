@@ -9,6 +9,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hviti Riddarinn - Augnablik Kopavogur",
+        "time": "22:30",
+        "id": "272775684857925632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Naval Talcahuano - CD Constitucion Unido",
+        "time": "22:30",
+        "id": "272915293110669312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lota Schwager - Malleco Unido",
+        "time": "22:30",
+        "id": "272915293184069632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fylkir Reykjavik - UMF Grindavik ",
         "time": "22:15",
         "id": "272508207090503680"
@@ -26,6 +47,13 @@
         "name": "IR Reykjavik - Leiknir Reykjavik",
         "time": "22:15",
         "id": "272775317620396032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KFK Kopavogur - Reynir Sandgerdi",
+        "time": "22:15",
+        "id": "272775684974317568"
     },
     {
         "tur": "live",
@@ -58,9 +86,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cork City FC - Bohemian FC Dublin",
-        "time": "21:45",
-        "id": "271843612937031680"
+        "name": "Bodens BK - Bergnasets AIK",
+        "time": "22:00",
+        "id": "272776653341593600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sul America EC AM - Atletico Cliper Clube",
+        "time": "22:00",
+        "id": "272856476730658816"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Shelbourne FC - Shamrock Rovers FC",
         "time": "21:45",
         "id": "271843612840562688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St Patrick's Athletic - Drogheda United",
-        "time": "21:45",
-        "id": "271843640516677632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Derry City - Galway United",
-        "time": "21:45",
-        "id": "271843600294350848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Finn Harps FC - Wexford FC",
-        "time": "21:45",
-        "id": "272316808182239232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dundalk FC - University College Dublin FC",
-        "time": "21:45",
-        "id": "272316808258785280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Treaty United FC - Bray Wanderers AFC",
-        "time": "21:45",
-        "id": "272316874843361280"
     }
 ]
