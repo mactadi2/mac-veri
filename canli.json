@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gangwon FC - Jeonbuk Hyundai Motors FC",
+        "time": "13:30",
+        "id": "271931467931717632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gwangju FC - FC Seoul",
+        "time": "13:30",
+        "id": "271931468209590272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Northcote City - FC Melbourne Serbia",
+        "time": "13:30",
+        "id": "272728449217597440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rochedale Rovers - Southside Eagles",
+        "time": "13:30",
+        "id": "272704623656177664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brisbane Strikers - Holland Park Hawks",
+        "time": "13:30",
+        "id": "272704547627077632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Springvale White Eagles - Box Hill United",
+        "time": "13:30",
+        "id": "272739743714906112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Altona City - Werribee City",
+        "time": "13:30",
+        "id": "272739630675267584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Oakleigh Cannons - Melbourne Victory U21",
         "time": "13:15",
         "id": "272508215444508672"
@@ -12,13 +61,6 @@
         "name": "Port Melbourne Sharks - Melbourne Knights",
         "time": "13:15",
         "id": "272508215662612480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Musgrave - Runaway Bay Green",
-        "time": "13:15",
-        "id": "272909763064500224"
     },
     {
         "tur": "live",
@@ -44,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Adamstown Rosebud (W) - Lake Macquarie (W)",
-        "time": "13:00",
-        "id": "272808914433740800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Dandenong City - Green Gully Cavaliers SC",
         "time": "12:45",
         "id": "272508215289319424"
@@ -68,40 +103,5 @@
         "name": "Essendon Royals - Pascoe Vale",
         "time": "12:30",
         "id": "272739647214456832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Box Hill United (W) - Bulleen Lions (W)",
-        "time": "12:30",
-        "id": "272780730638143488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "University Azzurri FC - Darwin Hearts",
-        "time": "12:00",
-        "id": "272623359553048576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rakhine United U21 - Shan Utd U21",
-        "time": "12:00",
-        "id": "272802888802242560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yarmanya United U21 - Yangon United U21",
-        "time": "12:00",
-        "id": "272802888724647936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brisbane Strikers U23 - Holland Park Hawks U23",
-        "time": "11:30",
-        "id": "272833221816881152"
     }
 ]
