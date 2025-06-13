@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Brisbane Strikers U23 - Holland Park Hawks U23",
+        "time": "11:30",
+        "id": "272833221816881152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rochedale Rovers U23 - Southside Eagles U23",
+        "time": "11:30",
+        "id": "272833522519117824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Port Melbourne U23 - Melbourne Knights U23",
         "time": "11:15",
         "id": "272789461259128832"
@@ -40,12 +54,5 @@
         "name": "Vietnam U19 (W) - Laos U19 (W)",
         "time": "11:00",
         "id": "272819086648545280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Christchurch United - Cashmere Technical",
-        "time": "10:00",
-        "id": "272791958262517760"
     }
 ]
