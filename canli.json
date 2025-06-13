@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Pointe Michel FC - Promex Harlem United SC",
+        "time": "01:30",
+        "id": "272826419655086080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "12 de Junio de Villa Hayes - Fernando de la Mora",
         "time": "01:15",
         "id": "272508211439996928"
@@ -54,19 +61,5 @@
         "name": "Plaza Colonia - Club Atletico Cerro",
         "time": "00:15",
         "id": "272413383923470336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Ameliano (W) - Deportivo Recoleta (W)",
-        "time": "00:00",
-        "id": "272913439875272704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Andira U20 - Rio Branco AC U20",
-        "time": "00:00",
-        "id": "272919096578936832"
     }
 ]
