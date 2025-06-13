@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IR Reykjavik - Leiknir Reykjavik",
+        "time": "22:15",
+        "id": "272775317620396032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Montevideo City Torque - CA Progreso Montevideo",
         "time": "22:00",
         "id": "272477276118061056"
@@ -96,12 +103,5 @@
         "name": "Athlone Town FC - Kerry FC",
         "time": "21:45",
         "id": "272316902471241728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Duhok - Al-Najaf",
-        "time": "20:30",
-        "id": "272561599732125696"
     }
 ]
