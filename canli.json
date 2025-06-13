@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "12 de Junio de Villa Hayes - Fernando de la Mora",
+        "time": "01:15",
+        "id": "272508211439996928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vila Nova GO - America Mineiro MG",
+        "time": "01:00",
+        "id": "272351824521072640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Iguatu CE - Tocantinopolis",
+        "time": "01:00",
+        "id": "272648000125407232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "McLean Soccer (W) - Arlington Soccer (W)",
+        "time": "01:00",
+        "id": "272862251827990528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guanabara City GO U20 - Trindade U20",
+        "time": "01:00",
+        "id": "272910336281153536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Plaza Colonia - Club Atletico Cerro",
         "time": "00:15",
         "id": "272413383923470336"
@@ -19,12 +54,5 @@
         "name": "Andira U20 - Rio Branco AC U20",
         "time": "00:00",
         "id": "272919096578936832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Utc de Cajamarca - Atletico Grau",
-        "time": "23:00",
-        "id": "271870096529559552"
     }
 ]
