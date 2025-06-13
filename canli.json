@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "West Torrens Birkalla - Adelaide City",
+        "time": "13:45",
+        "id": "272508213023346688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gangwon FC - Jeonbuk Hyundai Motors FC",
         "time": "13:30",
         "id": "271931467931717632"
@@ -23,13 +30,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Rochedale Rovers - Southside Eagles",
-        "time": "13:30",
-        "id": "272704623656177664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Brisbane Strikers - Holland Park Hawks",
         "time": "13:30",
         "id": "272704547627077632"
@@ -37,16 +37,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Springvale White Eagles - Box Hill United",
+        "name": "Rochedale Rovers - Southside Eagles",
         "time": "13:30",
-        "id": "272739743714906112"
+        "id": "272704623656177664"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Altona City - Werribee City",
+        "name": "Springvale White Eagles - Box Hill United",
         "time": "13:30",
-        "id": "272739630675267584"
+        "id": "272739743714906112"
     },
     {
         "tur": "live",
