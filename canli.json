@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sligo Rovers FC - Waterford FC",
+        "time": "21:45",
+        "id": "271843640565960704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Estudiantes Caseros - CA Chaco For Ever",
+        "time": "21:30",
+        "id": "272516390853939200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Maipu - Racing de Cordoba",
+        "time": "21:30",
+        "id": "272516358326063104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Argentino Quilmes - Brown de Adrogue",
+        "time": "21:30",
+        "id": "272512063612522496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Flandria - Excursionistas",
+        "time": "21:30",
+        "id": "272512064153587712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Martin De Burzaco - CS Dock Sud",
+        "time": "21:30",
+        "id": "272512064009932800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FBC Melgar Arequipa - Sport Boys",
         "time": "21:15",
         "id": "271946991669481472"
@@ -26,20 +68,6 @@
         "name": "Talleres Remedios Escalada - Central Norte Salta ",
         "time": "21:00",
         "id": "272508207534051328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Capiata - Sol de America",
-        "time": "21:00",
-        "id": "272508211498717184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nova Iguacu FC - Rio Branco ES",
-        "time": "21:00",
-        "id": "272648000562663424"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "UD Castellonense - Burgos Promesas",
         "time": "20:00",
         "id": "272866609003106304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rigas Futbola Skola - SK Super Nova",
-        "time": "20:00",
-        "id": "272508223927488512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Defensores de Belgrano - Gimnasia Y Esgrima de Jujuy",
-        "time": "19:40",
-        "id": "272508207673511936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palestino Santiago - La Serena",
-        "time": "19:30",
-        "id": "271962332691828736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportes Temuco - C.D. Universidad de Concepcion",
-        "time": "19:30",
-        "id": "272552870371528704"
     }
 ]
