@@ -9,13 +9,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tecza Biskupiec - Granica Ketrzyn",
-        "time": "18:00",
-        "id": "272827735328559104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "KTS Weszlo - KS Blonianka Blonie",
         "time": "18:00",
         "id": "272845287262916608"
@@ -23,9 +16,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Warta Srem - Jarota Jarocin",
+        "name": "Tecza Biskupiec - Granica Ketrzyn",
         "time": "18:00",
-        "id": "272801533128740864"
+        "id": "272827735328559104"
     },
     {
         "tur": "live",
@@ -44,9 +37,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Victoria Wrzesnia - Polonia Chodziez",
+        "name": "Warta Srem - Jarota Jarocin",
         "time": "18:00",
-        "id": "272845287335268352"
+        "id": "272801533128740864"
     },
     {
         "tur": "live",
@@ -54,6 +47,13 @@
         "name": "Gryf Wejherowo - LKS Pogon Lebork",
         "time": "18:00",
         "id": "272769742560956416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Victoria Wrzesnia - Polonia Chodziez",
+        "time": "18:00",
+        "id": "272845287335268352"
     },
     {
         "tur": "live",
