@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Real Cartagena - Internacional Fc De Palmira",
+        "time": "02:05",
+        "id": "272910702496321536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Indy Eleven - Pittsburgh Riverhounds",
+        "time": "02:00",
+        "id": "272556920700801024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hartford Athletic - Charleston Battery",
+        "time": "02:00",
+        "id": "272556918847967232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lexington SC - New Mexico United",
+        "time": "02:00",
+        "id": "272556923191169024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rhode Island - North Carolina",
+        "time": "02:00",
+        "id": "272556918756741120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Defensor Sporting - Liverpool FC Montevideo",
+        "time": "02:00",
+        "id": "272430335637196800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Botafogo PB - SER Caxias",
         "time": "01:30",
         "id": "271875047695716352"
@@ -16,23 +58,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Morris Elite - Long Island Rough Riders",
-        "time": "01:30",
-        "id": "272521396255592448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Loudoun United FC - Detroit City FC",
         "time": "01:00",
         "id": "272482432099422208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Seacoast United Phantoms - Boston City",
-        "time": "01:00",
-        "id": "272519647823269888"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Santiago Wanderers - Cobreloa Calama",
         "time": "00:30",
         "id": "272552870105190400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo San Lorenzo - Encarnacion FC",
-        "time": "00:30",
-        "id": "272517894044258304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estudiantes Rio Cuarto - Gimnasia Mendoza",
-        "time": "00:00",
-        "id": "272515891493736448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Jaguares de Cordoba - Tigres FC",
-        "time": "00:00",
-        "id": "272910702528827392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Saint Louis City SC - Los Angeles Galaxy",
-        "time": "23:30",
-        "id": "271870895711195136"
     }
 ]
