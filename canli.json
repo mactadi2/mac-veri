@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Philadelphia Union - Charlotte",
+        "time": "02:30",
+        "id": "271871398417403904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Columbus Crew - Vancouver Whitecaps",
+        "time": "02:30",
+        "id": "271871039956455424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New England Revolution - FC Cincinnati",
+        "time": "02:30",
+        "id": "271871182146506752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tampa Bay Rowdies - Miami FC",
+        "time": "02:30",
+        "id": "272556919542124544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Athletic Club MG - Operario Ferroviario EC PR",
+        "time": "02:30",
+        "id": "272423686900944896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Cartagena - Internacional Fc De Palmira",
         "time": "02:05",
         "id": "272910702496321536"
@@ -68,40 +103,5 @@
         "name": "Deportivo Moron - Almirante Brown de Lules",
         "time": "00:40",
         "id": "272516429611405312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universidad Central de Venezuela - Deportivo Tachira FC",
-        "time": "00:30",
-        "id": "272568114100703232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Paranaense PR - Remo PA",
-        "time": "00:30",
-        "id": "272362963505123328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Barcelona SC Guayaquil - Manta FC",
-        "time": "00:30",
-        "id": "272241343930175488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CDT Real Oruro - The Strongest La Paz",
-        "time": "00:30",
-        "id": "272503526343708672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santiago Wanderers - Cobreloa Calama",
-        "time": "00:30",
-        "id": "272552870105190400"
     }
 ]
