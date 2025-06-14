@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Loudoun United FC - Detroit City FC",
+        "time": "01:00",
+        "id": "272482432099422208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Seacoast United Phantoms - Boston City",
+        "time": "01:00",
+        "id": "272519647823269888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Moron - Almirante Brown de Lules",
+        "time": "00:40",
+        "id": "272516429611405312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Universidad Central de Venezuela - Deportivo Tachira FC",
         "time": "00:30",
         "id": "272568114100703232"
@@ -58,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mixto EC - Goiania",
+        "time": "00:00",
+        "id": "272515891854446592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Saint Louis City SC - Los Angeles Galaxy",
         "time": "23:30",
         "id": "271870895711195136"
@@ -75,33 +103,5 @@
         "name": "Juan Pablo II College - Los Chankas CYC",
         "time": "23:30",
         "id": "271948605045215232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ituano SP - Sao Bernardo FC",
-        "time": "23:00",
-        "id": "271873859566833664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AA Ponte Preta - ABC Futebol Clube",
-        "time": "23:00",
-        "id": "271874041659396096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Porto Vitoria - Marica RJ",
-        "time": "23:00",
-        "id": "272512064513249280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Temperley - Colon de Santa Fe",
-        "time": "22:40",
-        "id": "272508207412416512"
     }
 ]
