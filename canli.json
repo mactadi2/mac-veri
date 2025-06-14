@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cooks Hill United - Belmont Swansea United FC",
+        "time": "08:30",
+        "id": "272508221267251200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Altona Magic - Hume City",
         "time": "08:15",
         "id": "272508215513714688"
@@ -26,6 +33,13 @@
         "name": "Gold Coast United - Brisbane City",
         "time": "08:15",
         "id": "272617456243183616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Eastern Lions U23 - Moreland City U23",
+        "time": "08:15",
+        "id": "272815023223607296"
     },
     {
         "tur": "live",
@@ -65,16 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Marlin Coast Rangers - Peninsula Power",
-        "time": "07:00",
-        "id": "272915207060328448"
+        "name": "Boroondara Carey Eagles - Eltham Redbacks",
+        "time": "08:00",
+        "id": "272739859883495424"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "South Melbourne U23 - Preston Lions U23",
+        "name": "Marlin Coast Rangers - Peninsula Power",
         "time": "07:00",
-        "id": "272803896897966080"
+        "id": "272915207060328448"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Maruyasu Industries SC - Asuka FC",
         "time": "07:00",
         "id": "272867247130808320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Edgeworth Eagles - New Lambton",
-        "time": "07:00",
-        "id": "272508221666758656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adamstown Rosebud FC - Lambton Jaffas FC",
-        "time": "07:00",
-        "id": "272508221597552640"
     }
 ]
