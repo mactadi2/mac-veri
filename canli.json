@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Riverside Olympic - Kingborough Lions",
+        "time": "07:15",
+        "id": "272508224267227136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Marlin Coast Rangers - Peninsula Power",
+        "time": "07:00",
+        "id": "272915207060328448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Melbourne U23 - Preston Lions U23",
+        "time": "07:00",
+        "id": "272803896897966080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tiamo Hirakata - Okinawa Sv",
+        "time": "07:00",
+        "id": "272867324162347008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maruyasu Industries SC - Asuka FC",
+        "time": "07:00",
+        "id": "272867247130808320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Edgeworth Eagles - New Lambton",
+        "time": "07:00",
+        "id": "272508221666758656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adamstown Rosebud FC - Lambton Jaffas FC",
+        "time": "07:00",
+        "id": "272508221597552640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cooks Hill United FC Reserves - Belmont Swansea United SC Reserves",
         "time": "07:00",
         "id": "272839666802233344"
@@ -12,34 +61,6 @@
         "name": "Modbury Jets Reserves - Para Hills Knights Reserves",
         "time": "06:15",
         "id": "272842580453101568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Playford City Patriots Reserves - Campbelltown Reserves",
-        "time": "06:15",
-        "id": "272842580892454912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Salisbury Utd Reserves - Vipers Reserves",
-        "time": "06:15",
-        "id": "272874667871703040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pontian Eagles Reserves - Adelaide Cobras Reserves",
-        "time": "06:15",
-        "id": "272873468526202880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "The Cove FC Reserves - Adelaide Olympic Fc Reserves",
-        "time": "06:15",
-        "id": "272874744344350720"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Portland Timbers - San Jose Earthquakes",
         "time": "05:30",
         "id": "271870685518893056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Langwarrin U23 - Manningham Utd Blues U23",
-        "time": "05:30",
-        "id": "272815023347339264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avondale U23 - St Albans Saints U23",
-        "time": "05:00",
-        "id": "272786106223824896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bay FC (W) - Orlando Pride SC (W)",
-        "time": "05:00",
-        "id": "272424615627853824"
     }
 ]
