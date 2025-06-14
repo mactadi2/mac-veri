@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AC Oulu - HJK Helsinki",
+        "time": "17:00",
+        "id": "271931466968076288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Olimpia Zambrow - KS Wasilkow",
+        "time": "17:00",
+        "id": "272830580556697600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gwardia Koszalin - MKS Ina Goleniow",
+        "time": "17:00",
+        "id": "272837728710823936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Iskierka Szczecin - Baltyk Koszalin",
+        "time": "17:00",
+        "id": "272838015376822272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Miramar Misiones - Juventud Piedras",
+        "time": "17:00",
+        "id": "272487471579795456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Slovan Hac - SV Gerasdorf Stammersdorf",
+        "time": "17:00",
+        "id": "272875364519383040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC 1980 Wien - SC Mannsworth",
+        "time": "17:00",
+        "id": "272875347560763392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Stadlau - Helfort 15",
+        "time": "17:00",
+        "id": "272875364708126720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hellas Kagran - SV Wienerberger",
+        "time": "17:00",
+        "id": "272875364781527040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Haverfordwest County - Baglan Dragons",
         "time": "16:30",
         "id": "272988155390595072"
@@ -12,13 +75,6 @@
         "name": "1.ZS Simmeringer SC - FV Austria XIII",
         "time": "16:30",
         "id": "272875347495751680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tampere United II - Ylojarvi United",
-        "time": "16:30",
-        "id": "272938326563098624"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "Cape Town City - Orbit College",
         "time": "16:00",
         "id": "272926005398736896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Kvasice - FK Nove Sady",
-        "time": "16:00",
-        "id": "272871398070947840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Kontu - MPS",
-        "time": "15:30",
-        "id": "272938412729831424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tianjin Jinmen Tigers - Shandong Luneng Taishan FC",
-        "time": "15:00",
-        "id": "272380793188388864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethiopia Bunna - Kedus Giorgis",
-        "time": "15:00",
-        "id": "272812235941875712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Iran U20 - Uzbekistan U20",
-        "time": "15:00",
-        "id": "272916285213511680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Vsetin - SFK Holesov",
-        "time": "15:00",
-        "id": "272833955318861824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sibbo Vargarna - Valtti",
-        "time": "15:00",
-        "id": "272919757102125056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BK Frem - Ishoj",
-        "time": "15:00",
-        "id": "272654163692883968"
     }
 ]
