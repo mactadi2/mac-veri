@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Botafogo PB - SER Caxias",
+        "time": "01:30",
+        "id": "271875047695716352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Anapolis FC - Retro FC Brasil",
+        "time": "01:30",
+        "id": "271875047883411456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Morris Elite - Long Island Rough Riders",
+        "time": "01:30",
+        "id": "272521396255592448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Loudoun United FC - Detroit City FC",
         "time": "01:00",
         "id": "272482432099422208"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Mixto EC - Goiania",
-        "time": "00:00",
-        "id": "272515891854446592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Saint Louis City SC - Los Angeles Galaxy",
         "time": "23:30",
         "id": "271870895711195136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Racing Club de Montevideo - Club Nacional de Montevideo",
-        "time": "23:30",
-        "id": "272487635371560960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juan Pablo II College - Los Chankas CYC",
-        "time": "23:30",
-        "id": "271948605045215232"
     }
 ]
