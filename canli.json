@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "UD Castellonense - Burgos Promesas",
+        "time": "20:00",
+        "id": "272866609003106304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rigas Futbola Skola - SK Super Nova",
+        "time": "20:00",
+        "id": "272508223927488512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Defensores de Belgrano - Gimnasia Y Esgrima de Jujuy",
         "time": "19:40",
         "id": "272508207673511936"
@@ -30,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Seinäjoen Jalkapallokerho - FF Jaro",
+        "name": "Gnistan - Kotkan Tyovaen Palloilijat",
         "time": "19:00",
-        "id": "271931467159965696"
+        "id": "271931467242803200"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gnistan - Kotkan Tyovaen Palloilijat",
+        "name": "Seinäjoen Jalkapallokerho - FF Jaro",
         "time": "19:00",
-        "id": "271931467242803200"
+        "id": "271931467159965696"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Villan Pojat - Kajha",
         "time": "18:30",
         "id": "272939281004236800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ursus Warsawa - MKS Makowianka",
-        "time": "18:00",
-        "id": "273003927186837504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zakho - Naft Al-Basra SC",
-        "time": "18:00",
-        "id": "272577823254908928"
     }
 ]
