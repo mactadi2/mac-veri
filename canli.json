@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IF Vestri - KA Akureyri",
+        "time": "17:00",
+        "id": "272482562455244800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Egersund IK - Ranheim Trondheim",
+        "time": "17:00",
+        "id": "271941811488034816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JK Nomme Kalju - JK Trans Narva",
+        "time": "17:00",
+        "id": "272559195526664192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Skovde IFK - Lunds BK",
+        "time": "17:00",
+        "id": "272725558020935680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ariana FC - FC Trollhaettan",
+        "time": "17:00",
+        "id": "272725526457749504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FK Bodo Glimt - AIK",
         "time": "16:00",
         "id": "273010379089645568"
@@ -26,6 +61,13 @@
         "name": "Wieczysta Krakow - Chojniczanka Chojnice",
         "time": "16:00",
         "id": "272901454216433664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Astana - FC Okzhetpes",
+        "time": "16:00",
+        "id": "272576180580913152"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Blue Eagles - Silver Strikers",
         "time": "15:30",
         "id": "273003487157161984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fasil Kenema - Adama Kenema",
-        "time": "15:00",
-        "id": "272924609617203200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Welwalu Adigrat - Mekelle 70 Enderta F.C.",
-        "time": "15:00",
-        "id": "272833081139924992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mara Sugar FC - Muranga Seal",
-        "time": "15:00",
-        "id": "272638094738591744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ulinzi Stars - Gor Mahia",
-        "time": "15:00",
-        "id": "272913854200156160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bidco United - Kakamega Homeboyz",
-        "time": "15:00",
-        "id": "272913854410919936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tusker FC - Kariobangi Sharks",
-        "time": "15:00",
-        "id": "272913854342762496"
     }
 ]
