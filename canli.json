@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Criciuma EC - Amazonas FC",
+        "time": "02:30",
+        "id": "272472163390459904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Oriente Petrolero - Jorge Wilstermann",
+        "time": "02:30",
+        "id": "272503826955767808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Independiente Medellin - Deportes Tolima",
         "time": "02:15",
         "id": "272614800515796992"
@@ -89,19 +103,5 @@
         "name": "Portland Hearts of Pine - Union Omaha",
         "time": "01:00",
         "id": "272962383944749056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportes Concepcion - Rangers de Talca",
-        "time": "00:30",
-        "id": "272580693601685504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rubio Nu - Guairena FC",
-        "time": "00:30",
-        "id": "272608266540945408"
     }
 ]
