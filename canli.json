@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ypiranga RS - AD Confianca SE",
+        "time": "01:00",
+        "id": "271882035137744896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guarani FC De Campinas - Itabaiana",
+        "time": "01:00",
+        "id": "271882035068538880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Miami City - St. Petersburg FC",
+        "time": "01:00",
+        "id": "272610199662104576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RKC Third Coast - St Croix SC",
+        "time": "01:00",
+        "id": "272985747117707264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportes Concepcion - Rangers de Talca",
         "time": "00:30",
         "id": "272580693601685504"
@@ -65,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Barranquilla FC - Alianza Valledupar",
-        "time": "23:45",
-        "id": "272610199741796352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CA All Boys - Arsenal de Sarandi",
         "time": "23:30",
         "id": "272516429548490752"
@@ -82,26 +103,5 @@
         "name": "Deportivo Cuenca - El Nacional Quito",
         "time": "23:30",
         "id": "272241343864115200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ayacucho FC - Universitario de Deportes",
-        "time": "23:00",
-        "id": "271948439398518784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santa Cruz FC PE - Sousa Pb",
-        "time": "23:00",
-        "id": "272648000196710400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Once Caldas (W) - America de Cali (W)",
-        "time": "23:00",
-        "id": "273014326728724480"
     }
 ]
