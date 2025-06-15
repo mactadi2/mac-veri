@@ -72,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Laferrere - Sportivo Italiano",
+        "time": "21:30",
+        "id": "272512063674388480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Fenix - Ferrocarril Midland",
         "time": "21:15",
         "id": "272512063749885952"
@@ -96,12 +103,5 @@
         "name": "Tecnico Universitario - Aucas",
         "time": "21:00",
         "id": "272241320402227200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Central - Real Jaen CF",
-        "time": "20:45",
-        "id": "272976197019897856"
     }
 ]
