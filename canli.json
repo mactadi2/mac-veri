@@ -65,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Barranquilla FC - Alianza Valledupar",
+        "time": "23:45",
+        "id": "272610199741796352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA All Boys - Arsenal de Sarandi",
         "time": "23:30",
         "id": "272516429548490752"
@@ -86,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Aragua FC - Angostura FC",
-        "time": "23:00",
-        "id": "272954829599543296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Santa Cruz FC PE - Sousa Pb",
         "time": "23:00",
         "id": "272648000196710400"
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "La Equidad - Fortaleza FC",
+        "name": "Once Caldas (W) - America de Cali (W)",
         "time": "23:00",
-        "id": "272602625355157504"
+        "id": "273014326728724480"
     }
 ]
