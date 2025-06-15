@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Independiente Medellin - Deportes Tolima",
+        "time": "02:15",
+        "id": "272614800515796992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Delfin - Mushuc Runa",
+        "time": "02:00",
+        "id": "272241303086043136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cedar Stars FC - New Jersey Copa",
+        "time": "02:00",
+        "id": "272614152793624576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Philadelphia Union II - Crown Legacy FC",
+        "time": "02:00",
+        "id": "273027036469137408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Humaita - Manauara EC AM",
+        "time": "02:00",
+        "id": "272614152945668096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "La Equidad (W) - Independiente Medellin (W)",
+        "time": "02:00",
+        "id": "273015384623419392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "EM Deportivo Binacional - Alianza Universidad",
         "time": "01:30",
         "id": "271949066917777408"
@@ -44,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Portland Hearts of Pine - Union Omaha",
+        "time": "01:00",
+        "id": "272962383944749056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportes Concepcion - Rangers de Talca",
         "time": "00:30",
         "id": "272580693601685504"
@@ -54,54 +103,5 @@
         "name": "Rubio Nu - Guairena FC",
         "time": "00:30",
         "id": "272608266540945408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Bolivar - Always Ready",
-        "time": "00:15",
-        "id": "272503526643601408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bigfoot FC - Midlakes United",
-        "time": "00:00",
-        "id": "272977590420115456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Maritimo de La Guaira - Bolivar SC",
-        "time": "00:00",
-        "id": "272958605336121344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dynamo Puerto Fc - Mineros Guayana",
-        "time": "00:00",
-        "id": "272958605033082880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Barquisimeto - Academia Puerto Cabello II",
-        "time": "00:00",
-        "id": "272958605415813120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Magdalena Santa Marta - Llaneros FC",
-        "time": "00:00",
-        "id": "272606330608553984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Envigado - Rionegro Aguilas Doradas",
-        "time": "23:45",
-        "id": "272599012207628288"
     }
 ]
