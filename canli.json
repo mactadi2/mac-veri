@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ayacucho FC - Universitario de Deportes",
+        "time": "23:00",
+        "id": "271948439398518784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Londrina EC PR - Figueirense FC",
+        "time": "22:30",
+        "id": "271875639600091136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brusque - Tombense MG",
+        "time": "22:30",
+        "id": "271875047779602432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fram Reykjavik - Fh Hafnarfjördur",
         "time": "22:15",
         "id": "272505218107838464"
@@ -44,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Santiago Morning - Union San Felipe",
+        "time": "22:00",
+        "id": "272580538722816000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sampdoria - Salernitana",
         "time": "21:30",
         "id": "272745234946985984"
@@ -75,33 +103,5 @@
         "name": "Deportivo Laferrere - Sportivo Italiano",
         "time": "21:30",
         "id": "272512063674388480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Fenix - Ferrocarril Midland",
-        "time": "21:15",
-        "id": "272512063749885952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Guemes - Ferro Carril Oeste",
-        "time": "21:00",
-        "id": "272516429809586176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico River Plate - Penarol Montevideo",
-        "time": "21:00",
-        "id": "272487526703435776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tecnico Universitario - Aucas",
-        "time": "21:00",
-        "id": "272241320402227200"
     }
 ]
