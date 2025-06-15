@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportes Concepcion - Rangers de Talca",
+        "time": "00:30",
+        "id": "272580693601685504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rubio Nu - Guairena FC",
+        "time": "00:30",
+        "id": "272608266540945408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Bolivar - Always Ready",
         "time": "00:15",
         "id": "272503526643601408"
@@ -37,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union Magdalena Santa Marta - Llaneros FC",
+        "time": "00:00",
+        "id": "272606330608553984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Envigado - Rionegro Aguilas Doradas",
+        "time": "23:45",
+        "id": "272599012207628288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA All Boys - Arsenal de Sarandi",
         "time": "23:30",
         "id": "272516429548490752"
@@ -65,43 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Londrina EC PR - Figueirense FC",
-        "time": "22:30",
-        "id": "271875639600091136"
+        "name": "Santa Cruz FC PE - Sousa Pb",
+        "time": "23:00",
+        "id": "272648000196710400"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Brusque - Tombense MG",
-        "time": "22:30",
-        "id": "271875047779602432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trujillanos FC - Urena Fc",
-        "time": "22:30",
-        "id": "272954829513560064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Frontera - Falcon Heroes FC",
-        "time": "22:30",
-        "id": "272954829447499776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Monagas II - Dvo Italia",
-        "time": "22:30",
-        "id": "272954829741101056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico El Vigia - Titanes FC Guanare",
-        "time": "22:30",
-        "id": "273007833821351936"
+        "name": "La Equidad - Fortaleza FC",
+        "time": "23:00",
+        "id": "272602625355157504"
     }
 ]
