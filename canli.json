@@ -58,13 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Bodo Glimt - AIK",
-        "time": "16:00",
-        "id": "273010379089645568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Trelleborgs FF - Utsiktens BK",
         "time": "16:00",
         "id": "271944932417212416"
@@ -103,5 +96,12 @@
         "name": "Enkopings SK FK - TEAM TG FF",
         "time": "16:00",
         "id": "272662372631580672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Albion FC - Club Oriental",
+        "time": "15:45",
+        "id": "272756239265566720"
     }
 ]
