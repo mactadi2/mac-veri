@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Charlestown Azzurri - Broadmeadow Magic",
+        "time": "09:30",
+        "id": "272551659324968960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "North Lakes United - Moreton City Excelsior FC 2",
         "time": "09:15",
         "id": "272796810004795392"
@@ -96,12 +103,5 @@
         "name": "Magic United U23 - SWQ Thunder U23",
         "time": "08:00",
         "id": "272844866406453248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Logan Lightning U23 - Capalaba U23",
-        "time": "07:45",
-        "id": "272844819784667136"
     }
 ]
