@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sampdoria - Salernitana",
+        "time": "21:30",
+        "id": "272745234946985984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Madryn - CA Atlanta",
+        "time": "21:30",
+        "id": "272516390972428288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Alvarado - Club Atletico Colegiales",
+        "time": "21:30",
+        "id": "272516429734088704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Defensores Unidos - Club Atletico Mitre",
+        "time": "21:30",
+        "id": "272516390927339520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Laferrere - Sportivo Italiano",
+        "time": "21:30",
+        "id": "272512063674388480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Fenix - Ferrocarril Midland",
         "time": "21:15",
         "id": "272512063749885952"
@@ -37,20 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "New England Revolution II - FC Cincinnati II",
-        "time": "21:00",
-        "id": "272976337796468736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "New York Red Bulls Ii - Chattanooga FC",
-        "time": "21:00",
-        "id": "272976422746853376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Atletico Central - Real Jaen CF",
         "time": "20:45",
         "id": "272976197019897856"
@@ -61,13 +82,6 @@
         "name": "Al Talaba Fc - Al Quwa\/Jawiya",
         "time": "20:30",
         "id": "273012273828728832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aalesunds FK - Stabaek",
-        "time": "20:15",
-        "id": "271941811296145408"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "CA Pulpileno - SD Sarriana",
         "time": "20:00",
         "id": "272976043812458496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "O'Higgins - Union Espanola",
-        "time": "19:30",
-        "id": "271962431222321152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Antofagasta - Magallanes",
-        "time": "19:30",
-        "id": "272579685076045824"
     }
 ]
