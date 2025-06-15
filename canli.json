@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EM Deportivo Binacional - Alianza Universidad",
+        "time": "01:30",
+        "id": "271949066917777408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ypiranga RS - AD Confianca SE",
         "time": "01:00",
         "id": "271882035137744896"
@@ -26,6 +33,13 @@
         "name": "RKC Third Coast - St Croix SC",
         "time": "01:00",
         "id": "272985747117707264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palmeiras - FC Porto",
+        "time": "01:00",
+        "id": "265052555344744448"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Envigado - Rionegro Aguilas Doradas",
         "time": "23:45",
         "id": "272599012207628288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA All Boys - Arsenal de Sarandi",
-        "time": "23:30",
-        "id": "272516429548490752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Cuenca - El Nacional Quito",
-        "time": "23:30",
-        "id": "272241343864115200"
     }
 ]
