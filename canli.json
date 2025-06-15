@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Fenix - Ferrocarril Midland",
+        "time": "21:15",
+        "id": "272512063749885952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Comunicaciones de Bueno Aires - Real Pilar",
+        "time": "21:15",
+        "id": "272512063810703360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Guemes - Ferro Carril Oeste",
+        "time": "21:00",
+        "id": "272516429809586176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico River Plate - Penarol Montevideo",
+        "time": "21:00",
+        "id": "272487526703435776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tecnico Universitario - Aucas",
+        "time": "21:00",
+        "id": "272241320402227200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New England Revolution II - FC Cincinnati II",
+        "time": "21:00",
+        "id": "272976337796468736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New York Red Bulls Ii - Chattanooga FC",
+        "time": "21:00",
+        "id": "272976422746853376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico Central - Real Jaen CF",
         "time": "20:45",
         "id": "272976197019897856"
@@ -44,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Molde FK - IFK Varnamo",
-        "time": "19:30",
-        "id": "273095832878845952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "O'Higgins - Union Espanola",
         "time": "19:30",
         "id": "271962431222321152"
@@ -61,47 +103,5 @@
         "name": "CD Antofagasta - Magallanes",
         "time": "19:30",
         "id": "272579685076045824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Real Bamako - Etoiles Mande",
-        "time": "19:30",
-        "id": "273121825881460736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Korofina - Stade Malien de Bamako",
-        "time": "19:30",
-        "id": "273121557176520704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA San Telmo - Nueva Chicago",
-        "time": "19:10",
-        "id": "272516390798364672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IBV Vestmannaeyjar - Breidablik Kopavogur",
-        "time": "19:00",
-        "id": "272490361563254784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sporting Cristal Lima - Deportivo Garcilaso",
-        "time": "19:00",
-        "id": "271949005302403072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Can Vidalet - Atletic Sant Just",
-        "time": "19:00",
-        "id": "273030863837597696"
     }
 ]
