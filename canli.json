@@ -72,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Fenix - Ferrocarril Midland",
+        "time": "21:15",
+        "id": "272512063749885952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Atletico Guemes - Ferro Carril Oeste",
         "time": "21:00",
         "id": "272516429809586176"
@@ -96,12 +103,5 @@
         "name": "Atletico Central - Real Jaen CF",
         "time": "20:45",
         "id": "272976197019897856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Talaba Fc - Al Quwa\/Jawiya",
-        "time": "20:30",
-        "id": "273012273828728832"
     }
 ]
