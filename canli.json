@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guangzhou Dandelion Alpha FC - Guangxi Lanhang",
+        "time": "11:30",
+        "id": "272969423182237696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Meteor Praha - Neratovice Byskovice",
         "time": "11:15",
         "id": "272909499587760128"
@@ -96,12 +103,5 @@
         "name": "Mount Gravatt Hawks - University of Queensland",
         "time": "10:00",
         "id": "272801477670604800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Charlestown Azzurri - Broadmeadow Magic",
-        "time": "09:30",
-        "id": "272551659324968960"
     }
 ]
