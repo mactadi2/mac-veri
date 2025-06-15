@@ -79,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Honda F.C. - Minebea Mitsumi",
-        "time": "07:00",
-        "id": "272987770320982016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Veertien Mie - Tokyo Musashino United FC",
         "time": "07:00",
         "id": "272987772384579584"
@@ -103,5 +96,12 @@
         "name": "Yokohama S.C.C - Atletico Suzuka Club",
         "time": "07:00",
         "id": "272987770625069056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Criacao Shinjuku - Grulla Morioka",
+        "time": "07:00",
+        "id": "272987770250727424"
     }
 ]
