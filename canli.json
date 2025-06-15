@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA San Telmo - Nueva Chicago",
+        "time": "19:10",
+        "id": "272516390798364672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IBV Vestmannaeyjar - Breidablik Kopavogur",
+        "time": "19:00",
+        "id": "272490361563254784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sporting Cristal Lima - Deportivo Garcilaso",
+        "time": "19:00",
+        "id": "271949005302403072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "OTP - KaPa Kajaani",
         "time": "18:30",
         "id": "273031502011437056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lysekloster - FK Arendal",
+        "time": "18:30",
+        "id": "272585771829039104"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "IF Vestri - KA Akureyri",
-        "time": "17:00",
-        "id": "272482562455244800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Egersund IK - Ranheim Trondheim",
-        "time": "17:00",
-        "id": "271941811488034816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JK Nomme Kalju - JK Trans Narva",
-        "time": "17:00",
-        "id": "272559195526664192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Skovde IFK - Lunds BK",
-        "time": "17:00",
-        "id": "272725558020935680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ariana FC - FC Trollhaettan",
-        "time": "17:00",
-        "id": "272725526457749504"
+        "name": "Ordabasy Shymkent - Elimai FC",
+        "time": "18:00",
+        "id": "272583723622469632"
     }
 ]
