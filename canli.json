@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Brisbane Roar Youth -  Sunshine Coast Wanderers",
+        "time": "07:30",
+        "id": "272546147495710720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charlestown Azzurri Reserves - Broadmeadow Magic FC Reserves",
+        "time": "07:30",
+        "id": "272855458272907264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Honda F.C. - Minebea Mitsumi",
         "time": "07:00",
         "id": "272987770320982016"
@@ -30,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Criacao Shinjuku - Grulla Morioka",
+        "name": "Verspah Oita - Reinmeer Aomori",
         "time": "07:00",
-        "id": "272987770250727424"
+        "id": "272987771697762304"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Verspah Oita - Reinmeer Aomori",
+        "name": "Criacao Shinjuku - Grulla Morioka",
         "time": "07:00",
-        "id": "272987771697762304"
+        "id": "272987770250727424"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Hatsukaichi FC - Mitsubishi Mizushima FC",
         "time": "06:00",
         "id": "272990493495922688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Las Vegas Lights - Monterey Bay",
-        "time": "05:30",
-        "id": "272556921226137600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Utah United - Colorado Storm",
-        "time": "05:00",
-        "id": "272732295336693760"
     }
 ]
