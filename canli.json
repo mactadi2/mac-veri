@@ -2,9 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA All Boys - Arsenal de Sarandi",
+        "time": "23:30",
+        "id": "272516429548490752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Cuenca - El Nacional Quito",
+        "time": "23:30",
+        "id": "272241343864115200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ayacucho FC - Universitario de Deportes",
         "time": "23:00",
         "id": "271948439398518784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aragua FC - Angostura FC",
+        "time": "23:00",
+        "id": "272954829599543296"
     },
     {
         "tur": "live",
@@ -19,6 +40,20 @@
         "name": "Brusque - Tombense MG",
         "time": "22:30",
         "id": "271875047779602432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Trujillanos FC - Urena Fc",
+        "time": "22:30",
+        "id": "272954829513560064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Frontera - Falcon Heroes FC",
+        "time": "22:30",
+        "id": "272954829447499776"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Santiago Morning - Union San Felipe",
         "time": "22:00",
         "id": "272580538722816000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sampdoria - Salernitana",
-        "time": "21:30",
-        "id": "272745234946985984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Madryn - CA Atlanta",
-        "time": "21:30",
-        "id": "272516390972428288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Alvarado - Club Atletico Colegiales",
-        "time": "21:30",
-        "id": "272516429734088704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Defensores Unidos - Club Atletico Mitre",
-        "time": "21:30",
-        "id": "272516390927339520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Laferrere - Sportivo Italiano",
-        "time": "21:30",
-        "id": "272512063674388480"
     }
 ]
