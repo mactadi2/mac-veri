@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Aalesunds FK - Stabaek",
+        "time": "20:15",
+        "id": "271941811296145408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Mirandes - Real Oviedo",
+        "time": "20:00",
+        "id": "272867833611948032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AD Llerenense - CD Lealtad",
+        "time": "20:00",
+        "id": "272976120301883392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Pulpileno - SD Sarriana",
+        "time": "20:00",
+        "id": "272976043812458496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Molde FK - IFK Varnamo",
         "time": "19:30",
         "id": "273095832878845952"
@@ -19,6 +47,27 @@
         "name": "CD Antofagasta - Magallanes",
         "time": "19:30",
         "id": "272579685076045824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AS Real Bamako - Etoiles Mande",
+        "time": "19:30",
+        "id": "273121825881460736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AS Korofina - Stade Malien de Bamako",
+        "time": "19:30",
+        "id": "273121557176520704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "US Bougouni - FC Diarra",
+        "time": "19:30",
+        "id": "273121789992898560"
     },
     {
         "tur": "live",
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Varbergs BoIS FC - Vasteras SK FK",
-        "time": "18:00",
-        "id": "271944991163682816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AL Zawraa SC - Al Qasim SC",
-        "time": "18:00",
-        "id": "273012273646276608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Shorta - Al Naft",
-        "time": "18:00",
-        "id": "273012273552953344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethiopia Nigd Bank - Wolaita Dicha FC",
-        "time": "18:00",
-        "id": "272869081878761472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Raufoss Fotball - Odds Ballklubb",
-        "time": "18:00",
-        "id": "271941811416731648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mjondalen IF - Moss",
-        "time": "18:00",
-        "id": "271941789522464768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Asane IL Ulset - Skeid Oslo",
-        "time": "18:00",
-        "id": "271941811360108544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Polanka - Bridlicna",
-        "time": "18:00",
-        "id": "272935940546236416"
+        "name": "Lysekloster - FK Arendal",
+        "time": "18:30",
+        "id": "272585771829039104"
     }
 ]
