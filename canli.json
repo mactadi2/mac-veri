@@ -51,13 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hwaseong Fc - Ansan Greeners",
-        "time": "13:00",
-        "id": "272463770474909696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Shimizu S-pulse - Gamba Osaka",
         "time": "12:30",
         "id": "271931461709467648"
@@ -103,5 +96,12 @@
         "name": "Oita Trinita - Blaublitz Akita",
         "time": "12:00",
         "id": "272459487082844160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Singapur (Kadınlar) - Hong Kong (W)",
+        "time": "12:00",
+        "id": "272809901513904128"
     }
 ]
