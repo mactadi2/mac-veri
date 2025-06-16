@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rampla Juniors - Colon FC",
+        "time": "00:00",
+        "id": "272761400670162944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Independiente Santa Fe (W) - Deportivo Pasto (W)",
         "time": "23:25",
         "id": "273106890508079104"
@@ -58,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SR Reykjavik - Bf 108",
-        "time": "23:00",
-        "id": "273086430200336384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Ulfarnir - RB Keflavik",
         "time": "23:00",
         "id": "273084144022589440"
@@ -72,29 +72,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lettir Reykjavik U19 - HK\/Ymir U19",
-        "time": "22:30",
-        "id": "273110543931412480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vikingur Reykjavik - KR Reykjavik",
-        "time": "22:15",
-        "id": "272596005434822656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chelsea - Los Angeles FC",
-        "time": "22:00",
-        "id": "271848150573125632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mid Ulster (W) - Sion Swifts LFC (W)",
-        "time": "22:00",
-        "id": "273110662679498752"
+        "name": "SR Reykjavik - Bf 108",
+        "time": "23:00",
+        "id": "273086430200336384"
     }
 ]
