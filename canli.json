@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Racing Club de Montevideo Reserves - Montevideo City Torque Reserve",
-        "time": "21:00",
-        "id": "273122589035073536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Defensor Sporting Reserves - Nacional de Montevideo Reserves",
         "time": "21:00",
         "id": "273122688617287680"
@@ -103,5 +96,12 @@
         "name": "Velez Sarsfield Reserves - CA Belgrano Cordoba Reserves",
         "time": "21:00",
         "id": "273100351531520000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Romanya U19 - İspanya U19",
+        "time": "21:00",
+        "id": "273037930499543040"
     }
 ]
