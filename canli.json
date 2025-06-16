@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lettir Reykjavik U19 - HK\/Ymir U19",
+        "time": "22:30",
+        "id": "273110543931412480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vikingur Reykjavik - KR Reykjavik",
+        "time": "22:15",
+        "id": "272596005434822656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "US Biskra - Usm Khenchela",
         "time": "22:00",
         "id": "273077824389255168"
@@ -37,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ca Penarol Reserves - CA River Plate Montevideo Reserves",
+        "name": "Liverpool Montevideo Reserves - La Luz Reserves",
         "time": "21:00",
-        "id": "273123419345784832"
+        "id": "273122688673910784"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Liverpool Montevideo Reserves - La Luz Reserves",
+        "name": "Ca Penarol Reserves - CA River Plate Montevideo Reserves",
         "time": "21:00",
-        "id": "273122688673910784"
+        "id": "273123419345784832"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Velez Sarsfield Reserves - CA Belgrano Cordoba Reserves",
         "time": "21:00",
         "id": "273100351531520000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kongsvinger 2 - Stromsgodset (A)",
-        "time": "21:00",
-        "id": "272685745169371136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Romanya U19 - İspanya U19",
-        "time": "21:00",
-        "id": "273037930499543040"
     }
 ]
