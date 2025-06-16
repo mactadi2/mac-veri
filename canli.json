@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Sao Bento - EC XV de Novembro (Piracicaba)",
+        "time": "01:45",
+        "id": "273056817859399680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CS Alagoano AL - Floresta EC",
         "time": "01:30",
         "id": "271899121448783872"
@@ -96,12 +103,5 @@
         "name": "Oeste Itapolis - Sao Caetano FC SP",
         "time": "01:00",
         "id": "273092784131543040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rampla Juniors - Colon FC",
-        "time": "00:00",
-        "id": "272761400670162944"
     }
 ]
