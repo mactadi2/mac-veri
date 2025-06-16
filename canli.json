@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "USM Alger - ES Setif",
+        "time": "23:00",
+        "id": "272508208511324160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "River Plate Asuncion - Club Sportivo Carapegua",
         "time": "23:00",
         "id": "272746710390935552"
@@ -79,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "US Biskra - Usm Khenchela",
-        "time": "22:00",
-        "id": "273077824389255168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Chelsea - Los Angeles FC",
         "time": "22:00",
         "id": "271848150573125632"
@@ -96,12 +96,5 @@
         "name": "Mid Ulster (W) - Sion Swifts LFC (W)",
         "time": "22:00",
         "id": "273110662679498752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Nanas (W) - Club Sport Emelec (W)",
-        "time": "22:00",
-        "id": "273190170334990336"
     }
 ]
