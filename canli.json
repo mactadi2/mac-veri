@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Sao Bento - EC XV de Novembro (Piracicaba)",
+        "time": "01:45",
+        "id": "273056817859399680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Alagoano AL - Floresta EC",
+        "time": "01:30",
+        "id": "271899121448783872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nautico Capibaribe - Maringa FC PR",
+        "time": "01:30",
+        "id": "271899121369092096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lagarto Se - Jequie BA",
+        "time": "01:30",
+        "id": "272793378356334592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ec Guarani Rs - Ipatinga",
+        "time": "01:30",
+        "id": "273099647325704192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EC Novo Hamburgo - Passo Fundo",
+        "time": "01:30",
+        "id": "273099988635095040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Guarani de Fram - Independiente FBC",
         "time": "01:15",
         "id": "272746757485629440"
@@ -40,12 +82,5 @@
         "name": "Rampla Juniors - Colon FC",
         "time": "00:00",
         "id": "272761400670162944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente Santa Fe (W) - Deportivo Pasto (W)",
-        "time": "23:25",
-        "id": "273106890508079104"
     }
 ]
