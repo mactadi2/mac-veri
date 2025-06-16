@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "US Biskra - Usm Khenchela",
+        "time": "22:00",
+        "id": "273077824389255168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chelsea - Los Angeles FC",
+        "time": "22:00",
+        "id": "271848150573125632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Drogheda United - Shamrock Rovers FC",
         "time": "21:45",
         "id": "272474801544761344"
@@ -51,9 +65,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Defensor Sporting Reserves - Nacional de Montevideo Reserves",
+        "name": "CA Progreso Reserves - Juventud De Las Piedras Reserves",
         "time": "21:00",
-        "id": "273122688617287680"
+        "id": "273122609641689088"
     },
     {
         "tur": "live",
@@ -65,9 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Progreso Reserves - Juventud De Las Piedras Reserves",
+        "name": "Defensor Sporting Reserves - Nacional de Montevideo Reserves",
         "time": "21:00",
-        "id": "273122609641689088"
+        "id": "273122688617287680"
     },
     {
         "tur": "live",
@@ -79,29 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "EPS Reservi - Espoon Tikka",
-        "time": "20:15",
-        "id": "273010732650598400"
+        "name": "Kongsvinger 2 - Stromsgodset (A)",
+        "time": "21:00",
+        "id": "272685745169371136"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Albion Reserves - Miramar Misiones Reserves",
-        "time": "20:00",
-        "id": "273173540927311872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Djerv 1919 - FK Haugesund II",
-        "time": "20:00",
-        "id": "272681891486896128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rosenborg BK II - Tiller IL",
-        "time": "20:00",
-        "id": "272681891268792320"
+        "name": "Romanya U19 - İspanya U19",
+        "time": "21:00",
+        "id": "273037930499543040"
     }
 ]
