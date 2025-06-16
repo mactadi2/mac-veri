@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Drogheda United - Shamrock Rovers FC",
+        "time": "21:45",
+        "id": "272474801544761344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "St Patrick's Athletic - Shelbourne FC",
+        "time": "21:45",
+        "id": "272474831700758528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sacachispas - Deportivo Merlo",
+        "time": "21:30",
+        "id": "273170317556453376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ca Penarol Reserves - CA River Plate Montevideo Reserves",
         "time": "21:00",
         "id": "273123419345784832"
@@ -30,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Racing Club de Montevideo Reserves - Montevideo City Torque Reserve",
+        "name": "Defensor Sporting Reserves - Nacional de Montevideo Reserves",
         "time": "21:00",
-        "id": "273122589035073536"
+        "id": "273122688617287680"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Defensor Sporting Reserves - Nacional de Montevideo Reserves",
+        "name": "Racing Club de Montevideo Reserves - Montevideo City Torque Reserve",
         "time": "21:00",
-        "id": "273122688617287680"
+        "id": "273122589035073536"
     },
     {
         "tur": "live",
@@ -54,13 +75,6 @@
         "name": "Velez Sarsfield Reserves - CA Belgrano Cordoba Reserves",
         "time": "21:00",
         "id": "273100351531520000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kongsvinger 2 - Stromsgodset (A)",
-        "time": "21:00",
-        "id": "272685745169371136"
     },
     {
         "tur": "live",
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fredrikstad 2 - Droebak\/Frogn",
-        "time": "20:00",
-        "id": "272681891346386944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Rosenborg BK II - Tiller IL",
         "time": "20:00",
         "id": "272681891268792320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "TMT FA - Steve Biko Fc",
-        "time": "19:00",
-        "id": "273189074846748672"
     }
 ]
