@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "3 de Febrero FBC - CS Limpeno",
+        "time": "22:30",
+        "id": "273218551120269312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA River Plate - Urawa Red Diamonds",
         "time": "22:00",
         "id": "265054563185332224"
@@ -54,40 +61,5 @@
         "name": "Mold Alexandra - Prestatyn Town",
         "time": "21:15",
         "id": "273205878583332864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Corinthians U20 - Bragantino Sp U20",
-        "time": "21:00",
-        "id": "273047988279054336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vasco da Gama U20 - Fluminense RJ U20",
-        "time": "20:45",
-        "id": "273047281257811968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AB Argir - KI Klaksvík",
-        "time": "20:30",
-        "id": "273055558529060864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Víkingur Gota - B68 Toftir",
-        "time": "20:30",
-        "id": "273275324087799808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Gnistan (W) - JaPS (W)",
-        "time": "20:30",
-        "id": "273211244533649408"
     }
 ]
