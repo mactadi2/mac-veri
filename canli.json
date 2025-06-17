@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SK Super Nova - FK Liepaja",
+        "time": "20:00",
+        "id": "272863313772285952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CR Belouizdad - MC Oran",
         "time": "19:30",
         "id": "273077825775472640"
@@ -96,12 +103,5 @@
         "name": "FK Shkendija 79 - FC Arges",
         "time": "18:30",
         "id": "273273975672541184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Kuressaare - JK Tammeka Tartu",
-        "time": "18:00",
-        "id": "272855689768079360"
     }
 ]
