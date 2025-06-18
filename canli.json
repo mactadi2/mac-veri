@@ -79,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Barycz Sulow - Polonia Nysa",
-        "time": "19:00",
-        "id": "273301421824282624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Al Hudod Fc - Naft Maysan",
         "time": "19:00",
         "id": "273127420136132608"
@@ -103,5 +96,12 @@
         "name": "Skedsmo - Gamle Oslo",
         "time": "19:00",
         "id": "273292656789032960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Byasen Toppfotball - Nardo FK Trondheim",
+        "time": "19:00",
+        "id": "273304317913600000"
     }
 ]
