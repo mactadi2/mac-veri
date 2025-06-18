@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Vargas Torres - 22 de Julio",
+        "time": "00:00",
+        "id": "273142436828680192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Maritimo de La Guaira - Zamora FC",
+        "time": "00:00",
+        "id": "273284349420507136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Montevideo City Torque - Miramar Misiones",
         "time": "23:30",
         "id": "273030313315274752"
@@ -23,16 +37,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Afturelding\/Hviti Riddarinn U19 - Selfoss\/Arborg U19",
+        "name": "Leiknir Reykjavik U19 - Vikingur Reykjavik U19",
         "time": "23:00",
-        "id": "273371882654404608"
+        "id": "273359915042607104"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Leiknir Reykjavik U19 - Vikingur Reykjavik U19",
+        "name": "Afturelding\/Hviti Riddarinn U19 - Selfoss\/Arborg U19",
         "time": "23:00",
-        "id": "273359915042607104"
+        "id": "273371882654404608"
     },
     {
         "tur": "live",
@@ -51,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union Sportive de Touarga - WAF Fes",
+        "time": "23:00",
+        "id": "273281347601174528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Urena Fc - Atletico El Vigia",
         "time": "22:30",
         "id": "273371720182796288"
@@ -58,50 +79,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Real Madrid - Al Hilal Riyadh",
-        "time": "22:00",
-        "id": "265055570683367424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Francisco Glens SC - Davis Legacy",
-        "time": "22:00",
-        "id": "273142434222968832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Grindavik\/GG U19 - Fram\/Ulfarnir U19",
         "time": "22:00",
         "id": "273369574925275136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "İngiltere U21 - Almanya U21",
-        "time": "22:00",
-        "id": "273115812962897920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Slovenya U21 - Çek Cumhuriyeti U21",
-        "time": "22:00",
-        "id": "273173971820744704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Internationals SC (W) - Erie FC (W)",
-        "time": "22:00",
-        "id": "273305310700113920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bolivar SC - Mineros Guayana",
-        "time": "22:00",
-        "id": "273370519096659968"
     }
 ]
