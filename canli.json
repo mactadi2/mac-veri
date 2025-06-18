@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Nacional de Montevideo - Juventud Piedras",
+        "time": "02:30",
+        "id": "273047256388734976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Annapolis Blues FC - Virginia Beach",
+        "time": "02:30",
+        "id": "273142434988429312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Morris Elite - Westchester Flames",
+        "time": "02:30",
+        "id": "273142434296369152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ironbound SC - Cedar Stars FC",
+        "time": "02:30",
+        "id": "273142434709508096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brooklyn City FC (W) - New York Athletic (W)",
+        "time": "02:30",
+        "id": "273304375321038848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Miami FC - Charleston Battery",
         "time": "02:00",
         "id": "273111963687587840"
@@ -30,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tobacco Road - Charlotte Independence 2",
+        "name": "Boston City - Black Rock FC",
         "time": "02:00",
-        "id": "273283008139759616"
+        "id": "273142434578436096"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Boston City - Black Rock FC",
+        "name": "Tobacco Road - Charlotte Independence 2",
         "time": "02:00",
-        "id": "273142434578436096"
+        "id": "273283008139759616"
     },
     {
         "tur": "live",
@@ -58,27 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lancaster Inferno (W) - Eagle FC (W)",
-        "time": "02:00",
-        "id": "273291080601047040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Desportivo Ferroviaria - Porto Vitoria",
-        "time": "02:00",
-        "id": "273304206928121856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kosta Rika - Dominik Cumhuriyeti",
-        "time": "02:00",
-        "id": "272785497569497088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Pachuca CF - FC Red Bull Salzburg",
         "time": "01:00",
         "id": "265055570751524864"
@@ -89,19 +103,5 @@
         "name": "Long Island Rough Riders - New Jersey Copa",
         "time": "01:00",
         "id": "273371474264461312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Francisco Glens SC (W) - San Juan SC (W)",
-        "time": "01:00",
-        "id": "273326912869371904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rio Branco ES - Real Noroeste Capixaba FC",
-        "time": "01:00",
-        "id": "273302781404778496"
     }
 ]
