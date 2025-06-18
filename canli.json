@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Daejeon Citizen - Gimcheon Sangmu FC",
+        "time": "13:30",
+        "id": "273007366709055488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jeju United - Gwangju FC",
+        "time": "13:30",
+        "id": "273007366790844416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Adelaide Croatia Raiders - White City Beograd",
         "time": "13:00",
         "id": "273249202943954944"
@@ -16,13 +30,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Consadole Sapporo - Oita Trinita",
-        "time": "13:00",
-        "id": "273108480634785792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Tokyo - Zweigen Kanazawa",
         "time": "13:00",
         "id": "273108480567676928"
@@ -30,9 +37,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ugyen Academy FC - Transport United FC",
+        "name": "Consadole Sapporo - Oita Trinita",
         "time": "13:00",
-        "id": "273243793956933632"
+        "id": "273108480634785792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ipswich Knights - North Brisbane",
+        "time": "13:00",
+        "id": "273249788029440000"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Myawady - Shan United FC",
         "time": "12:00",
         "id": "273282180238675968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dagon Port FC - Yadanarbon",
-        "time": "12:00",
-        "id": "273282180308930560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Selangor FA U20 - Sabah FC U20",
-        "time": "11:45",
-        "id": "273279916022304768"
     }
 ]
