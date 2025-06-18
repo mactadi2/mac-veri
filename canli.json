@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fc Trindade - Rio Verde",
+        "time": "01:30",
+        "id": "273302751092543488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Pachuca CF - FC Red Bull Salzburg",
         "time": "01:00",
         "id": "265055570751524864"
@@ -47,12 +54,5 @@
         "name": "CS Maritimo de La Guaira - Zamora FC",
         "time": "00:00",
         "id": "273284349420507136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Montevideo City Torque - Miramar Misiones",
-        "time": "23:30",
-        "id": "273030313315274752"
     }
 ]
