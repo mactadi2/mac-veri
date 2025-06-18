@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Pachuca CF - FC Red Bull Salzburg",
+        "time": "01:00",
+        "id": "265055570751524864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Long Island Rough Riders - New Jersey Copa",
+        "time": "01:00",
+        "id": "273371474264461312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Francisco Glens SC (W) - San Juan SC (W)",
+        "time": "01:00",
+        "id": "273326912869371904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rio Branco ES - Real Noroeste Capixaba FC",
+        "time": "01:00",
+        "id": "273302781404778496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter de Limeira - Botafogo SP ",
+        "time": "01:00",
+        "id": "273305001769701376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Vargas Torres - 22 de Julio",
         "time": "00:00",
         "id": "273142436828680192"
@@ -19,47 +54,5 @@
         "name": "Montevideo City Torque - Miramar Misiones",
         "time": "23:30",
         "id": "273030313315274752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stjarnan - Keflavik",
-        "time": "23:00",
-        "id": "273273916955430912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Breidablik\/Augn\/Smari U19 - Valur U19",
-        "time": "23:00",
-        "id": "273299514628116480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leiknir Reykjavik U19 - Vikingur Reykjavik U19",
-        "time": "23:00",
-        "id": "273359915042607104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SR Reykjavik - Skallagrimur",
-        "time": "23:00",
-        "id": "273283498685632512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aragua FC - Caracas FC",
-        "time": "23:00",
-        "id": "273150941753118720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Sportive de Touarga - WAF Fes",
-        "time": "23:00",
-        "id": "273281347601174528"
     }
 ]
