@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Montevideo City Torque - Miramar Misiones",
+        "time": "23:30",
+        "id": "273030313315274752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Stjarnan - Keflavik",
         "time": "23:00",
         "id": "273273916955430912"
@@ -40,6 +47,13 @@
         "name": "Aragua FC - Caracas FC",
         "time": "23:00",
         "id": "273150941753118720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Urena Fc - Atletico El Vigia",
+        "time": "22:30",
+        "id": "273371720182796288"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Trujillanos FC - Rayo Zuliano",
         "time": "22:00",
         "id": "273353181889695744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Newroz SC - Karbala Fc",
-        "time": "21:30",
-        "id": "273136979151032320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Najaf - Zakho",
-        "time": "21:30",
-        "id": "273136979065049088"
     }
 ]
