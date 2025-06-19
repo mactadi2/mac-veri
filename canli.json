@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IFK Goteborg - Osters IF",
+        "time": "17:00",
+        "id": "273267406462390272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GAIS - Halmstads BK",
+        "time": "17:00",
+        "id": "273474515250581504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SD Family - Khan Tengri FC",
+        "time": "17:00",
+        "id": "273004588147281920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Ita (W) - Inter Stars Rush (W)",
+        "time": "17:00",
+        "id": "273453576142065664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Talleres Remedios Reserves - Chacarita Juniors Reserves",
+        "time": "17:00",
+        "id": "273452003038990336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA San Miguel Reserves - CA San Telmo Reserves",
+        "time": "17:00",
+        "id": "273452000944984064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Atletico Cerro - Cerro Largo FC",
         "time": "16:15",
         "id": "272958600118407168"
@@ -44,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Esmac PA - Amazonia Independente FC",
-        "time": "16:00",
-        "id": "273472481928548352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "APEJES Academy - Fovu De Baham",
         "time": "15:30",
         "id": "273287892386844672"
@@ -68,12 +103,5 @@
         "name": "Nautico U20 - Santa Cruz PE U20",
         "time": "15:30",
         "id": "273469481256357888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pinheirense EC - Urumajo FC",
-        "time": "15:30",
-        "id": "273469130486714368"
     }
 ]
