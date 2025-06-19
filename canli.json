@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Palmeiras - Al Ahly Cairo",
+        "time": "19:00",
+        "id": "272687353431199744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Qasim SC - Diyala FC",
+        "time": "19:00",
+        "id": "273142432757059584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Toivalan Urheilijat - Jippo II",
+        "time": "19:00",
+        "id": "273340497837297664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Elva - Viimsi Jk",
+        "time": "19:00",
+        "id": "273142432320851968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Progreso Montevideo - Boston River",
         "time": "18:30",
         "id": "273035932885716992"
@@ -33,20 +61,6 @@
         "name": "Jippo Joensuu - FC TPS Turku",
         "time": "18:30",
         "id": "273030413515100160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GBK Kokkola - OsPa",
-        "time": "18:30",
-        "id": "273260167291867136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SJK Akatemia II - Vps-J",
-        "time": "18:30",
-        "id": "273401024340955136"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "FCI Levadia Tallinn II - FC Tallinn",
         "time": "18:00",
         "id": "273322190997426176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tallinna JK Legion - Paide Linnameeskond II",
-        "time": "18:00",
-        "id": "273371437973245952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maardu Linnameeskond FC - FC Kuressaare II",
-        "time": "18:00",
-        "id": "273371438036160512"
     }
 ]
