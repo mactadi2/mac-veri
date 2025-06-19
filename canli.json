@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Arlanda - Karlbergs BK",
+        "time": "20:30",
+        "id": "273216297556381696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IBV Vestmannaeyjar - Valur Reykjavik",
+        "time": "20:30",
+        "id": "273268501098139648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lunds BK - Skovde AIK",
         "time": "20:00",
         "id": "273214898159357952"
@@ -44,6 +58,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IFK Stocksund - Hammarby Talang Ff",
+        "time": "20:00",
+        "id": "273214471378440192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sandnes Ulf 2 - Staal Jorpeland",
+        "time": "20:00",
+        "id": "273142433840238592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Palmeiras - Al Ahly Cairo",
         "time": "19:00",
         "id": "272687353431199744"
@@ -65,43 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Progreso Montevideo - Boston River",
-        "time": "18:30",
-        "id": "273035932885716992"
+        "name": "FC Elva - Viimsi Jk",
+        "time": "19:00",
+        "id": "273142432320851968"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Huima\/Urho - HoDy",
-        "time": "18:30",
-        "id": "273335665468510208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Lahti - Klubi 04",
-        "time": "18:30",
-        "id": "273030342840029184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JaPS - EIF Ekenas",
-        "time": "18:30",
-        "id": "273018672322318336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jippo Joensuu - FC TPS Turku",
-        "time": "18:30",
-        "id": "273030413515100160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Primorje Ajdovscina - FC Arges",
-        "time": "18:00",
-        "id": "273449132459429888"
+        "name": "Tartu JK Welco - Nomme Kalju II",
+        "time": "19:00",
+        "id": "273322168703651840"
     }
 ]
