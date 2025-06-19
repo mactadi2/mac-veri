@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tartu JK Welco - Nomme Kalju II",
+        "time": "19:00",
+        "id": "273322168703651840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Progreso Montevideo - Boston River",
         "time": "18:30",
         "id": "273035932885716992"
@@ -96,12 +103,5 @@
         "name": "FC Flora Tallinn II - JK Tallinna Kalev II ",
         "time": "18:00",
         "id": "273322191063486464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FCI Levadia Tallinn II - FC Tallinn",
-        "time": "18:00",
-        "id": "273322190997426176"
     }
 ]
