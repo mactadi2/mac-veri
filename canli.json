@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lindome GIF - Astorps FF",
+        "time": "20:30",
+        "id": "273340560861958144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lunds BK - Skovde AIK",
         "time": "20:00",
         "id": "273214898159357952"
@@ -72,6 +79,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "BK Astrio - Jonsereds IF",
+        "time": "20:00",
+        "id": "273340177083142144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hestrafors IF - Bergdalens IK",
+        "time": "20:00",
+        "id": "273340177256157184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Palmeiras - Al Ahly Cairo",
         "time": "19:00",
         "id": "272687353431199744"
@@ -82,26 +103,5 @@
         "name": "Al Qasim SC - Diyala FC",
         "time": "19:00",
         "id": "273142432757059584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Toivalan Urheilijat - Jippo II",
-        "time": "19:00",
-        "id": "273340497837297664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Elva - Viimsi Jk",
-        "time": "19:00",
-        "id": "273142432320851968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tartu JK Welco - Nomme Kalju II",
-        "time": "19:00",
-        "id": "273322168703651840"
     }
 ]
