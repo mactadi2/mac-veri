@@ -37,6 +37,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "GBK Kokkola - OsPa",
+        "time": "18:30",
+        "id": "273260167291867136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SJK Akatemia II - Vps-J",
+        "time": "18:30",
+        "id": "273401024340955136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Primorje Ajdovscina - FC Arges",
         "time": "18:00",
         "id": "273449132459429888"
@@ -89,19 +103,5 @@
         "name": "Maardu Linnameeskond FC - FC Kuressaare II",
         "time": "18:00",
         "id": "273371438036160512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IFK Goteborg - Osters IF",
-        "time": "17:00",
-        "id": "273267406462390272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GAIS - Halmstads BK",
-        "time": "17:00",
-        "id": "273474515250581504"
     }
 ]
