@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Trinidad Tobago - Haiti",
+        "time": "01:45",
+        "id": "272870283767058432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Seattle Sounders - Atletico Madrid",
         "time": "01:00",
         "id": "272647722482405376"
@@ -12,12 +19,5 @@
         "name": "Deportes Tolima - CD Junior de Barranquilla ",
         "time": "00:00",
         "id": "273166230325694464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Andira U20 - Sao Francisco AC U20",
-        "time": "00:00",
-        "id": "273449858336165888"
     }
 ]
