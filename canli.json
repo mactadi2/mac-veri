@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Seattle Sounders - Atletico Madrid",
+        "time": "01:00",
+        "id": "272647722482405376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportes Tolima - CD Junior de Barranquilla ",
         "time": "00:00",
         "id": "273166230325694464"
@@ -26,26 +33,5 @@
         "name": "Cumbaya FC - Leones Del Norte",
         "time": "23:30",
         "id": "273142436991209472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Grau - Cusco FC",
-        "time": "23:00",
-        "id": "272969625526996992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UMF Afturelding - Fram Reykjavik",
-        "time": "23:00",
-        "id": "273260167177572352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KH Hildarendi - Arborg",
-        "time": "23:00",
-        "id": "273331947852402688"
     }
 ]
