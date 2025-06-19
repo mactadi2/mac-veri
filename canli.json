@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lunds BK - Skovde AIK",
+        "time": "20:00",
+        "id": "273214898159357952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Angelholms FF - Jonkopings Sodra",
+        "time": "20:00",
+        "id": "273214471240028160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bk Olympic - Ariana FC",
+        "time": "20:00",
+        "id": "273214555862208512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Eskilsminne IF - Hassleholms IF",
+        "time": "20:00",
+        "id": "273279370885468160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Husqvarna FF - Norrby IF",
+        "time": "20:00",
+        "id": "273214471291408384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Stockholm Internazionale - Vasalunds\/Essinge IF",
+        "time": "20:00",
+        "id": "273214415039500288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Palmeiras - Al Ahly Cairo",
         "time": "19:00",
         "id": "272687353431199744"
@@ -19,20 +61,6 @@
         "name": "Toivalan Urheilijat - Jippo II",
         "time": "19:00",
         "id": "273340497837297664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Elva - Viimsi Jk",
-        "time": "19:00",
-        "id": "273142432320851968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tartu JK Welco - Nomme Kalju II",
-        "time": "19:00",
-        "id": "273322168703651840"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Primorje Ajdovscina - FC Arges",
         "time": "18:00",
         "id": "273449132459429888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Inter Turku - Kotkan Tyovaen Palloilijat",
-        "time": "18:00",
-        "id": "273030046062612480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Naprzod Jedrzejow - Lublinianka Wieniawa Lublin",
-        "time": "18:00",
-        "id": "273445684400754688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leandro N. Alem Reserves - Juventud Unida San Miguel Reserves",
-        "time": "18:00",
-        "id": "273338775149613056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Flora Tallinn II - JK Tallinna Kalev II ",
-        "time": "18:00",
-        "id": "273322191063486464"
     }
 ]
