@@ -2,9 +2,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Excursionistas - Villa Dalmine",
+        "name": "FC Cajamarca - San Marcos Ancash",
+        "time": "23:15",
+        "id": "273211710961225728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Resistencia SC - Rubio Nu",
         "time": "23:00",
-        "id": "273146417729638400"
+        "id": "273231522804404224"
     },
     {
         "tur": "live",
@@ -19,6 +26,34 @@
         "name": "Fylkir Reykjavik - Kopavogur",
         "time": "22:15",
         "id": "273142437238673408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Augnablik Kopavogur - Reynir Sandgerdi",
+        "time": "22:15",
+        "id": "273443992098705408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IH Hafnarfjordur - KFK Kopavogur",
+        "time": "22:15",
+        "id": "273360896977408000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KV Vesturbaejar - UMF Tindastoll",
+        "time": "22:15",
+        "id": "273445167148699648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KFG Gardabaer - Vidir",
+        "time": "22:15",
+        "id": "273424048920334336"
     },
     {
         "tur": "live",
@@ -51,9 +86,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shamrock Rovers FC - Cork City FC",
-        "time": "21:45",
-        "id": "272478680528326656"
+        "name": "Deportes Linares - Deportes Rengo",
+        "time": "22:00",
+        "id": "273543407932149760"
     },
     {
         "tur": "live",
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Waterford FC - Bohemian FC Dublin",
-        "time": "21:45",
-        "id": "272478680879599616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Shelbourne FC - Derry City",
         "time": "21:45",
         "id": "272478680799907840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Galway United - St Patrick's Athletic",
-        "time": "21:45",
-        "id": "272478680695050240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kerry FC - Bray Wanderers AFC",
-        "time": "21:45",
-        "id": "272951035745669120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wexford FC - Longford Town",
-        "time": "21:45",
-        "id": "273039934037823488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Defensores de Cambaceres - Club Mercedes",
-        "time": "21:30",
-        "id": "273472261549330432"
     }
 ]
