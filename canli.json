@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sydney FC NPL - Apia Leichhardt Tigers",
+        "time": "12:30",
+        "id": "273264161703727104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sydney Olympic U20 - Marconi Stallions U20",
+        "time": "12:30",
+        "id": "273367744391548928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Box Hill United - Brunswick Juventus",
+        "time": "12:30",
+        "id": "273367352333176832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Darwin Olympic - Darwin Hearts",
         "time": "12:00",
         "id": "273339230762176512"
@@ -26,13 +47,6 @@
         "name": "Adelaide City Reserves (W) - Adelaide Comets Reserves (W)",
         "time": "11:45",
         "id": "273367998779232256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "The Cove (W) - South Adelaide (W)",
-        "time": "11:45",
-        "id": "273547162617516032"
     },
     {
         "tur": "live",
@@ -89,12 +103,5 @@
         "name": "Lake Macquarie City Reserves - Dudley Redhead Reserves",
         "time": "11:00",
         "id": "273543370205433856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sydney FC U20 - APIA Leichhardt Tigers U20",
-        "time": "10:30",
-        "id": "273541095553634304"
     }
 ]
