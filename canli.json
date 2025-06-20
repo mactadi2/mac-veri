@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Flamengo RJ - Chelsea",
+        "time": "21:00",
+        "id": "272664390248042496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gremio Novorizontino U20 - Taubate SP U20",
+        "time": "21:00",
+        "id": "273400244803342336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guarani SP U20 - Comercial FC Tiete U20",
+        "time": "21:00",
+        "id": "273400245278347264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sao Bernardo SP U20 - SC Aguai SP U20",
+        "time": "21:00",
+        "id": "273463616061181952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Oeste FC U20 - CA Bandeirante SP U20",
+        "time": "21:00",
+        "id": "273400244873596928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter Limeira U20 - Mirassol U20",
+        "time": "21:00",
+        "id": "273359524124037120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Itapirense U20 - Sao Jose Rs U20",
+        "time": "21:00",
+        "id": "273479129790287872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AA Portuguesa SP U20 - XV de Novembro (Piracicaba) U20",
+        "time": "21:00",
+        "id": "273487367351963648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ksv Oudenaarde - Zulte-Waregem",
         "time": "20:00",
         "id": "273396467322982400"
@@ -37,27 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Slavia Mozyr - BATE Borisov",
-        "time": "20:00",
-        "id": "273174699450699776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hollanda U19 - İngiltere U19",
-        "time": "20:00",
-        "id": "273382820084322304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Norveç U19 - Almanya U19",
-        "time": "20:00",
-        "id": "273382820158771200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Union San Felipe - Deportes Concepcion",
         "time": "19:30",
         "id": "273308721306800128"
@@ -68,40 +103,5 @@
         "name": "SL Benfica - Auckland City",
         "time": "19:00",
         "id": "272671724523360256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ES Setif - US Biskra",
-        "time": "19:00",
-        "id": "273142425806049280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gambia Ports Authority - Serrekunda Utd",
-        "time": "19:00",
-        "id": "273547534692126720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Baalor Sarr FC - Unique Global FC",
-        "time": "19:00",
-        "id": "273547534753992704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gambia Armed Forces FC - Steve Biko Fc",
-        "time": "19:00",
-        "id": "273460489136246784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hawks Fc - Brikama United FC",
-        "time": "19:00",
-        "id": "273551151806418944"
     }
 ]
