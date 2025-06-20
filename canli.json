@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Darwin Olympic - Darwin Hearts",
+        "time": "12:00",
+        "id": "273339230762176512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Thitsar Arman FC U21 - Yadanarbon FC U21",
+        "time": "12:00",
+        "id": "273361441151651840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "West Adelaide Reserves (W) - West Torrens Birkalla Reserves (W)",
         "time": "11:45",
         "id": "273352082098098176"
@@ -12,6 +26,13 @@
         "name": "Adelaide City Reserves (W) - Adelaide Comets Reserves (W)",
         "time": "11:45",
         "id": "273367998779232256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "The Cove (W) - South Adelaide (W)",
+        "time": "11:45",
+        "id": "273547162617516032"
     },
     {
         "tur": "live",
@@ -75,12 +96,5 @@
         "name": "Sydney FC U20 - APIA Leichhardt Tigers U20",
         "time": "10:30",
         "id": "273541095553634304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Christchurch United - Nomads United",
-        "time": "10:00",
-        "id": "273498380062298112"
     }
 ]
