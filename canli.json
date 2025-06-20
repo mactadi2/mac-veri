@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union La Calera - Universidad Catolica",
+        "time": "00:30",
+        "id": "272959455581310976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Bustillos Presto (W) - Independiente Petrolero (W)",
         "time": "00:00",
         "id": "273504696646373376"
@@ -26,12 +33,5 @@
         "name": "CD German Busch - Universitario Beni",
         "time": "23:00",
         "id": "273472261478027264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jorge Wilstermann U19 - Bolivar U19",
-        "time": "22:30",
-        "id": "273548838827069440"
     }
 ]
