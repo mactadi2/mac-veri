@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Wellington Olympic - Petone",
+        "time": "06:45",
+        "id": "273443062672396288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Upper Hutt City FC - Waterside Karori",
         "time": "06:00",
         "id": "273442628283011072"
@@ -12,33 +19,5 @@
         "name": "Utah United - Colorado International SA",
         "time": "05:00",
         "id": "273373123616837632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Southern California Seahorses - Ventura County Fusion",
-        "time": "04:30",
-        "id": "273373123522465792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "America de Cali - Independiente Medellin",
-        "time": "04:15",
-        "id": "273162494785228800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Deportivo Los Millonarios - Independiente Santa Fe",
-        "time": "04:15",
-        "id": "273227476741787648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Suudi Arabistan - ABD",
-        "time": "04:15",
-        "id": "272870283683172352"
     }
 ]
