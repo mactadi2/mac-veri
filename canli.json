@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hartford Athletic - Loudoun United FC",
+        "time": "02:30",
+        "id": "273112434966925312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "North Carolina - Louisville City FC",
+        "time": "02:30",
+        "id": "273112238661963776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Western Mass Pioneers - Boston Bolts",
+        "time": "02:30",
+        "id": "273279843579334656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Apotheos - East Atlanta FC",
+        "time": "02:30",
+        "id": "273478968875814912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lexington SC - Colorado Springs Switchbacks Fc",
         "time": "02:00",
         "id": "273111997079490560"
@@ -44,27 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Chicago Dutch Lions (W) - River Light SC (W)",
-        "time": "02:00",
-        "id": "273463316514476032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cap City Athletic (W) - Flint City AFC (W)",
-        "time": "02:00",
-        "id": "273502977079250944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Assermurb U20 - Vasco da Gama U20",
-        "time": "02:00",
-        "id": "273595818996535296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Sol de America - 12 de Junio de Villa Hayes",
         "time": "01:15",
         "id": "273233187942043648"
@@ -96,12 +103,5 @@
         "name": "Velo Clube U20 - Gremio Osasco Audax SP U20",
         "time": "01:00",
         "id": "273464862076702720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union La Calera - Universidad Catolica",
-        "time": "00:30",
-        "id": "272959455581310976"
     }
 ]
