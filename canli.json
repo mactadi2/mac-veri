@@ -79,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Lochau - SC Rheindorf Altach",
-        "time": "19:00",
-        "id": "273591119393198080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FK Bodo Glimt - SK Brann Bergen",
         "time": "19:00",
         "id": "271932072420052992"
@@ -103,5 +96,12 @@
         "name": "Usm Khenchela - MC El Bayadh",
         "time": "19:00",
         "id": "273142426022055936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Karma - Duhok",
+        "time": "19:00",
+        "id": "273142432551538688"
     }
 ]
