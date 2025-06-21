@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Los Chankas CYC - Sporting Cristal Lima",
+        "time": "23:15",
+        "id": "273120546032586752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Quilmes Atletico Club - CD Maipu",
         "time": "23:10",
         "id": "273192217646075904"
@@ -12,6 +19,13 @@
         "name": "Detroit City FC - Miami FC",
         "time": "23:00",
         "id": "273112551791923200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New Jersey Copa - Manhattan SC",
+        "time": "23:00",
+        "id": "273279843660075008"
     },
     {
         "tur": "live",
@@ -58,50 +72,36 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA San Miguel - Gimnasia Y Tiro De Salta",
-        "time": "21:30",
-        "id": "273192217481449472"
+        "name": "Universidad de Chile - Deportes Iquique",
+        "time": "22:00",
+        "id": "273040795163037696"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "El Porvenir - Central Cordoba de Rosario",
-        "time": "21:30",
-        "id": "273142440924418048"
+        "name": "Always Ready - Academia de Balompie Boliviano",
+        "time": "22:00",
+        "id": "273204695393243136"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Camioneros - CSD Central Ballester",
-        "time": "21:30",
-        "id": "273142440653885440"
+        "name": "Rangers de Talca - San Marcos de Arica",
+        "time": "22:00",
+        "id": "273336729967136768"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Juventud Unida San Miguel - Estrella del Sur",
-        "time": "21:30",
-        "id": "273142440531202048"
+        "name": "Atletico Marquesado - CA Minero Argentino",
+        "time": "22:00",
+        "id": "273670994041901056"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Centro Espanyol - General Lamadrid",
-        "time": "21:30",
-        "id": "273142440845774848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Argentino de Rosario - Victoriano Arenas",
-        "time": "21:30",
-        "id": "273142440717848576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Lujan - Canuelas",
-        "time": "21:30",
-        "id": "273142440783908864"
+        "name": "CD Aberastain - CA Trinidad",
+        "time": "22:00",
+        "id": "273674140768145408"
     }
 ]
