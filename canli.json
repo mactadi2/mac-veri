@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Trinity Zlín - FC Zbrojovka Brno",
+        "time": "11:30",
+        "id": "273513484392730624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Artis Brno - FC Petrzalka 1898",
+        "time": "11:30",
+        "id": "273573229613944832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Prostejov - Povazska Bystrica",
+        "time": "11:30",
+        "id": "273468548109701120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Differdange 03 - Racing FC Union Letzebuerg",
+        "time": "11:30",
+        "id": "273634949045817344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Otelul Galati - FC Csikszereda Miercurea Ciuc",
         "time": "11:00",
         "id": "273593603278901248"
@@ -16,23 +44,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shanghai Port Reserves - Beijing Institute of Technology FC",
-        "time": "11:00",
-        "id": "273509598576644096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Ghfa Spirit Fc - Western Sydney Wanderers NPL",
         "time": "10:30",
         "id": "273265720385736704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gold Coast Knights - Brisbane City",
-        "time": "10:15",
-        "id": "273142431794466816"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Mounties Wanderers U20 - Rydalmere Lions U20",
         "time": "10:00",
         "id": "273439254673231872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Newcastle Jets U20 - Dulwich Hill U20",
-        "time": "10:00",
-        "id": "273629692959002624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Inter Lions U20 - Bull FC Academy U20",
-        "time": "10:00",
-        "id": "273629697181618176"
     }
 ]
