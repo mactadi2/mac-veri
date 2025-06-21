@@ -2,16 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Chitipa United - Kamuzu Barracks",
-        "time": "15:30",
-        "id": "273573606387224576"
+        "name": "FC Thun - SC Kriens",
+        "time": "16:00",
+        "id": "273552644372566016"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Blue Eagles - MAFCO",
+        "name": "MKS Cracovia Krakow - SFC Opava",
+        "time": "16:00",
+        "id": "273552528205025280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Haverfordwest County - Penrhyncoch",
+        "time": "16:00",
+        "id": "273628925668757504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Penybont - Afan Lido",
+        "time": "16:00",
+        "id": "273550862268370944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Casric Stars FC - Orbit College",
+        "time": "16:00",
+        "id": "273547615931600896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BFC Daugava Daugavpils - Tukums 2000",
+        "time": "16:00",
+        "id": "273142436388278272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chitipa United - Kamuzu Barracks",
         "time": "15:30",
-        "id": "273573606492082176"
+        "id": "273573606387224576"
     },
     {
         "tur": "live",
@@ -51,27 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vard Haugesund - FK Arendal",
-        "time": "15:00",
-        "id": "273142437757718528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grorud - Ullensaker Kisa IL",
-        "time": "15:00",
-        "id": "273142438124720128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kjelsas Oslo - Strommen IF",
-        "time": "15:00",
-        "id": "273142438196023296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FK Mlada Boleslav - FK Jablonec nad Nisou 97",
         "time": "14:30",
         "id": "273637212350976000"
@@ -89,19 +103,5 @@
         "name": "Shenzhen 2028 FC - Ganzhou Ruishi",
         "time": "14:30",
         "id": "273509581091639296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nantong Zhiyun - Liaoning Tieren FC",
-        "time": "14:30",
-        "id": "273142440273252352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shijiazhuang Gongfu FC - Chongqing Tongliang Long",
-        "time": "14:30",
-        "id": "273142440358187008"
     }
 ]
