@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Spartak Trnava - MFK Karvina",
+        "time": "17:30",
+        "id": "273553279485612032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zepperen Brustem - K. Sint-Truidense",
+        "time": "17:00",
+        "id": "273657241738022912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Aalesunds FK - Odds Ballklubb",
         "time": "17:00",
         "id": "273142425450582016"
@@ -89,19 +103,5 @@
         "name": "Kairat Almaty - FK Kyzylzhar Petropavlovsk",
         "time": "16:00",
         "id": "273167236567535616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blue Eagles - MAFCO",
-        "time": "15:30",
-        "id": "273573606492082176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chitipa United - Kamuzu Barracks",
-        "time": "15:30",
-        "id": "273573606387224576"
     }
 ]
