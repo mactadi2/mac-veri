@@ -9,6 +9,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Burgos Promesas - UD Castellonense",
+        "time": "20:00",
+        "id": "273472052582813696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juventud Piedras - Danubio",
+        "time": "20:00",
+        "id": "273142437072998400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MC Alger - NC Magra",
+        "time": "19:45",
+        "id": "273142425964384256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paradou AC - ES Mostaganem",
+        "time": "19:45",
+        "id": "273142426253791232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Espanol - CA Ituzaingo",
         "time": "19:05",
         "id": "273142440595165184"
@@ -51,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Usm Khenchela - MC El Bayadh",
+        "time": "19:00",
+        "id": "273142426022055936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NK Olimpija Ljubljana - FK Vardar Skopje",
         "time": "18:30",
         "id": "273613463684780032"
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Koper - FK Shkendija 79",
-        "time": "18:30",
-        "id": "273612572716044288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Rabotnicki Skopje - FK Sileks",
         "time": "18:30",
         "id": "273437389909790720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Pohronie - Podbrezova",
-        "time": "18:00",
-        "id": "273553280158797824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pogon Mogilno - Grom Nowy Staw",
-        "time": "18:00",
-        "id": "273573635863744512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Victoria Wrzesnia - Biali Sadow",
-        "time": "18:00",
-        "id": "273395317102219264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Olimpia Zambrow - Zabkovia Zabki",
-        "time": "18:00",
-        "id": "273588120938745856"
     }
 ]
