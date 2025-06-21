@@ -79,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Buffalo - Akron City",
+        "time": "22:00",
+        "id": "273275431011094528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Always Ready - Academia de Balompie Boliviano",
         "time": "22:00",
         "id": "273204695393243136"
@@ -96,12 +103,5 @@
         "name": "Atletico Marquesado - CA Minero Argentino",
         "time": "22:00",
         "id": "273670994041901056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Aberastain - CA Trinidad",
-        "time": "22:00",
-        "id": "273674140768145408"
     }
 ]
