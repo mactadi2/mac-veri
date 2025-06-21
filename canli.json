@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Indy Eleven - Las Vegas Lights",
+        "time": "02:00",
+        "id": "273112551362007040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pittsburgh Riverhounds - Tampa Bay Rowdies",
+        "time": "02:00",
+        "id": "273112580057337856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rhode Island - Sacramento Republic FC",
+        "time": "02:00",
+        "id": "273112703973855232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fort Wayne FC - West Virginia United",
+        "time": "02:00",
+        "id": "273275430934548480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Black Rock FC - Boston City",
+        "time": "02:00",
+        "id": "273279843855110144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tobacco Road - Wake FC",
+        "time": "02:00",
+        "id": "273279844269297664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hudson Valley Hammers - Ironbound SC",
+        "time": "02:00",
+        "id": "273279844131934208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Atletico Colegiales - CA All Boys",
         "time": "01:10",
         "id": "273145543489884160"
@@ -37,41 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Atletico Nacional Medellin (W) - Fortaleza (W)",
-        "time": "01:00",
-        "id": "273562269071314944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Pasto (W) - Atletico Bucaramanga (W)",
-        "time": "01:00",
-        "id": "273562311451611136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Millonarios (W) - Once Caldas (W)",
-        "time": "01:00",
-        "id": "273562268842725376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Junior Barranquilla (W) - Orsomarso (W)",
-        "time": "01:00",
-        "id": "273562268927660032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "America de Cali (W) - Independiente Santa Fe (W)",
-        "time": "01:00",
-        "id": "273562311372967936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Remo PA - Paysandu",
         "time": "00:30",
         "id": "273056432278081536"
@@ -89,19 +103,5 @@
         "name": "Huachipato - Palestino Santiago",
         "time": "00:30",
         "id": "273050772995969024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universitario De Vinto - San Antonio Bulo Bulo",
-        "time": "00:30",
-        "id": "273204811510452224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fernando de la Mora - Encarnacion FC",
-        "time": "00:30",
-        "id": "273258267390644224"
     }
 ]
