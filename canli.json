@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Campbelltown City - Modbury Jets",
+        "time": "08:30",
+        "id": "273142439298076672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "West Torrens Birkalla - Adelaide Croatia Raiders",
+        "time": "08:30",
+        "id": "273268578871021568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Para Hills Knights - Adelaide Comets",
+        "time": "08:30",
+        "id": "273142439069487104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kochi United SC - Giravanz Kitakyushu",
         "time": "08:00",
         "id": "273142442969141248"
@@ -23,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "North Sunshine Eagles - Kingston City Fc",
+        "name": "Moreland City Fc - FC Melbourne Serbia",
         "time": "08:00",
-        "id": "273418853381443584"
+        "id": "273417777002450944"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Moreland City Fc - FC Melbourne Serbia",
+        "name": "North Sunshine Eagles - Kingston City Fc",
         "time": "08:00",
-        "id": "273417777002450944"
+        "id": "273418853381443584"
     },
     {
         "tur": "live",
@@ -54,20 +75,6 @@
         "name": "Adelaide City - Playford Patriots",
         "time": "08:00",
         "id": "273142439226773504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Campbelltown City (W) - Salisbury Inter (W)",
-        "time": "08:00",
-        "id": "273428951146303488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kingborough Lions - Glenorchy Knights",
-        "time": "07:15",
-        "id": "273142441440317440"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Lambton Jaffas FC - Charlestown Azzurri",
         "time": "07:00",
         "id": "273142443429466112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South Hobart - Launceston United",
-        "time": "07:00",
-        "id": "273142441612283904"
     }
 ]
