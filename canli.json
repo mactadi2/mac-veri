@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Charleston Battery - Phoenix Rising",
+        "time": "02:30",
+        "id": "273112551453233152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ferroviaria SP - CRB Clube de Regatas Brasil",
+        "time": "02:30",
+        "id": "273101601767559168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Indy Eleven - Las Vegas Lights",
         "time": "02:00",
         "id": "273112551362007040"
@@ -30,13 +44,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Black Rock FC - Boston City",
-        "time": "02:00",
-        "id": "273279843855110144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Tobacco Road - Wake FC",
         "time": "02:00",
         "id": "273279844269297664"
@@ -44,9 +51,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Black Rock FC - Boston City",
+        "time": "02:00",
+        "id": "273279843855110144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hudson Valley Hammers - Ironbound SC",
         "time": "02:00",
         "id": "273279844131934208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Reading United AC - West Chester United",
+        "time": "02:00",
+        "id": "273279843354939392"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Monterey Bay 2 - Almaden FC",
         "time": "01:00",
         "id": "273275431336153088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Remo PA - Paysandu",
-        "time": "00:30",
-        "id": "273056432278081536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Emelec Guayaquil - Delfin",
-        "time": "00:30",
-        "id": "273144438418706432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Huachipato - Palestino Santiago",
-        "time": "00:30",
-        "id": "273050772995969024"
     }
 ]
