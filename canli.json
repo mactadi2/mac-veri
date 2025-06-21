@@ -65,6 +65,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gangwon FC - Daegu FC",
+        "time": "13:00",
+        "id": "273142432169857024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jef United Ichihara Chiba - Jubilo Iwata",
+        "time": "13:00",
+        "id": "273098090428370944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Omiya Ardija - Sagan Tosu",
+        "time": "13:00",
+        "id": "273090714888441856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Termalica BB Nieciecza - MKS Puszcza Niepolomice",
         "time": "12:30",
         "id": "273354561860800512"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Slovan Liberec - FK Viktoria Zizkov",
+        "name": "Ehime FC - Renofa Yamaguchi",
         "time": "12:00",
-        "id": "273559117697781760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MSK Zilina - SK Sigma Olomouc",
-        "time": "12:00",
-        "id": "273560550793940992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Dukla Banska Bystrica - Podbrezova",
-        "time": "12:00",
-        "id": "273635181008654336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MKF Chrudim - FC Sellier & Bellot  Vlasim",
-        "time": "12:00",
-        "id": "273635606289059840"
+        "id": "273090659418771456"
     }
 ]
