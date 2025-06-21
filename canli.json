@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Slovan Liberec - FK Viktoria Zizkov",
+        "time": "12:00",
+        "id": "273559117697781760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MSK Zilina - SK Sigma Olomouc",
+        "time": "12:00",
+        "id": "273560550793940992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Dukla Banska Bystrica - Podbrezova",
+        "time": "12:00",
+        "id": "273635181008654336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MKF Chrudim - FC Sellier & Bellot  Vlasim",
+        "time": "12:00",
+        "id": "273635606289059840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ehime FC - Renofa Yamaguchi",
+        "time": "12:00",
+        "id": "273090659418771456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Imabari FC - Mito HollyHock",
+        "time": "12:00",
+        "id": "273079915413377024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wollongong Wolves FC - Rockdale Ilinden FC",
+        "time": "12:00",
+        "id": "273142438059708416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Matsumoto Yamaga FC - Kagoshima United",
+        "time": "12:00",
+        "id": "273142443091824640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Trinity Zlín - FC Zbrojovka Brno",
         "time": "11:30",
         "id": "273513484392730624"
@@ -37,9 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Caroline Springs George Cross - Manningham United Blues",
+        "name": "FC Farul Constanta - FK Fratria",
         "time": "11:00",
-        "id": "273419089584721920"
+        "id": "273635236937601024"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "Ghfa Spirit Fc - Western Sydney Wanderers NPL",
         "time": "10:30",
         "id": "273265720385736704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Machida Zelvia - Kashima Antlers",
-        "time": "10:00",
-        "id": "273003824404369408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avispa Fukuoka - Albirex Niigata",
-        "time": "10:00",
-        "id": "273094123967352832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Iwaki SC - Kataller Toyama",
-        "time": "10:00",
-        "id": "273079915288596480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sydney Olympic FC - Marconi Stallions",
-        "time": "10:00",
-        "id": "273142437909762048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mt Druitt Town Rangers - Manly United FC",
-        "time": "10:00",
-        "id": "273142437832167424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Raiders U20 - Hills United Fc U20",
-        "time": "10:00",
-        "id": "273435195040993280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wollongong Wolves Fc U20 - Rockdale Ilinden U20",
-        "time": "10:00",
-        "id": "273367749440442368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mounties Wanderers U20 - Rydalmere Lions U20",
-        "time": "10:00",
-        "id": "273439254673231872"
     }
 ]
