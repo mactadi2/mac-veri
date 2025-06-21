@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Aalesunds FK - Odds Ballklubb",
+        "time": "17:00",
+        "id": "273142425450582016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IK Start Kristiansand - Stabaek",
+        "time": "17:00",
+        "id": "273142425344675840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ranheim Trondheim - Lillestrom SK",
+        "time": "17:00",
+        "id": "273142425535516672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Raufoss Fotball - IL Hodd Ulsteinvik",
+        "time": "17:00",
+        "id": "273142425392910336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brooke House FC - Nona FC",
+        "time": "17:00",
+        "id": "273273540451635200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sc Mils 05 - WSG Wattens Swarovski Tirol",
         "time": "16:30",
         "id": "273553808560361472"
@@ -23,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Haverfordwest County - Penrhyncoch",
+        "name": "Penybont - Afan Lido",
         "time": "16:00",
-        "id": "273628925668757504"
+        "id": "273550862268370944"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Penybont - Afan Lido",
+        "name": "Haverfordwest County - Penrhyncoch",
         "time": "16:00",
-        "id": "273550862268370944"
+        "id": "273628925668757504"
     },
     {
         "tur": "live",
@@ -58,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Zhenys - FC Atyrau",
-        "time": "16:00",
-        "id": "273167200368594944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pors Grenland - Flekkeroy IL",
-        "time": "16:00",
-        "id": "273142437692706816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Blue Eagles - MAFCO",
         "time": "15:30",
         "id": "273573606492082176"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Paderborn 07 II - TuS Blau-Weiss Lohne",
-        "time": "15:00",
-        "id": "273590118334468096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Egersund IK - Kongsvinger IL",
-        "time": "15:00",
-        "id": "273014916282191872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Asane IL Ulset - Moss",
-        "time": "15:00",
-        "id": "273015356071743488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vard Haugesund - FK Arendal",
-        "time": "15:00",
-        "id": "273142437757718528"
+        "name": "Chitipa United - Kamuzu Barracks",
+        "time": "15:30",
+        "id": "273573606387224576"
     }
 ]
