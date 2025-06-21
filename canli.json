@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA San Miguel - Gimnasia Y Tiro De Salta",
+        "time": "21:30",
+        "id": "273192217481449472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "El Porvenir - Central Cordoba de Rosario",
+        "time": "21:30",
+        "id": "273142440924418048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Centro Espanyol - General Lamadrid",
+        "time": "21:30",
+        "id": "273142440845774848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Camioneros - CSD Central Ballester",
+        "time": "21:30",
+        "id": "273142440653885440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Argentino de Rosario - Victoriano Arenas",
+        "time": "21:30",
+        "id": "273142440717848576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juventud Unida San Miguel - Estrella del Sur",
+        "time": "21:30",
+        "id": "273142440531202048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Lujan - Canuelas",
+        "time": "21:30",
+        "id": "273142440783908864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Minaa - Al Talaba Fc",
+        "time": "21:30",
+        "id": "273552958214508544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Italiano - CA Fenix",
+        "time": "21:30",
+        "id": "273146417660432384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Acassuso - Argentino Quilmes",
+        "time": "21:30",
+        "id": "273146417928867840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Brown de Adrogue - Argentino Merlo",
         "time": "21:15",
         "id": "273146417598566400"
@@ -23,27 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Santani - Sportivo San Lorenzo",
-        "time": "21:00",
-        "id": "273399900221345792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Monte Azul - Goiatuba EC",
-        "time": "21:00",
-        "id": "273142432391106560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palmeiras U20 - Rio Claro U20",
-        "time": "21:00",
-        "id": "273400046232408064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Burgos Promesas - UD Castellonense",
         "time": "20:00",
         "id": "273472052582813696"
@@ -54,54 +103,5 @@
         "name": "Juventud Piedras - Danubio",
         "time": "20:00",
         "id": "273142437072998400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cerrito CS - Rampla Juniors",
-        "time": "20:00",
-        "id": "273418853447503872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MC Alger - NC Magra",
-        "time": "19:45",
-        "id": "273142425964384256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paradou AC - ES Mostaganem",
-        "time": "19:45",
-        "id": "273142426253791232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JS Kabylie - ASO Chlef",
-        "time": "19:45",
-        "id": "273142426167808000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CF Akbou - CR Belouizdad",
-        "time": "19:45",
-        "id": "273142426337677312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Espanola - Coquimbo Unido",
-        "time": "19:30",
-        "id": "273031486516629504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Magallanes - Santiago Wanderers",
-        "time": "19:30",
-        "id": "273336737092210688"
     }
 ]
