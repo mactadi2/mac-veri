@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chitipa United - Kamuzu Barracks",
+        "time": "15:30",
+        "id": "273573606387224576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Blue Eagles - MAFCO",
+        "time": "15:30",
+        "id": "273573606492082176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stranraer - Larne",
+        "time": "15:00",
+        "id": "273468238512394240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Paderborn 07 II - TuS Blau-Weiss Lohne",
+        "time": "15:00",
+        "id": "273590118334468096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atsv 1898 Erlangen - SpVgg Bayreuth",
+        "time": "15:00",
+        "id": "273563069719908352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Egersund IK - Kongsvinger IL",
+        "time": "15:00",
+        "id": "273014916282191872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Asane IL Ulset - Moss",
+        "time": "15:00",
+        "id": "273015356071743488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vard Haugesund - FK Arendal",
+        "time": "15:00",
+        "id": "273142437757718528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Grorud - Ullensaker Kisa IL",
+        "time": "15:00",
+        "id": "273142438124720128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kjelsas Oslo - Strommen IF",
+        "time": "15:00",
+        "id": "273142438196023296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FK Mlada Boleslav - FK Jablonec nad Nisou 97",
         "time": "14:30",
         "id": "273637212350976000"
@@ -9,99 +79,29 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Widzew Lodz - OKS Odra Opole",
-        "time": "13:30",
-        "id": "273552873858666496"
+        "name": "FC Levadia Tallinn - JK Nomme Kalju",
+        "time": "14:30",
+        "id": "273142425733697536"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "GKS 71 Tychy - Arka Gdynia",
-        "time": "13:00",
-        "id": "273539727720845312"
+        "name": "Shenzhen 2028 FC - Ganzhou Ruishi",
+        "time": "14:30",
+        "id": "273509581091639296"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kawasaki Frontale - Vissel Kobe",
-        "time": "13:00",
-        "id": "273094102806040576"
+        "name": "Nantong Zhiyun - Liaoning Tieren FC",
+        "time": "14:30",
+        "id": "273142440273252352"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kashiwa Reysol - Kyoto Purple Sanga",
-        "time": "13:00",
-        "id": "273094102634074112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nagoya Grampus Eight - Shimizu S-pulse",
-        "time": "13:00",
-        "id": "273096045604507648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yokohama F Marinos - Fagiano Okayama",
-        "time": "13:00",
-        "id": "273094130295508992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jeonbuk Hyundai Motors FC - FC Seoul",
-        "time": "13:00",
-        "id": "273142432236965888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pohang Steelers - Jeju United",
-        "time": "13:00",
-        "id": "273142432093310976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gangwon FC - Daegu FC",
-        "time": "13:00",
-        "id": "273142432169857024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jef United Ichihara Chiba - Jubilo Iwata",
-        "time": "13:00",
-        "id": "273098090428370944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Omiya Ardija - Sagan Tosu",
-        "time": "13:00",
-        "id": "273090714888441856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fujieda MYFC - Consadole Sapporo",
-        "time": "13:00",
-        "id": "273079915220439040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tokushima Vortis - Oita Trinita",
-        "time": "13:00",
-        "id": "273098090674786304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cheonan City Fc - Seoul E-Land FC",
-        "time": "13:00",
-        "id": "273007365348003840"
+        "name": "Shijiazhuang Gongfu FC - Chongqing Tongliang Long",
+        "time": "14:30",
+        "id": "273142440358187008"
     }
 ]
