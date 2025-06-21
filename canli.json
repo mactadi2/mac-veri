@@ -16,13 +16,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Piast Gliwice - Gornik Leczna",
-        "time": "13:00",
-        "id": "273460683524411392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "GKS 71 Tychy - Arka Gdynia",
         "time": "13:00",
         "id": "273539727720845312"
@@ -86,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fujieda MYFC - Consadole Sapporo",
-        "time": "13:00",
-        "id": "273079915220439040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Omiya Ardija - Sagan Tosu",
         "time": "13:00",
         "id": "273090714888441856"
@@ -100,8 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fujieda MYFC - Consadole Sapporo",
+        "time": "13:00",
+        "id": "273079915220439040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tokushima Vortis - Oita Trinita",
         "time": "13:00",
         "id": "273098090674786304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cheonan City Fc - Seoul E-Land FC",
+        "time": "13:00",
+        "id": "273007365348003840"
     }
 ]
