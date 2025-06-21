@@ -79,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fujieda MYFC - Consadole Sapporo",
+        "time": "13:00",
+        "id": "273079915220439040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Omiya Ardija - Sagan Tosu",
         "time": "13:00",
         "id": "273090714888441856"
@@ -86,9 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Termalica BB Nieciecza - MKS Puszcza Niepolomice",
-        "time": "12:30",
-        "id": "273354561860800512"
+        "name": "Tokushima Vortis - Oita Trinita",
+        "time": "13:00",
+        "id": "273098090674786304"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Cerezo Osaka - Tokyo Verdy 1969",
         "time": "12:30",
         "id": "273094102706425856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ehime FC - Renofa Yamaguchi",
-        "time": "12:00",
-        "id": "273090659418771456"
     }
 ]
