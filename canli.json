@@ -2,16 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Olimpija Ljubljana - FK Vardar Skopje",
-        "time": "18:30",
-        "id": "273613463684780032"
+        "name": "Deportivo Espanol - CA Ituzaingo",
+        "time": "19:05",
+        "id": "273142440595165184"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Koper - FK Shkendija 79",
+        "name": "Mamelodi Sundowns FC - Borussia Dortmund",
+        "time": "19:00",
+        "id": "272687370135015424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ilzer SV - Grazer AK 1902",
+        "time": "19:00",
+        "id": "273483347956731904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Lochau - SC Rheindorf Altach",
+        "time": "19:00",
+        "id": "273591119393198080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Bodo Glimt - SK Brann Bergen",
+        "time": "19:00",
+        "id": "271932072420052992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SD Beasain - CD Cortes",
+        "time": "19:00",
+        "id": "273472161909444608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Olimpija Ljubljana - FK Vardar Skopje",
         "time": "18:30",
-        "id": "273612572716044288"
+        "id": "273613463684780032"
     },
     {
         "tur": "live",
@@ -23,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Rabotnicki Skopje - FK Sileks",
+        "name": "FC Koper - FK Shkendija 79",
         "time": "18:30",
-        "id": "273437389909790720"
+        "id": "273612572716044288"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PFC Levski Sofia - Pfc Spartak Pleven",
+        "name": "Rabotnicki Skopje - FK Sileks",
         "time": "18:30",
-        "id": "273662501020897280"
+        "id": "273437389909790720"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Olimpia Zambrow - Zabkovia Zabki",
         "time": "18:00",
         "id": "273588120938745856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Victoria Wrzesnia - Biali Sadow",
-        "time": "18:00",
-        "id": "273395317102219264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Spartak Trnava - MFK Karvina",
-        "time": "17:30",
-        "id": "273553279485612032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zepperen Brustem - K. Sint-Truidense",
-        "time": "17:00",
-        "id": "273657241738022912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IK Start Kristiansand - Stabaek",
-        "time": "17:00",
-        "id": "273142425344675840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ranheim Trondheim - Lillestrom SK",
-        "time": "17:00",
-        "id": "273142425535516672"
     }
 ]
