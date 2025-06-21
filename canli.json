@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PFC Levski Sofia - Pfc Spartak Pleven",
+        "time": "18:30",
+        "id": "273662501020897280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FK Pohronie - Podbrezova",
         "time": "18:00",
         "id": "273553280158797824"
@@ -79,9 +86,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Aalesunds FK - Odds Ballklubb",
+        "name": "Zepperen Brustem - K. Sint-Truidense",
         "time": "17:00",
-        "id": "273142425450582016"
+        "id": "273657241738022912"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Ranheim Trondheim - Lillestrom SK",
         "time": "17:00",
         "id": "273142425535516672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Raufoss Fotball - IL Hodd Ulsteinvik",
-        "time": "17:00",
-        "id": "273142425392910336"
     }
 ]
