@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Piast Gliwice - Gornik Leczna",
+        "time": "13:00",
+        "id": "273460683524411392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GKS 71 Tychy - Arka Gdynia",
+        "time": "13:00",
+        "id": "273539727720845312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kawasaki Frontale - Vissel Kobe",
+        "time": "13:00",
+        "id": "273094102806040576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kashiwa Reysol - Kyoto Purple Sanga",
+        "time": "13:00",
+        "id": "273094102634074112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nagoya Grampus Eight - Shimizu S-pulse",
+        "time": "13:00",
+        "id": "273096045604507648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yokohama F Marinos - Fagiano Okayama",
+        "time": "13:00",
+        "id": "273094130295508992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jeonbuk Hyundai Motors FC - FC Seoul",
+        "time": "13:00",
+        "id": "273142432236965888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pohang Steelers - Jeju United",
+        "time": "13:00",
+        "id": "273142432093310976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gangwon FC - Daegu FC",
+        "time": "13:00",
+        "id": "273142432169857024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Termalica BB Nieciecza - MKS Puszcza Niepolomice",
         "time": "12:30",
         "id": "273354561860800512"
@@ -40,68 +103,5 @@
         "name": "MKF Chrudim - FC Sellier & Bellot  Vlasim",
         "time": "12:00",
         "id": "273635606289059840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ehime FC - Renofa Yamaguchi",
-        "time": "12:00",
-        "id": "273090659418771456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Imabari FC - Mito HollyHock",
-        "time": "12:00",
-        "id": "273079915413377024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wollongong Wolves FC - Rockdale Ilinden FC",
-        "time": "12:00",
-        "id": "273142438059708416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Matsumoto Yamaga FC - Kagoshima United",
-        "time": "12:00",
-        "id": "273142443091824640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Trinity Zlín - FC Zbrojovka Brno",
-        "time": "11:30",
-        "id": "273513484392730624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Artis Brno - FC Petrzalka 1898",
-        "time": "11:30",
-        "id": "273573229613944832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Prostejov - Povazska Bystrica",
-        "time": "11:30",
-        "id": "273468548109701120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Differdange 03 - Racing FC Union Letzebuerg",
-        "time": "11:30",
-        "id": "273634949045817344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Farul Constanta - FK Fratria",
-        "time": "11:00",
-        "id": "273635236937601024"
     }
 ]
