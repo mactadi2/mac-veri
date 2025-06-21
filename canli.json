@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ghfa Spirit Fc - Western Sydney Wanderers NPL",
+        "time": "10:30",
+        "id": "273265720385736704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gold Coast Knights - Brisbane City",
+        "time": "10:15",
+        "id": "273142431794466816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Machida Zelvia - Kashima Antlers",
         "time": "10:00",
         "id": "273003824404369408"
@@ -65,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Inter Lions U20 - Bull FC Academy U20",
+        "time": "10:00",
+        "id": "273629697181618176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kingsway Olympic - Sorrento",
         "time": "10:00",
         "id": "273142442141814784"
@@ -82,26 +103,5 @@
         "name": "Sutherland Sharks - St. George Saints",
         "time": "09:00",
         "id": "273142437997842432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Campbelltown City - Modbury Jets",
-        "time": "08:30",
-        "id": "273142439298076672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "West Torrens Birkalla - Adelaide Croatia Raiders",
-        "time": "08:30",
-        "id": "273268578871021568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Para Hills Knights - Adelaide Comets",
-        "time": "08:30",
-        "id": "273142439069487104"
     }
 ]
