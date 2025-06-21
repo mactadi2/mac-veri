@@ -58,9 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Chitipa United - Kamuzu Barracks",
-        "time": "15:30",
-        "id": "273573606387224576"
+        "name": "Zhenys - FC Atyrau",
+        "time": "16:00",
+        "id": "273167200368594944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pors Grenland - Flekkeroy IL",
+        "time": "16:00",
+        "id": "273142437692706816"
     },
     {
         "tur": "live",
@@ -72,23 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Stranraer - Larne",
-        "time": "15:00",
-        "id": "273468238512394240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SC Paderborn 07 II - TuS Blau-Weiss Lohne",
         "time": "15:00",
         "id": "273590118334468096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atsv 1898 Erlangen - SpVgg Bayreuth",
-        "time": "15:00",
-        "id": "273563069719908352"
     },
     {
         "tur": "live",
@@ -103,5 +96,12 @@
         "name": "Asane IL Ulset - Moss",
         "time": "15:00",
         "id": "273015356071743488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vard Haugesund - FK Arendal",
+        "time": "15:00",
+        "id": "273142437757718528"
     }
 ]
