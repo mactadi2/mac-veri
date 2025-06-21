@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sc Mils 05 - WSG Wattens Swarovski Tirol",
+        "time": "16:30",
+        "id": "273553808560361472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Thun - SC Kriens",
         "time": "16:00",
         "id": "273552644372566016"
@@ -44,9 +51,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kairat Almaty - FK Kyzylzhar Petropavlovsk",
+        "time": "16:00",
+        "id": "273167236567535616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chitipa United - Kamuzu Barracks",
         "time": "15:30",
         "id": "273573606387224576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Blue Eagles - MAFCO",
+        "time": "15:30",
+        "id": "273573606492082176"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Asane IL Ulset - Moss",
         "time": "15:00",
         "id": "273015356071743488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Mlada Boleslav - FK Jablonec nad Nisou 97",
-        "time": "14:30",
-        "id": "273637212350976000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Levadia Tallinn - JK Nomme Kalju",
-        "time": "14:30",
-        "id": "273142425733697536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shenzhen 2028 FC - Ganzhou Ruishi",
-        "time": "14:30",
-        "id": "273509581091639296"
     }
 ]
