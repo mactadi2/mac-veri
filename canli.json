@@ -37,6 +37,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "JS Kabylie - ASO Chlef",
+        "time": "19:45",
+        "id": "273142426167808000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CF Akbou - CR Belouizdad",
+        "time": "19:45",
+        "id": "273142426337677312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union Espanola - Coquimbo Unido",
+        "time": "19:30",
+        "id": "273031486516629504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Espanol - CA Ituzaingo",
         "time": "19:05",
         "id": "273142440595165184"
@@ -82,26 +103,5 @@
         "name": "Usm Khenchela - MC El Bayadh",
         "time": "19:00",
         "id": "273142426022055936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Olimpija Ljubljana - FK Vardar Skopje",
-        "time": "18:30",
-        "id": "273613463684780032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Buducnost Podgorica - Rapid Bükreş",
-        "time": "18:30",
-        "id": "273658151820201984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rabotnicki Skopje - FK Sileks",
-        "time": "18:30",
-        "id": "273437389909790720"
     }
 ]
