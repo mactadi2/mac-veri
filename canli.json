@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gamba Osaka - FC Tokyo",
+        "time": "12:30",
+        "id": "273095970231816192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Yokohama FC - Sanfrecce Hiroshima",
         "time": "12:00",
         "id": "273018858236940288"
@@ -96,12 +103,5 @@
         "name": "Yongchuan Chashan (W) - Shaanxi Changan Athletic (W)",
         "time": "11:00",
         "id": "273687008266817536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SWQ Thunder U23 - Brisbane Strikers U23",
-        "time": "10:30",
-        "id": "273463829328957440"
     }
 ]
