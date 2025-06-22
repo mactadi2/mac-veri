@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Atlanta - Club Atletico Alvarado",
+        "time": "19:10",
+        "id": "273192384373854208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA San Telmo - Chacarita Juniors",
+        "time": "19:10",
+        "id": "273192308115116032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juventus FC - WAC Wydad Casablanca",
+        "time": "19:00",
+        "id": "272687353350459392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mladost Lucani - FK Vojvodina Novi Sad",
+        "time": "19:00",
+        "id": "273605959610404864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Lealtad - AD Llerenense",
+        "time": "19:00",
+        "id": "273603017492795392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sandefjord - FK Haugesund",
         "time": "18:00",
         "id": "271932032774443008"
@@ -44,16 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "IK Oddevold - Varbergs BoIS FC",
+        "name": "Landskrona Bois - Orebro SK",
         "time": "18:00",
-        "id": "273116049037201408"
+        "id": "273116190946234368"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Landskrona Bois - Orebro SK",
+        "name": "IK Oddevold - Varbergs BoIS FC",
         "time": "18:00",
-        "id": "273116190946234368"
+        "id": "273116049037201408"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Kedus Giorgis - Mekelakeya",
         "time": "18:00",
         "id": "273546619181469696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sogndal IL - Lyn Toppofotball",
-        "time": "18:00",
-        "id": "273116049133670400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Riga FC - SK Super Nova",
-        "time": "18:00",
-        "id": "273217963113451520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fh Hafnarfjördur - IF Vestri",
-        "time": "17:00",
-        "id": "273133789791784960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico River Plate - Liverpool FC Montevideo",
-        "time": "17:00",
-        "id": "273214091645030400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Trollhaettan - FC Rosengard",
-        "time": "17:00",
-        "id": "273457451283648512"
     }
 ]
