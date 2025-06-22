@@ -2,9 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Keflavik - IR Reykjavik",
-        "time": "21:15",
-        "id": "273342012750696448"
+        "name": "Salernitana - Sampdoria",
+        "time": "21:30",
+        "id": "273165934442713088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnasia Mendoza - Talleres Remedios Escalada",
+        "time": "21:30",
+        "id": "273192299500015616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Agropecuario - CA Defensores de Belgrano",
+        "time": "21:30",
+        "id": "273192307360141312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Almirante Brown de Lules - CA Estudiantes Caseros",
+        "time": "21:30",
+        "id": "273194523410173952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JJ Urquiza - Puerto Nuevo",
+        "time": "21:30",
+        "id": "273231318972764160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Claypole - Berazategui",
+        "time": "21:30",
+        "id": "273672063608295424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Merlo - San Martin De Burzaco",
+        "time": "21:30",
+        "id": "273146417792552960"
     },
     {
         "tur": "live",
@@ -44,27 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tacuary - Pastoreo FC",
-        "time": "21:00",
-        "id": "273281526737801216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rosario Central Reserves - San Lorenzo Reserves",
-        "time": "21:00",
-        "id": "273671884461182976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Maldonado - Albion FC",
-        "time": "21:00",
-        "id": "273395248265302016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Viking Stavanger - Fredrikstad FK",
         "time": "20:15",
         "id": "271932072057245696"
@@ -82,26 +103,5 @@
         "name": "LDU Quito  - Independiente Del Valle",
         "time": "20:00",
         "id": "273136863489953792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rigas Futbola Skola - FK Auda",
-        "time": "20:00",
-        "id": "273225447507103744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "La Serena - Deportes Limache",
-        "time": "19:30",
-        "id": "273086648136372224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cd Santa Cruz - CD Antofagasta",
-        "time": "19:30",
-        "id": "273336730051022848"
     }
 ]
