@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fujieda MYFC - Shimizu S-pulse",
+        "time": "10:00",
+        "id": "273719997599191040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "South Melbourne - Dandenong Thunder",
         "time": "10:00",
         "id": "273187752451903488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Coast Mariners U20 - Sydney United 58 U20",
+        "time": "10:00",
+        "id": "273720581277487104"
     },
     {
         "tur": "live",
@@ -37,13 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Mt Druitt Town Rangers (W) - Manly United FC (W)",
-        "time": "10:00",
-        "id": "273429628328218624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Western Sydney Wanderers B (W) - Illawarra Stingrays (W)",
         "time": "10:00",
         "id": "273429605419978752"
@@ -51,9 +58,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Macarthur Rams (W) - Gladesville Ravens (W)",
+        "name": "University of New South Wales (W) - Apia Leichhardt Tigers (W)",
         "time": "10:00",
-        "id": "273429628264255488"
+        "id": "273429628189806592"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Springfield United - Virginia United",
         "time": "09:00",
         "id": "273511903620370432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SWQ Thunder - Brisbane Strikers",
-        "time": "08:30",
-        "id": "273343033037164544"
     }
 ]
