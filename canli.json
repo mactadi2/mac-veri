@@ -2,6 +2,90 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sandefjord - FK Haugesund",
+        "time": "18:00",
+        "id": "271932032774443008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sarpsborg 08 - Bryne FK",
+        "time": "18:00",
+        "id": "271932072165249024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kristiansund BK - Rosenborg BK",
+        "time": "18:00",
+        "id": "271932071951339520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ham-Kam - Tromso IL",
+        "time": "18:00",
+        "id": "271932127979900928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KFUM Oslo - Stromsgodset IF",
+        "time": "18:00",
+        "id": "271932071868502016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kalmar FF - Orgryte IS",
+        "time": "18:00",
+        "id": "273116048958558208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IK Oddevold - Varbergs BoIS FC",
+        "time": "18:00",
+        "id": "273116049037201408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Landskrona Bois - Orebro SK",
+        "time": "18:00",
+        "id": "273116190946234368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Naprzod Jedrzejow - Glinik Gorlice",
+        "time": "18:00",
+        "id": "273671029671464960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kedus Giorgis - Mekelakeya",
+        "time": "18:00",
+        "id": "273546619181469696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sogndal IL - Lyn Toppofotball",
+        "time": "18:00",
+        "id": "273116049133670400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Riga FC - SK Super Nova",
+        "time": "18:00",
+        "id": "273217963113451520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fh Hafnarfjördur - IF Vestri",
         "time": "17:00",
         "id": "273133789791784960"
@@ -19,89 +103,5 @@
         "name": "FC Trollhaettan - FC Rosengard",
         "time": "17:00",
         "id": "273457451283648512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Skovde IFK - Oskarshamns Aik",
-        "time": "17:00",
-        "id": "273457300223692800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sotra Sportsklubb - Brattvag",
-        "time": "17:00",
-        "id": "273214091105013760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fk Tonsberg - Lysekloster",
-        "time": "17:00",
-        "id": "273214091030564864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sandviken - Traeff",
-        "time": "17:00",
-        "id": "273214090964504576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Karlstad - AFC Eskilstuna",
-        "time": "17:00",
-        "id": "273276239258718208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "TEAM TG FF - IFK Haninge",
-        "time": "17:00",
-        "id": "273276227805122560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orebro SK - Gefle IF",
-        "time": "17:00",
-        "id": "273276227874328576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KI Klaksvík - B36 Torshavn",
-        "time": "17:00",
-        "id": "273214091187851264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "07 Vestur Sorvagur - HB Torshavn",
-        "time": "17:00",
-        "id": "273214091251814400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sandvikens IF - Falkenbergs FF",
-        "time": "16:00",
-        "id": "273108764238942208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vasteras SK FK - IK Brage Borlange",
-        "time": "16:00",
-        "id": "273108481041633280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Flamengo SP U20 - Guaratingueta SP U20",
-        "time": "16:00",
-        "id": "273476285900132352"
     }
 ]
