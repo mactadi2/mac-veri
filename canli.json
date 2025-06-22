@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "UD San Fernando - Girona FC B",
+        "time": "14:00",
+        "id": "273555118576766976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gimcheon Sangmu FC - FC Anyang",
         "time": "13:00",
         "id": "273097172509134848"
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "The Cong Viettel FC - Ho Chi Minh",
+        "time": "13:00",
+        "id": "273644438441562112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gamba Osaka - FC Tokyo",
         "time": "12:30",
         "id": "273095970231816192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yokohama FC - Sanfrecce Hiroshima",
-        "time": "12:00",
-        "id": "273018858236940288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vegalta Sendai - Ventforet Kofu",
-        "time": "12:00",
-        "id": "273102215840927744"
     }
 ]
