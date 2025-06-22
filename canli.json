@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Newcastle Olympic - Maitland",
+        "time": "09:30",
+        "id": "273328803194998784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Osaka - Fukushima United FC",
         "time": "09:00",
         "id": "273183891384307712"
@@ -96,12 +103,5 @@
         "name": "Gold Coast United - Brisbane Olympic FC",
         "time": "08:00",
         "id": "273326758706679808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Roasso Kumamoto - V-Varen Nagasaki",
-        "time": "07:35",
-        "id": "273096112569716736"
     }
 ]
