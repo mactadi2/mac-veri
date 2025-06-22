@@ -2,9 +2,44 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Amazonas FC - Vila Nova GO",
+        "time": "00:00",
+        "id": "273101524151963648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "West Seattle Junction - Tacoma Stars",
+        "time": "00:00",
+        "id": "273275430875828224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Boca Juniors Reserves - Velez Sarsfield Reserves",
+        "time": "00:00",
+        "id": "273671876817063936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alexandria Reds (W) - McLean Soccer (W)",
+        "time": "00:00",
+        "id": "273631824638513152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Penarol Montevideo - Montevideo Wanderers",
         "time": "23:30",
         "id": "273238912167710720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valour Fc - Forge FC",
+        "time": "23:30",
+        "id": "273198120796557312"
     },
     {
         "tur": "live",
@@ -37,6 +72,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Urena Fc - Atletico El Vigia",
+        "time": "23:00",
+        "id": "273635554231455744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Diego Parceiro LFC (W) - Los Angeles Surf (W)",
+        "time": "23:00",
+        "id": "273732863119200256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "IA Akranes - Stjarnan",
         "time": "22:30",
         "id": "273139407704428544"
@@ -44,64 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "KA Akureyri - Vikingur Reykjavik",
-        "time": "22:15",
-        "id": "273224330828189696"
+        "name": "Dvo Italia - Mineros Guayana",
+        "time": "22:30",
+        "id": "273476941153177600"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Real Madrid - Pachuca CF",
-        "time": "22:00",
-        "id": "272687353200513024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia Y Esgrima de Jujuy - Estudiantes Rio Cuarto",
-        "time": "22:00",
-        "id": "273192480592236544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Patronato - Club Atletico Guemes",
-        "time": "22:00",
-        "id": "273192308045910016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Coritiba FC PR - Cuiaba MT",
-        "time": "22:00",
-        "id": "273101524227461120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Clube Goianiense - Volta Redonda",
-        "time": "22:00",
-        "id": "273101529669570560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Audax Italiano Santiago - Colo Colo",
-        "time": "22:00",
-        "id": "273087064279486464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Motown II - Cedar Stars FC",
-        "time": "22:00",
-        "id": "273279843283636224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Project 51O - San Juan SC",
-        "time": "22:00",
-        "id": "273275430594809856"
+        "name": "Monagas II - Aragua FC",
+        "time": "22:30",
+        "id": "273476927059267584"
     }
 ]
