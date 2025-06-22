@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Penarol Montevideo - Montevideo Wanderers",
+        "time": "23:30",
+        "id": "273238912167710720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Comerciantes Unidos - Juan Pablo II College",
+        "time": "23:15",
+        "id": "273134576755412992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Atletico Mitre - Temperley",
         "time": "23:00",
         "id": "273192384511217664"
@@ -72,36 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Audax Italiano Santiago - Colo Colo",
+        "time": "22:00",
+        "id": "273087064279486464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Motown II - Cedar Stars FC",
+        "time": "22:00",
+        "id": "273279843283636224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Salernitana - Sampdoria",
         "time": "21:30",
         "id": "273165934442713088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia Mendoza - Talleres Remedios Escalada",
-        "time": "21:30",
-        "id": "273192299500015616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Agropecuario - CA Defensores de Belgrano",
-        "time": "21:30",
-        "id": "273192307360141312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Almirante Brown de Lules - CA Estudiantes Caseros",
-        "time": "21:30",
-        "id": "273194523410173952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Claypole - Berazategui",
-        "time": "21:30",
-        "id": "273672063608295424"
     }
 ]
