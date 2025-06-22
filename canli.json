@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Utsiktens BK - Ostersunds FK",
+        "time": "16:00",
+        "id": "273108450778681344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sandvikens IF - Falkenbergs FF",
+        "time": "16:00",
+        "id": "273108764238942208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vasteras SK FK - IK Brage Borlange",
+        "time": "16:00",
+        "id": "273108481041633280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Jelgava - SC Grobinas",
+        "time": "16:00",
+        "id": "273210281704951808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Valerenga IF Oslo - Molde FK",
         "time": "15:30",
         "id": "271932032694751232"
@@ -58,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kakamega Homeboyz - Tusker FC",
-        "time": "15:00",
-        "id": "273206845701754880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nairobi City Stars - Mathare United Fc",
-        "time": "15:00",
-        "id": "273206845777252352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Guangxi Lanhang - Guizhou Zhucheng Athletic",
         "time": "14:30",
         "id": "273616924258209792"
@@ -89,19 +103,5 @@
         "name": "Wenzhou Professional F.C - Wuhan Three Towns Reserves",
         "time": "14:30",
         "id": "273615264195678208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UD San Fernando - Girona FC B",
-        "time": "14:00",
-        "id": "273555118576766976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Monzon - Porreres",
-        "time": "13:00",
-        "id": "273603017558855680"
     }
 ]
