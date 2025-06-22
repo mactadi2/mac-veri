@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Torpedo Belaz Zhodino - FC Vitebsk",
+        "time": "20:30",
+        "id": "273174699691872256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Viking Stavanger - Fredrikstad FK",
         "time": "20:15",
         "id": "271932072057245696"
@@ -96,12 +103,5 @@
         "name": "Thor Akureyri - UMF Selfoss",
         "time": "19:00",
         "id": "273296707575484416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Neman Grodno - FC Minsk",
-        "time": "18:30",
-        "id": "273174699513614336"
     }
 ]
