@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guangzhou Dandelion Alpha FC - Guangdong Mingtu",
+        "time": "11:30",
+        "id": "273613403620249600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Khovd - Khoromkhon Klub",
         "time": "11:15",
         "id": "273602128885452800"
@@ -96,12 +103,5 @@
         "name": "Western Sydney Wanderers B (W) - Illawarra Stingrays (W)",
         "time": "10:00",
         "id": "273429605419978752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Newcastle Olympic - Maitland",
-        "time": "09:30",
-        "id": "273328803194998784"
     }
 ]
