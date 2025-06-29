@@ -1,79 +1,44 @@
 [
     {
         "type": "futbol",
-        "name": "Los Troncos - Fluxo",
-        "day": "13",
-        "time": "22:00",
-        "channel": "S Sport"
+        "name": "PSG - Inter Miami",
+        "day": "29",
+        "time": "19:00",
+        "channel": "TRT 1"
     },
     {
         "type": "futbol",
-        "name": "Porcinos - Furia",
-        "day": "13",
+        "name": "Flamengo - Bayern Münih",
+        "day": "29",
         "time": "23:00",
-        "channel": "S Sport"
+        "channel": "TRT 1"
     },
     {
         "type": "basketbol",
-        "name": "Real Madrid - Unicaja Malaga",
-        "day": "13",
-        "time": "22:15",
-        "channel": "Spor Smart"
+        "name": "Fransa - İtalya",
+        "day": "29",
+        "time": "17:30",
+        "channel": "TRT Spor"
+    },
+    {
+        "type": "basketbol",
+        "name": "İspanya - Belçika",
+        "day": "29",
+        "time": "20:30",
+        "channel": "TRT Spor"
     },
     {
         "type": "tenis",
-        "name": "V.Kudermetova - E.Alexandrova",
-        "day": "13",
+        "name": "Martin\/Fallada - Sanchez\/Fernandez",
+        "day": "29",
+        "time": "10:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Coello\/Tapia - Stupaczuk\/Lebron",
+        "day": "29",
         "time": "12:00",
         "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Y.Yuan - E.Mertens",
-        "day": "13",
-        "time": "13:30",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "D.Shnaider - M.Keys",
-        "day": "13",
-        "time": "14:00",
-        "channel": "Bein Sports Max 2"
-    },
-    {
-        "type": "tenis",
-        "name": "T.Maria - E.Rybakina",
-        "day": "13",
-        "time": "15:30",
-        "channel": "Bein Sports Max 2"
-    },
-    {
-        "type": "tenis",
-        "name": "E.Cocciaretto - S.Lamens",
-        "day": "13",
-        "time": "15:30",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Q.Zheng - E.Raducanu",
-        "day": "13",
-        "time": "17:00",
-        "channel": "Bein Sports Max 2"
-    },
-    {
-        "type": "tenis",
-        "name": "E.G.Ruse - B.Andreescu",
-        "day": "13",
-        "time": "17:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "E.Navarro - A.Anisimova",
-        "day": "13",
-        "time": "18:30",
-        "channel": "Bein Sports Max 2"
     }
 ]
