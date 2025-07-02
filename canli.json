@@ -2,9 +2,44 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NK Olimpija Ljubljana - PFC CSKA Sofia",
+        "time": "20:00",
+        "id": "274622288517795840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SSV Ulm - Bayern Munich II",
+        "time": "19:00",
+        "id": "274635986895507456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Osijek - Szentlorinc SE",
+        "time": "19:00",
+        "id": "274578216050626560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "DAC Dunajska - FK TSC Backa Topola",
+        "time": "19:00",
+        "id": "274479824530182144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Zorya Luhansk - Kisvarda FC",
         "time": "19:00",
         "id": "274633955724103680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arda Kardzhali - PFC Montana 1921",
+        "time": "19:00",
+        "id": "274566239661199360"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "PFC Ludogorets Razgrad II - FC Dunav Ruse",
         "time": "18:00",
         "id": "274658371366424576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HJK Helsinki - FF Jaro",
-        "time": "18:00",
-        "id": "274302120970293248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Inter Turku - IFK Mariehamn",
-        "time": "18:00",
-        "id": "274271966170583040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ilves Tampere - Kotkan Tyovaen Palloilijat",
-        "time": "18:00",
-        "id": "274302187359834112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VPS Vaasan Palloseura - FC Haka Valkeakoski",
-        "time": "18:00",
-        "id": "274313379227766784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VPV Pallo-Veikot - SJK Akatemia II",
-        "time": "18:00",
-        "id": "274616616926449664"
     }
 ]
