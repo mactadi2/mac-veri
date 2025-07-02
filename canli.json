@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union La Calera - Coquimbo Unido",
+        "time": "22:00",
+        "id": "273826830502465536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Penybont - Merthyr Town",
         "time": "21:30",
         "id": "274553376768921600"
@@ -96,12 +103,5 @@
         "name": "Sportfreunde Eisbachtal - TUS Koblenz",
         "time": "20:30",
         "id": "274642555672596480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eskilsminne IF - Bk Olympic",
-        "time": "20:00",
-        "id": "274392695596781568"
     }
 ]
