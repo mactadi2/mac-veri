@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Yaracuyanos FC - Zamora FC",
+        "time": "22:00",
+        "id": "274568869924966400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Penybont - Merthyr Town",
         "time": "21:30",
         "id": "274553376768921600"
@@ -96,12 +103,5 @@
         "name": "Athletico Paranaense U20 - Fortaleza CE U20",
         "time": "21:00",
         "id": "274396570123898880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fluminense RJ U20 - Atletico Goianiense U20",
-        "time": "20:45",
-        "id": "274485389050384384"
     }
 ]
