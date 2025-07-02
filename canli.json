@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Zorya Luhansk - Kisvarda FC",
+        "time": "19:00",
+        "id": "274633955724103680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Slavia Prague - Universitatea Cluj",
+        "time": "18:30",
+        "id": "274542786440728576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NS Mura - MFK Ruzomberok",
+        "time": "18:30",
+        "id": "274565198638092288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC CSKA 1948 - Aris Limmasol",
         "time": "18:00",
         "id": "274565159117262848"
@@ -26,6 +47,20 @@
         "name": "SC FC Petrolul Ploiesti - KS Vllaznia Shkoder",
         "time": "18:00",
         "id": "274635096250781696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC UTA Arad - Zeleznicar Pancevo",
+        "time": "18:00",
+        "id": "274562561971720192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFC Ludogorets Razgrad II - FC Dunav Ruse",
+        "time": "18:00",
+        "id": "274658371366424576"
     },
     {
         "tur": "live",
@@ -58,27 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VPV Pallo-Veikot - SJK Akatemia II",
-        "time": "18:00",
-        "id": "274616616926449664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PK Keski-Uusimaa - RoPS Rovaniemen PS",
-        "time": "18:00",
-        "id": "274395803613794304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFK Dinamo Samarkand - Neftchi Fargona",
-        "time": "18:00",
-        "id": "274395802397446144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Banik Ostrava B - OKS Swit Skolwin",
         "time": "17:00",
         "id": "274635156055265280"
@@ -89,19 +103,5 @@
         "name": "Lautp - Edustus",
         "time": "17:00",
         "id": "274551064419766272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Urena Fc - Estudiantes de Mérida",
-        "time": "17:00",
-        "id": "274568599737339904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sagesse Sports Club (Al Hekmeh) -   Al Ansar Beirut",
-        "time": "16:30",
-        "id": "274523533356437504"
     }
 ]
