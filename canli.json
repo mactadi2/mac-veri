@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Virginia Marauders FC - Virginia Beach",
+        "time": "00:00",
+        "id": "274535945506787328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Delaware FC - Ocean City Nor'easters",
+        "time": "00:00",
+        "id": "274535937771442176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Maritimo de La Guaira - Titanes FC Guanare",
+        "time": "00:00",
+        "id": "274568869854711808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Barquisimeto - Rayo Zuliano",
+        "time": "00:00",
+        "id": "274568945426632704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Indepiendente Juniors - 22 de Julio",
         "time": "23:30",
         "id": "274405589838336000"
@@ -33,26 +61,5 @@
         "name": "FC Arbaer - Hviti Riddarinn",
         "time": "23:00",
         "id": "274610896238678016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bolivar SC - Monagas SC",
-        "time": "22:00",
-        "id": "274568599882043392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "İsviçre (Kadınlar) - Norveç (Kadınlar)",
-        "time": "22:00",
-        "id": "273577631121805312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vikingur Reykjavik U20 (W) - Breidablik U20 (W)",
-        "time": "22:00",
-        "id": "274536616549289984"
     }
 ]
