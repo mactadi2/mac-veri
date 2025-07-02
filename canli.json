@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Luzern - Neuchatel Xamax FC",
+        "time": "20:00",
+        "id": "274549326992248832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NK Olimpija Ljubljana - PFC CSKA Sofia",
         "time": "20:00",
         "id": "274622288517795840"
@@ -9,9 +16,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Imst - WSG Wattens Swarovski Tirol II",
+        "time": "20:00",
+        "id": "274549376106500096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FV Illertissen - 1. FC Sonthofen",
         "time": "19:30",
         "id": "274636358885183488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IMT Novi Belgrade - FK Javor Ivanjica",
+        "time": "19:30",
+        "id": "274641727577526272"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sevlievo - FC Yantra Gabrovo",
-        "time": "18:30",
-        "id": "274659531631497216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC UTA Arad - Zeleznicar Pancevo",
-        "time": "18:00",
-        "id": "274562561971720192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "PFC Ludogorets Razgrad II - FC Dunav Ruse",
         "time": "18:00",
         "id": "274658371366424576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HJK Helsinki - FF Jaro",
-        "time": "18:00",
-        "id": "274302120970293248"
     }
 ]
