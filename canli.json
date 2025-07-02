@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FV Illertissen - 1. FC Sonthofen",
+        "time": "19:30",
+        "id": "274636358885183488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SSV Ulm - Bayern Munich II",
         "time": "19:00",
         "id": "274635986895507456"
@@ -44,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FK Poprad - Tatran Presov",
+        "time": "19:00",
+        "id": "274623981266538496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mladost Lucani - FK Radnik Surdulica",
+        "time": "19:00",
+        "id": "274661546138931200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SK Slavia Prague - Universitatea Cluj",
         "time": "18:30",
         "id": "274542786440728576"
@@ -65,27 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC CSKA 1948 - Aris Limmasol",
-        "time": "18:00",
-        "id": "274565159117262848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zbrojovka Brno - MFK Zemplin Michalovce",
-        "time": "18:00",
-        "id": "274565198562594816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Widzew Lodz - FC Banik Ostrava",
-        "time": "18:00",
-        "id": "274566893013176320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC UTA Arad - Zeleznicar Pancevo",
         "time": "18:00",
         "id": "274562561971720192"
@@ -93,15 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC FC Petrolul Ploiesti - KS Vllaznia Shkoder",
+        "name": "PFC Ludogorets Razgrad II - FC Dunav Ruse",
         "time": "18:00",
-        "id": "274635096250781696"
+        "id": "274658371366424576"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PFC Ludogorets Razgrad II - FC Dunav Ruse",
+        "name": "HJK Helsinki - FF Jaro",
         "time": "18:00",
-        "id": "274658371366424576"
+        "id": "274302120970293248"
     }
 ]
