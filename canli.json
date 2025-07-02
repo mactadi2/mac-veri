@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Servette Geneve FC - Etoile Carouge FC",
+        "time": "21:00",
+        "id": "274636709873979392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KVV Thes Sport - K. Sint-Truidense",
+        "time": "21:00",
+        "id": "274479825412034560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HSK Zrinjski Mostar - FK Zeljeznicar Sarajevo",
+        "time": "21:00",
+        "id": "274637288071368704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Breitenrain - Munsingen",
+        "time": "21:00",
+        "id": "274557974405582848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VVV Venlo - Rksv Nuenen",
+        "time": "21:00",
+        "id": "274452439860645888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA River Plate Montevideo Reserves - Club Oriental Reserves",
+        "time": "21:00",
+        "id": "274561070070370304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bragantino Sp U20 - Flamengo RJ U20",
+        "time": "21:00",
+        "id": "274397281943425024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sao Paulo FC U20 - Juventude U20",
+        "time": "21:00",
+        "id": "274396589285576704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fluminense RJ U20 - Atletico Goianiense U20",
+        "time": "20:45",
+        "id": "274485389050384384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Korneuburg Asc Marathon - Wiener Viktoria",
         "time": "20:30",
         "id": "274540521183121408"
@@ -23,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Olimpija Ljubljana - PFC CSKA Sofia",
-        "time": "20:00",
-        "id": "274622288517795840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SC Imst - WSG Wattens Swarovski Tirol II",
         "time": "20:00",
         "id": "274549376106500096"
@@ -47,61 +103,5 @@
         "name": "FV Illertissen - 1. FC Sonthofen",
         "time": "19:30",
         "id": "274636358885183488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IMT Novi Belgrade - FK Javor Ivanjica",
-        "time": "19:30",
-        "id": "274641727577526272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SalPa II - LTU",
-        "time": "19:30",
-        "id": "274551079157501952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Frigg - Nordstrand",
-        "time": "19:30",
-        "id": "274565269730496512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSV Ulm - Bayern Munich II",
-        "time": "19:00",
-        "id": "274635986895507456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "DAC Dunajska - FK TSC Backa Topola",
-        "time": "19:00",
-        "id": "274479824530182144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mladost Lucani - FK Radnik Surdulica",
-        "time": "19:00",
-        "id": "274661546138931200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Qasim SC - Al Shorta",
-        "time": "19:00",
-        "id": "274563323731775488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Karma - Zakho",
-        "time": "19:00",
-        "id": "274563323535691776"
     }
 ]
