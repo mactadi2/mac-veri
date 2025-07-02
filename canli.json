@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sevlievo - FC Yantra Gabrovo",
+        "time": "18:30",
+        "id": "274659531631497216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC CSKA 1948 - Aris Limmasol",
         "time": "18:00",
         "id": "274565159117262848"
@@ -44,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC FC Petrolul Ploiesti - KS Vllaznia Shkoder",
+        "name": "FC UTA Arad - Zeleznicar Pancevo",
         "time": "18:00",
-        "id": "274635096250781696"
+        "id": "274562561971720192"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC UTA Arad - Zeleznicar Pancevo",
+        "name": "SC FC Petrolul Ploiesti - KS Vllaznia Shkoder",
         "time": "18:00",
-        "id": "274562561971720192"
+        "id": "274635096250781696"
     },
     {
         "tur": "live",
@@ -93,15 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Banik Ostrava B - OKS Swit Skolwin",
-        "time": "17:00",
-        "id": "274635156055265280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lautp - Edustus",
-        "time": "17:00",
-        "id": "274551064419766272"
+        "name": "VPV Pallo-Veikot - SJK Akatemia II",
+        "time": "18:00",
+        "id": "274616616926449664"
     }
 ]
