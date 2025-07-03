@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "The Strongest La Paz - CDT Real Oruro",
+        "time": "01:00",
+        "id": "274514184800178176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sao Francisco AC U20 - Assermurb U20",
         "time": "00:00",
         "id": "274733649838084096"
@@ -19,26 +26,5 @@
         "name": "Atletico Vinotinto - Leones Del Norte",
         "time": "23:30",
         "id": "274482638981566464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fram\/Ulfarnir U19 - Fjolnir U19",
-        "time": "23:15",
-        "id": "274677230315114496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KR Reykjavik\/KV U19 - Stjarnan\/KFG\/Alftanes U19",
-        "time": "23:00",
-        "id": "274611688501809152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Nacional U20 - Envigado FC U20",
-        "time": "23:00",
-        "id": "274634215492030464"
     }
 ]
