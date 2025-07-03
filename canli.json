@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Baronie - NAC Breda",
+        "time": "20:30",
+        "id": "274655061807861760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "HooGee - Eif\/Akademi",
         "time": "20:15",
         "id": "274593801627111424"
@@ -86,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Seinajoen Sisu - Sif",
-        "time": "19:00",
-        "id": "274599047012159488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "KPV Akatemia - FC Ylivieska",
         "time": "19:00",
         "id": "274599033197170688"
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kultsu - Mipk Mikkeli",
-        "time": "18:30",
-        "id": "274595175410569216"
+        "name": "Seinajoen Sisu - Sif",
+        "time": "19:00",
+        "id": "274599047012159488"
     }
 ]
