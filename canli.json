@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sahel FC - Wombeye AC",
+        "time": "18:45",
+        "id": "274749473292423168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kultsu - Mipk Mikkeli",
         "time": "18:30",
         "id": "274595175410569216"
@@ -37,13 +44,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Ashdod - Hapoel Petah Tikva",
-        "time": "18:00",
-        "id": "274731147313942528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Estrella del Sur Reserves - Deportivo Espanol Reserves",
         "time": "18:00",
         "id": "274729227465658368"
@@ -65,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PFC Shurtan - PFK Qizilqum Zarafshon",
+        "time": "18:00",
+        "id": "274522636591173632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Lugano Reserves - El Porvenir Reserves",
         "time": "17:00",
         "id": "274680070228021248"
@@ -79,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kadhimiya SC - Afak SC",
-        "time": "17:00",
-        "id": "274643663622115328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Peshmerga Sulaymaniya SC - Al-Gharafa",
         "time": "17:00",
         "id": "274648724233392128"
@@ -93,15 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Al Fahad - El Atesalat",
+        "name": "Fc Dordoi Bişkek - FK Neftchi Kochkor-Ata",
         "time": "17:00",
-        "id": "274643600190607360"
+        "id": "274621991620841472"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SD Family - FK Ekibastuz",
+        "name": "Abdish-Ata - FC Bars Issyk-Kul",
         "time": "17:00",
-        "id": "274411030052999168"
+        "id": "274621991553732608"
     }
 ]
