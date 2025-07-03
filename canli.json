@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "UMF Afturelding - Breidablik Kopavogur",
+        "time": "22:15",
+        "id": "274402084387950592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "UMF Grindavik  - UMF Njardvik",
         "time": "22:15",
         "id": "274411032333651968"
@@ -96,12 +103,5 @@
         "name": "Sociedade Esportiva de Buzios - EC Vera Cruz RJ",
         "time": "20:45",
         "id": "274655670402420736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Baronie - NAC Breda",
-        "time": "20:30",
-        "id": "274655061807861760"
     }
 ]
