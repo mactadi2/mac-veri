@@ -37,6 +37,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Berazategui Reserves - CA Claypole Reserves",
+        "time": "20:00",
+        "id": "274677354273574912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Ituzaingo Reserves - Deportivo Paraguayo Reserves ",
+        "time": "20:00",
+        "id": "274678252896915456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FH Hafnarfjordur U19 - Breidablik\/Augn\/Smari U19",
+        "time": "20:00",
+        "id": "274611826054008832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Budapest Honved FC - Maccabi Haifa FC",
         "time": "19:30",
         "id": "274640394824847360"
@@ -47,20 +68,6 @@
         "name": "PonPa - Ajax Sarkkiranta",
         "time": "19:30",
         "id": "274599033032544256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BSC Young Boys Bern - SC Kriens",
-        "time": "19:00",
-        "id": "274570484201426944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Zenit St. Petersburg - FC Dynamo Makhachkala",
-        "time": "19:00",
-        "id": "274028676902948864"
     },
     {
         "tur": "live",
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Kiisto - Saaripotku",
-        "time": "19:00",
-        "id": "274599047097094144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KPV Akatemia - FC Ylivieska",
-        "time": "19:00",
-        "id": "274599033197170688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Seinajoen Sisu - Sif",
         "time": "19:00",
         "id": "274599047012159488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TMT FA - Hawks Fc",
+        "time": "19:00",
+        "id": "274730363216072704"
     }
 ]
