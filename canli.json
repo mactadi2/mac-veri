@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Vinotinto - Leones Del Norte",
+        "time": "23:30",
+        "id": "274482638981566464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fram\/Ulfarnir U19 - Fjolnir U19",
         "time": "23:15",
         "id": "274677230315114496"
@@ -75,33 +82,5 @@
         "name": "Fluminense PI U20 - Ferroviario-PI U20",
         "time": "22:00",
         "id": "274715179394142208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cliftonville FC - Loughgall",
-        "time": "21:45",
-        "id": "274647674671730688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Najaf - Al Talaba Fc",
-        "time": "21:30",
-        "id": "274563325947416576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Quwa\/Jawiya - Naft Maysan",
-        "time": "21:30",
-        "id": "274563324495138816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Puerto Nuevo Reserves - Argentino de Rosario Reserves",
-        "time": "21:30",
-        "id": "274715609193910272"
     }
 ]
