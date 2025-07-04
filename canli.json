@@ -23,9 +23,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Freital - FSV Zwickau",
-        "time": "19:30",
-        "id": "274726551369682944"
+        "name": "Kremser SC - LASK Linz II",
+        "time": "20:00",
+        "id": "274819329013452800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ilzer SV - SC Sparkasse Elin Weiz",
+        "time": "20:00",
+        "id": "274813542752980992"
     },
     {
         "tur": "live",
@@ -33,6 +40,13 @@
         "name": "Marchfeld Donauauen - Wolfsberger Athletik Club II",
         "time": "19:30",
         "id": "274614238718332928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Freital - FSV Zwickau",
+        "time": "19:30",
+        "id": "274726551369682944"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "WSG Wattens Swarovski Tirol - FC Hradec Kralove",
         "time": "19:00",
         "id": "274736336142995456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Leobendorf  - Floridsdorfer AC",
-        "time": "19:00",
-        "id": "274736322909966336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Trinity Zlín - FK AS Trencin",
-        "time": "18:30",
-        "id": "274725264317091840"
     }
 ]
