@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Queen's Park - Celtic FC",
+        "time": "21:45",
+        "id": "274411024287928320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bracknell Town F.C. - Kingstonian FC",
+        "time": "21:45",
+        "id": "274752298847178752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Derry City - Waterford FC",
+        "time": "21:45",
+        "id": "274219081394163712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shelbourne FC - Cork City FC",
+        "time": "21:45",
+        "id": "274219061872824320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "St Patrick's Athletic - Bohemian FC Dublin",
+        "time": "21:45",
+        "id": "274219061792083968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Drogheda United - Galway United",
+        "time": "21:45",
+        "id": "274219081488535552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kilmarnock - Ayr United",
+        "time": "21:30",
+        "id": "274736471509962752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chippenham Town FC - Bristol Rovers",
+        "time": "21:30",
+        "id": "274672475084820480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aveley - Dagenham & Redbridge",
+        "time": "21:30",
+        "id": "274737515827695616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Laferrere - Villa San Carlos",
         "time": "21:05",
         "id": "274808383680417792"
@@ -30,27 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Encarnacion FC - Independiente FBC",
-        "time": "21:00",
-        "id": "274411022063898624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gremio Novorizontino U20 - Mirassol U20",
-        "time": "21:00",
-        "id": "274578207603298304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portuguesa Desportos U20 - EC Agua Santa U20",
-        "time": "21:00",
-        "id": "274577766004953088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Gnistan Ogeli - Fc Kontu",
         "time": "20:15",
         "id": "274682585881382912"
@@ -61,47 +103,5 @@
         "name": "Fortuna Sittard - Racing Genk",
         "time": "20:00",
         "id": "274729003694297088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Patro Eisden - Bonner SC",
-        "time": "20:00",
-        "id": "274664922450890752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kremser SC - LASK Linz II",
-        "time": "20:00",
-        "id": "274819329013452800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vst Voelkermarkt - SK Treibach",
-        "time": "20:00",
-        "id": "274724490758459392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "USV Gnas - Mannersdorf",
-        "time": "20:00",
-        "id": "274820876127571968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ilzer SV - SC Sparkasse Elin Weiz",
-        "time": "20:00",
-        "id": "274813542752980992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Zulimanit - PK 37 Iisalmi",
-        "time": "19:45",
-        "id": "274684280469327872"
     }
 ]
