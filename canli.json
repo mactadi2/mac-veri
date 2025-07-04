@@ -2,9 +2,44 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fortuna Sittard - Racing Genk",
+        "time": "20:00",
+        "id": "274729003694297088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Patro Eisden - Bonner SC",
+        "time": "20:00",
+        "id": "274664922450890752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vst Voelkermarkt - SK Treibach",
+        "time": "20:00",
+        "id": "274724490758459392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SC Freital - FSV Zwickau",
         "time": "19:30",
         "id": "274726551369682944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Marchfeld Donauauen - Wolfsberger Athletik Club II",
+        "time": "19:30",
+        "id": "274614238718332928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SR Donaufeld - First Vienna Fernwärme FC 1894",
+        "time": "19:30",
+        "id": "274586556969390080"
     },
     {
         "tur": "live",
@@ -30,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Lafnitz - Voitsberg",
+        "name": "1. FC Eintracht Bamberg - TSV 1860 Munchen",
         "time": "19:00",
-        "id": "274736322993852416"
+        "id": "274722933119782912"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "1. FC Eintracht Bamberg - TSV 1860 Munchen",
+        "name": "SV Lafnitz - Voitsberg",
         "time": "19:00",
-        "id": "274722933119782912"
+        "id": "274736322993852416"
     },
     {
         "tur": "live",
@@ -51,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Leobendorf  - Floridsdorfer AC",
-        "time": "19:00",
-        "id": "274736322909966336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "WSG Wattens Swarovski Tirol - FC Hradec Kralove",
         "time": "19:00",
         "id": "274736336142995456"
@@ -65,9 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Slovan Liberec - Universitatea Cluj",
-        "time": "18:30",
-        "id": "274724986859687936"
+        "name": "SV Leobendorf  - Floridsdorfer AC",
+        "time": "19:00",
+        "id": "274736322909966336"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "FC Trinity Zlín - FK AS Trencin",
         "time": "18:30",
         "id": "274725264317091840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Austria Salzburg - Union Vocklamarkt",
-        "time": "18:30",
-        "id": "274726338009632768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Oberwart - TSV Hartberg",
-        "time": "18:30",
-        "id": "274411024053047296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Viktoria Plzen - FC Botosani",
-        "time": "18:00",
-        "id": "274725264950431744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SKU Amstetten - Kızılyıldız",
-        "time": "18:00",
-        "id": "274725228279631872"
     }
 ]
