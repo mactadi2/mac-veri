@@ -51,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "JaPS - SalPa Salo",
+        "time": "18:30",
+        "id": "274280047359168512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Viktoria Plzen - FC Botosani",
         "time": "18:00",
         "id": "274725264950431744"
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kairat Almaty - FC Turan",
+        "time": "18:00",
+        "id": "274481666899185664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Wacker Innsbruck - FK Jablonec nad Nisou 97",
         "time": "17:30",
         "id": "274728404255903744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Sigma Olomouc - Debreceni VSC",
-        "time": "17:00",
-        "id": "274677766050418688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "TSV Havelse - SC Rot-Weiss Oberhausen",
-        "time": "17:00",
-        "id": "274678869501546496"
     }
 ]
