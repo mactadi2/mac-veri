@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Estudiantes de Resistencia - Fontana",
-        "time": "22:00",
-        "id": "274852757694976000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Almanya (Kadınlar) - Polonya (Kadınlar)",
         "time": "22:00",
         "id": "273749102389497856"
@@ -103,5 +96,12 @@
         "name": "Club Aurora FCF (W) - Astor FC (W)",
         "time": "22:00",
         "id": "274777617319727104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Crusaders Newtownabbey Strikers WFC  (W) - Cliftonville (Kadınlar)",
+        "time": "22:00",
+        "id": "274721998849052672"
     }
 ]
