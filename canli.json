@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Shakhtar Donetsk - NK Gorica",
+        "time": "19:00",
+        "id": "274735397956882432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Grasshopper Club Zurich - FC Vaduz",
+        "time": "19:00",
+        "id": "274544410390302720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hearts Of Midlothian FC - Crawley Town",
+        "time": "19:00",
+        "id": "274544410302222336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Lafnitz - Voitsberg",
+        "time": "19:00",
+        "id": "274736322993852416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "1. FC Eintracht Bamberg - TSV 1860 Munchen",
+        "time": "19:00",
+        "id": "274722933119782912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Admira Dornbirn - SC Austria Lustenau",
+        "time": "19:00",
+        "id": "274728395425845248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "WSG Wattens Swarovski Tirol - FC Hradec Kralove",
+        "time": "19:00",
+        "id": "274736336142995456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Leobendorf  - Floridsdorfer AC",
+        "time": "19:00",
+        "id": "274736322909966336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Slovan Liberec - Universitatea Cluj",
         "time": "18:30",
         "id": "274724986859687936"
@@ -30,34 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "RiPS Riihimaki - Lps",
-        "time": "18:30",
-        "id": "274683771728564224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SavU (MP II) - KJP Kouvola",
-        "time": "18:30",
-        "id": "274685250937950208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KaaPo - PIF Parainen",
-        "time": "18:30",
-        "id": "274685250859307008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JaPS - SalPa Salo",
-        "time": "18:30",
-        "id": "274280047359168512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Viktoria Plzen - FC Botosani",
         "time": "18:00",
         "id": "274725264950431744"
@@ -75,33 +103,5 @@
         "name": "FC Ujpest - FC Kosice",
         "time": "18:00",
         "id": "274725351431737344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AC Oulu - KuPS Kuopio",
-        "time": "18:00",
-        "id": "274411025955164160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Espoon Tikka - NuPS",
-        "time": "18:00",
-        "id": "274681683188518912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kairat Almaty - FC Turan",
-        "time": "18:00",
-        "id": "274481666899185664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wacker Innsbruck - FK Jablonec nad Nisou 97",
-        "time": "17:30",
-        "id": "274728404255903744"
     }
 ]
