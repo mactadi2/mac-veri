@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Ituzaingo - Berazategui",
+        "time": "01:05",
+        "id": "274677829486120960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Coritiba FC PR - Volta Redonda",
+        "time": "01:00",
+        "id": "274318292716490752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jorge Wilstermann - Nacional Potosi",
+        "time": "01:00",
+        "id": "274757436816101376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Recoleta - Sportivo Trinidense",
         "time": "00:30",
         "id": "274282950909104128"
@@ -19,12 +40,5 @@
         "name": "12 de Junio de Villa Hayes - Club Sportivo Carapegua",
         "time": "23:30",
         "id": "274411022263128064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Los Chankas CYC - Asociacion Deportiva Tarma",
-        "time": "23:15",
-        "id": "274291960507928576"
     }
 ]
