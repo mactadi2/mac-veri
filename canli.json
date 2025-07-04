@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Universitatea Craiova - MTK Budapest",
+        "time": "12:00",
+        "id": "274740245019365376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wisla Plock - Miedz Legnica ll",
+        "time": "12:00",
+        "id": "274684582641668096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Adelaide City Reserves (W) - Flinders United Reserves (W)",
         "time": "11:45",
         "id": "274706233304420352"
@@ -19,6 +33,13 @@
         "name": "Logan Lightning U23 - Holland Park Hawks U23",
         "time": "11:30",
         "id": "274721346245758976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TP Ho Chi Minh FC U21 - Dong Nai U21",
+        "time": "11:30",
+        "id": "274804313268817920"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Blacktown Spartans U20 - Hakoah Sydney City East U20",
         "time": "11:00",
         "id": "274691062196473856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC Slavia Sofia - Septemvri Sofia",
-        "time": "10:30",
-        "id": "274808929614172160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CSA Steaua Bucuresti - CS Afumati",
-        "time": "10:30",
-        "id": "274759654312120320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sydney FC U20 - Sydney Olympic U20",
-        "time": "10:30",
-        "id": "274808912055767040"
     }
 ]
