@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SV Wehen Wiesbaden - TSG 1899 Hoffenheim II",
+        "time": "14:00",
+        "id": "274625890489602048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bayer Leverkusen (W) - TSG 1899 Hoffenheim (W)",
+        "time": "14:00",
+        "id": "274810049107464192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hume City - Avondale Fc",
         "time": "13:30",
         "id": "274411020029661184"
@@ -23,9 +37,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Whittlesea United SC - Springvale White Eagles",
+        "name": "Werribee City - Box Hill United",
         "time": "13:30",
-        "id": "274626862989316096"
+        "id": "274664386029817856"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": " Sunshine Coast Wanderers - Moreton City Excelsior FC",
         "time": "12:30",
         "id": "274411031803072512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universitatea Craiova - MTK Budapest",
-        "time": "12:00",
-        "id": "274740245019365376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wisla Plock - Miedz Legnica ll",
-        "time": "12:00",
-        "id": "274684582641668096"
     }
 ]
