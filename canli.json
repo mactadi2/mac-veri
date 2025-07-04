@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Freital - FSV Zwickau",
+        "time": "19:30",
+        "id": "274726551369682944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Shakhtar Donetsk - NK Gorica",
         "time": "19:00",
         "id": "274735397956882432"
@@ -44,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "WSG Wattens Swarovski Tirol - FC Hradec Kralove",
+        "name": "SV Leobendorf  - Floridsdorfer AC",
         "time": "19:00",
-        "id": "274736336142995456"
+        "id": "274736322909966336"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Leobendorf  - Floridsdorfer AC",
+        "name": "WSG Wattens Swarovski Tirol - FC Hradec Kralove",
         "time": "19:00",
-        "id": "274736322909966336"
+        "id": "274736336142995456"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "SKU Amstetten - Kızılyıldız",
         "time": "18:00",
         "id": "274725228279631872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Ujpest - FC Kosice",
-        "time": "18:00",
-        "id": "274725351431737344"
     }
 ]
