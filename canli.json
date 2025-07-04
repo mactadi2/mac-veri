@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Sion Sitten - FC Thun",
+        "time": "17:30",
+        "id": "274411023786708992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wacker Innsbruck - FK Jablonec nad Nisou 97",
+        "time": "17:30",
+        "id": "274728404255903744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SK Sigma Olomouc - Debreceni VSC",
         "time": "17:00",
         "id": "274677766050418688"
@@ -40,13 +54,6 @@
         "name": "Deportes Antofagasta (W) - Deportes Copiapo (W)",
         "time": "17:00",
         "id": "274808476723712000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Tomayapo U19 - The Strongest U19",
-        "time": "17:00",
-        "id": "274773796947365888"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Betim U20 - XV de Novembro EC MG U20",
         "time": "16:00",
         "id": "274731862669266944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rio de Janeiro RJ U20 - Zinzane FC U20",
-        "time": "15:45",
-        "id": "274825322603614208"
     }
 ]
