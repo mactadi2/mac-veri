@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Taubaté - Portuguesa Santista SP",
+        "time": "01:30",
+        "id": "274687585924812800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Ituzaingo - Berazategui",
         "time": "01:05",
         "id": "274677829486120960"
@@ -33,12 +40,5 @@
         "name": "Academia Puerto Cabello - Metropolitanos FC",
         "time": "00:00",
         "id": "274669922405191680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "12 de Junio de Villa Hayes - Club Sportivo Carapegua",
-        "time": "23:30",
-        "id": "274411022263128064"
     }
 ]
