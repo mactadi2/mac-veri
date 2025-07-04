@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Adelaide City Reserves (W) - Flinders United Reserves (W)",
+        "time": "11:45",
+        "id": "274706233304420352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Teplice - FK Usti nad Labem",
+        "time": "11:30",
+        "id": "274688946561224704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Logan Lightning U23 - Holland Park Hawks U23",
+        "time": "11:30",
+        "id": "274721346245758976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hume City U23 - Avondale U23",
         "time": "11:15",
         "id": "274628316822114304"
@@ -65,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Malawi U20 - Zimbabwe U20",
-        "time": "11:00",
-        "id": "274730669153849344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EC Bees FC - Zizwe United",
-        "time": "11:00",
-        "id": "274716067205615616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "PFC Slavia Sofia - Septemvri Sofia",
         "time": "10:30",
         "id": "274808929614172160"
@@ -96,12 +103,5 @@
         "name": "Sydney FC U20 - Sydney Olympic U20",
         "time": "10:30",
         "id": "274808912055767040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fencibles United - Western Springs AFC",
-        "time": "10:00",
-        "id": "274688916925321216"
     }
 ]
