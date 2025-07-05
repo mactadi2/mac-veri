@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NEC Nijmegen - Sportfreunde Lotte",
+        "time": "15:00",
+        "id": "274813542661754880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Karlsruher SC - FC Aarau",
+        "time": "15:00",
+        "id": "274717492749930496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VVV Venlo - Borussia Monchengladbach II",
+        "time": "15:00",
+        "id": "274813542830575616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KV Mechelen - Raal La Louviere",
+        "time": "15:00",
+        "id": "274812210172268544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Boreham Wood FC - Luton Town",
+        "time": "15:00",
+        "id": "274736695125086208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arminia Bielefeld - SC Wiedenbruck",
+        "time": "15:00",
+        "id": "274816631930228736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FSV Frankfurt - TSV Fortuna Dusseldorf II",
+        "time": "15:00",
+        "id": "274813542980521984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Union St.-Gilloise - PSV Eindhoven",
         "time": "14:30",
         "id": "274888397734154240"
@@ -54,54 +103,5 @@
         "name": "Koge - Middelfart",
         "time": "14:00",
         "id": "274832220811825152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cardiff Metropolitan University F.C. - Afan Lido",
-        "time": "14:00",
-        "id": "274907530562506752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kashiwa Reysol - FC Tokyo",
-        "time": "13:00",
-        "id": "274275726547619840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vissel Kobe - Shonan Bellmare",
-        "time": "13:00",
-        "id": "274373848208642048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kawasaki Frontale - Kashima Antlers",
-        "time": "13:00",
-        "id": "274362490747490304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cerezo Osaka - Gamba Osaka",
-        "time": "13:00",
-        "id": "274275915563929600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kyoto Purple Sanga - Albirex Niigata",
-        "time": "13:00",
-        "id": "274362490831376384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fagiano Okayama - Sanfrecce Hiroshima",
-        "time": "12:55",
-        "id": "274373306561466368"
     }
 ]
