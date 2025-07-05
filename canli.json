@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "VfL Osnabruck - FC Viktoria Plzen",
+        "time": "16:30",
+        "id": "274896216277520384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SC Rheindorf Altach - FC Basel",
         "time": "16:00",
         "id": "274411024208236544"
@@ -96,12 +103,5 @@
         "name": "Union St.-Gilloise - PSV Eindhoven",
         "time": "14:30",
         "id": "274888397734154240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leicester City - Peterborough United",
-        "time": "14:30",
-        "id": "274838469463904256"
     }
 ]
