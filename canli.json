@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Miami FC - Tulsa Roughnecks FC",
+        "time": "02:00",
+        "id": "274541049795448832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rhode Island - Birmingham Legion FC",
+        "time": "02:00",
+        "id": "274541050517917696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Staten Island - Hudson Valley Hammers",
+        "time": "02:00",
+        "id": "274548823408381952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Delaware FC - West Chester United",
+        "time": "02:00",
+        "id": "274548823749169152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Akron City - Erie Sports Center",
+        "time": "02:00",
+        "id": "274546930458169344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Manhattan SC - Morris Elite",
+        "time": "02:00",
+        "id": "274548822944911360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Avai - Paysandu",
         "time": "01:30",
         "id": "274383959946825728"
@@ -12,20 +54,6 @@
         "name": "Alianza Universidad - Alianza Atletico",
         "time": "01:30",
         "id": "274383953890250752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Alagoano AL - SER Caxias",
-        "time": "01:30",
-        "id": "274674934530314240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AD Confianca SE - ABC Futebol Clube",
-        "time": "01:30",
-        "id": "274424121266409472"
     },
     {
         "tur": "live",
@@ -58,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Santiago Wanderers - Curico Unido",
-        "time": "01:00",
-        "id": "274405593903665152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "C.D. Universidad de Concepcion - CD Antofagasta",
-        "time": "01:00",
-        "id": "274405593971822592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Emelec Guayaquil - Vinotinto Ecuador",
         "time": "00:30",
         "id": "274420218704564224"
@@ -89,19 +103,5 @@
         "name": "Real Tomayapo - San Antonio Bulo Bulo",
         "time": "00:30",
         "id": "274725089168199680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sao Jose EC - Guarany De Bage",
-        "time": "00:00",
-        "id": "274678914175078400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gremio Atletico Sampaio RR - Independencia",
-        "time": "00:00",
-        "id": "274418240579571712"
     }
 ]
