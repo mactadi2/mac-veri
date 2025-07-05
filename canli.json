@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Bocholt 1900 - FC Schalke 04",
+        "time": "18:00",
+        "id": "274883647315775488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AZ Alkmaar - Zulte-Waregem",
         "time": "17:30",
         "id": "274821087972429824"
@@ -72,16 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Brackley Town FC - Northampton Town",
+        "name": "Hungerford Town - Reading",
         "time": "17:00",
-        "id": "274743936212406272"
+        "id": "274824019479498752"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hungerford Town - Reading",
+        "name": "Brackley Town FC - Northampton Town",
         "time": "17:00",
-        "id": "274824019479498752"
+        "id": "274743936212406272"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Slask Wroclaw - Pardubice",
         "time": "17:00",
         "id": "274840833217400832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Spartans FC - Clydebank",
-        "time": "17:00",
-        "id": "274820192609112064"
     }
 ]
