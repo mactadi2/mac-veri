@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ferro Carril Oeste - Gimnasia Y Tiro De Salta",
+        "time": "01:00",
+        "id": "274411025543073792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sueno FC - Rochester FC",
+        "time": "01:00",
+        "id": "274546930386866176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Miami AC - Sarasota Paradise",
+        "time": "01:00",
+        "id": "274550712701161472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "North Carolina FC U23 - SC United Bantams",
+        "time": "01:00",
+        "id": "274548823818375168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santiago Wanderers - Curico Unido",
+        "time": "01:00",
+        "id": "274405593903665152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "C.D. Universidad de Concepcion - CD Antofagasta",
+        "time": "01:00",
+        "id": "274405593971822592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Emelec Guayaquil - Vinotinto Ecuador",
         "time": "00:30",
         "id": "274420218704564224"
@@ -19,6 +61,13 @@
         "name": "Real Tomayapo - San Antonio Bulo Bulo",
         "time": "00:30",
         "id": "274725089168199680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Espanol FC - Club Atletico Artigas",
+        "time": "00:30",
+        "id": "274614718086385664"
     },
     {
         "tur": "live",
@@ -44,64 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Forge FC - Vancouver Langley FC",
+        "time": "00:00",
+        "id": "274675623473057792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ferroviario - Sousa Pb",
         "time": "23:30",
         "id": "274416646771314688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cienciano Cusco - Sporting Cristal Lima",
-        "time": "23:15",
-        "id": "274382346536488960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Madrid - Borussia Dortmund",
-        "time": "23:00",
-        "id": "274611555307491328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tromso IL - Molde FK",
-        "time": "23:00",
-        "id": "274382639132184576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nautico Capibaribe - Floresta EC",
-        "time": "23:00",
-        "id": "274414678654980096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ituano SP - Retro FC Brasil",
-        "time": "23:00",
-        "id": "274383953960505344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ASA (Agremiação Sportiva Arapiraquense) - Sergipe Se",
-        "time": "23:00",
-        "id": "274414678514470912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Goiatuba EC - Uberlandia MG",
-        "time": "23:00",
-        "id": "274414678584725504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aguia de Maraba - Manauara EC AM",
-        "time": "23:00",
-        "id": "274414678435827712"
     }
 ]
