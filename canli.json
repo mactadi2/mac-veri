@@ -16,6 +16,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "BFC Dynamo Berlin - Hertha BSC Berlin",
+        "time": "18:00",
+        "id": "274880811594027008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kisvarda FC - FC Dynamo Kiev",
+        "time": "18:00",
+        "id": "274896125635465216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AZ Alkmaar - Zulte-Waregem",
         "time": "17:30",
         "id": "274821087972429824"
@@ -51,30 +65,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Witton Albion - Salford City",
-        "time": "17:00",
-        "id": "274743935666098176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Alfreton Town FC - Notts County",
         "time": "17:00",
         "id": "274743935755227136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bamber Bridge - Fleetwood Town",
-        "time": "17:00",
-        "id": "274820637217918976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kelty Hearts - Dunfermline",
-        "time": "17:00",
-        "id": "274743936304680960"
     },
     {
         "tur": "live",
@@ -86,9 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Brackley Town FC - Northampton Town",
+        "name": "Slask Wroclaw - Pardubice",
         "time": "17:00",
-        "id": "274743936212406272"
+        "id": "274840833217400832"
     },
     {
         "tur": "live",
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Slask Wroclaw - Pardubice",
+        "name": "VV UNA - FC Eindhoven",
         "time": "17:00",
-        "id": "274840833217400832"
+        "id": "274830938434834432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Worksop Town FC - Barnsley FC",
+        "time": "17:00",
+        "id": "274820216642473984"
     }
 ]
