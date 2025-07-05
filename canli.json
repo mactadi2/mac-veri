@@ -44,13 +44,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SKN St. Polten - FCM Traiskirchen",
-        "time": "12:00",
-        "id": "274725388572299264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FK Mlada Boleslav - AC Dukla Praha",
         "time": "12:00",
         "id": "274895493811802112"
@@ -72,9 +65,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "KFC Komarno - SK Rapid Wien II",
+        "name": "FC Ajka - SC Sopron",
         "time": "12:00",
-        "id": "274822615122710528"
+        "id": "274830224894595072"
     },
     {
         "tur": "live",
@@ -86,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Ajka - SC Sopron",
-        "time": "12:00",
-        "id": "274830224894595072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Pogon Grodzisk Mazowiecki - Bron Radom",
         "time": "12:00",
         "id": "274868599025438720"
@@ -100,8 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "LKS Lodz - Stal Mielec",
-        "time": "11:30",
-        "id": "274896392007323648"
+        "name": "SV Horn - Polissya Zhytomyr",
+        "time": "12:00",
+        "id": "274869571993866240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zaglebie Sosnowiec SSA - Podbeskidzie Bielsko-Biala",
+        "time": "12:00",
+        "id": "274706812420362240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gyori ETO FC - FK TSC Backa Topola",
+        "time": "12:00",
+        "id": "274868580035727360"
     }
 ]
