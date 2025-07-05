@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AS St. Etienne - Etoile Carouge FC",
+        "time": "19:30",
+        "id": "274835818102788096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "GNK Dinamo Zagreb - NK Siroki Brijeg",
         "time": "19:15",
         "id": "274836567788490752"
@@ -96,12 +103,5 @@
         "name": "Dobrudzha Dobrich - Pfc Spartak Varna",
         "time": "18:00",
         "id": "274921805445206016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Rapid Wien - SK Artis Brno",
-        "time": "17:30",
-        "id": "274839171049328640"
     }
 ]
