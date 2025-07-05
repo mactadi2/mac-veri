@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Lugano - FC Rapperswil Jona",
+        "time": "12:00",
+        "id": "274833228861411328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Prostejov - MFK Skalica",
         "time": "12:00",
         "id": "274826558500376576"
@@ -58,9 +65,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Dornbirn - SC Austria Lustenau",
-        "time": "11:30",
-        "id": "274895329674006528"
+        "name": "KFC Komarno - SK Rapid Wien II",
+        "time": "12:00",
+        "id": "274822615122710528"
     },
     {
         "tur": "live",
@@ -68,6 +75,13 @@
         "name": "LKS Lodz - Stal Mielec",
         "time": "11:30",
         "id": "274896392007323648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Dornbirn - SC Austria Lustenau",
+        "time": "11:30",
+        "id": "274895329674006528"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Ivancsa Kse - Erzsebeti SMTK",
         "time": "11:00",
         "id": "274837651250614272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Soroksar SC - Bicskei TC",
-        "time": "11:00",
-        "id": "274866801237692416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fk Humenne - Slavia Tu Kosice",
-        "time": "11:00",
-        "id": "274837142433304576"
     }
 ]
