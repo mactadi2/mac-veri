@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Szeged-Csanad Grosics - Hodmezovasarhelyi",
+        "time": "12:00",
+        "id": "274869908892946432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Warta Poznan - Banik Ostrava B",
+        "time": "11:30",
+        "id": "274825806741639168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Dornbirn - SC Austria Lustenau",
+        "time": "11:30",
+        "id": "274895329674006528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kazincbarcika BSC - Mezokovesdi SE",
+        "time": "11:30",
+        "id": "274826558584262656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "LKS Lodz - Stal Mielec",
+        "time": "11:30",
+        "id": "274896392007323648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aluminij - NK Maribor",
+        "time": "11:30",
+        "id": "274901705437614080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ivancsa Kse - Erzsebeti SMTK",
         "time": "11:00",
         "id": "274837651250614272"
@@ -30,23 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Brisbane City - Brisbane Wynnum Wolves FC",
-        "time": "11:00",
-        "id": "274411031910027264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Ghfa Spirit Fc - Manly United FC",
         "time": "10:30",
         "id": "274411032077799424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "White City Beograd - Playford Patriots",
-        "time": "10:30",
-        "id": "274411031322824704"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Peninsula Power - Gold Coast United",
         "time": "10:00",
         "id": "274602222920273920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Floreat Athena - Perth Glory NPL",
-        "time": "10:00",
-        "id": "274601025905758208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bayswater City - Western Knights SC",
-        "time": "10:00",
-        "id": "274411032810754048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Perth - Sorrento",
-        "time": "10:00",
-        "id": "274411032742596608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avustralya (Kadınlar) - Panama (Kadınlar)",
-        "time": "09:30",
-        "id": "274715179495854080"
     }
 ]
