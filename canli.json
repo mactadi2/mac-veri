@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union Espanola - Universidad de Chile",
+        "time": "22:00",
+        "id": "274033612557520896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sligo Rovers FC - Shamrock Rovers FC",
         "time": "21:45",
         "id": "274309733185359872"
@@ -96,12 +103,5 @@
         "name": "Comerciantes Unidos - Ayacucho FC",
         "time": "21:00",
         "id": "274380749082333184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "OKS Odra Opole - Zaglebie Lubin SSA",
-        "time": "20:45",
-        "id": "274835818195062784"
     }
 ]
