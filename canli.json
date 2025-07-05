@@ -2,16 +2,58 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Szeged-Csanad Grosics - Hodmezovasarhelyi",
+        "name": "MSK Zilina - MFK Karvina",
         "time": "12:00",
-        "id": "274869908892946432"
+        "id": "274831118391447552"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Warta Poznan - Banik Ostrava B",
-        "time": "11:30",
-        "id": "274825806741639168"
+        "name": "FK Viktoria Zizkov - FK Pribram",
+        "time": "12:00",
+        "id": "274725388189569024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Prostejov - MFK Skalica",
+        "time": "12:00",
+        "id": "274826558500376576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SKN St. Polten - FCM Traiskirchen",
+        "time": "12:00",
+        "id": "274725388572299264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Mlada Boleslav - AC Dukla Praha",
+        "time": "12:00",
+        "id": "274895493811802112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Liefering - Union Gurten",
+        "time": "12:00",
+        "id": "274725388116168704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Budapest Vasas SC - FK Samorin",
+        "time": "12:00",
+        "id": "274827384300113920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pogon Grodzisk Mazowiecki - Bron Radom",
+        "time": "12:00",
+        "id": "274868599025438720"
     },
     {
         "tur": "live",
@@ -19,13 +61,6 @@
         "name": "FC Dornbirn - SC Austria Lustenau",
         "time": "11:30",
         "id": "274895329674006528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kazincbarcika BSC - Mezokovesdi SE",
-        "time": "11:30",
-        "id": "274826558584262656"
     },
     {
         "tur": "live",
@@ -40,6 +75,13 @@
         "name": "Aluminij - NK Maribor",
         "time": "11:30",
         "id": "274901705437614080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kazincbarcika BSC - Mezokovesdi SE",
+        "time": "11:30",
+        "id": "274826558584262656"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Fk Humenne - Slavia Tu Kosice",
         "time": "11:00",
         "id": "274837142433304576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wollongong Wolves FC - St. George Saints",
-        "time": "11:00",
-        "id": "274536231556222976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ghfa Spirit Fc - Manly United FC",
-        "time": "10:30",
-        "id": "274411032077799424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St George City FA U20 - Mt Druitt Town Rangers U20",
-        "time": "10:00",
-        "id": "274622036615237632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hills United Fc U20 - Canterbury Bankstown U20",
-        "time": "10:00",
-        "id": "274711005018329088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mounties Wanderers U20 - Dulwich Hill U20",
-        "time": "10:00",
-        "id": "274724314523242496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Peninsula Power - Gold Coast United",
-        "time": "10:00",
-        "id": "274602222920273920"
     }
 ]
