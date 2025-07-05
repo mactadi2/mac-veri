@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Edgeworth Eagles - Maitland",
+        "time": "07:00",
+        "id": "274411018099232768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Weston Workers - Belmont Swansea United FC",
+        "time": "07:00",
+        "id": "274411017966063616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vipers Reserves - Fulham United Reserves",
         "time": "06:45",
         "id": "274738210140196864"
@@ -89,19 +103,5 @@
         "name": "Phoenix Rising - Lexington SC",
         "time": "05:30",
         "id": "274541050130993152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Northcote City U23 - Caroline Springs George Cross U23",
-        "time": "05:30",
-        "id": "274705941676560384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Langwarrin U23 - Moreland City U23",
-        "time": "05:30",
-        "id": "274705931408904192"
     }
 ]
