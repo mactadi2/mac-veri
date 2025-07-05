@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CF Montreal - Inter Miami CF",
+        "time": "02:30",
+        "id": "274326647817244672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Cincinnati - Chicago Fire",
+        "time": "02:30",
+        "id": "274330456031367168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "D.C. United (Washington) - Atlanta United",
+        "time": "02:30",
+        "id": "274326647696658432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Indy Eleven - Monterey Bay",
+        "time": "02:30",
+        "id": "274541050308202496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Amazonas FC - CA Paranaense PR",
+        "time": "02:30",
+        "id": "274423516760248320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charlotte - Orlando City SC",
+        "time": "02:15",
+        "id": "274330456092184576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Miami FC - Tulsa Roughnecks FC",
         "time": "02:00",
         "id": "274541049795448832"
@@ -19,27 +61,6 @@
         "name": "Staten Island - Hudson Valley Hammers",
         "time": "02:00",
         "id": "274548823408381952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Delaware FC - West Chester United",
-        "time": "02:00",
-        "id": "274548823749169152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Akron City - Erie Sports Center",
-        "time": "02:00",
-        "id": "274546930458169344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manhattan SC - Morris Elite",
-        "time": "02:00",
-        "id": "274548822944911360"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "North Carolina FC U23 - SC United Bantams",
         "time": "01:00",
         "id": "274548823818375168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Emelec Guayaquil - Vinotinto Ecuador",
-        "time": "00:30",
-        "id": "274420218704564224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Libertad Asuncion - Sportivo Luqueno",
-        "time": "00:30",
-        "id": "274325242329042944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Tomayapo - San Antonio Bulo Bulo",
-        "time": "00:30",
-        "id": "274725089168199680"
     }
 ]
