@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AFC Ajax - Hibernian FC",
+        "time": "14:00",
+        "id": "274826989063507968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Wil 1900 - FC Zurich",
+        "time": "14:00",
+        "id": "274669999273152512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bradford Park Avenue - Halifax Town",
+        "time": "14:00",
+        "id": "274732603331973120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Queens Park Rangers FC - Stevenage Borough",
+        "time": "14:00",
+        "id": "274825244824440832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GKS Dospel Katowice - Stal Rzeszow",
+        "time": "14:00",
+        "id": "274768819583586304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Koge - Middelfart",
+        "time": "14:00",
+        "id": "274832220811825152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cardiff Metropolitan University F.C. - Afan Lido",
+        "time": "14:00",
+        "id": "274907530562506752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "ADO '20 - Telstar",
         "time": "13:00",
         "id": "274825509819518976"
@@ -44,34 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kyoto Purple Sanga - Albirex Niigata",
-        "time": "13:00",
-        "id": "274362490831376384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yokohama FC - Yokohama F Marinos",
-        "time": "13:00",
-        "id": "274275915483189248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nagoya Grampus Eight - Tokyo Verdy 1969",
-        "time": "13:00",
-        "id": "274362553265688576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fagiano Okayama - Sanfrecce Hiroshima",
-        "time": "12:55",
-        "id": "274373306561466368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "AFC Wimbledon - Pafos FC",
         "time": "12:30",
         "id": "274869690475614208"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Lugano - FC Rapperswil Jona",
-        "time": "12:00",
-        "id": "274833228861411328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SV Horn - Polissya Zhytomyr",
         "time": "12:00",
         "id": "274869571993866240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Machida Zelvia - Shimizu S-pulse",
-        "time": "12:00",
-        "id": "274362553197531136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "V-Varen Nagasaki - Oita Trinita",
-        "time": "12:00",
-        "id": "274280118335180800"
     }
 ]
