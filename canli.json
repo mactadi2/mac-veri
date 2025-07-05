@@ -51,30 +51,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Livingston - KV Kortrijk",
+        "time": "16:00",
+        "id": "274821910906408960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Oss \/ Top Oss - NAC Breda",
+        "time": "16:00",
+        "id": "274818370170392576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ASWH - Excelsior Rotterdam",
+        "time": "16:00",
+        "id": "274726306905722880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Karlsruher SC - FC Aarau",
         "time": "15:00",
         "id": "274717492749930496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VVV Venlo - Borussia Monchengladbach II",
-        "time": "15:00",
-        "id": "274813542830575616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KV Mechelen - Raal La Louviere",
-        "time": "15:00",
-        "id": "274812210172268544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boreham Wood FC - Luton Town",
-        "time": "15:00",
-        "id": "274736695125086208"
     },
     {
         "tur": "live",
@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FSV Frankfurt - TSV Fortuna Dusseldorf II",
-        "time": "15:00",
-        "id": "274813542980521984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Den Bosch - Roda JC Kerkrade",
         "time": "15:00",
         "id": "274825492546326528"
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Union St.-Gilloise - PSV Eindhoven",
-        "time": "14:30",
-        "id": "274888397734154240"
+        "name": "FC Ingolstadt 04 - SpVgg Bayreuth",
+        "time": "15:00",
+        "id": "274880756115968000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brentwood Town FC - Leyton Orient",
+        "time": "15:00",
+        "id": "274818849578291200"
     }
 ]
