@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union St.-Gilloise - PSV Eindhoven",
+        "time": "14:30",
+        "id": "274888397734154240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Leicester City - Peterborough United",
+        "time": "14:30",
+        "id": "274838469463904256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AFC Ajax - Hibernian FC",
         "time": "14:00",
         "id": "274826989063507968"
@@ -89,19 +103,5 @@
         "name": "Cerezo Osaka - Gamba Osaka",
         "time": "13:00",
         "id": "274275915563929600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AFC Wimbledon - Pafos FC",
-        "time": "12:30",
-        "id": "274869690475614208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Horn - Polissya Zhytomyr",
-        "time": "12:00",
-        "id": "274869571993866240"
     }
 ]
