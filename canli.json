@@ -2,9 +2,44 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NEC Nijmegen - Sportfreunde Lotte",
-        "time": "15:00",
-        "id": "274813542661754880"
+        "name": "SC Rheindorf Altach - FC Basel",
+        "time": "16:00",
+        "id": "274411024208236544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cambuur Leeuwarden - Feyenoord Rotterdam",
+        "time": "16:00",
+        "id": "274411024127496192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Falkirk FC - Raith Rovers",
+        "time": "16:00",
+        "id": "274818527499784192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stranraer - Crusaders FC",
+        "time": "16:00",
+        "id": "274818849525862400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Forfar Athletic - St. Johnstone",
+        "time": "16:00",
+        "id": "274818527409606656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arbroath - Dundee United FC",
+        "time": "16:00",
+        "id": "274817536831393792"
     },
     {
         "tur": "live",
@@ -51,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Den Bosch - Roda JC Kerkrade",
+        "time": "15:00",
+        "id": "274825492546326528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Union St.-Gilloise - PSV Eindhoven",
         "time": "14:30",
         "id": "274888397734154240"
@@ -61,47 +103,5 @@
         "name": "Leicester City - Peterborough United",
         "time": "14:30",
         "id": "274838469463904256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AFC Ajax - Hibernian FC",
-        "time": "14:00",
-        "id": "274826989063507968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Wil 1900 - FC Zurich",
-        "time": "14:00",
-        "id": "274669999273152512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bradford Park Avenue - Halifax Town",
-        "time": "14:00",
-        "id": "274732603331973120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Queens Park Rangers FC - Stevenage Borough",
-        "time": "14:00",
-        "id": "274825244824440832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GKS Dospel Katowice - Stal Rzeszow",
-        "time": "14:00",
-        "id": "274768819583586304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Koge - Middelfart",
-        "time": "14:00",
-        "id": "274832220811825152"
     }
 ]
