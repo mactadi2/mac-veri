@@ -65,20 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "ADO '20 - Telstar",
-        "time": "13:00",
-        "id": "274825509819518976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tatran Liptovsky Mikulas - Sandecja Nowy Sacz",
-        "time": "13:00",
-        "id": "274706812486422528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kashiwa Reysol - FC Tokyo",
         "time": "13:00",
         "id": "274275726547619840"
@@ -103,5 +89,19 @@
         "name": "Cerezo Osaka - Gamba Osaka",
         "time": "13:00",
         "id": "274275915563929600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kyoto Purple Sanga - Albirex Niigata",
+        "time": "13:00",
+        "id": "274362490831376384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fagiano Okayama - Sanfrecce Hiroshima",
+        "time": "12:55",
+        "id": "274373306561466368"
     }
 ]
