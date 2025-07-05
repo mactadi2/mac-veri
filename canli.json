@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sao Jose EC - Guarany De Bage",
+        "time": "00:00",
+        "id": "274678914175078400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mixto EC - Capital Brasilia CF",
+        "time": "00:00",
+        "id": "274418240496734208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gremio Atletico Sampaio RR - Independencia",
+        "time": "00:00",
+        "id": "274418240579571712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ferroviario - Sousa Pb",
+        "time": "23:30",
+        "id": "274416646771314688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cienciano Cusco - Sporting Cristal Lima",
         "time": "23:15",
         "id": "274382346536488960"
@@ -44,37 +72,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Remo PA - Cuiaba MT",
-        "time": "22:00",
-        "id": "274380742474207232"
+        "name": "Aguia de Maraba - Manauara EC AM",
+        "time": "23:00",
+        "id": "274414678435827712"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Mushuc Runa - Universidad Catolica Quito",
-        "time": "22:00",
-        "id": "274399036283424768"
+        "name": "Goiatuba EC - Uberlandia MG",
+        "time": "23:00",
+        "id": "274414678584725504"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Union Espanola - Universidad de Chile",
-        "time": "22:00",
-        "id": "274033612557520896"
+        "name": "Rio Branco ES - Portuguesa Desportos",
+        "time": "23:00",
+        "id": "274414678364524544"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cerro Porteno - General Caballero JLM",
-        "time": "22:00",
-        "id": "274317735509495808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Columbus Crew II - New England Revolution II",
-        "time": "22:00",
-        "id": "274411021755617280"
+        "name": "San Lorenzo - Quilmes Atletico Club",
+        "time": "22:45",
+        "id": "273832784366276608"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "CA Juventud Alianza - Atletico Marquesado",
         "time": "22:00",
         "id": "274835697090826240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Colon Junior - Juventud Zondina",
-        "time": "22:00",
-        "id": "274901706259697664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EC Agua Santa SP - Porto Vitoria",
-        "time": "22:00",
-        "id": "274537475790213120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Barra FC - Azuriz FC PR",
-        "time": "22:00",
-        "id": "274411018891956224"
     }
 ]
