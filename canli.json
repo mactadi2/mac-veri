@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mixto EC - Capital Brasilia CF",
+        "time": "00:00",
+        "id": "274418240496734208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ferroviario - Sousa Pb",
         "time": "23:30",
         "id": "274416646771314688"
@@ -86,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Aguia de Maraba - Manauara EC AM",
-        "time": "23:00",
-        "id": "274414678435827712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Goiatuba EC - Uberlandia MG",
         "time": "23:00",
         "id": "274414678584725504"
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Juventud Alianza - Atletico Marquesado",
-        "time": "22:00",
-        "id": "274835697090826240"
+        "name": "Aguia de Maraba - Manauara EC AM",
+        "time": "23:00",
+        "id": "274414678435827712"
     }
 ]
