@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CS Corvinul Hunedoara - ACS Dumbravita",
+        "time": "10:30",
+        "id": "274899833839554560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ghfa Spirit Fc - Manly United FC",
         "time": "10:30",
         "id": "274411032077799424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "White City Beograd - Playford Patriots",
+        "time": "10:30",
+        "id": "274411031322824704"
     },
     {
         "tur": "live",
@@ -79,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AC Carina - North Brisbane",
-        "time": "10:00",
-        "id": "274711305752023040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Avustralya (Kadınlar) - Panama (Kadınlar)",
         "time": "09:30",
         "id": "274715179495854080"
@@ -96,12 +103,5 @@
         "name": "Adamstown Rosebud FC - Broadmeadow Magic",
         "time": "09:30",
         "id": "274411018027929600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maruyasu Industries SC - Briobecca Urayasu SC",
-        "time": "09:00",
-        "id": "274831018987491328"
     }
 ]
