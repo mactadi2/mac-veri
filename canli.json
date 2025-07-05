@@ -2,16 +2,65 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Sturm Graz - NS Mura",
-        "time": "18:00",
-        "id": "274824452256174080"
+        "name": "GNK Dinamo Zagreb - NK Siroki Brijeg",
+        "time": "19:15",
+        "id": "274836567788490752"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Bocholt 1900 - FC Schalke 04",
+        "name": "Paris Saint-Germain FC - FC Bayern Münih",
+        "time": "19:00",
+        "id": "274414008727113728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Slavia Prague - FC Blau-Weiss Linz",
+        "time": "19:00",
+        "id": "274836891638042624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Kapfenberg - Wolfsberger Athletik Club",
+        "time": "19:00",
+        "id": "274751490979139584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yverdon-Sports - FC Prishtina Bern",
+        "time": "19:00",
+        "id": "274898811153944576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Domzale - FK Cukaricki Stankom",
+        "time": "18:30",
+        "id": "274814504930512896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Schwarz Weiss Essen - SC Rot-Weiss Essen",
+        "time": "18:30",
+        "id": "274922296022536192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pama - Wiener Viktoria",
+        "time": "18:30",
+        "id": "274818196860702720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Sturm Graz - NS Mura",
         "time": "18:00",
-        "id": "274883647315775488"
+        "id": "274824452256174080"
     },
     {
         "tur": "live",
@@ -30,9 +79,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AZ Alkmaar - Zulte-Waregem",
-        "time": "17:30",
-        "id": "274821087972429824"
+        "name": "FC CSKA 1948 - FK Vojvodina Novi Sad",
+        "time": "18:00",
+        "id": "274881959965102080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Petrzalka 1898 - FC Silon Taborsko",
+        "time": "18:00",
+        "id": "274824451125809152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dobrudzha Dobrich - Pfc Spartak Varna",
+        "time": "18:00",
+        "id": "274921805445206016"
     },
     {
         "tur": "live",
@@ -40,68 +103,5 @@
         "name": "SK Rapid Wien - SK Artis Brno",
         "time": "17:30",
         "id": "274839171049328640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC United of Manchester - Bradford City",
-        "time": "17:00",
-        "id": "274743936394858496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brechin City - Dundee FC",
-        "time": "17:00",
-        "id": "274743935902027776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chorley - Wigan Athletic",
-        "time": "17:00",
-        "id": "274743935001300992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alfreton Town FC - Notts County",
-        "time": "17:00",
-        "id": "274743935755227136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hungerford Town - Reading",
-        "time": "17:00",
-        "id": "274824019479498752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Slask Wroclaw - Pardubice",
-        "time": "17:00",
-        "id": "274840833217400832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kidsgrove Athletic - Crewe Alexandra",
-        "time": "17:00",
-        "id": "274743935826530304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VV UNA - FC Eindhoven",
-        "time": "17:00",
-        "id": "274830938434834432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Worksop Town FC - Barnsley FC",
-        "time": "17:00",
-        "id": "274820216642473984"
     }
 ]
