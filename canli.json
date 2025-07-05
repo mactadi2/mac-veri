@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SK Sturm Graz - NS Mura",
+        "time": "18:00",
+        "id": "274824452256174080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AZ Alkmaar - Zulte-Waregem",
         "time": "17:30",
         "id": "274821087972429824"
@@ -9,9 +16,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Brechin City - Dundee FC",
-        "time": "17:00",
-        "id": "274743935902027776"
+        "name": "SK Rapid Wien - SK Artis Brno",
+        "time": "17:30",
+        "id": "274839171049328640"
     },
     {
         "tur": "live",
@@ -23,9 +30,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Brechin City - Dundee FC",
+        "time": "17:00",
+        "id": "274743935902027776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chorley - Wigan Athletic",
         "time": "17:00",
         "id": "274743935001300992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Witton Albion - Salford City",
+        "time": "17:00",
+        "id": "274743935666098176"
     },
     {
         "tur": "live",
@@ -51,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Witton Albion - Salford City",
-        "time": "17:00",
-        "id": "274743935666098176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Brackley Town FC - Northampton Town",
         "time": "17:00",
         "id": "274743936212406272"
@@ -79,29 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VfL Osnabruck - FC Viktoria Plzen",
-        "time": "16:30",
-        "id": "274896216277520384"
+        "name": "Slask Wroclaw - Pardubice",
+        "time": "17:00",
+        "id": "274840833217400832"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Rheindorf Altach - FC Basel",
-        "time": "16:00",
-        "id": "274411024208236544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cambuur Leeuwarden - Feyenoord Rotterdam",
-        "time": "16:00",
-        "id": "274411024127496192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ASWH - Excelsior Rotterdam",
-        "time": "16:00",
-        "id": "274726306905722880"
+        "name": "Spartans FC - Clydebank",
+        "time": "17:00",
+        "id": "274820192609112064"
     }
 ]
