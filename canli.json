@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Macva Sabac - FK Zemun",
+        "time": "20:30",
+        "id": "274929841162293248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "OFK Petrovac - FK Arsenal Tivat",
+        "time": "20:00",
+        "id": "274929841238839296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AS St. Etienne - Etoile Carouge FC",
         "time": "19:30",
         "id": "274835818102788096"
@@ -65,43 +79,29 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC ESV Parndorf 1919 - Sportunion Mauer",
+        "name": "Radomiak Radom - Omonia FC Nicosia",
         "time": "19:00",
-        "id": "274925997531467776"
+        "id": "274860868698771456"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Domzale - FK Cukaricki Stankom",
-        "time": "18:30",
-        "id": "274814504930512896"
+        "name": "Pfc Pirin Blagoevgrad - PFC Lokomotiv Sofia",
+        "time": "19:00",
+        "id": "274931788581834752"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Schwarz Weiss Essen - SC Rot-Weiss Essen",
-        "time": "18:30",
-        "id": "274922296022536192"
+        "name": "PFC Botev Plovdiv 1912 - Psfc Chernomoretz Burgas",
+        "time": "19:00",
+        "id": "274931628116152320"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Pama - Wiener Viktoria",
-        "time": "18:30",
-        "id": "274818196860702720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Napredak Krusevac - MFK Ruzomberok",
-        "time": "18:30",
-        "id": "274704586634301440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Polissya Zhytomyr - DAC Dunajska",
-        "time": "18:30",
-        "id": "274913775295008768"
+        "name": "Sporting Hasselt - Kfco Beerschot-Wilrijk",
+        "time": "19:00",
+        "id": "274933509734404096"
     }
 ]
