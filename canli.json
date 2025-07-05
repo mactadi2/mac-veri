@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Avai - Paysandu",
+        "time": "01:30",
+        "id": "274383959946825728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alianza Universidad - Alianza Atletico",
+        "time": "01:30",
+        "id": "274383953890250752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Alagoano AL - SER Caxias",
+        "time": "01:30",
+        "id": "274674934530314240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AD Confianca SE - ABC Futebol Clube",
+        "time": "01:30",
+        "id": "274424121266409472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ferro Carril Oeste - Gimnasia Y Tiro De Salta",
         "time": "01:00",
         "id": "274411025543073792"
@@ -65,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Central Espanol FC - Club Atletico Artigas",
-        "time": "00:30",
-        "id": "274614718086385664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Sao Jose EC - Guarany De Bage",
         "time": "00:00",
         "id": "274678914175078400"
@@ -82,26 +103,5 @@
         "name": "Gremio Atletico Sampaio RR - Independencia",
         "time": "00:00",
         "id": "274418240579571712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mixto EC - Capital Brasilia CF",
-        "time": "00:00",
-        "id": "274418240496734208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Forge FC - Vancouver Langley FC",
-        "time": "00:00",
-        "id": "274675623473057792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferroviario - Sousa Pb",
-        "time": "23:30",
-        "id": "274416646771314688"
     }
 ]
