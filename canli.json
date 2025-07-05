@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vipers Reserves - Fulham United Reserves",
+        "time": "06:45",
+        "id": "274738210140196864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Campbelltown Reserves - Croydon Kings Reserves",
+        "time": "06:15",
+        "id": "274747840618696704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide Blue Eagles Reserves - South Adelaide Reserves",
+        "time": "06:15",
+        "id": "274718609745514496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cumberland United Reserves - Adelaide Cobras Reserves",
+        "time": "06:15",
+        "id": "274751633837133824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Western Sydney Wanderers NPL - Apia Leichhardt Tigers",
+        "time": "06:00",
+        "id": "274538713513594880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Altona Magic U23 - Heidelberg Utd U23",
         "time": "06:00",
         "id": "274701811424825344"
@@ -68,40 +103,5 @@
         "name": "Langwarrin U23 - Moreland City U23",
         "time": "05:30",
         "id": "274705931408904192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Edgeworth Eagles FC Reserves - Maitland FC Reserves",
-        "time": "05:00",
-        "id": "274745621593853952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Weston Workers Bears FC Reserves - Belmont Swansea United SC Reserves",
-        "time": "05:00",
-        "id": "274745621669351424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colorado Rapids - Sporting Kansas City",
-        "time": "04:30",
-        "id": "274330401951059968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "North Sunshine Eagles U23 - Brunswick City U23",
-        "time": "04:15",
-        "id": "274701334698135552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "El Paso Locomotive FC - San Antonio Fc",
-        "time": "04:00",
-        "id": "274541049969512448"
     }
 ]
