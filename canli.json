@@ -65,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Milton Keynes Dons FC - Saint Mirren FC",
+        "time": "12:00",
+        "id": "274837582526943232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KFC Komarno - SK Rapid Wien II",
         "time": "12:00",
         "id": "274822615122710528"
@@ -96,12 +103,5 @@
         "name": "Kazincbarcika BSC - Mezokovesdi SE",
         "time": "11:30",
         "id": "274826558584262656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ivancsa Kse - Erzsebeti SMTK",
-        "time": "11:00",
-        "id": "274837651250614272"
     }
 ]
