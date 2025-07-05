@@ -51,13 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Kapfenberg - Wolfsberger Athletik Club",
-        "time": "19:00",
-        "id": "274751490979139584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Yverdon-Sports - FC Prishtina Bern",
         "time": "19:00",
         "id": "274898811153944576"
@@ -68,13 +61,6 @@
         "name": "SC Amiens - FC Fleury 91",
         "time": "19:00",
         "id": "274925115594117120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Istra 1961 Pula - Primorje Ajdovscina",
-        "time": "19:00",
-        "id": "274890181139632128"
     },
     {
         "tur": "live",
@@ -93,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sporting Hasselt - Kfco Beerschot-Wilrijk",
+        "time": "19:00",
+        "id": "274933509734404096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PFC Botev Plovdiv 1912 - Psfc Chernomoretz Burgas",
         "time": "19:00",
         "id": "274931628116152320"
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sporting Hasselt - Kfco Beerschot-Wilrijk",
+        "name": "FK Trajal - FK Dubocica",
         "time": "19:00",
-        "id": "274933509734404096"
+        "id": "274931629773950976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valerenga IF Oslo - Fredrikstad FK",
+        "time": "19:00",
+        "id": "274384395406807040"
     }
 ]
