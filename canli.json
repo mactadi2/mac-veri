@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FK Novi Pazar - Radnik Bijeljina",
+        "time": "19:30",
+        "id": "274925997030248448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "GNK Dinamo Zagreb - NK Siroki Brijeg",
         "time": "19:15",
         "id": "274836567788490752"
@@ -44,6 +51,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Amiens - FC Fleury 91",
+        "time": "19:00",
+        "id": "274925115594117120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Istra 1961 Pula - Primorje Ajdovscina",
+        "time": "19:00",
+        "id": "274890181139632128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC ESV Parndorf 1919 - Sportunion Mauer",
+        "time": "19:00",
+        "id": "274925997531467776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NK Domzale - FK Cukaricki Stankom",
         "time": "18:30",
         "id": "274814504930512896"
@@ -65,43 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Sturm Graz - NS Mura",
-        "time": "18:00",
-        "id": "274824452256174080"
+        "name": "Napredak Krusevac - MFK Ruzomberok",
+        "time": "18:30",
+        "id": "274704586634301440"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "BFC Dynamo Berlin - Hertha BSC Berlin",
-        "time": "18:00",
-        "id": "274880811594027008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kisvarda FC - FC Dynamo Kiev",
-        "time": "18:00",
-        "id": "274896125635465216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC CSKA 1948 - FK Vojvodina Novi Sad",
-        "time": "18:00",
-        "id": "274881959965102080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Petrzalka 1898 - FC Silon Taborsko",
-        "time": "18:00",
-        "id": "274824451125809152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dobrudzha Dobrich - Pfc Spartak Varna",
-        "time": "18:00",
-        "id": "274921805445206016"
+        "name": "Polissya Zhytomyr - DAC Dunajska",
+        "time": "18:30",
+        "id": "274913775295008768"
     }
 ]
