@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Garcilaso - Universitario de Deportes",
+        "time": "01:30",
+        "id": "274397817821335552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portland Hearts of Pine - South Georgia Tormenta FC",
+        "time": "01:30",
+        "id": "274868676142960640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Almirante Brown de Lules - Temperley",
         "time": "01:10",
         "id": "274499546452725760"
@@ -89,19 +103,5 @@
         "name": "Caracas FC - Rayo Zuliano",
         "time": "00:00",
         "id": "274669922590789632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "El Nacional Quito - Manta FC",
-        "time": "23:30",
-        "id": "274406770096607232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manaus FC - Tuna Luso PA",
-        "time": "23:30",
-        "id": "274537475614052352"
     }
 ]
