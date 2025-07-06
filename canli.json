@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IF Elfsborg - BK Hacken",
+        "time": "17:30",
+        "id": "274383167686840320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Djurgardens IF - Degerfors IF",
+        "time": "17:30",
+        "id": "274473927307300864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Spartak Moskova - PFK Kryliya Sovetov Samara",
         "time": "17:00",
         "id": "274734921095974912"
@@ -26,6 +40,13 @@
         "name": "Zhetysu Taldykorgan - FC Astana",
         "time": "17:00",
         "id": "274481699273969664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fk Tonsberg - Brattvag",
+        "time": "17:00",
+        "id": "274482570927935488"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sportfreunde Eisbachtal - SC Waldgirmes",
-        "time": "15:30",
-        "id": "274994199317843968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sarpsborg 08 - FK Haugesund",
-        "time": "15:30",
-        "id": "274385204146212864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KFUM Oslo - Bryne FK",
-        "time": "15:30",
-        "id": "274385279416143872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sandefjord - Rosenborg BK",
-        "time": "15:30",
-        "id": "274435125724450816"
+        "name": "Deportivo Capiata - Guairena FC",
+        "time": "16:00",
+        "id": "274478872300490752"
     }
 ]
