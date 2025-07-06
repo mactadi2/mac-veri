@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NK Bravo - FC Kryvbas Kriviy Rih",
+        "time": "19:30",
+        "id": "274898489397350400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Spartak Subotica - FK Radnik Surdulica",
+        "time": "19:30",
+        "id": "274915829451198464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rudar Prijedor - FK Jedinstvo Bijelo Polje",
+        "time": "19:30",
+        "id": "275021438570860544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cobreloa Calama - Santiago Morning",
+        "time": "19:30",
+        "id": "274405742566576128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "HIFK - HJK Kantsu",
         "time": "19:15",
         "id": "274877205189890048"
@@ -58,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Okzhetpes - Kaisar Kyzylorda",
-        "time": "18:30",
-        "id": "274483775068573696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atlantis FC - FC Jazz Pori",
-        "time": "18:30",
-        "id": "274751608409165824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Dynamo Kiev - Kisvarda FC",
         "time": "18:00",
         "id": "274991697350496256"
@@ -89,19 +103,5 @@
         "name": "SK Super Nova - Tukums 2000",
         "time": "18:00",
         "id": "274486407684296704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Banfield (W) - Huracan (W)",
-        "time": "18:00",
-        "id": "274993665184763904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FV Illertissen - FV Ravensburg",
-        "time": "17:45",
-        "id": "274997929079607296"
     }
 ]
