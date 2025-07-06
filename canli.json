@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FV Illertissen - FV Ravensburg",
+        "time": "17:45",
+        "id": "274997929079607296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "IF Elfsborg - BK Hacken",
         "time": "17:30",
         "id": "274383167686840320"
@@ -51,44 +58,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Maldonado - Club Oriental",
+        "time": "17:00",
+        "id": "274627155978227712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "B36 Torshavn - HB Torshavn",
+        "time": "17:00",
+        "id": "274482571035938816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PWD Bamenda - Cotonsport de Garoua",
+        "time": "17:00",
+        "id": "274926043324878848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Wuppertaler SV Borussia - VfL Bochum",
         "time": "16:30",
         "id": "274907375077560320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Glasgow Rangers FC - Club Brugge KV",
-        "time": "16:00",
-        "id": "274908716578508800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AGF Aarhus - OB Odense",
-        "time": "16:00",
-        "id": "274907003679281152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Preussen Munster - SC Verl 1924",
-        "time": "16:00",
-        "id": "274907357226602496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sonsbeck - MSV Duisburg",
-        "time": "16:00",
-        "id": "274996581521035264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FF Jaro - IFK Mariehamn",
-        "time": "16:00",
-        "id": "274478872591994880"
     },
     {
         "tur": "live",
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Capiata - Guairena FC",
+        "name": "La Luz - Centro Atletico Fenix Montevideo",
         "time": "16:00",
-        "id": "274478872300490752"
+        "id": "274626387580686336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KuPS Akatemia - PK Keski-Uusimaa",
+        "time": "16:00",
+        "id": "274478872512303104"
     }
 ]
