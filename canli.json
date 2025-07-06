@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AGF Aarhus - OB Odense",
+        "time": "16:00",
+        "id": "274907003679281152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Glasgow Rangers FC - Club Brugge KV",
+        "time": "16:00",
+        "id": "274908716578508800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Preussen Munster - SC Verl 1924",
+        "time": "16:00",
+        "id": "274907357226602496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sonsbeck - MSV Duisburg",
+        "time": "16:00",
+        "id": "274996581521035264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FF Jaro - IFK Mariehamn",
+        "time": "16:00",
+        "id": "274478872591994880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Grobinas - FS Metta\/Lu",
+        "time": "16:00",
+        "id": "274478872442048512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sportfreunde Eisbachtal - SC Waldgirmes",
         "time": "15:30",
         "id": "274994199317843968"
@@ -61,47 +103,5 @@
         "name": "VfB Oldenburg - Hamburger SV",
         "time": "14:30",
         "id": "274910407457640448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chongqing Tongliang Long - Shanghai Jiading",
-        "time": "14:30",
-        "id": "274473000931299328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nanjing Fengfan - Yanbian Longding",
-        "time": "14:30",
-        "id": "274411030495498240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tampere United II - FC Haka Juniors",
-        "time": "14:00",
-        "id": "274877354760867840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Beijing Institute of Technology FC - Shandong Taishan Reserves",
-        "time": "14:00",
-        "id": "274869472906579968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ganzhou Ruishi - Wenzhou Professional F.C",
-        "time": "14:00",
-        "id": "274869866456027136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jerv - Traeff",
-        "time": "14:00",
-        "id": "274471223969320960"
     }
 ]
