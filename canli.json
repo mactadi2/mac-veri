@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Brisbane Strikers U23 - Redlands United U23",
+        "time": "08:45",
+        "id": "274831158389379072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brisbane Olympic U23 - Gold Coast Knights U23",
+        "time": "08:45",
+        "id": "274635579468156928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deren - Khoromkhon Klub",
         "time": "08:15",
         "id": "274863688583876608"
@@ -72,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Melbourne University (W) - Banyule City (W)",
-        "time": "08:00",
-        "id": "274981082412224512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Brisbane Roar Youth - Eastern Suburbs",
         "time": "07:30",
         "id": "274448692372705280"
@@ -96,12 +103,5 @@
         "name": "St Albans Saints U23 - Melbourne Knights U23",
         "time": "07:00",
         "id": "274700583272845312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Charlestown Azzurri - Valentine Phoenix",
-        "time": "07:00",
-        "id": "274691148084285440"
     }
 ]
