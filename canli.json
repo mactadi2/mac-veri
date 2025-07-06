@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "St Albans Saints U23 - Melbourne Knights U23",
+        "time": "07:00",
+        "id": "274700583272845312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charlestown Azzurri - Valentine Phoenix",
+        "time": "07:00",
+        "id": "274691148084285440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Canberra Olympic (W) - West Canberra Wanderers FC (W)",
+        "time": "07:00",
+        "id": "274771968650252288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tuggeranong United (W) - Gungahlin United (W)",
+        "time": "07:00",
+        "id": "274955482024775680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Marconi Stallions U20 - Sydney United 58 U20",
         "time": "06:00",
         "id": "274614591059791872"
@@ -19,6 +47,13 @@
         "name": "Antelope Valley Alta - Union Omaha",
         "time": "06:00",
         "id": "274839057704554496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Navua FC - Nadroga",
+        "time": "06:00",
+        "id": "274827748651962368"
     },
     {
         "tur": "live",
@@ -58,50 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gungahlin Utd U23 - Yoogali SC U23",
+        "time": "05:30",
+        "id": "274737685842759680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Tijuana Xoloitzcuintles de Caliente - CS Herediano",
         "time": "05:00",
         "id": "274934084468346880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Oakland Roots SC - Detroit City FC",
-        "time": "05:00",
-        "id": "274541050776915968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Tucson (W) - Arizona Arsenal SC (W)",
-        "time": "05:00",
-        "id": "274831802871451648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Charlestown Azzurri Reserves - Valentine Phoenix Reserves",
-        "time": "05:00",
-        "id": "274759414793244672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tadotsu FC - FC Tokushima",
-        "time": "05:00",
-        "id": "274826828947001344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KUFC Nankoku - R.Velho Takamatsu",
-        "time": "05:00",
-        "id": "274874582703411200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Salt Lake - Saint Louis City SC",
-        "time": "04:30",
-        "id": "274334212504555520"
     }
 ]
