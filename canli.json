@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nueva Chicago - Club Atletico Mitre",
+        "time": "20:00",
+        "id": "274353522365042688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NK Bravo - FC Kryvbas Kriviy Rih",
         "time": "19:30",
         "id": "274898489397350400"
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Dynamo Kiev - Kisvarda FC",
-        "time": "18:00",
-        "id": "274991697350496256"
+        "name": "FC Okzhetpes - Kaisar Kyzylorda",
+        "time": "18:30",
+        "id": "274483775068573696"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV 1919 Mainz Gonsenheim - FC Eddersheim",
-        "time": "18:00",
-        "id": "274997936681783296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Super Nova - Tukums 2000",
-        "time": "18:00",
-        "id": "274486407684296704"
+        "name": "Atlantis FC - FC Jazz Pori",
+        "time": "18:30",
+        "id": "274751608409165824"
     }
 ]
