@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Dynamo Kiev - Kisvarda FC",
+        "time": "18:00",
+        "id": "274991697350496256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV 1919 Mainz Gonsenheim - FC Eddersheim",
+        "time": "18:00",
+        "id": "274997936681783296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Super Nova - Tukums 2000",
+        "time": "18:00",
+        "id": "274486407684296704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Banfield (W) - Huracan (W)",
+        "time": "18:00",
+        "id": "274993665184763904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FV Illertissen - FV Ravensburg",
         "time": "17:45",
         "id": "274997929079607296"
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PWD Bamenda - Cotonsport de Garoua",
-        "time": "17:00",
-        "id": "274926043324878848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Wuppertaler SV Borussia - VfL Bochum",
         "time": "16:30",
         "id": "274907375077560320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Grobinas - FS Metta\/Lu",
-        "time": "16:00",
-        "id": "274478872442048512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "La Luz - Centro Atletico Fenix Montevideo",
-        "time": "16:00",
-        "id": "274626387580686336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KuPS Akatemia - PK Keski-Uusimaa",
-        "time": "16:00",
-        "id": "274478872512303104"
     }
 ]
