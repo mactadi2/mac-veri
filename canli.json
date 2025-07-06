@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Haka Valkeakoski - FC Inter Turku",
+        "time": "18:30",
+        "id": "274488118449672192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Okzhetpes - Kaisar Kyzylorda",
+        "time": "18:30",
+        "id": "274483775068573696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Dynamo Kiev - Kisvarda FC",
         "time": "18:00",
         "id": "274991697350496256"
@@ -89,19 +103,5 @@
         "name": "Deportivo Maldonado - Club Oriental",
         "time": "17:00",
         "id": "274627155978227712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "B36 Torshavn - HB Torshavn",
-        "time": "17:00",
-        "id": "274482571035938816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wuppertaler SV Borussia - VfL Bochum",
-        "time": "16:30",
-        "id": "274907375077560320"
     }
 ]
