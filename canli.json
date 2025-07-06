@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "HIFK - HJK Kantsu",
+        "time": "19:15",
+        "id": "274877205189890048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Atlanta - Arsenal de Sarandi",
+        "time": "19:05",
+        "id": "274563405541675008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Shakhtar Donetsk - FC Slovacko",
+        "time": "19:00",
+        "id": "274911950041911296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AEK Athens - Kfco Beerschot-Wilrijk",
+        "time": "19:00",
+        "id": "274490154734981120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maccabi Haifa FC - Diosgyor VTK",
+        "time": "19:00",
+        "id": "274803432560398336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KR Reykjavik - KA Akureyri",
+        "time": "19:00",
+        "id": "274402074472615936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Riga FC - BFC Daugava Daugavpils",
+        "time": "19:00",
+        "id": "274490154937356288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Haka Valkeakoski - FC Inter Turku",
         "time": "18:30",
         "id": "274488118449672192"
@@ -54,54 +103,5 @@
         "name": "FV Illertissen - FV Ravensburg",
         "time": "17:45",
         "id": "274997929079607296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Elfsborg - BK Hacken",
-        "time": "17:30",
-        "id": "274383167686840320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Djurgardens IF - Degerfors IF",
-        "time": "17:30",
-        "id": "274473927307300864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Desportivo Ferroviaria - Defensa y Justicia",
-        "time": "17:00",
-        "id": "274996868372631552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JK Tallinna Kalev - JK Tammeka Tartu",
-        "time": "17:00",
-        "id": "274482571096756224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zhetysu Taldykorgan - FC Astana",
-        "time": "17:00",
-        "id": "274481699273969664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fk Tonsberg - Brattvag",
-        "time": "17:00",
-        "id": "274482570927935488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Maldonado - Club Oriental",
-        "time": "17:00",
-        "id": "274627155978227712"
     }
 ]
