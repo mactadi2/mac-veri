@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Buffalo - Cleveland Force SC",
+        "time": "20:30",
+        "id": "274546931236212736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Industrial - CD Municipal Tarija",
+        "time": "20:30",
+        "id": "274920436392923136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Nueva Chicago - Club Atletico Mitre",
         "time": "20:00",
         "id": "274353522365042688"
@@ -33,6 +47,13 @@
         "name": "Cobreloa Calama - Santiago Morning",
         "time": "19:30",
         "id": "274405742566576128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Colchagua CD - CD Quillon",
+        "time": "19:30",
+        "id": "274925160851705856"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Riga FC - BFC Daugava Daugavpils",
         "time": "19:00",
         "id": "274490154937356288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Haka Valkeakoski - FC Inter Turku",
-        "time": "18:30",
-        "id": "274488118449672192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Okzhetpes - Kaisar Kyzylorda",
-        "time": "18:30",
-        "id": "274483775068573696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atlantis FC - FC Jazz Pori",
-        "time": "18:30",
-        "id": "274751608409165824"
     }
 ]
