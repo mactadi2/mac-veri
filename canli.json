@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sandviken - Brann 2",
+        "time": "13:30",
+        "id": "274736695215263744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ehime FC - Montedio Yamagata",
         "time": "13:00",
         "id": "274370139626016768"
@@ -65,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Aries Tokyo Toshima FC - Nankatsu",
+        "time": "12:30",
+        "id": "274920600116531200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Roasso Kumamoto - Jubilo Iwata",
         "time": "12:00",
         "id": "274370139534790656"
@@ -89,19 +103,5 @@
         "name": "Rakhine United U21 - Hantharwady United FC U21",
         "time": "12:00",
         "id": "274894845888303104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shanghai Port Reserves - Hubei Chufengheli",
-        "time": "11:30",
-        "id": "274872862483025920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guangzhou Dandelion Alpha FC - Guizhou Zhucheng Athletic",
-        "time": "11:30",
-        "id": "274872957268004864"
     }
 ]
