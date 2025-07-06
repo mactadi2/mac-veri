@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Blooming - CDT Real Oruro",
+        "time": "02:30",
+        "id": "274518359726493696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Delfin - LDU Quito ",
         "time": "02:00",
         "id": "274399036204781568"
@@ -44,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "New York Red Bulls Ii - Huntsville City FC",
+        "time": "02:00",
+        "id": "274516440846045184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Crown Legacy FC - Orlando City II",
+        "time": "02:00",
+        "id": "274516440934125568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Garcilaso - Universitario de Deportes",
         "time": "01:30",
         "id": "274397817821335552"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Botafogo SP  - Novorizontino SP",
-        "time": "00:30",
-        "id": "274469797944758272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guarani Asuncion - 2 de Mayo",
-        "time": "00:30",
-        "id": "274416315894206464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GV Club Deportivo San Jose de Oruro - Oriente Petrolero",
-        "time": "00:30",
-        "id": "274682539694755840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Luis de Quillota - Deportes Concepcion",
-        "time": "00:30",
-        "id": "274406551119335424"
+        "name": "FC Cincinnati II - New York City FC II",
+        "time": "01:00",
+        "id": "274516440777887744"
     }
 ]
