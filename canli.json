@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sportfreunde Eisbachtal - SC Waldgirmes",
+        "time": "15:30",
+        "id": "274994199317843968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sarpsborg 08 - FK Haugesund",
+        "time": "15:30",
+        "id": "274385204146212864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KFUM Oslo - Bryne FK",
+        "time": "15:30",
+        "id": "274385279416143872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sandefjord - Rosenborg BK",
+        "time": "15:30",
+        "id": "274435125724450816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cliftonville FC - Derry City",
+        "time": "15:00",
+        "id": "274911684479553536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Rot-Weiss Erfurt - TSV Alemannia Aachen",
+        "time": "15:00",
+        "id": "274994126687178752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IFK Goteborg - IK Sirius FK",
+        "time": "15:00",
+        "id": "274373785424105472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Halmstads BK - AIK",
+        "time": "15:00",
+        "id": "274373906151903232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "VfB Oldenburg - Hamburger SV",
         "time": "14:30",
         "id": "274910407457640448"
@@ -19,20 +75,6 @@
         "name": "Nanjing Fengfan - Yanbian Longding",
         "time": "14:30",
         "id": "274411030495498240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nantong Zhiyun - Guangdong GZ-Power",
-        "time": "14:30",
-        "id": "274473000854753280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Khangarid Klub - Brera Ilch",
-        "time": "14:15",
-        "id": "274868319812718592"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Jerv - Traeff",
         "time": "14:00",
         "id": "274471223969320960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sandviken - Brann 2",
-        "time": "13:30",
-        "id": "274736695215263744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ehime FC - Montedio Yamagata",
-        "time": "13:00",
-        "id": "274370139626016768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hwaseong Fc - Bucheon FC 1995",
-        "time": "13:00",
-        "id": "274366305952468992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimpo Citizen - Busan I. Park",
-        "time": "13:00",
-        "id": "274366306142261248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Seongnam Ilhwa Chunma - Cheonan City Fc",
-        "time": "13:00",
-        "id": "274366305344294912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Gifu - SC Sagamihara",
-        "time": "13:00",
-        "id": "274467448623861760"
     }
 ]
