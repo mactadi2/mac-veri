@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Asuka FC - Verspah Oita",
+        "time": "10:00",
+        "id": "274875493720920064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Virginia United - Redcliffe Dolphins",
+        "time": "10:00",
+        "id": "274833859659567104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yeronga FC - Mount Gravatt Hawks",
+        "time": "10:00",
+        "id": "274833859752890368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Moreton City Excelsior FC 2 - Samford Rangers Fc",
+        "time": "10:00",
+        "id": "274615011992801280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sydney University FC (W) - Bulls Northbridge FC Academy (W)",
+        "time": "10:00",
+        "id": "274694056797409280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Western Sydney Wanderers B (W) - Apia Leichhardt Tigers (W)",
+        "time": "10:00",
+        "id": "274694026120269824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Magic United TFA - Broadbeach United",
         "time": "09:45",
         "id": "274613455023116288"
@@ -51,30 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deren - Khoromkhon Klub",
-        "time": "08:15",
-        "id": "274863688583876608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Preston Lions - Port Melbourne Sharks",
-        "time": "08:00",
-        "id": "274448691789697024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blacktown City Fc - Rockdale Ilinden FC",
-        "time": "08:00",
-        "id": "274448692537331712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Marconi Stallions - Sydney United",
-        "time": "08:00",
-        "id": "274448692603392000"
+        "name": "Brisbane Strikers U23 - Redlands United U23",
+        "time": "08:45",
+        "id": "274831158389379072"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Central Coast Mariners NPL - Sutherland Sharks",
         "time": "08:00",
         "id": "274536591099301888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Queensland Lions SC - St. George Willawong FC",
-        "time": "08:00",
-        "id": "274448692458688512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dandenong City U23 - South Melbourne U23",
-        "time": "08:00",
-        "id": "274711098853298176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grulla Morioka - Tiamo Hirakata",
-        "time": "08:00",
-        "id": "274875526110384128"
     }
 ]
