@@ -2,9 +2,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AGF Aarhus - OB Odense",
-        "time": "16:00",
-        "id": "274907003679281152"
+        "name": "Wuppertaler SV Borussia - VfL Bochum",
+        "time": "16:30",
+        "id": "274907375077560320"
     },
     {
         "tur": "live",
@@ -12,6 +12,13 @@
         "name": "Glasgow Rangers FC - Club Brugge KV",
         "time": "16:00",
         "id": "274908716578508800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AGF Aarhus - OB Odense",
+        "time": "16:00",
+        "id": "274907003679281152"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Halmstads BK - AIK",
         "time": "15:00",
         "id": "274373906151903232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VfB Oldenburg - Hamburger SV",
-        "time": "14:30",
-        "id": "274910407457640448"
     }
 ]
