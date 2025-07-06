@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Magic United TFA - Broadbeach United",
+        "time": "09:45",
+        "id": "274613455023116288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Newcastle Olympic - Lambton Jaffas FC",
+        "time": "09:30",
+        "id": "274691134294462464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "St Albans Saints Sc - Melbourne Knights",
         "time": "09:00",
         "id": "274596494192021504"
@@ -33,13 +47,6 @@
         "name": "Springfield United - Newmarket",
         "time": "09:00",
         "id": "274833082279923712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brisbane Strikers U23 - Redlands United U23",
-        "time": "08:45",
-        "id": "274831158389379072"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Grulla Morioka - Tiamo Hirakata",
         "time": "08:00",
         "id": "274875526110384128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Robina City FC - Souths United",
-        "time": "08:00",
-        "id": "274615035673841664"
     }
 ]
