@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Seattle Sounders - Columbus Crew",
+        "time": "00:00",
+        "id": "274369412576972800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charleston Battery - North Carolina",
+        "time": "00:00",
+        "id": "274541050054447104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Francisco Nighthawks (W) - Iron Rose (W)",
+        "time": "00:00",
+        "id": "274914219513745408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "El Nacional Quito - Manta FC",
         "time": "23:30",
         "id": "274406770096607232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Manaus FC - Tuna Luso PA",
+        "time": "23:30",
+        "id": "274537475614052352"
     },
     {
         "tur": "live",
@@ -30,6 +58,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Coopsol - CD Universidad San Martin de Porres",
+        "time": "23:00",
+        "id": "274857262286245888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bentin Tacna Heroica - AD Comerciantes FC",
+        "time": "23:00",
+        "id": "274903437268881408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Londrina EC PR - Guarani FC De Campinas",
         "time": "22:30",
         "id": "274503342952157184"
@@ -44,64 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cruzeiro MG - Banfield",
-        "time": "22:00",
-        "id": "275000794074451968"
+        "name": "America RN (Rio Grande do Norte) - Santa Cruz FC PE",
+        "time": "22:30",
+        "id": "274503342883999744"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Racing de Cordoba - CA All Boys",
-        "time": "22:00",
-        "id": "274501601689997312"
+        "name": "Real Potosi - 10 de Noviembre Wilstermann Cooperativa",
+        "time": "22:30",
+        "id": "274928985492819968"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Chaco For Ever - Colon de Santa Fe",
+        "name": "CA Trinidad - Sportivo Desamparados",
         "time": "22:00",
-        "id": "274399584750538752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia Y Esgrima de Jujuy - Deportivo Moron",
-        "time": "22:00",
-        "id": "274535443643633664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferroviaria SP - Vila Nova GO",
-        "time": "22:00",
-        "id": "274470082228391936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universidad Catolica - Colo Colo",
-        "time": "22:00",
-        "id": "274033612447420416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Davis Legacy - Marin FC Legends",
-        "time": "22:00",
-        "id": "274555756200726528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Always Ready - The Strongest La Paz",
-        "time": "22:00",
-        "id": "274501601794854912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Magallanes - Copiapo",
-        "time": "22:00",
-        "id": "274406551052226560"
+        "id": "275015443149885440"
     }
 ]
