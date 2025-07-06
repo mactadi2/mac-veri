@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cruzeiro MG - Banfield",
+        "time": "22:00",
+        "id": "275000794074451968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Chaco For Ever - Colon de Santa Fe",
+        "time": "22:00",
+        "id": "274399584750538752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnasia Y Esgrima de Jujuy - Deportivo Moron",
+        "time": "22:00",
+        "id": "274535443643633664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing de Cordoba - CA All Boys",
+        "time": "22:00",
+        "id": "274501601689997312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ferroviaria SP - Vila Nova GO",
+        "time": "22:00",
+        "id": "274470082228391936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Agropecuario - Talleres Remedios Escalada",
         "time": "21:30",
         "id": "274397709831639040"
@@ -44,20 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Flora Tallinn - JK Nomme Kalju",
-        "time": "21:30",
-        "id": "274499546579603456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Resistencia Central - Centro Norte Argentino",
-        "time": "21:30",
-        "id": "274925899931062272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Chacarita Juniors - CA Defensores de Belgrano",
         "time": "21:05",
         "id": "274397709903990784"
@@ -82,26 +103,5 @@
         "name": "Sport Boys - Cusco FC",
         "time": "21:00",
         "id": "274415769358569472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pastoreo FC - Sportivo San Lorenzo",
-        "time": "21:00",
-        "id": "274478872360259584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Buffalo - Cleveland Force SC",
-        "time": "20:30",
-        "id": "274546931236212736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nueva Chicago - Club Atletico Mitre",
-        "time": "20:00",
-        "id": "274353522365042688"
     }
 ]
