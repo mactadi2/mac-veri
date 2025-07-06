@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Anapolis FC - Itabaiana",
+        "time": "22:30",
+        "id": "274503343015071744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cruzeiro MG - Banfield",
         "time": "22:00",
         "id": "275000794074451968"
@@ -86,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Olimpia Asuncion - Nacional Asuncion",
-        "time": "22:00",
-        "id": "274408347775668224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Always Ready - The Strongest La Paz",
         "time": "22:00",
         "id": "274501601794854912"
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Nacional de Montevideo - Penarol Montevideo",
-        "time": "21:00",
-        "id": "274627374941868032"
+        "name": "Magallanes - Copiapo",
+        "time": "22:00",
+        "id": "274406551052226560"
     }
 ]
