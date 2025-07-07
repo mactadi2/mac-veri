@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Botafogo PB - Sao Bernardo FC",
+        "time": "01:30",
+        "id": "274681083831914496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AA Ponte Preta - Tombense MG",
+        "time": "01:30",
+        "id": "274682588414742528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Operario Ferroviario EC PR - Chapecoense SC",
         "time": "01:00",
         "id": "274506000556494848"
@@ -47,12 +61,5 @@
         "name": "Teresina U20 - Oeirense U20",
         "time": "00:00",
         "id": "275133053769224192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rubio Nu - Deportivo Santani",
-        "time": "23:30",
-        "id": "274688396384931840"
     }
 ]
