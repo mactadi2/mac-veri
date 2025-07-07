@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Operario AM - Itacoatiara FC AM",
+        "time": "02:30",
+        "id": "275086532371681280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Treze FC PB - Horizonte FC",
         "time": "02:00",
         "id": "274501602437632000"
@@ -54,19 +61,5 @@
         "name": "Vilavelhense ES - Vitoria ES",
         "time": "01:00",
         "id": "275016194861436928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Ameliano - Club Atletico Tembetary",
-        "time": "00:30",
-        "id": "274505948203192320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Halifax Tides (W) - Calgary Wild FC (W)",
-        "time": "00:30",
-        "id": "274999767140012032"
     }
 ]
