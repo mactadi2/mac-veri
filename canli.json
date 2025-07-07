@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Operario Ferroviario EC PR - Chapecoense SC",
+        "time": "01:00",
+        "id": "274506000556494848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New England FC - Western Mass Pioneers",
+        "time": "01:00",
+        "id": "274693885740060672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Bolivar - Independiente Petrolero",
+        "time": "01:00",
+        "id": "274693885867986944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vilavelhense ES - Vitoria ES",
+        "time": "01:00",
+        "id": "275016194861436928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sportivo Ameliano - Club Atletico Tembetary",
         "time": "00:30",
         "id": "274505948203192320"
@@ -26,12 +54,5 @@
         "name": "Rubio Nu - Deportivo Santani",
         "time": "23:30",
         "id": "274688396384931840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SR Reykjavik - Ulfarnir",
-        "time": "23:00",
-        "id": "275000441702584320"
     }
 ]
