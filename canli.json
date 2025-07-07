@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SR Reykjavik - Ulfarnir",
+        "time": "23:00",
+        "id": "275000441702584320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "The Strongest (W) - Academia de Balompie Boliviano (W)",
         "time": "22:30",
         "id": "275084290565476352"
@@ -58,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bangor 1876 - Airbus",
-        "time": "21:30",
-        "id": "275103841512460288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Deportivo Muniz - Central Cordoba de Rosario",
         "time": "21:30",
         "id": "274414677961871360"
@@ -75,19 +75,5 @@
         "name": "CA Chaco For Ever Reserves - Club Deportivo Itati",
         "time": "21:30",
         "id": "275084958854418432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "River Plate Asuncion - Tacuary",
-        "time": "21:00",
-        "id": "274588122359140352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cristobal Colon Nemby - General Caballero Zeballos Cue",
-        "time": "21:00",
-        "id": "275019976511983616"
     }
 ]
