@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Güney Kore - Çin",
+        "time": "14:00",
+        "id": "274993754241372160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Barau FC - Wikki Tourist",
         "time": "13:30",
         "id": "275008960515411968"
@@ -19,19 +26,5 @@
         "name": "Zambia U20 - Eswatini U20",
         "time": "13:00",
         "id": "274910149596024832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yangon United U21 - Ispe U21",
-        "time": "12:00",
-        "id": "275013729173770240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ZhFC Astana (W) - Kairat Almaty (W)",
-        "time": "12:00",
-        "id": "275086914056491008"
     }
 ]
