@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sportivo Ameliano - Club Atletico Tembetary",
+        "time": "00:30",
+        "id": "274505948203192320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Halifax Tides (W) - Calgary Wild FC (W)",
+        "time": "00:30",
+        "id": "274999767140012032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Teresina U20 - Oeirense U20",
+        "time": "00:00",
+        "id": "275133053769224192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rubio Nu - Deportivo Santani",
         "time": "23:30",
         "id": "274688396384931840"
@@ -12,12 +33,5 @@
         "name": "SR Reykjavik - Ulfarnir",
         "time": "23:00",
         "id": "275000441702584320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "The Strongest (W) - Academia de Balompie Boliviano (W)",
-        "time": "22:30",
-        "id": "275084290565476352"
     }
 ]
