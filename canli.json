@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Nagykanizsa - Napredak Krusevac",
+        "time": "18:30",
+        "id": "275158741430702080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sjk Akatemia - FC Lahti",
+        "time": "18:30",
+        "id": "274750008924966912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jippo Joensuu - JaPS",
+        "time": "18:30",
+        "id": "274759891145592832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Vaajakoski - VJS Vantaa",
+        "time": "18:30",
+        "id": "275095873839566848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HaPK - Lahden Reipas",
+        "time": "18:30",
+        "id": "275023497074446336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KuPS Kuopio - FC Milsami Orhei",
         "time": "18:00",
         "id": "273835316848234496"
@@ -37,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Camioneros Reserves - Berazategui Reserves",
-        "time": "18:00",
-        "id": "275138528539709440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Deportivo Muniz Reserves - CA Ituzaingo Reserves",
         "time": "18:00",
         "id": "275187470668271616"
@@ -54,19 +82,5 @@
         "name": "El Porvenir Reserves - Central Ballester Reserves ",
         "time": "17:00",
         "id": "275137765275996160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AL-Nejmeh SC Beirut -   Al Ansar Beirut",
-        "time": "16:30",
-        "id": "275084907794010112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Moron U20 - Quilmes U20",
-        "time": "16:00",
-        "id": "275173472658919424"
     }
 ]
