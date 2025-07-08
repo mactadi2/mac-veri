@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rio Branco AC U20 - Nauas U20",
+        "time": "00:00",
+        "id": "275115106377011200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Humaita FBC - Independiente Jas",
+        "time": "00:00",
+        "id": "275128008725106688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gualaceo SC - Cumbaya FC",
         "time": "23:30",
         "id": "274960218223415296"
@@ -47,19 +61,5 @@
         "name": "Zakho - Newroz SC",
         "time": "22:30",
         "id": "275096054564786176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KF Egnatia - Breidablik Kopavogur",
-        "time": "22:00",
-        "id": "274639568971632640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fluminense RJ - Chelsea",
-        "time": "22:00",
-        "id": "274885112999579648"
     }
 ]
