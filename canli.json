@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KF Egnatia - Breidablik Kopavogur",
+        "time": "22:00",
+        "id": "274639568971632640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AC Virtus Acquaviva - HSK Zrinjski Mostar",
+        "time": "22:00",
+        "id": "274639844299378688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fluminense RJ - Chelsea",
+        "time": "22:00",
+        "id": "274885112999579648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Boreham Wood FC - Watford FC",
         "time": "21:30",
         "id": "275093826743439360"
@@ -26,13 +47,6 @@
         "name": "Leamington FC - Walsall FC",
         "time": "21:30",
         "id": "275034817290178560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dover Athletic FC - Gillingham",
-        "time": "21:30",
-        "id": "275092868546301952"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Katwijk  - FC Volendam",
         "time": "20:30",
         "id": "274978154750283776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Olimpija Ljubljana - Kairat Almaty",
-        "time": "20:00",
-        "id": "273902269115797504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SBV Vitesse - Kaizer Chiefs",
-        "time": "20:00",
-        "id": "274977798230249472"
     }
 ]
