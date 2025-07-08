@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Goias EC - Criciuma EC",
+        "time": "01:30",
+        "id": "274562802303242240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gremio Porto Alegrense RS - EC Sao Jose RS",
+        "time": "01:30",
+        "id": "275119089399238656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "North Carolina FC U23 - Charlotte Independence 2",
         "time": "01:00",
         "id": "275088747229483008"
@@ -33,19 +47,5 @@
         "name": "Humaita FBC - Independiente Jas",
         "time": "00:00",
         "id": "275128008725106688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gualaceo SC - Cumbaya FC",
-        "time": "23:30",
-        "id": "274960218223415296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Thorlakur FC - Bf 108",
-        "time": "23:30",
-        "id": "275091165262516224"
     }
 ]
