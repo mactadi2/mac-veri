@@ -51,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dover Athletic FC - Gillingham",
+        "time": "21:30",
+        "id": "275092868546301952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC United of Manchester - Salford City",
+        "time": "21:30",
+        "id": "275093502591897600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SK Slovan Bratislava - TS Wisla Krakow",
         "time": "21:15",
         "id": "275095367287181312"
@@ -89,19 +103,5 @@
         "name": "Buxton - Barnsley FC",
         "time": "21:00",
         "id": "275100012347789312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Floriana FC - Haverfordwest County",
-        "time": "20:30",
-        "id": "275009056395104256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Katwijk  - FC Volendam",
-        "time": "20:30",
-        "id": "274978154750283776"
     }
 ]
