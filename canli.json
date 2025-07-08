@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AL-Nejmeh SC Beirut -   Al Ansar Beirut",
+        "time": "16:30",
+        "id": "275084907794010112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Ahed - Tadamon Sour",
         "time": "16:00",
         "id": "275091831129247744"
@@ -23,9 +30,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fountain Gate FC - Stand United",
+        "name": "Deportivo Moron U20 - Quilmes U20",
         "time": "16:00",
-        "id": "275085815593439232"
+        "id": "275173472658919424"
     },
     {
         "tur": "live",
@@ -47,19 +54,5 @@
         "name": "Persib Bandung - Dewa United FC",
         "time": "15:30",
         "id": "275035215699775488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Kopenhag - FC Fredericia",
-        "time": "15:00",
-        "id": "275018744318791680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Meppen - FC Emmen",
-        "time": "15:00",
-        "id": "275093639175213056"
     }
 ]
