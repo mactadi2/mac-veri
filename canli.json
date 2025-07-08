@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "TSV 1860 Munchen - SV Ried",
+        "time": "19:30",
+        "id": "274763674934185984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Iberia 1999 - Malmo FF",
+        "time": "19:00",
+        "id": "273798288972582912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Noah Artsakh - FK Buducnost Podgorica",
+        "time": "19:00",
+        "id": "273902270320611328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "St. Josephs FC - Cliftonville FC",
+        "time": "19:00",
+        "id": "275009033802485760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hertha BSC Berlin - TSV Havelse",
+        "time": "19:00",
+        "id": "274976262203772928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SR Donaufeld - VfB Admira Wacker Modling",
+        "time": "19:00",
+        "id": "275097694586933248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arda Kardzhali - Septemvri Sofia",
         "time": "19:00",
         "id": "275173124188803072"
@@ -9,37 +51,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FCM Traiskirchen - SV Stripfing\/Weiden",
+        "time": "19:00",
+        "id": "275093289679589376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FSV Optik Rathenow - Luckenwalde",
+        "time": "19:00",
+        "id": "275178633855897600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gloggnitz - CS Corvinul Hunedoara",
+        "time": "19:00",
+        "id": "275097768187531264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Nagykanizsa - Napredak Krusevac",
         "time": "18:30",
         "id": "275158741430702080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sjk Akatemia - FC Lahti",
-        "time": "18:30",
-        "id": "274750008924966912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jippo Joensuu - JaPS",
-        "time": "18:30",
-        "id": "274759891145592832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Vaajakoski - VJS Vantaa",
-        "time": "18:30",
-        "id": "275095873839566848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HaPK - Lahden Reipas",
-        "time": "18:30",
-        "id": "275023497074446336"
     },
     {
         "tur": "live",
@@ -68,12 +103,5 @@
         "name": "Rakow Czestochowa - Lommel United",
         "time": "18:00",
         "id": "275179964980137984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "El Porvenir Reserves - Central Ballester Reserves ",
-        "time": "17:00",
-        "id": "275137765275996160"
     }
 ]
