@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sportivo Ameliano Reserves - CA Tembetary Reserves",
+        "time": "14:00",
+        "id": "275128232672628736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Royal Charleroi SC - SK Beveren",
         "time": "13:30",
         "id": "275102837788250112"
@@ -54,12 +61,5 @@
         "name": "Robina City U23 - North Star U23",
         "time": "12:30",
         "id": "275179567618068480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brisbane Strikers U23 - Broadbeach United U23",
-        "time": "12:15",
-        "id": "275085262970818560"
     }
 ]
