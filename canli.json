@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NK Olimpija Ljubljana - Kairat Almaty",
+        "time": "20:00",
+        "id": "273902269115797504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cork City FC - Celtic FC",
+        "time": "20:00",
+        "id": "275036336237449216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SBV Vitesse - Kaizer Chiefs",
+        "time": "20:00",
+        "id": "274977798230249472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Levadia Tallinn - Rigas Futbola Skola",
         "time": "19:30",
         "id": "274280195747352576"
@@ -9,16 +30,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Novi Pazar - Mladost Lucani",
+        "name": "TSV 1860 Munchen - SV Ried",
         "time": "19:30",
-        "id": "275096751128580096"
+        "id": "274763674934185984"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "TSV 1860 Munchen - SV Ried",
+        "name": "FK Novi Pazar - Mladost Lucani",
         "time": "19:30",
-        "id": "274763674934185984"
+        "id": "275096751128580096"
     },
     {
         "tur": "live",
@@ -65,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FCM Traiskirchen - SV Stripfing\/Weiden",
-        "time": "19:00",
-        "id": "275093289679589376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FSV Optik Rathenow - Luckenwalde",
         "time": "19:00",
         "id": "275178633855897600"
@@ -79,29 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FCM Traiskirchen - SV Stripfing\/Weiden",
+        "time": "19:00",
+        "id": "275093289679589376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kisvarda FC - Zeleznicar Pancevo",
         "time": "18:30",
         "id": "275093639114395648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Nagykanizsa - Napredak Krusevac",
-        "time": "18:30",
-        "id": "275158741430702080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KuPS Kuopio - FC Milsami Orhei",
-        "time": "18:00",
-        "id": "273835316848234496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rakow Czestochowa - Lommel United",
-        "time": "18:00",
-        "id": "275179964980137984"
     }
 ]
