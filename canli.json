@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ferrocarril Midland - Argentino Merlo",
-        "time": "02:05",
-        "id": "275044936606420992"
+        "name": "Northern Virginia FC - Annapolis Blues FC",
+        "time": "02:30",
+        "id": "275044928561745920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Southern Soccer Academy Kings - Asheville City SC",
+        "time": "02:30",
+        "id": "275187087530135552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ironbound SC - Manhattan SC",
+        "time": "02:30",
+        "id": "275044930224787456"
     },
     {
         "tur": "live",
@@ -23,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Boston City - Seacoast United Phantoms",
+        "time": "02:00",
+        "id": "275044929176211456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chicago Dutch Lions - River Light FC",
         "time": "02:00",
         "id": "275044929996197888"
@@ -37,13 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Boston City - Seacoast United Phantoms",
-        "time": "02:00",
-        "id": "275044929176211456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Capo II - FC Tucson",
         "time": "02:00",
         "id": "275174944713871360"
@@ -51,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dayton Dutch Lions - Fort Wayne FC",
+        "name": "Brave SC - Inter Gainesville",
         "time": "02:00",
-        "id": "275044928950767616"
+        "id": "275044930292944896"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Brave SC - Inter Gainesville",
+        "name": "Dayton Dutch Lions - Fort Wayne FC",
         "time": "02:00",
-        "id": "275044930292944896"
+        "id": "275044928950767616"
     },
     {
         "tur": "live",
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Crown Legacy FC - Carolina Core",
-        "time": "02:00",
-        "id": "275179041940705280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "New England FC - Boston Bolts",
         "time": "01:00",
         "id": "275044929231785984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Alagoano AL - Ferroviario",
-        "time": "01:00",
-        "id": "273539676663582720"
     }
 ]
