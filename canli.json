@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "TSV Eintracht Braunschweig - İstanbul Başakşehir FK",
+        "time": "18:30",
+        "id": "275173399708438528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Sarajevo - FC Slovacko",
+        "time": "18:30",
+        "id": "275175303853248512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ND Beltinci - NK Slaven Belupo Koprivnica",
+        "time": "18:30",
+        "id": "275258034048077824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFC Lokomotiv Plovdiv 1936 - PFC Lokomotiv Sofia",
+        "time": "18:30",
+        "id": "275194797262770176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFK Oleksandria - Zalaegerszegi TE",
+        "time": "18:30",
+        "id": "275189088801394688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SK Sturm Graz - FK Mlada Boleslav",
         "time": "18:00",
         "id": "275189603120582656"
@@ -44,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Zaglebie Sosnowiec SSA - SK Sigma Olomouc 2",
-        "time": "18:00",
-        "id": "275177155521024000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Struga Trim & Lum - KF Ballkani",
         "time": "18:00",
         "id": "275171783134547968"
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Samorin - FK Inter Bratislava",
-        "time": "18:00",
-        "id": "275260636918845440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bihor Oradea - FC Petrzalka 1898",
-        "time": "18:00",
-        "id": "275290503984058368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Yantra Gabrovo - FK Fratria",
-        "time": "18:00",
-        "id": "275290286616350720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Hlubina - Rekord Bielsko-Biala",
         "time": "17:30",
         "id": "275263441402466304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Slavia Prague - Diosgyor VTK",
-        "time": "16:30",
-        "id": "275262192375435264"
     }
 ]
