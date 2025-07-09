@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Barquisimeto - Trujillanos FC",
+        "time": "00:00",
+        "id": "275133037389418496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Virginia Dream FC - Grove Soccer United",
+        "time": "00:00",
+        "id": "275278722436829184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sport Colonial - Guarani de Fram",
+        "time": "00:00",
+        "id": "275189474088062976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UNAN Managua - Diriangen FC",
+        "time": "00:00",
+        "id": "275288729442193408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Leones Del Norte - Indepiendente Juniors",
         "time": "23:30",
         "id": "275044926946938880"
@@ -37,6 +65,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Carlos Stein - Union Santo Domingo",
+        "time": "23:00",
+        "id": "275260497422585856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Diablos Rojos Juliaca - Juventud Alfa",
+        "time": "23:00",
+        "id": "275204340704219136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Villa Clara - FC Artemisa",
+        "time": "23:00",
+        "id": "275310314518614016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico El Vigia - Estudiantes de Mérida",
         "time": "22:30",
         "id": "275114397817507840"
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hamar Hveragerdi - Arborg",
-        "time": "22:15",
-        "id": "275173156963094528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alftanes - Hafnir",
-        "time": "22:15",
-        "id": "275172940700585984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kria - Ellidi",
-        "time": "22:15",
-        "id": "275173156890742784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paris Saint-Germain FC - Real Madrid",
-        "time": "22:00",
-        "id": "274955315772002304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Curico Unido - Audax Italiano Santiago",
-        "time": "22:00",
-        "id": "275114016509136896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cuiaba U20 - Vasco da Gama U20",
-        "time": "22:00",
-        "id": "275301567944593408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Yaracuyanos FC - CS Maritimo de La Guaira",
         "time": "22:00",
         "id": "275114397752496128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cochabamba FC - Tiquipaya",
-        "time": "22:00",
-        "id": "275259440744239104"
     }
 ]
