@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Curico Unido - Audax Italiano Santiago",
+        "time": "22:00",
+        "id": "275114016509136896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Shelbourne FC - Linfield FC",
         "time": "21:45",
         "id": "274640604576747520"
@@ -33,6 +40,34 @@
         "name": "Flint Town United - Buckley Town",
         "time": "21:30",
         "id": "275192387877343232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Villa San Carlos - CA Fenix",
+        "time": "21:30",
+        "id": "275043212326998016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Italiano - Argentino Quilmes",
+        "time": "21:30",
+        "id": "275043212117282816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Dock Sud - Deportivo Laferrere",
+        "time": "21:30",
+        "id": "275043212385718272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Pilar - Flandria",
+        "time": "21:05",
+        "id": "275041505058623488"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Banks O'Dee F.C. - Inverness Caledonian Thistle",
         "time": "21:00",
         "id": "275186115446706176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cefn Cribwr - Baglan Dragons",
-        "time": "20:45",
-        "id": "275176850927521792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC Ludogorets Razgrad - Dinamo Minsk",
-        "time": "20:30",
-        "id": "273542329346953216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FCSB - Inter Club d'Escaldes",
-        "time": "20:30",
-        "id": "273451241157300224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Solothurn - Breitenrain",
-        "time": "20:30",
-        "id": "275186410024210432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Luxembourg City - Atert Bissen",
-        "time": "20:30",
-        "id": "275265844675743744"
     }
 ]
