@@ -2,13 +2,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PFC Ludogorets Razgrad - Dinamo Minsk",
-        "time": "20:30",
-        "id": "273542329346953216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FCSB - Inter Club d'Escaldes",
         "time": "20:30",
         "id": "273451241157300224"
@@ -16,9 +9,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Austria Wien - Floridsdorfer AC",
-        "time": "20:00",
-        "id": "275037372504215552"
+        "name": "PFC Ludogorets Razgrad - Dinamo Minsk",
+        "time": "20:30",
+        "id": "273542329346953216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fc Solothurn - Breitenrain",
+        "time": "20:30",
+        "id": "275186410024210432"
     },
     {
         "tur": "live",
@@ -33,6 +33,27 @@
         "name": "FC Winterthur - SC Bruhl St. Gallen",
         "time": "20:00",
         "id": "275264987610615808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SVG Reichenau - SV Kematen",
+        "time": "20:00",
+        "id": "275186382528450560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportfreunde Eisbachtal - FSV Fernwald",
+        "time": "20:00",
+        "id": "275270795362701312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TuS Ennepetal  - Wuppertaler SV Borussia",
+        "time": "20:00",
+        "id": "275253498298372096"
     },
     {
         "tur": "live",
@@ -75,27 +96,6 @@
         "name": "FK Zalgiris Vilnius - Hamrun Spartans FC",
         "time": "19:00",
         "id": "274640125479227392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Panathinaikos - FC Schalke 04",
-        "time": "19:00",
-        "id": "275189540228042752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Slavia Prague - Aris Limmasol",
-        "time": "19:00",
-        "id": "275181480133660672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Blau-Weiss Linz - Kızılyıldız",
-        "time": "19:00",
-        "id": "275189240299655168"
     },
     {
         "tur": "live",
