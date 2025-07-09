@@ -2,9 +2,44 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Leones Del Norte - Indepiendente Juniors",
+        "time": "23:30",
+        "id": "275044926946938880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Excursionistas - Brown de Adrogue",
         "time": "23:00",
         "id": "275044936663044096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Angostura FC - Bolivar SC",
+        "time": "23:00",
+        "id": "275212796886650880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Municipal - Amazon Callao FC",
+        "time": "23:00",
+        "id": "275210918126817280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico El Vigia - Estudiantes de Mérida",
+        "time": "22:30",
+        "id": "275114397817507840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rayo Zuliano - Falcon Heroes FC",
+        "time": "22:30",
+        "id": "275129259369041920"
     },
     {
         "tur": "live",
@@ -19,6 +54,13 @@
         "name": "Alftanes - Hafnir",
         "time": "22:15",
         "id": "275172940700585984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kria - Ellidi",
+        "time": "22:15",
+        "id": "275173156890742784"
     },
     {
         "tur": "live",
@@ -44,64 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shelbourne FC - Linfield FC",
-        "time": "21:45",
-        "id": "274640604576747520"
+        "name": "Real Frontera - Urena Fc",
+        "time": "22:00",
+        "id": "275129259442442240"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ashton United - Salford City",
-        "time": "21:45",
-        "id": "275219599927152640"
+        "name": "Yaracuyanos FC - CS Maritimo de La Guaira",
+        "time": "22:00",
+        "id": "275114397752496128"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Chorley - Preston North End FC",
-        "time": "21:30",
-        "id": "275181743608303616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Villa San Carlos - CA Fenix",
-        "time": "21:30",
-        "id": "275043212326998016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Italiano - Argentino Quilmes",
-        "time": "21:30",
-        "id": "275043212117282816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Dock Sud - Deportivo Laferrere",
-        "time": "21:30",
-        "id": "275043212385718272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD UAI Urquiza - Villa Dalmine",
-        "time": "21:30",
-        "id": "275043212263034880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Martin De Burzaco - Deportivo Armenio",
-        "time": "21:30",
-        "id": "275043212182294528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sacachispas - Comunicaciones de Bueno Aires",
-        "time": "21:30",
-        "id": "275043212052271104"
+        "name": "Cochabamba FC - Tiquipaya",
+        "time": "22:00",
+        "id": "275259440744239104"
     }
 ]
