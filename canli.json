@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Flint Town United - Buckley Town",
+        "time": "21:30",
+        "id": "275192387877343232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Enfield Town - AFC Wimbledon",
+        "time": "21:00",
+        "id": "275121704754352128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hibernian FC - SC Rot-Weiss Essen",
+        "time": "21:00",
+        "id": "275186570240331776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Afan Lido - Briton Ferry Llansawel",
+        "time": "21:00",
+        "id": "275186161735045120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Niedercorn Progres - FC Mamer 32",
+        "time": "21:00",
+        "id": "275189328150401024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cefn Cribwr - Baglan Dragons",
+        "time": "20:45",
+        "id": "275176850927521792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FCSB - Inter Club d'Escaldes",
         "time": "20:30",
         "id": "273451241157300224"
@@ -19,6 +61,13 @@
         "name": "Fc Solothurn - Breitenrain",
         "time": "20:30",
         "id": "275186410024210432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Luxembourg City - Atert Bissen",
+        "time": "20:30",
+        "id": "275265844675743744"
     },
     {
         "tur": "live",
@@ -54,54 +103,5 @@
         "name": "TuS Ennepetal  - Wuppertaler SV Borussia",
         "time": "20:00",
         "id": "275253498298372096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Darmstadt 98 - Notts County",
-        "time": "19:30",
-        "id": "275117927323275264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Austria Salzburg - Puskas FC Academy",
-        "time": "19:30",
-        "id": "275182856025804800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ASC Dortmund - BV Borussia 09 Dortmund II",
-        "time": "19:30",
-        "id": "275177155588132864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gyori ETO FC - Maccabi Haifa FC",
-        "time": "19:30",
-        "id": "275182855939821568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC 1980 Wien - Wiener Viktoria",
-        "time": "19:30",
-        "id": "275181961900855296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Zalgiris Vilnius - Hamrun Spartans FC",
-        "time": "19:00",
-        "id": "274640125479227392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Zenit St. Petersburg - FC Sion Sitten",
-        "time": "19:00",
-        "id": "275033582004736000"
     }
 ]
