@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SV Austria Salzburg - Puskas FC Academy",
+        "time": "19:30",
+        "id": "275182856025804800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Zalgiris Vilnius - Hamrun Spartans FC",
+        "time": "19:00",
+        "id": "274640125479227392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Panathinaikos - FC Schalke 04",
+        "time": "19:00",
+        "id": "275189540228042752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Slavia Prague - Aris Limmasol",
+        "time": "19:00",
+        "id": "275181480133660672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Blau-Weiss Linz - Kızılyıldız",
+        "time": "19:00",
+        "id": "275189240299655168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Zenit St. Petersburg - FC Sion Sitten",
+        "time": "19:00",
+        "id": "275033582004736000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "TSV Eintracht Braunschweig - İstanbul Başakşehir FK",
         "time": "18:30",
         "id": "275173399708438528"
@@ -12,27 +54,6 @@
         "name": "FK Sarajevo - FC Slovacko",
         "time": "18:30",
         "id": "275175303853248512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ND Beltinci - NK Slaven Belupo Koprivnica",
-        "time": "18:30",
-        "id": "275258034048077824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC Lokomotiv Plovdiv 1936 - PFC Lokomotiv Sofia",
-        "time": "18:30",
-        "id": "275194797262770176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFK Oleksandria - Zalaegerszegi TE",
-        "time": "18:30",
-        "id": "275189088801394688"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Tatran Liptovsky Mikulas - NKP Podhale",
         "time": "18:00",
         "id": "275200134651973632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dijon FCO - Le Puy",
-        "time": "18:00",
-        "id": "275288652190453760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Samorin - FK Inter Bratislava",
-        "time": "18:00",
-        "id": "275260636918845440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hlubina - Rekord Bielsko-Biala",
-        "time": "17:30",
-        "id": "275263441402466304"
     }
 ]
