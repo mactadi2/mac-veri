@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PFC Levski Sofia - Hapoel Beer-Sheva",
+        "time": "20:30",
+        "id": "273850164939198464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NAC Breda - KSC Lokeren-Temse",
+        "time": "20:30",
+        "id": "275212087832219648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Paksi FC - CFR 1907 Cluj",
         "time": "20:00",
         "id": "273836257857114112"
@@ -89,19 +103,5 @@
         "name": "Arminia Bielefeld - TSV Havelse",
         "time": "19:00",
         "id": "275179627331325952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kolding IF - Middelfart",
-        "time": "18:30",
-        "id": "275359340719902720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "DAC Dunajska - PFK Oleksandria",
-        "time": "18:30",
-        "id": "275190319761461248"
     }
 ]
