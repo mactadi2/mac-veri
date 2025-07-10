@@ -37,6 +37,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Defensores de Cambaceres Reserves - Victoriano Arenas Reserves",
+        "time": "20:00",
+        "id": "275349686187069440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ranheim 2 - Melhus Il",
+        "time": "20:00",
+        "id": "275044931624636416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "JK Nomme Kalju - KF Partizani Tirana",
         "time": "19:45",
         "id": "275016655480950784"
@@ -72,30 +86,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sabah FK - NK Celje",
-        "time": "19:00",
-        "id": "274643689490485248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Zalgiris Kaunas - Penybont",
-        "time": "19:00",
-        "id": "275044933716545536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Seinäjoen Jalkapallokerho - KI Klaksvík",
-        "time": "19:00",
-        "id": "275044933933600768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Torpedo Kutaisi - Ordabasy Shymkent",
-        "time": "19:00",
-        "id": "274181259046031360"
+        "name": "Launsdorf - SV Donau Klagenfurt",
+        "time": "19:30",
+        "id": "275365459951489024"
     },
     {
         "tur": "live",
@@ -103,5 +96,12 @@
         "name": "Arminia Bielefeld - TSV Havelse",
         "time": "19:00",
         "id": "275179627331325952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Espanol Reserves - Canuelas FC Reserves",
+        "time": "19:00",
+        "id": "275350971729711104"
     }
 ]
