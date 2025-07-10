@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Huachipato - Deportes Concepcion",
+        "time": "01:00",
+        "id": "275165619342675968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Bolivar - Nacional Potosi",
+        "time": "01:00",
+        "id": "275273118932668416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Flamengo RJ U20 - Botafogo RJ U20",
         "time": "00:00",
         "id": "275401893163962368"
@@ -26,12 +40,5 @@
         "name": "Chacaritas SC - Atletico Vinotinto",
         "time": "23:30",
         "id": "275158221865488384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mineros Guayana - Monagas SC",
-        "time": "23:00",
-        "id": "275279206915641344"
     }
 ]
