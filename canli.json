@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Larne - FK Auda",
+        "time": "22:00",
+        "id": "275010502757847040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NSI Runavík - HJK Helsinki",
         "time": "21:45",
         "id": "275081802236956672"
@@ -37,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Sutjeska Niksic - Dinamo Brest",
+        "name": "FK Vardar Skopje - Fiorita",
         "time": "21:30",
-        "id": "274181259235823616"
+        "id": "275044933783654400"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Vardar Skopje - Fiorita",
+        "name": "FK Sutjeska Niksic - Dinamo Brest",
         "time": "21:30",
-        "id": "275044933783654400"
+        "id": "274181259235823616"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "KS Vllaznia Shkoder - BFC Daugava Daugavpils",
         "time": "21:00",
         "id": "275010043753140224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC Levski Sofia - Hapoel Beer-Sheva",
-        "time": "20:30",
-        "id": "273850164939198464"
     }
 ]
