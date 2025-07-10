@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "JK Nomme Kalju - KF Partizani Tirana",
+        "time": "19:45",
+        "id": "275016655480950784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AEK Larnaca - Partizan Belgrade",
+        "time": "19:30",
+        "id": "273835876802498560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing FC Union Letzebuerg - FC Dila Gori",
+        "time": "19:30",
+        "id": "275081608578600960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Urartu Banants Yerevan - Neman Grodno",
+        "time": "19:30",
+        "id": "274181260399742976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Rapperswil Jona - FC Basel",
+        "time": "19:30",
+        "id": "275226754334986240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sabah FK - NK Celje",
         "time": "19:00",
         "id": "274643689490485248"
@@ -16,13 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Torpedo Kutaisi - Ordabasy Shymkent",
-        "time": "19:00",
-        "id": "274181259046031360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Seinäjoen Jalkapallokerho - KI Klaksvík",
         "time": "19:00",
         "id": "275044933933600768"
@@ -30,37 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Torpedo Kutaisi - Ordabasy Shymkent",
+        "time": "19:00",
+        "id": "274181259046031360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arminia Bielefeld - TSV Havelse",
         "time": "19:00",
         "id": "275179627331325952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Espanol Reserves - Canuelas FC Reserves",
-        "time": "19:00",
-        "id": "275350971729711104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BST Galaxy - Steve Biko Fc",
-        "time": "19:00",
-        "id": "275363184083341312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brikama United FC - Gambian Dutch Lions",
-        "time": "19:00",
-        "id": "275363184010989568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bombada FC - Hawks Fc",
-        "time": "19:00",
-        "id": "275384643201667072"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Fcb Magpies - Paide Linnameeskond",
         "time": "18:00",
         "id": "275044933843423232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC CSKA 1948 - Göztepe",
-        "time": "18:00",
-        "id": "275179627902799872"
     }
 ]
