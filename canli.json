@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Valur Reykjavik - Flora Tallinn",
+        "time": "23:00",
+        "id": "275010502901501952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mineros Guayana - Monagas SC",
+        "time": "23:00",
+        "id": "275279206915641344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Augnablik Kopavogur - FC Arbaer",
+        "time": "22:15",
+        "id": "275262920025313280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KP Legia Warszawa - FK Aktobe",
         "time": "22:00",
         "id": "273837778139222016"
@@ -30,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "San Antonio Bulo Bulo - Academia de Balompie Boliviano",
+        "time": "22:00",
+        "id": "275273118783770624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NSI Runavík - HJK Helsinki",
         "time": "21:45",
         "id": "275081802236956672"
@@ -44,16 +72,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Vardar Skopje - Fiorita",
-        "time": "21:30",
-        "id": "275044933783654400"
+        "name": "Harland and Wolff Welders - Dergview Fc",
+        "time": "21:45",
+        "id": "275349556293668864"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Sutjeska Niksic - Dinamo Brest",
-        "time": "21:30",
-        "id": "274181259235823616"
+        "name": "Crusaders FC - Limavady United",
+        "time": "21:45",
+        "id": "275228731021332480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ware FC - Royston Town",
+        "time": "21:45",
+        "id": "275262919922552832"
     },
     {
         "tur": "live",
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Spartak Trnava - BK Hacken",
-        "time": "21:15",
-        "id": "274643662265257984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Malisheva - Vikingur Reykjavik",
-        "time": "21:15",
-        "id": "275010043687079936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Shakhtar Donetsk - Ilves Tampere",
+        "name": "Deportivo Coatepeque FC - CD Platense Zacatecoluca",
         "time": "21:00",
-        "id": "274554506994388992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Torpedo Belaz Zhodino - Rabotnicki Skopje",
-        "time": "21:00",
-        "id": "274181259129917440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Birkirkara FC - CS Petrocub",
-        "time": "21:00",
-        "id": "275016655564836864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KS Vllaznia Shkoder - BFC Daugava Daugavpils",
-        "time": "21:00",
-        "id": "275010043753140224"
+        "id": "275365090251902976"
     }
 ]
