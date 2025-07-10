@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KP Legia Warszawa - FK Aktobe",
+        "time": "22:00",
+        "id": "273837778139222016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SP Tre Fiori - Pyunik Yerevan",
+        "time": "22:00",
+        "id": "275010502818664448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Borac Banjaluka - FC Santa Coloma",
+        "time": "22:00",
+        "id": "275044933662019584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NSI Runavík - HJK Helsinki",
         "time": "21:45",
         "id": "275081802236956672"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Decic Tuzi - FK Sileks",
-        "time": "21:00",
-        "id": "275016764119715840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "PFC Levski Sofia - Hapoel Beer-Sheva",
         "time": "20:30",
         "id": "273850164939198464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NAC Breda - KSC Lokeren-Temse",
-        "time": "20:30",
-        "id": "275212087832219648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paksi FC - CFR 1907 Cluj",
-        "time": "20:00",
-        "id": "273836257857114112"
     }
 ]
