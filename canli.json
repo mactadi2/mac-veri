@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Paksi FC - CFR 1907 Cluj",
+        "time": "20:00",
+        "id": "273836257857114112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Sheriff Tiraspol - FC Prishtina",
+        "time": "20:00",
+        "id": "274643678214098944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SKN St. Polten - Besiktas JK",
+        "time": "20:00",
+        "id": "275208278157430784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "JK Nomme Kalju - KF Partizani Tirana",
         "time": "19:45",
         "id": "275016655480950784"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Radomlje - Zeleznicar Pancevo",
-        "time": "18:30",
-        "id": "275359102830514176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "DAC Dunajska - PFK Oleksandria",
         "time": "18:30",
         "id": "275190319761461248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Slaven Belupo Koprivnica - Napredak Krusevac",
-        "time": "18:30",
-        "id": "275360226038910976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fcb Magpies - Paide Linnameeskond",
-        "time": "18:00",
-        "id": "275044933843423232"
     }
 ]
