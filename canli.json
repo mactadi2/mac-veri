@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "DS Football Club - Portsmouth Bombers FC",
+        "time": "01:30",
+        "id": "275364241907781632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Esporte de Patos U20 - Nacional de Patos U20",
         "time": "01:30",
         "id": "275361709487689728"
@@ -33,19 +40,5 @@
         "name": "Club Bolivar - Nacional Potosi",
         "time": "01:00",
         "id": "275273118932668416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Flamengo RJ U20 - Botafogo RJ U20",
-        "time": "00:00",
-        "id": "275401893163962368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Union de Villa Hayes - Sportivo San Lorenzo",
-        "time": "00:00",
-        "id": "275349347423621120"
     }
 ]
