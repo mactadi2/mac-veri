@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Roda JC Kerkrade - TSV Alemannia Aachen",
+        "time": "20:00",
+        "id": "275298940322189312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AS Monaco - Cercle Brugge KSV",
         "time": "19:30",
         "id": "275362747350388736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wiener SK - SC Wiener Neustadter",
+        "time": "19:30",
+        "id": "275364018263298048"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "NK Domzale - Vukovar 1991",
         "time": "18:30",
         "id": "275377366670381056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Kapfenberg - SV Lafnitz",
-        "time": "18:00",
-        "id": "275340960822595584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "TSV 1860 Munchen - FC Slovan Liberec",
-        "time": "18:00",
-        "id": "275438990083100672"
     }
 ]
