@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "North Carolina - Birmingham Legion FC",
+        "time": "02:30",
+        "id": "275044942065307648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portuguesa FC - Carabobo FC",
+        "time": "02:30",
+        "id": "275397978447024128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Hobart U21 - Riverside Olympic U21",
+        "time": "02:30",
+        "id": "275443852171677696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Talleres de Cordoba - San Lorenzo",
         "time": "02:00",
         "id": "271950442672558080"
@@ -68,33 +89,5 @@
         "name": "Gremio Osasco Audax SP U20 - Itapirense U20",
         "time": "01:00",
         "id": "275317827868692480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Queretaro (W) - Santos Laguna (W)",
-        "time": "00:45",
-        "id": "275371788967481344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "2 de Mayo - Libertad Asuncion",
-        "time": "00:30",
-        "id": "275044210080616448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente FBC - Fernando de la Mora",
-        "time": "00:30",
-        "id": "275265622208811008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EC Futgol U20 - Inter De Minas U20",
-        "time": "00:30",
-        "id": "275367379918262272"
     }
 ]
