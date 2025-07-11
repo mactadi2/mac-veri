@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AS Monaco - Cercle Brugge KSV",
+        "time": "19:30",
+        "id": "275362747350388736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Brugge KV - Rakow Czestochowa",
         "time": "19:00",
         "id": "275378388310560768"
@@ -44,6 +51,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dynamo Ceske Budejovice - FK Pribram",
+        "time": "19:00",
+        "id": "275379573746700288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Elite 3000 Helsingor - Bronshoj BK",
+        "time": "19:00",
+        "id": "275361763236646912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Freital - FC Carl Zeiss Jena",
+        "time": "19:00",
+        "id": "275371608687906816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SC Freiburg - SV 1916 Sandhausen",
         "time": "18:30",
         "id": "275348652505042944"
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "MKS Cracovia Krakow - Podbrezova",
-        "time": "18:00",
-        "id": "275366588361871360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "TSV 1860 Munchen - FC Slovan Liberec",
         "time": "18:00",
         "id": "275438990083100672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jagiellonia Bialystok SSA - Zaglebie Lubin SSA",
-        "time": "18:00",
-        "id": "275449096941211648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Ried - Diosgyor VTK",
-        "time": "18:00",
-        "id": "275439038526263296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "TSV Eintracht Braunschweig - Plymouth Argyle FC",
-        "time": "18:00",
-        "id": "275366977433899008"
     }
 ]
