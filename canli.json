@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EPS - Atlantis FC",
+        "time": "18:30",
+        "id": "275044936830816256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SV Kapfenberg - SV Lafnitz",
         "time": "18:00",
         "id": "275340960822595584"
@@ -79,29 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Mladost Lucani - FK Radnicki 1923 Kragujevac",
-        "time": "17:30",
-        "id": "275364556632625152"
+        "name": "Ivory Coast U20 - Burkina Faso U20",
+        "time": "18:00",
+        "id": "275364466516955136"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Utrecht - Kaizer Chiefs",
-        "time": "17:00",
-        "id": "275370769085763584"
+        "name": "Atletico Huila U20 - Martin Garcia RJB U20",
+        "time": "18:00",
+        "id": "275386376835436544"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wieczysta Krakow - Sandecja Nowy Sacz",
+        "name": "PEC Zwolle (W) - Bayer Leverkusen (W)",
         "time": "17:00",
-        "id": "275270608757067776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lokomotive Leipzig - Hamburger SV II",
-        "time": "17:00",
-        "id": "275446048446615552"
+        "id": "275452876594221056"
     }
 ]
