@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Western Mass Pioneers - Vermont Green",
+        "time": "02:30",
+        "id": "275044929295749120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Portuguesa FC - Carabobo FC",
         "time": "02:30",
         "id": "275397978447024128"
@@ -65,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Promex Harlem United SC - Dublanc FC",
-        "time": "01:30",
-        "id": "275398479327662080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Vila Nova GO - Operario Ferroviario EC PR",
         "time": "01:00",
         "id": "275059640505602048"
@@ -82,12 +82,5 @@
         "name": "Aracatuba U20 - Botafogo SP U20",
         "time": "01:00",
         "id": "275317827786903552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gremio Osasco Audax SP U20 - Itapirense U20",
-        "time": "01:00",
-        "id": "275317827868692480"
     }
 ]
