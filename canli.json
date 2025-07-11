@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Santa Cruz AC U20 - Humaita U20",
+        "time": "00:00",
+        "id": "275494064817836032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universidad Central de Venezuela - Deportivo La Guaira",
+        "time": "00:00",
+        "id": "275397965163663360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Asociacion Deportiva Tarma - Comerciantes Unidos",
         "time": "23:00",
         "id": "275004770285129728"
@@ -23,13 +37,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Kivon - CD German Busch",
-        "time": "23:00",
-        "id": "275463995292520448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Total Soccer FC U20 - Envigado FC U20",
         "time": "23:00",
         "id": "275439932703641600"
@@ -40,68 +47,5 @@
         "name": "Tijuana U19 - Queretaro U19",
         "time": "22:45",
         "id": "275476011563487232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jorge Wilstermann U19 - Guabira U19",
-        "time": "22:30",
-        "id": "275454688904744960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Throttur Reykjavik - Keflavik",
-        "time": "22:15",
-        "id": "275044940598349824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IR Reykjavik - Kopavogur",
-        "time": "22:15",
-        "id": "275291573496975360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UMF Selfoss - Fylkir Reykjavik",
-        "time": "22:15",
-        "id": "275044940668604416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Reynir Sandgerdi - KV Vesturbaejar",
-        "time": "22:15",
-        "id": "275340646960730112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KFK Kopavogur - Ymir",
-        "time": "22:15",
-        "id": "275350301245050880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "İtalya (Kadınlar) - İspanya (Kadınlar)",
-        "time": "22:00",
-        "id": "275135672133750784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portekiz (Kadınlar) - Belçika (Kadınlar)",
-        "time": "22:00",
-        "id": "275135672060350464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tanzania (W) - Güney Afrika (Kadınlar)",
-        "time": "22:00",
-        "id": "275284770645217280"
     }
 ]
