@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Blacktown Spartans - Bankstown City Lions",
+        "time": "13:15",
+        "id": "275236040143409152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Dynamo Kiev - West Bromwich Albion FC",
+        "time": "13:00",
+        "id": "275183666351706112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bromley - Rotherham United FC",
+        "time": "13:00",
+        "id": "275188758176993280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Utrecht (W) - AZ Alkmaar (W)",
+        "time": "13:00",
+        "id": "275416942264848384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brunswick Juventus - Werribee City",
+        "time": "13:00",
+        "id": "275234161011331072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Melbourne Victory - Wrexham",
         "time": "12:30",
         "id": "275195415845015552"
@@ -58,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Sturm Graz II - SC Sparkasse Elin Weiz",
-        "time": "12:00",
-        "id": "275333760475598848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Silon Taborsko - MFK Skalica",
         "time": "12:00",
         "id": "275300958547873792"
@@ -75,33 +103,5 @@
         "name": "IMT Novi Belgrade - FK Radnik Surdulica",
         "time": "12:00",
         "id": "275448999852511232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yangon United U21 - Hantharwady United FC U21",
-        "time": "12:00",
-        "id": "275399361116114944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Caroline Springs George Cross U23 - Bulleen Lions U23",
-        "time": "11:30",
-        "id": "275190951274745856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Southside Eagles U23 - Caboolture FC U23",
-        "time": "11:30",
-        "id": "275293315769962496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rochedale Rovers U23 - Redlands United U23",
-        "time": "11:30",
-        "id": "275293524160811008"
     }
 ]
