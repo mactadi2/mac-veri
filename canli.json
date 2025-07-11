@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Freiburg - SV 1916 Sandhausen",
+        "time": "18:30",
+        "id": "275348652505042944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "1. FSV Mainz 05 II - 1. FC Koln II",
+        "time": "18:30",
+        "id": "275446199216115712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Domzale - Vukovar 1991",
+        "time": "18:30",
+        "id": "275377366670381056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aluminij - NK Varazdin",
+        "time": "18:30",
+        "id": "275456219675758592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SV Kapfenberg - SV Lafnitz",
         "time": "18:00",
         "id": "275340960822595584"
@@ -30,13 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "TSV Eintracht Braunschweig - Plymouth Argyle FC",
-        "time": "18:00",
-        "id": "275366977433899008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SV Ried - Diosgyor VTK",
         "time": "18:00",
         "id": "275439038526263296"
@@ -44,30 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "TSV Eintracht Braunschweig - Plymouth Argyle FC",
+        "time": "18:00",
+        "id": "275366977433899008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sporting Kristina - Korsnas FF",
         "time": "18:00",
         "id": "275321607749242880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ivory Coast U20 - Burkina Faso U20",
-        "time": "18:00",
-        "id": "275364466516955136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Huila U20 - Martin Garcia RJB U20",
-        "time": "18:00",
-        "id": "275386376835436544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cortulua U20 - Boca Juniors De Cali U20",
-        "time": "18:00",
-        "id": "275389760031297536"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Lokomotive Leipzig - Hamburger SV II",
         "time": "17:00",
         "id": "275446048446615552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PEC Zwolle (W) - Bayer Leverkusen (W)",
-        "time": "17:00",
-        "id": "275452876594221056"
     }
 ]
