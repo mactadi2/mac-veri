@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Nordsjaelland - Royal Antwerp FC",
+        "time": "13:30",
+        "id": "275456125625831424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rochedale Rovers - Redlands United",
         "time": "13:30",
         "id": "275251175762300928"
@@ -51,6 +58,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Preston Lions (W) - Boroondara Carey Eagles (W)",
+        "time": "13:30",
+        "id": "275189101954732032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Spring Hills FC (W) - Bentleigh Greens SC (W)",
+        "time": "13:30",
+        "id": "275189101901254656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Blacktown Spartans - Bankstown City Lions",
         "time": "13:15",
         "id": "275236040143409152"
@@ -82,26 +103,5 @@
         "name": "Brunswick Juventus - Werribee City",
         "time": "13:00",
         "id": "275234161011331072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melbourne Victory - Wrexham",
-        "time": "12:30",
-        "id": "275195415845015552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melbourne Knights - Oakleigh Cannons",
-        "time": "12:30",
-        "id": "275158666860171264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manly United FC - Blacktown City Fc",
-        "time": "12:30",
-        "id": "275044948365152256"
     }
 ]
