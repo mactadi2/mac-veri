@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Twente - FK Qarabag",
+        "time": "16:00",
+        "id": "275460165643407360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Malawi U20 - Zambia U20",
+        "time": "16:00",
+        "id": "275363857277521920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Namibia U20 (W) - South Africa U20 (W)",
+        "time": "16:00",
+        "id": "275445897639366656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Sion Sitten - Grasshopper Club Zurich",
         "time": "15:00",
         "id": "275380516149137408"
@@ -16,9 +37,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kairat Zhastar - Yassy Turkistan",
+        "name": "FC Shakhter Karagandy - FK Kaspyi Aktau",
         "time": "15:00",
-        "id": "275197496587849728"
+        "id": "275197496506060800"
     },
     {
         "tur": "live",
@@ -30,43 +51,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Shakhter Karagandy - FK Kaspyi Aktau",
-        "time": "15:00",
-        "id": "275197496506060800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Thimphu City - Southern City",
         "time": "15:00",
         "id": "275355144841990144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VfB Stuttgart II - FC Aarau",
-        "time": "14:00",
-        "id": "275364772108701696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "University Azzurri FC - Darwin Olympic",
-        "time": "14:00",
-        "id": "275236190134865920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hong Kong - Güney Kore",
-        "time": "14:00",
-        "id": "275353379790786560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hellenic Reserves - Port Darwin Reserve",
-        "time": "14:00",
-        "id": "275459445724680192"
     }
 ]
