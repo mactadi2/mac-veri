@@ -30,6 +30,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Total Soccer FC U20 - Envigado FC U20",
+        "time": "23:00",
+        "id": "275439932703641600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tijuana U19 - Queretaro U19",
+        "time": "22:45",
+        "id": "275476011563487232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jorge Wilstermann U19 - Guabira U19",
+        "time": "22:30",
+        "id": "275454688904744960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Throttur Reykjavik - Keflavik",
         "time": "22:15",
         "id": "275044940598349824"
@@ -65,27 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shamrock Rovers FC - Glenavon FC",
-        "time": "22:00",
-        "id": "275366588449951744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Luqueno - General Caballero JLM",
-        "time": "22:00",
-        "id": "274953243086426112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Resistencia SC - Deportivo Capiata",
-        "time": "22:00",
-        "id": "275267806944169984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "İtalya (Kadınlar) - İspanya (Kadınlar)",
         "time": "22:00",
         "id": "275135672133750784"
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Pereira U20 - Orsomarso U20",
+        "name": "Tanzania (W) - Güney Afrika (Kadınlar)",
         "time": "22:00",
-        "id": "275396209683861504"
+        "id": "275284770645217280"
     }
 ]
