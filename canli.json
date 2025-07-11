@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Brugge KV - Rakow Czestochowa",
+        "time": "19:00",
+        "id": "275378388310560768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "US Concarneau - Brest",
+        "time": "19:00",
+        "id": "275359645500051456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brinje Grosuplje - Shakhtar Donetsk",
+        "time": "19:00",
+        "id": "275399371070246912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Austria Lustenau - FV Ravensburg",
+        "time": "19:00",
+        "id": "275372627147755520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Rapid Wien II - FCM Traiskirchen",
+        "time": "19:00",
+        "id": "275448950414249984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pardubice - FC Sellier & Bellot  Vlasim",
+        "time": "19:00",
+        "id": "275369977215848448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SC Freiburg - SV 1916 Sandhausen",
         "time": "18:30",
         "id": "275348652505042944"
@@ -19,20 +61,6 @@
         "name": "NK Domzale - Vukovar 1991",
         "time": "18:30",
         "id": "275377366670381056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aluminij - NK Varazdin",
-        "time": "18:30",
-        "id": "275456219675758592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EPS - Atlantis FC",
-        "time": "18:30",
-        "id": "275044936830816256"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "TSV Eintracht Braunschweig - Plymouth Argyle FC",
         "time": "18:00",
         "id": "275366977433899008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sporting Kristina - Korsnas FF",
-        "time": "18:00",
-        "id": "275321607749242880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ivory Coast U20 - Burkina Faso U20",
-        "time": "18:00",
-        "id": "275364466516955136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Huila U20 - Martin Garcia RJB U20",
-        "time": "18:00",
-        "id": "275386376835436544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PEC Zwolle (W) - Bayer Leverkusen (W)",
-        "time": "17:00",
-        "id": "275452876594221056"
     }
 ]
