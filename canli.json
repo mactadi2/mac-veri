@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mladost Lucani - FK Radnicki 1923 Kragujevac",
+        "time": "17:30",
+        "id": "275364556632625152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Utrecht - Kaizer Chiefs",
+        "time": "17:00",
+        "id": "275370769085763584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wieczysta Krakow - Sandecja Nowy Sacz",
+        "time": "17:00",
+        "id": "275270608757067776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lokomotive Leipzig - Hamburger SV II",
+        "time": "17:00",
+        "id": "275446048446615552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Znojmo - Zbrojovka Brno B",
+        "time": "17:00",
+        "id": "275468488195313664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PEC Zwolle (W) - Bayer Leverkusen (W)",
+        "time": "17:00",
+        "id": "275452876594221056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Irtys Pavlodar - FC Altai Oskemen",
+        "time": "17:00",
+        "id": "275197543520014336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SpVgg Bayreuth - FC Erzgebirge Aue",
         "time": "16:30",
         "id": "275364018160537600"
@@ -26,26 +75,5 @@
         "name": "Namibia U20 (W) - South Africa U20 (W)",
         "time": "16:00",
         "id": "275445897639366656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KAA Gent II - FC Utrecht Reserves",
-        "time": "15:00",
-        "id": "275436136560726016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Shakhter Karagandy - FK Kaspyi Aktau",
-        "time": "15:00",
-        "id": "275197496506060800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Thimphu City - Southern City",
-        "time": "15:00",
-        "id": "275355144841990144"
     }
 ]
