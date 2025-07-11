@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SV Kapfenberg - SV Lafnitz",
+        "time": "18:00",
+        "id": "275340960822595584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MKS Cracovia Krakow - Podbrezova",
+        "time": "18:00",
+        "id": "275366588361871360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TSV 1860 Munchen - FC Slovan Liberec",
+        "time": "18:00",
+        "id": "275438990083100672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jagiellonia Bialystok SSA - Zaglebie Lubin SSA",
+        "time": "18:00",
+        "id": "275449096941211648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TSV Eintracht Braunschweig - Plymouth Argyle FC",
+        "time": "18:00",
+        "id": "275366977433899008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Ried - Diosgyor VTK",
+        "time": "18:00",
+        "id": "275439038526263296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sporting Kristina - Korsnas FF",
+        "time": "18:00",
+        "id": "275321607749242880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ivory Coast U20 - Burkina Faso U20",
+        "time": "18:00",
+        "id": "275364466516955136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Huila U20 - Martin Garcia RJB U20",
+        "time": "18:00",
+        "id": "275386376835436544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cortulua U20 - Boca Juniors De Cali U20",
+        "time": "18:00",
+        "id": "275389760031297536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mladost Lucani - FK Radnicki 1923 Kragujevac",
         "time": "17:30",
         "id": "275364556632625152"
@@ -30,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Znojmo - Zbrojovka Brno B",
-        "time": "17:00",
-        "id": "275468488195313664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "PEC Zwolle (W) - Bayer Leverkusen (W)",
         "time": "17:00",
         "id": "275452876594221056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Irtys Pavlodar - FC Altai Oskemen",
-        "time": "17:00",
-        "id": "275197543520014336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SpVgg Bayreuth - FC Erzgebirge Aue",
-        "time": "16:30",
-        "id": "275364018160537600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Twente - FK Qarabag",
-        "time": "16:00",
-        "id": "275460165643407360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malawi U20 - Zambia U20",
-        "time": "16:00",
-        "id": "275363857277521920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Namibia U20 (W) - South Africa U20 (W)",
-        "time": "16:00",
-        "id": "275445897639366656"
     }
 ]
