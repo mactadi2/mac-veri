@@ -2,16 +2,65 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SGV Freiberg - TSG 1899 Hoffenheim",
-        "time": "16:30",
-        "id": "275470787731918848"
+        "name": "Eastleigh - Southampton FC",
+        "time": "17:00",
+        "id": "275298311718703104"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Verden 04 - SV Werder Bremen",
+        "name": "FC Kopenhag - Hamburger SV",
+        "time": "17:00",
+        "id": "275463742303637504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Reims - Zulte-Waregem",
+        "time": "17:00",
+        "id": "275378271563157504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Accrington Stanley - Blackburn Rovers",
+        "time": "17:00",
+        "id": "275453161992491008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AFC Fylde - Blackpool FC",
+        "time": "17:00",
+        "id": "275453588936986624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bath City - Port Vale",
+        "time": "17:00",
+        "id": "275294291203592192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Watford FC - AFC Wimbledon",
+        "time": "17:00",
+        "id": "275453589025067008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dartford FC - Charlton Athletic FC",
+        "time": "17:00",
+        "id": "275457986962526208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SGV Freiberg - TSG 1899 Hoffenheim",
         "time": "16:30",
-        "id": "275461088750997504"
+        "id": "275470787731918848"
     },
     {
         "tur": "live",
@@ -37,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Schalke 04 - FC St. Gallen",
+        "time": "16:00",
+        "id": "275545741431279616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Koge - Vendsyssel FF",
         "time": "16:00",
         "id": "275302088816332800"
@@ -47,61 +103,5 @@
         "name": "Bishop's Stortford - Stevenage Borough",
         "time": "16:00",
         "id": "275454842970968064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Schalke 04 - FC St. Gallen",
-        "time": "16:00",
-        "id": "275545741431279616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Drochtersen \/ Assel - FC St. Pauli",
-        "time": "16:00",
-        "id": "275065451431727104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Lorient - FC Fleury 91",
-        "time": "16:00",
-        "id": "275459727887044608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "RKAV Volendam - FC Volendam",
-        "time": "15:30",
-        "id": "275452957416361984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Ried - FC Liefering",
-        "time": "15:30",
-        "id": "275065451044802560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Feyenoord Rotterdam - Union St.-Gilloise",
-        "time": "15:00",
-        "id": "275301774330564608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sparta Rotterdam - ADO Den Haag",
-        "time": "15:00",
-        "id": "275464783884587008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Weston-super-Mare FC - Exeter City FC",
-        "time": "15:00",
-        "id": "275465386649063424"
     }
 ]
