@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Detroit City FC - Hartford Athletic",
+        "time": "02:00",
+        "id": "275060038944559104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Indy Eleven - Rhode Island",
+        "time": "02:00",
+        "id": "275060039032639488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "A.C. Connecticut - Boston City",
+        "time": "02:00",
+        "id": "275060038185390080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Buffalo - Erie Sports Center",
+        "time": "02:00",
+        "id": "275060038848090112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ocean City Nor'easters - Delaware FC",
+        "time": "02:00",
+        "id": "275060038119329792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Black Rock FC - Boston Bolts",
+        "time": "02:00",
+        "id": "275060038271373312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Morris Elite - Hudson Valley Hammers",
         "time": "01:30",
         "id": "275058402118471680"
@@ -16,20 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Floresta EC - Ypiranga RS",
-        "time": "01:30",
-        "id": "275042118391697408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tombense MG - ABC Futebol Clube",
-        "time": "01:30",
-        "id": "275016024299016192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CA Defensores de Belgrano - Nueva Chicago",
         "time": "01:10",
         "id": "275056318824452096"
@@ -40,13 +68,6 @@
         "name": "San Martin Tucuman - CA Los Andes",
         "time": "01:00",
         "id": "275131774040936448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independencia - Humaita",
-        "time": "01:00",
-        "id": "275048917831389184"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "LDU Quito  - Emelec Guayaquil",
         "time": "00:30",
         "id": "275050059401400320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "The Strongest La Paz - Real Tomayapo",
-        "time": "00:30",
-        "id": "275054346087043072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Marathon - Atletico Choloma",
-        "time": "00:00",
-        "id": "275532409330601984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BALLARD FC - Snohomish United",
-        "time": "00:00",
-        "id": "275052631692546048"
     }
 ]
