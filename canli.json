@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NK Maribor - FC CSKA 1948",
+        "time": "19:00",
+        "id": "275475420775845888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Meerssen 1918 - MVV Maastricht",
+        "time": "19:00",
+        "id": "275385818612371456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Schwechat - FK Austria Wien II",
+        "time": "19:00",
+        "id": "275462370396082176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Slask Wroclaw - FC Hradec Kralove",
+        "time": "19:00",
+        "id": "275478719158685696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Villefranche Beaujolais - Clermont",
+        "time": "19:00",
+        "id": "275475384809689088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "LASK Linz - FK AS Trencin",
         "time": "18:30",
         "id": "275494534763384832"
@@ -16,9 +51,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "South Shields - Sunderland",
-        "time": "18:00",
-        "id": "275456564050137088"
+        "name": "Floridsdorfer AC - Bihor Oradea",
+        "time": "18:30",
+        "id": "275457439397187584"
     },
     {
         "tur": "live",
@@ -26,6 +61,13 @@
         "name": "FC Dordrecht - RSC Anderlecht",
         "time": "18:00",
         "id": "275466350408896512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Shields - Sunderland",
+        "time": "18:00",
+        "id": "275456564050137088"
     },
     {
         "tur": "live",
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Sturm Graz - Polissya Zhytomyr",
-        "time": "17:30",
-        "id": "275537929909178368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Kopenhag - Hamburger SV",
-        "time": "17:00",
-        "id": "275463742303637504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Reims - Zulte-Waregem",
-        "time": "17:00",
-        "id": "275378271563157504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dartford FC - Charlton Athletic FC",
-        "time": "17:00",
-        "id": "275457986962526208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Banik Ostrava - FC Dukla Banska Bystrica",
-        "time": "17:00",
-        "id": "275462892702273536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Peterborough Sports - Doncaster Rovers",
-        "time": "17:00",
-        "id": "275538472686718976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hitchin Town FC - Milton Keynes Dons FC",
-        "time": "17:00",
-        "id": "275293903395098624"
+        "name": "Prostejov - SK Sigma Olomouc 2",
+        "time": "18:00",
+        "id": "275467976048775168"
     }
 ]
