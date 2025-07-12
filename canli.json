@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Grenoble Foot 38 - Servette Geneve FC",
+        "time": "19:30",
+        "id": "275477725342470144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NK Maribor - FC CSKA 1948",
         "time": "19:00",
         "id": "275475420775845888"
@@ -58,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ethnikos Achnas FC - Apollon Limmassol FC",
+        "time": "18:30",
+        "id": "275385818285215744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Dordrecht - RSC Anderlecht",
         "time": "18:00",
         "id": "275466350408896512"
@@ -89,19 +103,5 @@
         "name": "Pogon Siedlce - LKS Lomza",
         "time": "18:00",
         "id": "275464096314429440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "WSG Hertha Wels - Wiener Viktoria",
-        "time": "18:00",
-        "id": "275460644886679552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Prostejov - SK Sigma Olomouc 2",
-        "time": "18:00",
-        "id": "275467976048775168"
     }
 ]
