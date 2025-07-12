@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Barbate CF - Cadiz",
+        "time": "20:45",
+        "id": "275537917074608128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Blau-Weiss Linz - TSV Fortuna Dusseldorf",
         "time": "20:30",
         "id": "275065451294363648"
@@ -58,9 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Maribor - FC CSKA 1948",
-        "time": "19:00",
-        "id": "275475420775845888"
+        "name": "EM Deportivo Binacional - FBC Melgar Arequipa",
+        "time": "19:30",
+        "id": "275004770189709312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Marsaxlokk - Sliema Wanderers FC",
+        "time": "19:15",
+        "id": "275566795606331392"
     },
     {
         "tur": "live",
@@ -72,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Schwechat - FK Austria Wien II",
-        "time": "19:00",
-        "id": "275462370396082176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Slask Wroclaw - FC Hradec Kralove",
-        "time": "19:00",
-        "id": "275478719158685696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Villefranche Beaujolais - Clermont",
         "time": "19:00",
         "id": "275475384809689088"
@@ -93,15 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "ND Gorica - Amsterdam Fc",
+        "name": "Fredrikstad FK - Molde FK",
         "time": "19:00",
-        "id": "275528693638631424"
+        "id": "274750042011734016"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Vorwarts Steyr - Sportunion Mauer",
+        "name": "CA All Boys - Quilmes Atletico Club",
         "time": "19:00",
-        "id": "275493084323778560"
+        "id": "275362490687295488"
     }
 ]
