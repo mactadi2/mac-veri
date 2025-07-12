@@ -2,9 +2,58 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Blau-Weiss Linz - TSV Fortuna Dusseldorf",
+        "time": "20:30",
+        "id": "275065451294363648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cardiff City FC - Southend United",
+        "time": "20:00",
+        "id": "275389600773574656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Johor Darul Takzim FC - Levante",
+        "time": "20:00",
+        "id": "275468562349559808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Neuchatel Xamax FC - Biel",
+        "time": "20:00",
+        "id": "275462370225164288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFC Cherno More Varna - Dobrudzha Dobrich",
+        "time": "20:00",
+        "id": "275462340217016320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Grenoble Foot 38 - Servette Geneve FC",
         "time": "19:30",
         "id": "275477725342470144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FSV Hollenbach - Würzburger FV",
+        "time": "19:30",
+        "id": "275465222612979712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Llandudno Fc - Caernarfon Town FC",
+        "time": "19:30",
+        "id": "275493584593096704"
     },
     {
         "tur": "live",
@@ -44,64 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "LASK Linz - FK AS Trencin",
-        "time": "18:30",
-        "id": "275494534763384832"
+        "name": "ND Gorica - Amsterdam Fc",
+        "time": "19:00",
+        "id": "275528693638631424"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Nantes - Stade Laval",
-        "time": "18:30",
-        "id": "275165751099396096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Floridsdorfer AC - Bihor Oradea",
-        "time": "18:30",
-        "id": "275457439397187584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethnikos Achnas FC - Apollon Limmassol FC",
-        "time": "18:30",
-        "id": "275385818285215744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Dordrecht - RSC Anderlecht",
-        "time": "18:00",
-        "id": "275466350408896512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South Shields - Sunderland",
-        "time": "18:00",
-        "id": "275456564050137088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Usti nad Labem - AC Dukla Praha",
-        "time": "18:00",
-        "id": "275310272634294272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MFK Karvina - KS Gornik Zabrze",
-        "time": "18:00",
-        "id": "275494426622693376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pogon Siedlce - LKS Lomza",
-        "time": "18:00",
-        "id": "275464096314429440"
+        "name": "SK Vorwarts Steyr - Sportunion Mauer",
+        "time": "19:00",
+        "id": "275493084323778560"
     }
 ]
