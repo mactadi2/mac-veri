@@ -58,6 +58,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Bregenz - FC Wil 1900",
+        "time": "14:00",
+        "id": "275460792787275776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stamford - Doncaster Rovers",
+        "time": "14:00",
+        "id": "275460771445608448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Briton Ferry Llansawel - Cambrian & Clydach Vale",
+        "time": "14:00",
+        "id": "275451509281525760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "RSC Anderlecht - Rakow Czestochowa",
         "time": "13:00",
         "id": "275474583152365568"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hvidovre IF - FC Roskilde",
-        "time": "13:00",
-        "id": "275462128245280768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FK Mlada Boleslav - Polissya Zhytomyr",
         "time": "13:00",
         "id": "275453614597738496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arka Gdynia - Hapoel Katamon Jerusalem",
-        "time": "13:00",
-        "id": "275529226188361728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "LKS Lodz II - GKS Belchatow",
-        "time": "13:00",
-        "id": "275453089745604608"
     }
 ]
