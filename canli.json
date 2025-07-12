@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "North Eastern Metro Stars - Adelaide Croatia Raiders",
+        "time": "10:30",
+        "id": "275398933382041600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gold Coast Knights - Peninsula Power",
         "time": "10:15",
         "id": "275044936509952000"
@@ -44,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Western Knights SC - Kingsway Olympic",
+        "name": "Stirling Macedonia FC - Balcatta",
         "time": "10:00",
-        "id": "275044949019463680"
+        "id": "275044949317259264"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Stirling Macedonia FC - Balcatta",
+        "name": "Western Knights SC - Kingsway Olympic",
         "time": "10:00",
-        "id": "275044949317259264"
+        "id": "275044949019463680"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Asuka FC - Tiamo Hirakata",
         "time": "09:00",
         "id": "275348048202305536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SWQ Thunder - Logan Lightning",
-        "time": "08:30",
-        "id": "275249447159599104"
     }
 ]
