@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "MTK Budapest - Kecskemeti TE",
+        "time": "11:30",
+        "id": "275466636245471232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Admira Praha - FK Teplice B",
+        "time": "11:30",
+        "id": "275533792242962432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Kladno - TJ Jiskra Domazlice",
+        "time": "11:30",
+        "id": "275533792604721152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Podkonice - Lokomotiva Zvolen",
+        "time": "11:30",
+        "id": "275536185133240320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KFC Komarno - Budapest Honved FC",
         "time": "11:00",
         "id": "275451984455274496"
@@ -30,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Paksi FC - Ivancsa Kse",
+        "time": "11:00",
+        "id": "275531870159114240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CS Concordia Chiajna - Chindia Targoviste",
         "time": "11:00",
         "id": "275534658645659648"
@@ -44,16 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Paksi FC - Ivancsa Kse",
+        "name": "NK Gorica - NK Siroki Brijeg",
         "time": "11:00",
-        "id": "275531870159114240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Kudrivka - Veres Rivne",
-        "time": "11:00",
-        "id": "275529418302164992"
+        "id": "275525607440388096"
     },
     {
         "tur": "live",
@@ -65,23 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Gorica - NK Siroki Brijeg",
+        "name": "FK Kudrivka - Veres Rivne",
         "time": "11:00",
-        "id": "275525607440388096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guangdong Mingtu - Wenzhou Professional F.C",
-        "time": "11:00",
-        "id": "275455382810398720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shanxi Chongde Ronghai Football Club - Taian Tiankuang",
-        "time": "11:00",
-        "id": "275455393425133568"
+        "id": "275529418302164992"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "North Eastern Metro Stars - Adelaide Croatia Raiders",
         "time": "10:30",
         "id": "275398933382041600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mt Druitt Town Rangers - Sydney FC NPL",
-        "time": "10:00",
-        "id": "275156344448880640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bonnyrigg White Eagles U20 - Dulwich Hill U20",
-        "time": "10:00",
-        "id": "275430829478514688"
     }
 ]
