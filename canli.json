@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Melbourne City U21 - Northcote City",
+        "time": "08:00",
+        "id": "275290743790243840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Boroondara Carey Eagles - Springvale White Eagles",
         "time": "08:00",
         "id": "275290670900580352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Holland Park Hawks U23 - Ipswich FC U23",
+        "time": "08:00",
+        "id": "275417825661816832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Magic United U23 - Brisbane Strikers U23",
+        "time": "08:00",
+        "id": "275433668686778368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Coast United - Prospect United FC",
+        "time": "08:00",
+        "id": "275246918366531584"
     },
     {
         "tur": "live",
@@ -16,9 +44,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Brunswick Juventus FC (W) - South Melbourne (W)",
+        "time": "08:00",
+        "id": "275189102015549440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Canberra Croatia U23 - Monaro Panthers U23",
         "time": "08:00",
         "id": "275364132869509120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tuggeranong United U23 - Queanbeyan City U23",
+        "time": "08:00",
+        "id": "275364132811837440"
     },
     {
         "tur": "live",
@@ -33,13 +75,6 @@
         "name": "Devonport City Strikers - Clarence Zebras",
         "time": "07:30",
         "id": "275044948756271104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Northern Rangers FC - Launceston City Reserves",
-        "time": "07:15",
-        "id": "275426506665234432"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "South Hobart - Riverside Olympic",
         "time": "07:00",
         "id": "275044948591644672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sutherland Sharks U20 - NWS Spirit FC U20",
-        "time": "06:30",
-        "id": "275238580244320256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Island Bay United - Waterside Karori",
-        "time": "06:30",
-        "id": "275401897721073664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SWQ Thunder (W) - Caboolture FC (W)",
-        "time": "06:15",
-        "id": "275409174010138624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Tijuana Xoloitzcuintles de Caliente - Gallos Blancos Queretaro",
-        "time": "06:05",
-        "id": "273218445433245696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Juarez - Club America",
-        "time": "06:00",
-        "id": "273218440922271744"
     }
 ]
