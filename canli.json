@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "LASK Linz - FK AS Trencin",
+        "time": "18:30",
+        "id": "275494534763384832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Nantes - Stade Laval",
+        "time": "18:30",
+        "id": "275165751099396096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "South Shields - Sunderland",
         "time": "18:00",
         "id": "275456564050137088"
@@ -12,6 +26,34 @@
         "name": "FC Dordrecht - RSC Anderlecht",
         "time": "18:00",
         "id": "275466350408896512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Usti nad Labem - AC Dukla Praha",
+        "time": "18:00",
+        "id": "275310272634294272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MFK Karvina - KS Gornik Zabrze",
+        "time": "18:00",
+        "id": "275494426622693376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pogon Siedlce - LKS Lomza",
+        "time": "18:00",
+        "id": "275464096314429440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "WSG Hertha Wels - Wiener Viktoria",
+        "time": "18:00",
+        "id": "275460644886679552"
     },
     {
         "tur": "live",
@@ -30,23 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Eastleigh - Southampton FC",
-        "time": "17:00",
-        "id": "275298311718703104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Reims - Zulte-Waregem",
         "time": "17:00",
         "id": "275378271563157504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AFC Fylde - Blackpool FC",
-        "time": "17:00",
-        "id": "275453588936986624"
     },
     {
         "tur": "live",
@@ -58,50 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Accrington Stanley - Blackburn Rovers",
+        "name": "FC Banik Ostrava - FC Dukla Banska Bystrica",
         "time": "17:00",
-        "id": "275453161992491008"
+        "id": "275462892702273536"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Watford FC - AFC Wimbledon",
+        "name": "Peterborough Sports - Doncaster Rovers",
         "time": "17:00",
-        "id": "275453589025067008"
+        "id": "275538472686718976"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bath City - Port Vale",
+        "name": "Hitchin Town FC - Milton Keynes Dons FC",
         "time": "17:00",
-        "id": "275294291203592192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alfreton Town FC - Burton Albion",
-        "time": "17:00",
-        "id": "275378270765191168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gillingham - Reading",
-        "time": "17:00",
-        "id": "275378271716249600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC United of Manchester - Rochdale",
-        "time": "17:00",
-        "id": "275378270872145920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leamington FC - Shrewsbury Town",
-        "time": "17:00",
-        "id": "275378271645995008"
+        "id": "275293903395098624"
     }
 ]
