@@ -44,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Independencia - Humaita",
+        "time": "01:00",
+        "id": "275048917831389184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vasco da Gama RJ - Botafogo RJ",
         "time": "00:30",
         "id": "272502044624031744"
@@ -96,12 +103,5 @@
         "name": "BALLARD FC - Snohomish United",
         "time": "00:00",
         "id": "275052631692546048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nacional Asuncion - Guarani Asuncion",
-        "time": "00:00",
-        "id": "275043835914096640"
     }
 ]
