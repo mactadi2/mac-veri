@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sligo Rovers FC - Derry City",
+        "time": "21:45",
+        "id": "274943776155373568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Umraniyespor - Galatasaray SK",
+        "time": "21:30",
+        "id": "275529362483318784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valletta FC - Saint Patrick FC Zabbar",
+        "time": "21:30",
+        "id": "275575267306639360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Defensores Unidos - Gimnasia Mendoza",
+        "time": "21:30",
+        "id": "275130814556147712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Temperley - Central Norte Salta ",
+        "time": "21:30",
+        "id": "275044940930748416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Mercedes - Deportivo Muniz",
+        "time": "21:30",
+        "id": "275048916140036096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juventud Unida San Miguel - Deportivo Paraguayo",
+        "time": "21:30",
+        "id": "275048916568903680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Moron - Agropecuario",
         "time": "21:15",
         "id": "275362544184594432"
@@ -30,27 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Nova Iguacu FC - Marica RJ",
-        "time": "21:00",
-        "id": "275044927549870080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Monte Azul - Inter de Limeira",
-        "time": "21:00",
-        "id": "275044928156995584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Centro Atletico Fenix Montevideo - CA Rentistas",
-        "time": "21:00",
-        "id": "275363334793072640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Barbate CF - Cadiz",
         "time": "20:45",
         "id": "275537917074608128"
@@ -65,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cardiff City FC - Southend United",
-        "time": "20:00",
-        "id": "275389600773574656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Johor Darul Takzim FC - Levante",
         "time": "20:00",
         "id": "275468562349559808"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Neuchatel Xamax FC - Biel",
-        "time": "20:00",
-        "id": "275462370225164288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "PFC Cherno More Varna - Dobrudzha Dobrich",
         "time": "20:00",
         "id": "275462340217016320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grenoble Foot 38 - Servette Geneve FC",
-        "time": "19:30",
-        "id": "275477725342470144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Llandudno Fc - Caernarfon Town FC",
-        "time": "19:30",
-        "id": "275493584593096704"
     }
 ]
