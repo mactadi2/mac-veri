@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AFC Ajax - AGF Aarhus",
+        "time": "16:00",
+        "id": "275065451377201152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chesterfield - Nottingham Forest",
+        "time": "16:00",
+        "id": "275454530972422144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Panathinaikos - SC Braga",
+        "time": "16:00",
+        "id": "275462253319426048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Koge - Vendsyssel FF",
+        "time": "16:00",
+        "id": "275302088816332800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bishop's Stortford - Stevenage Borough",
+        "time": "16:00",
+        "id": "275454842970968064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Schalke 04 - FC St. Gallen",
+        "time": "16:00",
+        "id": "275545741431279616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Feyenoord Rotterdam - Union St.-Gilloise",
         "time": "15:00",
         "id": "275301774330564608"
@@ -30,9 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Nurnberg - 1.FC Schweinfurt 05",
+        "name": "NEC Nijmegen - Kaizer Chiefs",
         "time": "15:00",
-        "id": "275460793156374528"
+        "id": "275474642882400256"
     },
     {
         "tur": "live",
@@ -44,9 +86,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NEC Nijmegen - Kaizer Chiefs",
+        "name": "FC Emmen - FC Groningen",
         "time": "15:00",
-        "id": "275474642882400256"
+        "id": "275276903883083776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SSG Bergisch Gladbach - 1. FC Köln",
+        "time": "15:00",
+        "id": "275465222719934464"
     },
     {
         "tur": "live",
@@ -54,54 +103,5 @@
         "name": "FC Kaiserslautern - Notts County",
         "time": "14:30",
         "id": "275460851962613760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Basel - FC Winterthur",
-        "time": "14:00",
-        "id": "275349459310874624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Viktoria Plzen - VfL Bochum",
-        "time": "14:00",
-        "id": "275460792649912320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Crystal Palace FC - Millwall",
-        "time": "14:00",
-        "id": "275442154173763584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VVV Venlo - Lommel United",
-        "time": "14:00",
-        "id": "275284460103143424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lyngby BK - AC Horsens",
-        "time": "14:00",
-        "id": "275297680607023104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bayern Munich II - First Vienna Fernwärme FC 1894",
-        "time": "14:00",
-        "id": "275458793344733184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SpVgg Greuther Furth - Hallescher FC",
-        "time": "14:00",
-        "id": "275460792719118336"
     }
 ]
