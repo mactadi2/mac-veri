@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Verden 04 - SV Werder Bremen",
+        "time": "16:30",
+        "id": "275461088750997504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AFC Ajax - AGF Aarhus",
         "time": "16:00",
         "id": "275065451377201152"
@@ -51,9 +58,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Drochtersen \/ Assel - FC St. Pauli",
+        "time": "16:00",
+        "id": "275065451431727104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Lorient - FC Fleury 91",
+        "time": "16:00",
+        "id": "275459727887044608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "RKAV Volendam - FC Volendam",
         "time": "15:30",
         "id": "275452957416361984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Ried - FC Liefering",
+        "time": "15:30",
+        "id": "275065451044802560"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cove Rangers - Aberdeen FC",
-        "time": "15:00",
-        "id": "275370715431178240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NEC Nijmegen - Kaizer Chiefs",
-        "time": "15:00",
-        "id": "275474642882400256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Weston-super-Mare FC - Exeter City FC",
         "time": "15:00",
         "id": "275465386649063424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSG Bergisch Gladbach - 1. FC Köln",
-        "time": "15:00",
-        "id": "275465222719934464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Emmen - FC Groningen",
-        "time": "15:00",
-        "id": "275276903883083776"
     }
 ]
