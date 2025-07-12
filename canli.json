@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "RSC Anderlecht - Rakow Czestochowa",
+        "time": "13:00",
+        "id": "275474583152365568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "OKS Odra Opole - SFC Opava",
+        "time": "13:00",
+        "id": "275455090000793600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hvidovre IF - FC Roskilde",
+        "time": "13:00",
+        "id": "275462128245280768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Stockport County - Bristol Rovers",
         "time": "12:30",
         "id": "275363160662347776"
@@ -82,26 +103,5 @@
         "name": "NK Istra 1961 Pula - FC Slovacko",
         "time": "12:00",
         "id": "275450401641336832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MTK Budapest - Kecskemeti TE",
-        "time": "11:30",
-        "id": "275466636245471232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jagiellonia Bialystok SSA - FK Teplice",
-        "time": "11:00",
-        "id": "275479516657356800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Gorica - NK Siroki Brijeg",
-        "time": "11:00",
-        "id": "275525607440388096"
     }
 ]
