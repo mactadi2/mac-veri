@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Adamstown Rosebud FC - Newcastle Olympic",
+        "time": "07:00",
+        "id": "275044927172382720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Hobart - Riverside Olympic",
+        "time": "07:00",
+        "id": "275044948591644672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sutherland Sharks U20 - NWS Spirit FC U20",
+        "time": "06:30",
+        "id": "275238580244320256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Island Bay United - Waterside Karori",
+        "time": "06:30",
+        "id": "275401897721073664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Manurewa AFC - Birkenhead United",
         "time": "06:00",
         "id": "275416814788415488"
@@ -16,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "West Coast Rangers - Western Springs AFC",
+        "name": " Tauranga City AFC - Auckland City",
         "time": "06:00",
-        "id": "275416817389932544"
+        "id": "275416817070116864"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": " Tauranga City AFC - Auckland City",
+        "name": "West Coast Rangers - Western Springs AFC",
         "time": "06:00",
-        "id": "275416817070116864"
+        "id": "275416817389932544"
     },
     {
         "tur": "live",
@@ -58,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Juarez - Club America",
+        "time": "06:00",
+        "id": "273218440922271744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Universities of Canterbury - Nelson Suburbs FC",
         "time": "05:45",
         "id": "275476462421807104"
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cashmere Technical - Wanaka AFC",
-        "time": "05:45",
-        "id": "275515940248096768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Gold Coast Knights U23 - Peninsula Power U23",
         "time": "05:45",
         "id": "275248216720674816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Midlakes United - Bigfoot FC",
-        "time": "05:00",
-        "id": "275044930076938240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cooks Hill United FC Reserves - Edgeworth Eagles FC Reserves",
-        "time": "05:00",
-        "id": "275428276592316416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adamstown Rosebud Reserves - Newcastle Olympic Reserves",
-        "time": "05:00",
-        "id": "275373991502417920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Weston Workers Bears FC Reserves - Broadmeadow Magic FC Reserves",
-        "time": "05:00",
-        "id": "275374120648183808"
     }
 ]
