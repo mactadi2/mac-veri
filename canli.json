@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vasco da Gama RJ - Botafogo RJ",
+        "time": "00:30",
+        "id": "272502044624031744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnasia y Esgrima La Plata - Instituto de Cordoba",
+        "time": "00:30",
+        "id": "271950328325345280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Huracan - Club Atletico Belgrano",
+        "time": "00:30",
+        "id": "271961152034050048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paysandu - Atletico Clube Goianiense",
+        "time": "00:30",
+        "id": "274959273311735808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "LDU Quito  - Emelec Guayaquil",
+        "time": "00:30",
+        "id": "275050059401400320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "The Strongest La Paz - Real Tomayapo",
+        "time": "00:30",
+        "id": "275054346087043072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Marathon - Atletico Choloma",
         "time": "00:00",
         "id": "275532409330601984"
@@ -61,47 +103,5 @@
         "name": "Seacoast United Phantoms - Albany Rush",
         "time": "23:00",
         "id": "275048915444830208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Itabaiana - AD Confianca SE",
-        "time": "23:00",
-        "id": "275042118335074304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sao Bernardo FC - AA Ponte Preta",
-        "time": "23:00",
-        "id": "275014958546292736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portuguesa Desportos - EC Agua Santa SP",
-        "time": "23:00",
-        "id": "275048917691928576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Flamengo RJ - Sao Paulo FC",
-        "time": "22:30",
-        "id": "273098090592997376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Internacional RS - EC Vitoria",
-        "time": "22:30",
-        "id": "272500686214795264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sousa Pb - Treze FC PB",
-        "time": "22:30",
-        "id": "275046956062085120"
     }
 ]
