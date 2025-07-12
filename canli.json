@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Philadelphia Union - New York Red Bull",
+        "time": "02:30",
+        "id": "274972186576556032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orlando City SC - CF Montreal",
+        "time": "02:30",
+        "id": "274960801408880640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Toronto FC - Atlanta United",
+        "time": "02:30",
+        "id": "274960817357721600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Miami FC - Lexington SC",
+        "time": "02:30",
+        "id": "275062051499544576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Paranaense PR - Goias EC",
+        "time": "02:30",
+        "id": "275038313880096768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Detroit City FC - Hartford Athletic",
         "time": "02:00",
         "id": "275060038944559104"
@@ -37,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Black Rock FC - Boston Bolts",
-        "time": "02:00",
-        "id": "275060038271373312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Morris Elite - Hudson Valley Hammers",
         "time": "01:30",
         "id": "275058402118471680"
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vasco da Gama RJ - Botafogo RJ",
-        "time": "00:30",
-        "id": "272502044624031744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia y Esgrima La Plata - Instituto de Cordoba",
-        "time": "00:30",
-        "id": "271950328325345280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Huracan - Club Atletico Belgrano",
-        "time": "00:30",
-        "id": "271961152034050048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paysandu - Atletico Clube Goianiense",
-        "time": "00:30",
-        "id": "274959273311735808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "LDU Quito  - Emelec Guayaquil",
-        "time": "00:30",
-        "id": "275050059401400320"
+        "name": "North Carolina FC U23 - Wake FC",
+        "time": "01:00",
+        "id": "275056318636756992"
     }
 ]
