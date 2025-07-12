@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SGV Freiberg - TSG 1899 Hoffenheim",
+        "time": "16:30",
+        "id": "275470787731918848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AFC Ajax - AGF Aarhus",
         "time": "16:00",
         "id": "275065451377201152"
@@ -44,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "RKAV Volendam - FC Volendam",
+        "time": "15:30",
+        "id": "275452957416361984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Feyenoord Rotterdam - Union St.-Gilloise",
         "time": "15:00",
         "id": "275301774330564608"
@@ -65,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Norwich City FC - Northampton Town",
-        "time": "15:00",
-        "id": "275462105031905280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "NEC Nijmegen - Kaizer Chiefs",
         "time": "15:00",
         "id": "275474642882400256"
@@ -86,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Emmen - FC Groningen",
-        "time": "15:00",
-        "id": "275276903883083776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SSG Bergisch Gladbach - 1. FC Köln",
         "time": "15:00",
         "id": "275465222719934464"
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Kaiserslautern - Notts County",
-        "time": "14:30",
-        "id": "275460851962613760"
+        "name": "FC Emmen - FC Groningen",
+        "time": "15:00",
+        "id": "275276903883083776"
     }
 ]
