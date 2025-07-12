@@ -2,30 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SV Wehen Wiesbaden - FC Schalke 04",
+        "time": "12:00",
+        "id": "275451969715441664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Primorje Ajdovscina - GNK Dinamo Zagreb",
+        "time": "12:00",
+        "id": "275450401531236352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Curzon Ashton - Wigan Athletic",
+        "time": "12:00",
+        "id": "275459262516432896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Queens Park Rangers FC - Castellon",
+        "time": "12:00",
+        "id": "275455233323307008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lausanne-Sports - Etoile Carouge FC",
+        "time": "12:00",
+        "id": "275270929215524864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MKF Chrudim - Hlubina",
+        "time": "12:00",
+        "id": "275359384220078080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "MTK Budapest - Kecskemeti TE",
         "time": "11:30",
         "id": "275466636245471232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Admira Praha - FK Teplice B",
-        "time": "11:30",
-        "id": "275533792242962432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Kladno - TJ Jiskra Domazlice",
-        "time": "11:30",
-        "id": "275533792604721152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Podkonice - Lokomotiva Zvolen",
-        "time": "11:30",
-        "id": "275536185133240320"
     },
     {
         "tur": "live",
@@ -58,23 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Paksi FC - Ivancsa Kse",
-        "time": "11:00",
-        "id": "275531870159114240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CS Concordia Chiajna - Chindia Targoviste",
         "time": "11:00",
         "id": "275534658645659648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bvsc Zuglo - Csakvar TK",
-        "time": "11:00",
-        "id": "275527059424546816"
     },
     {
         "tur": "live",
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Kolin - Bohemians 1905 B",
+        "name": "Paksi FC - Ivancsa Kse",
         "time": "11:00",
-        "id": "275535893267353600"
+        "id": "275531870159114240"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Kudrivka - Veres Rivne",
+        "name": "Bvsc Zuglo - Csakvar TK",
         "time": "11:00",
-        "id": "275529418302164992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "North Eastern Metro Stars - Adelaide Croatia Raiders",
-        "time": "10:30",
-        "id": "275398933382041600"
+        "id": "275527059424546816"
     }
 ]
