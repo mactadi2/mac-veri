@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hurstville Zfc - Parramatta FC",
+        "time": "10:00",
+        "id": "275246918426300416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Capalaba - Broadbeach United",
+        "time": "09:45",
+        "id": "275249459190960128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Glenorchy Knights - Launceston City",
+        "time": "09:45",
+        "id": "275044948674482176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maitland - Charlestown Azzurri",
+        "time": "09:30",
+        "id": "275044927404118016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mindil Aces - Darwin Hearts",
+        "time": "09:30",
+        "id": "275411998266757120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kingborough Lions - Launceston United",
+        "time": "09:30",
+        "id": "275044948517195776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Northern Tigers - Hakoah Sydney City East",
         "time": "09:15",
         "id": "275236265293647872"
@@ -51,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "WDSC Wolves U23 - Brisbane Olympic U23",
-        "time": "09:00",
-        "id": "275248290789986304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SWQ Thunder - Logan Lightning",
         "time": "08:30",
         "id": "275249447159599104"
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Melbourne City U21 - Northcote City",
-        "time": "08:00",
-        "id": "275290743790243840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boroondara Carey Eagles - Springvale White Eagles",
-        "time": "08:00",
-        "id": "275290670900580352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Holland Park Hawks U23 - Ipswich FC U23",
-        "time": "08:00",
-        "id": "275417825661816832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Magic United U23 - Brisbane Strikers U23",
-        "time": "08:00",
-        "id": "275433668686778368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Central Coast United - Prospect United FC",
         "time": "08:00",
         "id": "275246918366531584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Basara Hyogo - FC AWJ",
-        "time": "08:00",
-        "id": "275417288243548160"
     }
 ]
