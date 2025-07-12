@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Feyenoord Rotterdam - Union St.-Gilloise",
+        "time": "15:00",
+        "id": "275301774330564608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sparta Rotterdam - ADO Den Haag",
+        "time": "15:00",
+        "id": "275464783884587008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cove Rangers - Aberdeen FC",
+        "time": "15:00",
+        "id": "275370715431178240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Norwich City FC - Northampton Town",
+        "time": "15:00",
+        "id": "275462105031905280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Nurnberg - 1.FC Schweinfurt 05",
+        "time": "15:00",
+        "id": "275460793156374528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Weston-super-Mare FC - Exeter City FC",
+        "time": "15:00",
+        "id": "275465386649063424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NEC Nijmegen - Kaizer Chiefs",
+        "time": "15:00",
+        "id": "275474642882400256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Kaiserslautern - Notts County",
         "time": "14:30",
         "id": "275460851962613760"
@@ -54,54 +103,5 @@
         "name": "SpVgg Greuther Furth - Hallescher FC",
         "time": "14:00",
         "id": "275460792719118336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Bregenz - FC Wil 1900",
-        "time": "14:00",
-        "id": "275460792787275776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stamford - Doncaster Rovers",
-        "time": "14:00",
-        "id": "275460771445608448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Briton Ferry Llansawel - Cambrian & Clydach Vale",
-        "time": "14:00",
-        "id": "275451509281525760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "RSC Anderlecht - Rakow Czestochowa",
-        "time": "13:00",
-        "id": "275474583152365568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "OKS Odra Opole - SFC Opava",
-        "time": "13:00",
-        "id": "275455090000793600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fremad Amager - Trelleborgs FF",
-        "time": "13:00",
-        "id": "275271238594727936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Mlada Boleslav - Polissya Zhytomyr",
-        "time": "13:00",
-        "id": "275453614597738496"
     }
 ]
