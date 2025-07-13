@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Colon de Santa Fe - Almirante Brown de Lules",
+        "time": "19:40",
+        "id": "275132988452376576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Zenit St. Petersburg - FK Vojvodina Novi Sad",
+        "time": "19:30",
+        "id": "275183666213294080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BK Hacken - Halmstads BK",
+        "time": "19:30",
+        "id": "274745443214299136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kızılyıldız - Puskas FC Academy",
         "time": "19:00",
         "id": "275540154508251136"
@@ -19,6 +40,13 @@
         "name": "FC Rodange 91 - Jeunesse Canach",
         "time": "19:00",
         "id": "275629434806079488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fh Hafnarfjördur - KA Akureyri",
+        "time": "19:00",
+        "id": "275199609619484672"
     },
     {
         "tur": "live",
@@ -51,20 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Ujpest - FC Kryvbas Kriviy Rih",
-        "time": "18:00",
-        "id": "275607679908581376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lokomotiv Gorna Oryahovitsa - Psfc Chernomoretz Burgas",
-        "time": "18:00",
-        "id": "275652624255160320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Stromsgodset IF - Tromso IL",
         "time": "18:00",
         "id": "274750042084085760"
@@ -89,19 +103,5 @@
         "name": "FK Haugesund - KFUM Oslo",
         "time": "18:00",
         "id": "274750041845010432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AIK - Degerfors IF",
-        "time": "17:30",
-        "id": "274745442965786624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IFK Varnamo - Djurgardens IF",
-        "time": "17:30",
-        "id": "274745444065742848"
     }
 ]
