@@ -58,13 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lechia Gdansk - Chojniczanka Chojnice",
-        "time": "13:00",
-        "id": "275551249287483392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Incheon United FC - Chungnam Asan",
         "time": "13:00",
         "id": "275000429218238464"
@@ -103,5 +96,12 @@
         "name": "Gangneung City - Jeonbuk Motors II",
         "time": "13:00",
         "id": "275367238622646272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gyeongju KHNP - Daejeon Korail",
+        "time": "13:00",
+        "id": "275178156799954944"
     }
 ]
