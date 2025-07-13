@@ -51,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Antofagasta - San Luis de Quillota",
+        "time": "19:30",
+        "id": "275184555943661568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santiago Morning - Copiapo",
+        "time": "19:30",
+        "id": "275177054674227200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Leandro Niceforo Alem - JJ Urquiza",
         "time": "19:05",
         "id": "275583127077916672"
@@ -89,19 +103,5 @@
         "name": "Sporting Cristal Lima - Atletico Grau",
         "time": "19:00",
         "id": "275004770116308992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AC Oulu - Kotkan Tyovaen Palloilijat",
-        "time": "18:30",
-        "id": "275008020232146944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EIF Ekenas - Sjk Akatemia",
-        "time": "18:30",
-        "id": "275183793135030272"
     }
 ]
