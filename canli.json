@@ -65,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ratinger Spvg - TuS Ennepetal ",
-        "time": "16:00",
-        "id": "275557855506075648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Gnistan - FC Haka Valkeakoski",
         "time": "16:00",
         "id": "275008020388384768"
@@ -103,5 +96,12 @@
         "name": "Pastoreo FC - Rubio Nu",
         "time": "16:00",
         "id": "275373331272830976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Sportivo Carapegua - Encarnacion FC",
+        "time": "16:00",
+        "id": "275371985471672320"
     }
 ]
