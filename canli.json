@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Valentine Phoenix - New Lambton",
+        "time": "09:30",
+        "id": "275177010658152448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Taringa Rovers - Moreton City Excelsior FC 2",
+        "time": "09:30",
+        "id": "275250121466318848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Aries Tokyo Toshima FC - Tokyo United FC",
         "time": "09:30",
         "id": "275503390357852160"
@@ -37,23 +51,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Central Coast Mariners NPL - Sydney Olympic FC",
-        "time": "08:00",
-        "id": "275158978398392320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Sydney United - Wollongong Wolves FC",
         "time": "08:00",
         "id": "275156344165765120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St. George Saints - St George City FA",
-        "time": "08:00",
-        "id": "275156344047276032"
     },
     {
         "tur": "live",
@@ -72,36 +72,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ipswich Knights - University of Queensland",
+        "name": "Banyule City (W) - Bundoora Utd (W)",
         "time": "08:00",
-        "id": "275442152678494208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Heidelberg United (W) - Alamein FC (W)",
-        "time": "08:00",
-        "id": "275189063801245696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eastern Suburbs U23 - Sunshine Coast Wanderers U23",
-        "time": "07:45",
-        "id": "275286714883379200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St George Willawong FC U23 - Brisbane City U23",
-        "time": "07:45",
-        "id": "275275897719885824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bulls Northbridge FC Academy (W) - NWS Koalas Spirit (W)",
-        "time": "07:40",
-        "id": "275242349897060352"
+        "id": "275615444841402368"
     }
 ]
