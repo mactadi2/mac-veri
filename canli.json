@@ -2,16 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AC Oulu - Kotkan Tyovaen Palloilijat",
-        "time": "18:30",
-        "id": "275008020232146944"
+        "name": "Kızılyıldız - Puskas FC Academy",
+        "time": "19:00",
+        "id": "275540154508251136"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "EIF Ekenas - Sjk Akatemia",
+        "name": "AS Jeunesse Esch - Mondercange",
+        "time": "19:00",
+        "id": "275559918439895040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Rodange 91 - Jeunesse Canach",
+        "time": "19:00",
+        "id": "275629434806079488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AC Oulu - Kotkan Tyovaen Palloilijat",
         "time": "18:30",
-        "id": "275183793135030272"
+        "id": "275008020232146944"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "IFK Varnamo - Djurgardens IF",
         "time": "17:30",
         "id": "274745444065742848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Preston North End FC - Liverpool",
-        "time": "17:00",
-        "id": "275535922615947264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stal Rzeszow - FC Rukh Lviv",
-        "time": "17:00",
-        "id": "275539431481544704"
     }
 ]
