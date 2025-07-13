@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chicago Dutch Lions - Rochester FC",
+        "time": "23:00",
+        "id": "275187202934312960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico Tucuman - San Martin de San Juan",
         "time": "22:30",
         "id": "271950442918973440"
@@ -37,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cleveland Force SC - Steel City FC",
+        "time": "22:00",
+        "id": "275186462406873088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Estudiantes Rio Cuarto - Chacarita Juniors",
         "time": "21:45",
         "id": "275362517545521152"
@@ -65,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Victoriano Arenas - Canuelas",
-        "time": "21:30",
-        "id": "275048916211339264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CSD Central Ballester - CA Atlas",
         "time": "21:30",
         "id": "275048916057198592"
@@ -79,29 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Atletico Alvarado - CA San Miguel",
-        "time": "21:00",
-        "id": "275362490779570176"
+        "name": "Victoriano Arenas - Canuelas",
+        "time": "21:30",
+        "id": "275048916211339264"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CD Maipu - Ferro Carril Oeste",
-        "time": "21:00",
-        "id": "275362444344430592"
+        "name": "Villa Dalmine - Real Pilar",
+        "time": "21:30",
+        "id": "275454364127203328"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Arsenal de Sarandi - Racing de Cordoba",
-        "time": "21:00",
-        "id": "275362528007163904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vinotinto Ecuador - Mushuc Runa",
-        "time": "21:00",
-        "id": "275034810102190080"
+        "name": "Flandria - Villa San Carlos",
+        "time": "21:30",
+        "id": "275454329147756544"
     }
 ]
