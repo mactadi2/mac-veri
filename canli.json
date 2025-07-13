@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AC Oulu - Kotkan Tyovaen Palloilijat",
+        "time": "18:30",
+        "id": "275008020232146944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EIF Ekenas - Sjk Akatemia",
+        "time": "18:30",
+        "id": "275183793135030272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "VfB Admira Wacker Modling - Besiktas JK",
         "time": "18:00",
         "id": "275543836646838272"
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Spartak Moskova - Spartak Subotica",
-        "time": "17:00",
-        "id": "275364070442536960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Stal Rzeszow - FC Rukh Lviv",
         "time": "17:00",
         "id": "275539431481544704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bohemians 1905 - MFK Ruzomberok",
-        "time": "17:00",
-        "id": "275545891110260736"
     }
 ]
