@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Aries Tokyo Toshima FC - Tokyo United FC",
+        "time": "09:30",
+        "id": "275503390357852160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maruyasu Industries SC - Criacao Shinjuku",
+        "time": "09:00",
+        "id": "275438703751598080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Southport Warriors - Tweed United Gold",
+        "time": "09:00",
+        "id": "275592767129915392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "University of New South Wales (W) - Western Sydney Wanderers B (W)",
         "time": "08:15",
         "id": "275242350213730304"
@@ -23,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "St. George Saints - St George City FA",
+        "name": "Sydney United - Wollongong Wolves FC",
         "time": "08:00",
-        "id": "275156344047276032"
+        "id": "275156344165765120"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sydney United - Wollongong Wolves FC",
+        "name": "St. George Saints - St George City FA",
         "time": "08:00",
-        "id": "275156344165765120"
+        "id": "275156344047276032"
     },
     {
         "tur": "live",
@@ -65,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Banyule City (W) - Bundoora Utd (W)",
-        "time": "08:00",
-        "id": "275615444841402368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Eastern Suburbs U23 - Sunshine Coast Wanderers U23",
         "time": "07:45",
         "id": "275286714883379200"
@@ -89,19 +103,5 @@
         "name": "Bulls Northbridge FC Academy (W) - NWS Koalas Spirit (W)",
         "time": "07:40",
         "id": "275242349897060352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Valentine Phoenix Reserves - New Lambton Reserves",
-        "time": "07:30",
-        "id": "275419506087694336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Texoma FC - Portland Hearts of Pine",
-        "time": "04:30",
-        "id": "275508582266572800"
     }
 ]
