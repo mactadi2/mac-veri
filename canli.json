@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Saint Louis City SC - Portland Timbers",
+        "time": "02:00",
+        "id": "274997292365385728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Cuenca - Delfin",
+        "time": "02:00",
+        "id": "275057567422615552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter Miami II - Crown Legacy FC",
+        "time": "02:00",
+        "id": "275189461757857792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orlando City II - Carolina Core",
+        "time": "02:00",
+        "id": "275189461684457472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Corinthians Paulista - Bragantino Red Bull",
         "time": "01:00",
         "id": "272591156410454016"
@@ -75,33 +103,5 @@
         "name": "Deportes Temuco - Deportes Concepcion",
         "time": "00:30",
         "id": "275177104545550336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GV Club Deportivo San Jose de Oruro - Jorge Wilstermann",
-        "time": "00:15",
-        "id": "275496477070069760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Marquense - CD Platense Zacatecoluca",
-        "time": "00:00",
-        "id": "275623705741234176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pittsburgh Riverhounds - Loudoun United FC",
-        "time": "00:00",
-        "id": "275099896577658880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EC Sao Jose RS -  Gremio Esportivo Brasil RS",
-        "time": "00:00",
-        "id": "275543029498122240"
     }
 ]
