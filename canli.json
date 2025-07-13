@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chapecoense SC - Remo PA",
+        "time": "00:30",
+        "id": "275085263213039616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nublense - Huachipato",
+        "time": "00:30",
+        "id": "275461134248710144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Trinidense - Olimpia Asuncion",
+        "time": "00:30",
+        "id": "275049455358709760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportes Temuco - Deportes Concepcion",
+        "time": "00:30",
+        "id": "275177104545550336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "GV Club Deportivo San Jose de Oruro - Jorge Wilstermann",
         "time": "00:15",
         "id": "275496477070069760"
@@ -51,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Oriental - Colon FC",
+        "time": "23:30",
+        "id": "275372435130421248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chicago Dutch Lions - Rochester FC",
         "time": "23:00",
         "id": "275187202934312960"
@@ -68,40 +103,5 @@
         "name": "Santa Cruz FC PE - Santa Cruz de Natal",
         "time": "23:00",
         "id": "275187224382935040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Tucuman - San Martin de San Juan",
-        "time": "22:30",
-        "id": "271950442918973440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente Rivadavia - Newell's Old Boys",
-        "time": "22:30",
-        "id": "271950442579234816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Botafogo PB - Londrina EC PR",
-        "time": "22:30",
-        "id": "275042738059218944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guarani FC De Campinas - Ituano SP",
-        "time": "22:30",
-        "id": "275043346069721088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Central Benitez - San Martin Margarita Belen",
-        "time": "22:30",
-        "id": "275588399342161920"
     }
 ]
