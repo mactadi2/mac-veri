@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ratinger Spvg - TuS Ennepetal ",
+        "time": "16:00",
+        "id": "275557855506075648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gnistan - FC Haka Valkeakoski",
+        "time": "16:00",
+        "id": "275008020388384768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Klubi 04 - Jippo Joensuu",
+        "time": "16:00",
+        "id": "275181943282339840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zhenys - Zhetysu Taldykorgan",
+        "time": "16:00",
+        "id": "275115993778491392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tobol Kostanay - FC Okzhetpes",
+        "time": "16:00",
+        "id": "275116242601381888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bryne FK - Valerenga IF Oslo",
         "time": "15:30",
         "id": "274750041933090816"
@@ -12,27 +47,6 @@
         "name": "Flekkeroy IL - Sotra Sportsklubb",
         "time": "15:30",
         "id": "275181564094189568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chitipa United - Karonga United",
-        "time": "15:30",
-        "id": "275544918396637184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ekhaya FC - Be Forward Wanderers",
-        "time": "15:30",
-        "id": "275544918581186560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dedza Dynamos - Blue Eagles",
-        "time": "15:30",
-        "id": "275544918310653952"
     },
     {
         "tur": "live",
@@ -51,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "GAIS - Hammarby IF",
+        "name": "IF Brommapojkarna - Osters IF",
         "time": "15:00",
-        "id": "274745443514191872"
+        "id": "274745443102101504"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "IF Brommapojkarna - Osters IF",
+        "name": "GAIS - Hammarby IF",
         "time": "15:00",
-        "id": "274745443102101504"
+        "id": "274745443514191872"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "JK Tallinna Kalev - Harju Jalgpallikool",
         "time": "14:30",
         "id": "275104031399088128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Visakha FC - Phnom Penh Crown",
-        "time": "14:00",
-        "id": "275625689403756544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sandnes Ulf - Notodden FK",
-        "time": "14:00",
-        "id": "275180411501547520"
     }
 ]
