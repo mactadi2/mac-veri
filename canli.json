@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fortaleza CE - Ceara SC CE",
+        "time": "02:30",
+        "id": "272502044681703424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cruzeiro MG - Gremio Porto Alegrense RS",
+        "time": "02:30",
+        "id": "272502045136785408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cusco FC - Sport Huancayo",
+        "time": "02:30",
+        "id": "275051511669723136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Oriente Petrolero - Academia de Balompie Boliviano",
+        "time": "02:30",
+        "id": "275496783566737408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Saint Louis City SC - Portland Timbers",
         "time": "02:00",
         "id": "274997292365385728"
@@ -65,9 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Argentinos Juniors - Boca Juniors",
-        "time": "00:45",
-        "id": "275560772977954816"
+        "name": "America RN (Rio Grande do Norte) - Central SC",
+        "time": "01:00",
+        "id": "275186842668765184"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Juticalpa FC - Real Tegus",
         "time": "00:30",
         "id": "275629476516335616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chapecoense SC - Remo PA",
-        "time": "00:30",
-        "id": "275085263213039616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nublense - Huachipato",
-        "time": "00:30",
-        "id": "275461134248710144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Trinidense - Olimpia Asuncion",
-        "time": "00:30",
-        "id": "275049455358709760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportes Temuco - Deportes Concepcion",
-        "time": "00:30",
-        "id": "275177104545550336"
     }
 ]
