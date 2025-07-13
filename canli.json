@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Central Benitez - San Martin Margarita Belen",
+        "time": "22:30",
+        "id": "275588399342161920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chelsea - PSG",
         "time": "22:00",
         "id": "275313310360014848"
@@ -96,12 +103,5 @@
         "name": "Philadelphia Union II - Chattanooga FC",
         "time": "22:00",
         "id": "275190688615895040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estudiantes Rio Cuarto - Chacarita Juniors",
-        "time": "21:45",
-        "id": "275362517545521152"
     }
 ]
