@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Preston North End FC - Liverpool",
+        "time": "17:00",
+        "id": "275535922615947264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Spartak Moskova - Spartak Subotica",
+        "time": "17:00",
+        "id": "275364070442536960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stal Rzeszow - FC Rukh Lviv",
+        "time": "17:00",
+        "id": "275539431481544704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bohemians 1905 - MFK Ruzomberok",
+        "time": "17:00",
+        "id": "275545891110260736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fc Etzella Ettelbruck - UN 97 Kaerjeng",
+        "time": "17:00",
+        "id": "275628394216034304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lysekloster - Fk Tonsberg",
+        "time": "17:00",
+        "id": "275182705008840704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SV 1908 GW Ahrensfelde - 1. FC Union Berlin",
         "time": "16:30",
         "id": "275563656133087232"
@@ -51,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Sportivo Carapegua - Encarnacion FC",
-        "time": "16:00",
-        "id": "275371985471672320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Bryne FK - Valerenga IF Oslo",
         "time": "15:30",
         "id": "274750041933090816"
@@ -68,40 +103,5 @@
         "name": "Flekkeroy IL - Sotra Sportsklubb",
         "time": "15:30",
         "id": "275181564094189568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Slovan Bratislava - FC Midtjylland",
-        "time": "15:00",
-        "id": "275558657544032256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Slavia Prague - 1.FC Dynamo Dresden",
-        "time": "15:00",
-        "id": "275451692271669248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Brommapojkarna - Osters IF",
-        "time": "15:00",
-        "id": "274745443102101504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GAIS - Hammarby IF",
-        "time": "15:00",
-        "id": "274745443514191872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Arendal - Sandviken",
-        "time": "15:00",
-        "id": "275181943153364992"
     }
 ]
