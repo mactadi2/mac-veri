@@ -2,9 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Corinthians Paulista - Bragantino Red Bull",
+        "time": "01:00",
+        "id": "272591156410454016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "St Croix SC - RKC Third Coast",
+        "time": "01:00",
+        "id": "275543616450072576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Figueirense FC - Nautico Capibaribe",
+        "time": "01:00",
+        "id": "275043345850568704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SER Caxias - Anapolis FC",
+        "time": "01:00",
+        "id": "275043346178772992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Cincinnati II - Huntsville City FC",
+        "time": "01:00",
+        "id": "275188755150802944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Argentinos Juniors - Boca Juniors",
         "time": "00:45",
         "id": "275560772977954816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juticalpa FC - Real Tegus",
+        "time": "00:30",
+        "id": "275629476516335616"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "EC Sao Jose RS -  Gremio Esportivo Brasil RS",
         "time": "00:00",
         "id": "275543029498122240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orense SC - Libertad FC",
-        "time": "23:30",
-        "id": "275129252153790464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juan Pablo II College - Alianza Universidad",
-        "time": "23:30",
-        "id": "275040222248570880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manaus FC - Aguia de Maraba",
-        "time": "23:30",
-        "id": "275187603424284672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chicago Dutch Lions - Rochester FC",
-        "time": "23:00",
-        "id": "275187202934312960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Minnesota United FC II - Real Monarchs SLC",
-        "time": "23:00",
-        "id": "275187224443752448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santa Cruz FC PE - Santa Cruz de Natal",
-        "time": "23:00",
-        "id": "275187224382935040"
     }
 ]
