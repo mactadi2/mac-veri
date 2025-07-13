@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "GV Club Deportivo San Jose de Oruro - Jorge Wilstermann",
+        "time": "00:15",
+        "id": "275496477070069760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Marquense - CD Platense Zacatecoluca",
+        "time": "00:00",
+        "id": "275623705741234176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pittsburgh Riverhounds - Loudoun United FC",
+        "time": "00:00",
+        "id": "275099896577658880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EC Sao Jose RS -  Gremio Esportivo Brasil RS",
+        "time": "00:00",
+        "id": "275543029498122240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Orense SC - Libertad FC",
         "time": "23:30",
         "id": "275129252153790464"
@@ -16,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Manaus FC - Aguia de Maraba",
+        "time": "23:30",
+        "id": "275187603424284672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chicago Dutch Lions - Rochester FC",
         "time": "23:00",
         "id": "275187202934312960"
@@ -26,6 +61,13 @@
         "name": "Minnesota United FC II - Real Monarchs SLC",
         "time": "23:00",
         "id": "275187224443752448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santa Cruz FC PE - Santa Cruz de Natal",
+        "time": "23:00",
+        "id": "275187224382935040"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Central Benitez - San Martin Margarita Belen",
         "time": "22:30",
         "id": "275588399342161920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chelsea - PSG",
-        "time": "22:00",
-        "id": "275313310360014848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Criciuma EC - Ferroviaria SP",
-        "time": "22:00",
-        "id": "275085733843308544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Coquimbo Unido - Deportes Limache",
-        "time": "22:00",
-        "id": "275429890910720000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cleveland Force SC - Steel City FC",
-        "time": "22:00",
-        "id": "275186462406873088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportes Recoleta - Magallanes",
-        "time": "22:00",
-        "id": "275177054622846976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Philadelphia Union II - Chattanooga FC",
-        "time": "22:00",
-        "id": "275190688615895040"
     }
 ]
