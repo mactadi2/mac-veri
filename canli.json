@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AIK - Degerfors IF",
+        "time": "17:30",
+        "id": "274745442965786624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IFK Varnamo - Djurgardens IF",
+        "time": "17:30",
+        "id": "274745444065742848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Preston North End FC - Liverpool",
         "time": "17:00",
         "id": "275535922615947264"
@@ -89,19 +103,5 @@
         "name": "Pastoreo FC - Rubio Nu",
         "time": "16:00",
         "id": "275373331272830976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bryne FK - Valerenga IF Oslo",
-        "time": "15:30",
-        "id": "274750041933090816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Flekkeroy IL - Sotra Sportsklubb",
-        "time": "15:30",
-        "id": "275181564094189568"
     }
 ]
