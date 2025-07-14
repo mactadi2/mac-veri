@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Atletico Tembetary - Deportivo Recoleta",
+        "time": "00:30",
+        "id": "275145720424697856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Guairena FC - 12 de Junio de Villa Hayes",
         "time": "00:00",
         "id": "275505453366120448"
@@ -26,12 +33,5 @@
         "name": "Lettir - Skallagrimur",
         "time": "23:00",
         "id": "275612104866795520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Riestra - Atletico Lanus",
-        "time": "22:30",
-        "id": "271950183806406656"
     }
 ]
