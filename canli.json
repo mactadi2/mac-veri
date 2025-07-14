@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guairena FC - 12 de Junio de Villa Hayes",
+        "time": "00:00",
+        "id": "275505453366120448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Boca Juniors Cali - FC Leones",
         "time": "23:30",
         "id": "275532252656570368"
@@ -26,26 +33,5 @@
         "name": "Deportivo Riestra - Atletico Lanus",
         "time": "22:30",
         "id": "271950183806406656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IA Akranes - KR Reykjavik",
-        "time": "22:15",
-        "id": "275133289340211200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Güney Afrika (Kadınlar) - Mali (W)",
-        "time": "22:00",
-        "id": "275578483576541184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Csikszereda Miercurea Ciuc - FC Dinamo Bükreş",
-        "time": "21:30",
-        "id": "274099158536818688"
     }
 ]
