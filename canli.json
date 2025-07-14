@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SR Reykjavik - Thorlakur FC",
+        "time": "23:00",
+        "id": "275641124488613888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lettir - Skallagrimur",
+        "time": "23:00",
+        "id": "275612104866795520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Riestra - Atletico Lanus",
         "time": "22:30",
         "id": "271950183806406656"
@@ -12,6 +26,27 @@
         "name": "IA Akranes - KR Reykjavik",
         "time": "22:15",
         "id": "275133289340211200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gana (Kadınlar) - Tanzania (W)",
+        "time": "22:00",
+        "id": "275553178020352000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Güney Afrika (Kadınlar) - Mali (W)",
+        "time": "22:00",
+        "id": "275578483576541184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lisburn (W) - Mid Ulster (W)",
+        "time": "22:00",
+        "id": "275635563187539968"
     },
     {
         "tur": "live",
@@ -51,57 +86,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FSV Fernwald - SC Waldgirmes",
-        "time": "21:00",
-        "id": "275726748265615360"
+        "name": "Atenas - Central Espanol FC",
+        "time": "21:30",
+        "id": "275372509020426240"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Estrella del Sur - Argentino de Rosario",
-        "time": "21:00",
-        "id": "275628012258594816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Progreso Reserves - Liverpool Montevideo Reserves",
-        "time": "21:00",
-        "id": "275663696046460928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Montevideo City Torque Reserve - La Luz Reserves",
-        "time": "21:00",
-        "id": "275663614207201280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Oriental Reserves - Montevideo Wanderers Reserves",
-        "time": "21:00",
-        "id": "275664517996875776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nacional de Montevideo Reserves - Danubio Reserves",
-        "time": "21:00",
-        "id": "275663696119861248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Miramar Misiones Reserves - Racing Club de Montevideo Reserves",
-        "time": "21:00",
-        "id": "275663678403121152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Burkina Faso U20 - Togo U20",
-        "time": "21:00",
-        "id": "275634875516719104"
+        "name": "FC Csikszereda Miercurea Ciuc - FC Dinamo Bükreş",
+        "time": "21:30",
+        "id": "274099158536818688"
     }
 ]
