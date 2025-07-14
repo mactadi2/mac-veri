@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Stromsgodset (A) - Skjetten",
+        "time": "20:30",
+        "id": "275220515000553472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Johor Darul Takzim FC - Valencia CF B",
         "time": "20:00",
         "id": "275630983861112832"
@@ -33,6 +40,13 @@
         "name": "DFK Dainava Alytus - FK Panevezys",
         "time": "20:00",
         "id": "275218581754613760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cesar Vallejo Reserves - Juventus Huamachuco FC",
+        "time": "20:00",
+        "id": "275732222477209600"
     },
     {
         "tur": "live",
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "KF Istogu - KF Rilindja 1974",
-        "time": "18:30",
-        "id": "275737135660797952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Lahti - FC TPS Turku",
-        "time": "18:30",
-        "id": "275190415252131840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HJS - TPV Tampere",
-        "time": "18:30",
-        "id": "275603348493832192"
+        "name": "24 de Setiembre - Benjamin Aceval",
+        "time": "19:00",
+        "id": "275686672565407744"
     }
 ]
