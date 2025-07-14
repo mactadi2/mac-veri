@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Viimsi Jk - FC Tallinn",
+        "time": "19:00",
+        "id": "275214983981305856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tiller IL - Kristiansund BK 2",
+        "time": "19:00",
+        "id": "275214985258471424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Botosani - FC Farul Constanta",
+        "time": "19:00",
+        "id": "274099158644822016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NJS - PPJ Helsinki",
+        "time": "19:00",
+        "id": "275567150069059584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Amazon Callao FC - Pacifico FC",
+        "time": "19:00",
+        "id": "275643643815137280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universitario de Deportes Reserves - Sport Boys Reserves",
+        "time": "19:00",
+        "id": "275726774807171072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "24 de Setiembre - Benjamin Aceval",
+        "time": "19:00",
+        "id": "275686672565407744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mladost DG - NK Slaven Belupo Koprivnica",
         "time": "18:30",
         "id": "275519927209824256"
@@ -37,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Belshina Bobruisk - Fc Molodechno Dussh4",
-        "time": "18:15",
-        "id": "275201784987914240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "MKS Puszcza Niepolomice - Maccabi Bnei Raina",
         "time": "18:00",
         "id": "275727627423191040"
@@ -61,26 +103,5 @@
         "name": "Niger U20 - Ivory Coast U20",
         "time": "18:00",
         "id": "275632578779811840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zorya Luhansk - FK Sarajevo",
-        "time": "17:30",
-        "id": "275646802241392640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brann 2 - Jerv",
-        "time": "17:00",
-        "id": "275207496282542080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tomiris Turan (W) - FK Ulytau (W)",
-        "time": "17:00",
-        "id": "275717299148820480"
     }
 ]
