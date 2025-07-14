@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IA Akranes - KR Reykjavik",
+        "time": "22:15",
+        "id": "275133289340211200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Glebe North FC - Dundalk FC",
         "time": "21:45",
         "id": "275629699909160960"
@@ -96,12 +103,5 @@
         "name": "Burkina Faso U20 - Togo U20",
         "time": "21:00",
         "id": "275634875516719104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Johor Darul Takzim FC - Valencia CF B",
-        "time": "20:00",
-        "id": "275630983861112832"
     }
 ]
