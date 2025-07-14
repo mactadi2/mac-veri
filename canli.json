@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Duque de Caxias - Uniao Central",
+        "time": "20:45",
+        "id": "275666935285420032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Stromsgodset (A) - Skjetten",
         "time": "20:30",
         "id": "275220515000553472"
@@ -58,20 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Viimsi Jk - FC Tallinn",
-        "time": "19:00",
-        "id": "275214983981305856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tiller IL - Kristiansund BK 2",
-        "time": "19:00",
-        "id": "275214985258471424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Botosani - FC Farul Constanta",
         "time": "19:00",
         "id": "274099158644822016"
@@ -96,12 +89,5 @@
         "name": "Universitario de Deportes Reserves - Sport Boys Reserves",
         "time": "19:00",
         "id": "275726774807171072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "24 de Setiembre - Benjamin Aceval",
-        "time": "19:00",
-        "id": "275686672565407744"
     }
 ]
