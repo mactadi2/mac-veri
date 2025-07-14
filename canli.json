@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Banfield - Defensa y Justicia",
+        "time": "01:00",
+        "id": "271950053484138496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Athletic Club MG - Avai",
+        "time": "01:00",
+        "id": "275086271532109824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nacional Potosi - CDT Real Oruro",
+        "time": "01:00",
+        "id": "275497042658332672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Oeste Itapolis - Ec Santo Andre Sp",
+        "time": "01:00",
+        "id": "275589817660739584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guarani FC De Campinas - Rio Branco SP",
+        "time": "01:00",
+        "id": "275677821273247744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Noroeste Capixaba FC - Sport Clube Capixaba",
+        "time": "01:00",
+        "id": "275664617012858880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Campinense U20 - Auto Esporte Clube PB U20",
+        "time": "01:00",
+        "id": "275762151367512064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Atletico Tembetary - Deportivo Recoleta",
         "time": "00:30",
         "id": "275145720424697856"
@@ -19,12 +68,5 @@
         "name": "Boca Juniors Cali - FC Leones",
         "time": "23:30",
         "id": "275532252656570368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lettir - Skallagrimur",
-        "time": "23:00",
-        "id": "275612104866795520"
     }
 ]
