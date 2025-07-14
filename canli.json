@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Juventude - Sport Club do Recife",
+        "time": "02:00",
+        "id": "272502045526855680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Flamengo RJ U20 - Atletico Mineiro U20",
+        "time": "02:00",
+        "id": "275542139140706304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Marcilio Dias - Barra FC",
+        "time": "02:00",
+        "id": "275331927524904960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Huila - Deportes Quindio",
+        "time": "02:00",
+        "id": "275532161448284160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Maringa FC PR - Brusque",
         "time": "01:30",
         "id": "275043981474271232"
@@ -68,12 +96,5 @@
         "name": "Club Atletico Tembetary - Deportivo Recoleta",
         "time": "00:30",
         "id": "275145720424697856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guairena FC - 12 de Junio de Villa Hayes",
-        "time": "00:00",
-        "id": "275505453366120448"
     }
 ]
