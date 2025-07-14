@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mladost DG - NK Slaven Belupo Koprivnica",
+        "time": "18:30",
+        "id": "275519927209824256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Beitar Jerusalem - Digenis Ypsonas",
+        "time": "18:30",
+        "id": "275727635245568000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KF Istogu - KF Rilindja 1974",
+        "time": "18:30",
+        "id": "275737135660797952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Lahti - FC TPS Turku",
+        "time": "18:30",
+        "id": "275190415252131840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HJS - TPV Tampere",
+        "time": "18:30",
+        "id": "275603348493832192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Belshina Bobruisk - Fc Molodechno Dussh4",
         "time": "18:15",
         "id": "275201784987914240"
@@ -47,12 +82,5 @@
         "name": "Tomiris Turan (W) - FK Ulytau (W)",
         "time": "17:00",
         "id": "275717299148820480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Defensor Sporting Reserves - Ca Penarol Reserves",
-        "time": "16:30",
-        "id": "275662138441338880"
     }
 ]
