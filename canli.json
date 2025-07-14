@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Maringa FC PR - Brusque",
+        "time": "01:30",
+        "id": "275043981474271232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Retro FC Brasil - CS Alagoano AL",
+        "time": "01:30",
+        "id": "275043345952280576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Banfield - Defensa y Justicia",
         "time": "01:00",
         "id": "271950053484138496"
@@ -61,12 +75,5 @@
         "name": "Guairena FC - 12 de Junio de Villa Hayes",
         "time": "00:00",
         "id": "275505453366120448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boca Juniors Cali - FC Leones",
-        "time": "23:30",
-        "id": "275532252656570368"
     }
 ]
