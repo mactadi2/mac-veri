@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Santos FC Sao Paulo  - Flamengo RJ",
+        "time": "02:00",
+        "id": "274394104148922368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Oriente Petrolero - Guabira Santa Cruz",
+        "time": "02:00",
+        "id": "275909563327320064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "One Knoxville SC - Antelope Valley Alta",
+        "time": "02:00",
+        "id": "275820966962139136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Westchester SC - Spokane Velocity FC",
+        "time": "02:00",
+        "id": "275820664284385280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chattanooga Fc - Texoma FC",
+        "time": "02:00",
+        "id": "275820277695385600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ristozi FC - Jackson Lions",
+        "time": "02:00",
+        "id": "275942831579860992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jacksonville Armada U23 - Lubbock Matadors",
+        "time": "02:00",
+        "id": "275942831498072064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ceara SC CE - Corinthians Paulista",
         "time": "01:30",
         "id": "274394042386747392"
@@ -19,27 +68,6 @@
         "name": "Associacao Atletica Francana - Botafogo SP II",
         "time": "01:30",
         "id": "275850619564199936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Uniao Frederiquense - Real SC",
-        "time": "01:30",
-        "id": "275843780692807680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brasil Farroupilha - Inter de Santa Maria",
-        "time": "01:30",
-        "id": "275843373686984704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Passo Fundo - Aimore",
-        "time": "01:30",
-        "id": "275843369107853312"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Santa Cruz RS - Gramadense RS",
         "time": "01:00",
         "id": "275843369182302208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Criciuma U20 (W) - Santos FC U20 (W)",
-        "time": "01:00",
-        "id": "275830174683107328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA River Plate Reserves - Ca Platense Reserves",
-        "time": "00:00",
-        "id": "275847537321185280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bolivya (Kadınlar) - Brezilya (Kadınlar)",
-        "time": "00:00",
-        "id": "275753266569154560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Teresina U20 - Comercial PI U20",
-        "time": "00:00",
-        "id": "275912226034028544"
     }
 ]
