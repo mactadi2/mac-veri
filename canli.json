@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "1. FC Saarbrucken - 1. FSV Mainz 05",
+        "time": "20:00",
+        "id": "275821457471311872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Twente - Kaizer Chiefs",
+        "time": "20:00",
+        "id": "275848710702895104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brighton & Hove Albion - Stoke City FC",
+        "time": "20:00",
+        "id": "275836252853506048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kremser SC - SK Rapid Wien II",
+        "time": "20:00",
+        "id": "275816621895979008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Wolfsberger Athletik Club - Besiktas JK",
         "time": "19:30",
         "id": "275669841697968128"
@@ -23,27 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Macva Sabac - OFK Petrovac",
-        "time": "19:30",
-        "id": "275823658758443008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Jeunesse Esch - FC Homburg 08",
-        "time": "19:30",
-        "id": "275751952285044736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VfB Homberg - MSV Duisburg",
-        "time": "19:30",
-        "id": "275854176106450944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FK Auda - Larne",
         "time": "19:00",
         "id": "275482403439513600"
@@ -58,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Les Herbiers - Angers SCO",
+        "name": "Coventry City FC - AS Monaco",
         "time": "19:00",
-        "id": "275818629912727552"
+        "id": "275901717963476992"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Coventry City FC - AS Monaco",
+        "name": "Les Herbiers - Angers SCO",
         "time": "19:00",
-        "id": "275901717963476992"
+        "id": "275818629912727552"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Göztepe - FC Kryvbas Kriviy Rih",
         "time": "18:30",
         "id": "275822146309197824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SpVgg Bayreuth - Chemnitzer FC",
-        "time": "18:30",
-        "id": "275852058950766592"
     }
 ]
