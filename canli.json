@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SV Waldhof 07 Mannheim - VfL Bochum",
+        "time": "14:00",
+        "id": "275904397142265856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Brugge KV - NK Lokomotiva Zagreb",
         "time": "13:30",
         "id": "275811921314320384"
@@ -12,13 +19,6 @@
         "name": "Polissya Zhytomyr - Puskas FC Academy",
         "time": "13:00",
         "id": "275817144685563904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Widzew Lodz - Miedz Legnica ll",
-        "time": "13:00",
-        "id": "275896019974230016"
     },
     {
         "tur": "live",
@@ -72,16 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Tokyo - Oita Trinita",
+        "name": "Sanfrecce Hiroshima - Fujieda MYFC",
         "time": "13:00",
-        "id": "275645115422347264"
+        "id": "275645114895962112"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sanfrecce Hiroshima - Fujieda MYFC",
+        "name": "FC Tokyo - Oita Trinita",
         "time": "13:00",
-        "id": "275645114895962112"
+        "id": "275645115422347264"
     },
     {
         "tur": "live",
