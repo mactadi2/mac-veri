@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "BSC Young Boys Bern - Huddersfield Town",
+        "time": "16:00",
+        "id": "275816754726440960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Myanmar U23 - Timor Leste U23",
+        "time": "16:00",
+        "id": "275803544397942784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Botafogo PB U20 - Queimadense U20",
+        "time": "16:00",
+        "id": "275895275258777600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AFC Ajax - FC PAOK Thessaloniki",
         "time": "15:00",
         "id": "275810974545612800"
@@ -19,40 +40,5 @@
         "name": "Talas Karatau - Jas Qyran",
         "time": "15:00",
         "id": "275913072320843776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Waldhof 07 Mannheim - VfL Bochum",
-        "time": "14:00",
-        "id": "275904397142265856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kawasaki Frontale - SC Sagamihara",
-        "time": "13:00",
-        "id": "275645114827804672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gamba Osaka - Montedio Yamagata",
-        "time": "13:00",
-        "id": "275645115202146304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avispa Fukuoka - Giravanz Kitakyushu",
-        "time": "13:00",
-        "id": "275645115032276992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kyoto Purple Sanga - Yokohama FC",
-        "time": "13:00",
-        "id": "275645114568806400"
     }
 ]
