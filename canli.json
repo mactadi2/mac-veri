@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Huachipato - Nublense",
+        "time": "22:00",
+        "id": "275713240120561664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Dinamo Minsk - PFC Ludogorets Razgrad",
         "time": "21:45",
         "id": "275353049171628032"
@@ -40,6 +47,13 @@
         "name": "Cardiff Metropolitan University F.C. - Newport City FC",
         "time": "21:30",
         "id": "275815941104865280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Goianiense U20 - Palmeiras U20",
+        "time": "21:30",
+        "id": "275729913650221056"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Bragantino Sp U20 - Internacional Rs U20",
         "time": "21:00",
         "id": "275675455010508800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Echallens Region - FC Bavois",
-        "time": "20:30",
-        "id": "275817957501833216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ksv Oudenaarde - KAA Gent II",
-        "time": "20:30",
-        "id": "275903719775801344"
     }
 ]
