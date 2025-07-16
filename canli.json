@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guayaquil City - Imbabura SC",
+        "time": "23:30",
+        "id": "275398813961818112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "La Cantera FC - Libertad FC",
         "time": "23:00",
         "id": "275679276396843008"
@@ -9,16 +16,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Haukar Hafnafjordur (W) - HK Kopavogur (W)",
+        "name": "Afturelding\/Fram (W) - IA Akranes (W)",
         "time": "22:15",
-        "id": "275759507522588672"
+        "id": "275813661173485568"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Afturelding\/Fram (W) - IA Akranes (W)",
+        "name": "Haukar Hafnafjordur (W) - HK Kopavogur (W)",
         "time": "22:15",
-        "id": "275813661173485568"
+        "id": "275759507522588672"
     },
     {
         "tur": "live",
@@ -75,26 +82,5 @@
         "name": "Linfield FC - Shelbourne FC",
         "time": "21:45",
         "id": "275355976041893888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kilmarnock - FC Livingston",
-        "time": "21:45",
-        "id": "275633363581276160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sporting Clube de Portugal - Celtic FC",
-        "time": "21:30",
-        "id": "275790535827001344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Truro City FC - Plymouth Argyle FC",
-        "time": "21:30",
-        "id": "275759507426119680"
     }
 ]
