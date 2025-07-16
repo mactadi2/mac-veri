@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rekord Bielsko-Biala - GKS Pniowek Pawlowice Slaskie",
+        "time": "17:30",
+        "id": "275717315618803712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GKS Jastrzebie - LKS Goczalkowice Zdroj",
+        "time": "17:30",
+        "id": "275821657030004736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "OGC Nice - Aubagne",
+        "time": "17:00",
+        "id": "275908903972245504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estudiantes Caseros Reserves - Gimnasia Mendoza Reserves",
+        "time": "17:00",
+        "id": "275848042693922816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sagesse Sports Club (Al Hekmeh) - Al Ahed",
         "time": "16:30",
         "id": "275878155716268032"
@@ -33,12 +61,5 @@
         "name": "Botafogo PB U20 - Queimadense U20",
         "time": "16:00",
         "id": "275895275258777600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Khon Kaen United - Bangkok Glass Pathumthani United FC",
-        "time": "15:00",
-        "id": "275817819546980352"
     }
 ]
