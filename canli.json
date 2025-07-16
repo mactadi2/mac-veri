@@ -2,16 +2,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "1. FC Saarbrucken - 1. FSV Mainz 05",
+        "name": "FC Twente - Kaizer Chiefs",
         "time": "20:00",
-        "id": "275821457471311872"
+        "id": "275848710702895104"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Twente - Kaizer Chiefs",
+        "name": "1. FC Saarbrucken - 1. FSV Mainz 05",
         "time": "20:00",
-        "id": "275848710702895104"
+        "id": "275821457471311872"
     },
     {
         "tur": "live",
@@ -26,6 +26,13 @@
         "name": "Kremser SC - SK Rapid Wien II",
         "time": "20:00",
         "id": "275816621895979008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al-Rayyan - Johor Darul Takzim FC",
+        "time": "20:00",
+        "id": "275817879984803840"
     },
     {
         "tur": "live",
@@ -47,6 +54,20 @@
         "name": "Odder IGF - Brabrand IF",
         "time": "19:30",
         "id": "275816621966233600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VfB Homberg - MSV Duisburg",
+        "time": "19:30",
+        "id": "275854176106450944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Macva Sabac - OFK Petrovac",
+        "time": "19:30",
+        "id": "275823658758443008"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Akademisk Boldklub Gladsaxe - Sundby BK",
+        "name": "VfL Bochum - BSC Young Boys Bern",
         "time": "19:00",
-        "id": "275823254669758464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gornik Polkowice - Zaglebie Lubin II",
-        "time": "19:00",
-        "id": "275808550217977856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Metalist 1925 - SV Waldhof 07 Mannheim",
-        "time": "19:00",
-        "id": "275824708479488000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Göztepe - FC Kryvbas Kriviy Rih",
-        "time": "18:30",
-        "id": "275822146309197824"
+        "id": "275920559095812096"
     }
 ]
