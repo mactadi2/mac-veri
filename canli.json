@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Macva Sabac - OFK Petrovac",
+        "time": "19:30",
+        "id": "275823658758443008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Auda - Larne",
+        "time": "19:00",
+        "id": "275482403439513600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "İstanbul Başakşehir FK - SVG Reichenau",
+        "time": "19:00",
+        "id": "275833465276076032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Les Herbiers - Angers SCO",
+        "time": "19:00",
+        "id": "275818629912727552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Coventry City FC - AS Monaco",
+        "time": "19:00",
+        "id": "275901717963476992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Akademisk Boldklub Gladsaxe - Sundby BK",
+        "time": "19:00",
+        "id": "275823254669758464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gornik Polkowice - Zaglebie Lubin II",
+        "time": "19:00",
+        "id": "275808550217977856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Metalist 1925 - SV Waldhof 07 Mannheim",
+        "time": "19:00",
+        "id": "275824708479488000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Karkonosze Jelenia Gora - SK Slovan Varnsdorf",
+        "time": "19:00",
+        "id": "275811227006013440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mlawianka Mlawa - Polonia Lidzbark",
+        "time": "19:00",
+        "id": "275824709930717184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Göztepe - FC Kryvbas Kriviy Rih",
         "time": "18:30",
         "id": "275822146309197824"
@@ -12,34 +82,6 @@
         "name": "SpVgg Bayreuth - Chemnitzer FC",
         "time": "18:30",
         "id": "275852058950766592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Polissya Zhytomyr - Aris Limmasol",
-        "time": "18:30",
-        "id": "275912409316724736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Apos Blansko - SFK Vrchovina",
-        "time": "18:30",
-        "id": "275926466200473600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Struga Trim & Lum - FK Trajal",
-        "time": "18:30",
-        "id": "275926306743521280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Gorica - Austria Klagenfurt",
-        "time": "18:30",
-        "id": "275897494425178112"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Bekescsaba 1912 Elore SE - Karcagi SE",
         "time": "18:00",
         "id": "275815116089462784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSV Jahn Regensburg - Al Wahda Abu Dhabi",
-        "time": "18:00",
-        "id": "275901045246398464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ivancsa Kse - Budaorsi SC",
-        "time": "18:00",
-        "id": "275896208756707328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Bregenz - 1. FSV Mainz 05 II",
-        "time": "18:00",
-        "id": "275924639877828608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rekord Bielsko-Biala - GKS Pniowek Pawlowice Slaskie",
-        "time": "17:30",
-        "id": "275717315618803712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GKS Jastrzebie - LKS Goczalkowice Zdroj",
-        "time": "17:30",
-        "id": "275821657030004736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "OGC Nice - Aubagne",
-        "time": "17:00",
-        "id": "275908903972245504"
     }
 ]
