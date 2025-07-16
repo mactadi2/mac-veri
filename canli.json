@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "MTK Budapest - Soroksar SC",
+        "time": "12:00",
+        "id": "275721729109790720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cadiz - Uniao de Leiria",
         "time": "11:00",
         "id": "275807401712685056"
@@ -33,12 +40,5 @@
         "name": "Belmont Swansea United SC Reserves - Maitland FC Reserves",
         "time": "11:00",
         "id": "275794307388149760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Solomon Islands (W) - Samoa (W)",
-        "time": "10:00",
-        "id": "275851609412603904"
     }
 ]
