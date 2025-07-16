@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Göztepe - FC Kryvbas Kriviy Rih",
+        "time": "18:30",
+        "id": "275822146309197824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SpVgg Bayreuth - Chemnitzer FC",
+        "time": "18:30",
+        "id": "275852058950766592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Polissya Zhytomyr - Aris Limmasol",
+        "time": "18:30",
+        "id": "275912409316724736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Apos Blansko - SFK Vrchovina",
+        "time": "18:30",
+        "id": "275926466200473600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Struga Trim & Lum - FK Trajal",
+        "time": "18:30",
+        "id": "275926306743521280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Gorica - Austria Klagenfurt",
+        "time": "18:30",
+        "id": "275897494425178112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fremad Amager - Holbaek",
         "time": "18:00",
         "id": "275744395692740608"
@@ -44,34 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VPV Pallo-Veikot - KPV Akatemia",
-        "time": "18:00",
-        "id": "275806074089639936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Benin U20 - Ghana U20",
-        "time": "18:00",
-        "id": "275842865268133888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Slovan Liberec (W) - Pogon Szczecin (W)",
-        "time": "18:00",
-        "id": "275900473508237312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Medellin City FC - CD Ciclos",
-        "time": "18:00",
-        "id": "275741321469235200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Rekord Bielsko-Biala - GKS Pniowek Pawlowice Slaskie",
         "time": "17:30",
         "id": "275717315618803712"
@@ -89,19 +103,5 @@
         "name": "OGC Nice - Aubagne",
         "time": "17:00",
         "id": "275908903972245504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estudiantes Caseros Reserves - Gimnasia Mendoza Reserves",
-        "time": "17:00",
-        "id": "275848042693922816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sagesse Sports Club (Al Hekmeh) - Al Ahed",
-        "time": "16:30",
-        "id": "275878155716268032"
     }
 ]
