@@ -2,9 +2,44 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Wolfsberger Athletik Club - Besiktas JK",
+        "time": "19:30",
+        "id": "275669841697968128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vitoria Guimaraes - Ponferradina",
+        "time": "19:30",
+        "id": "275816880680341504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Odder IGF - Brabrand IF",
+        "time": "19:30",
+        "id": "275816621966233600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Macva Sabac - OFK Petrovac",
         "time": "19:30",
         "id": "275823658758443008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AS Jeunesse Esch - FC Homburg 08",
+        "time": "19:30",
+        "id": "275751952285044736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VfB Homberg - MSV Duisburg",
+        "time": "19:30",
+        "id": "275854176106450944"
     },
     {
         "tur": "live",
@@ -58,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Karkonosze Jelenia Gora - SK Slovan Varnsdorf",
-        "time": "19:00",
-        "id": "275811227006013440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mlawianka Mlawa - Polonia Lidzbark",
-        "time": "19:00",
-        "id": "275824709930717184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Göztepe - FC Kryvbas Kriviy Rih",
         "time": "18:30",
         "id": "275822146309197824"
@@ -82,26 +103,5 @@
         "name": "SpVgg Bayreuth - Chemnitzer FC",
         "time": "18:30",
         "id": "275852058950766592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fremad Amager - Holbaek",
-        "time": "18:00",
-        "id": "275744395692740608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Osijek - FC Dynamo Kiev",
-        "time": "18:00",
-        "id": "275904542052323328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bekescsaba 1912 Elore SE - Karcagi SE",
-        "time": "18:00",
-        "id": "275815116089462784"
     }
 ]
