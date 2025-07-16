@@ -9,13 +9,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Polissya Zhytomyr - Puskas FC Academy",
-        "time": "13:00",
-        "id": "275817144685563904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Vissel Kobe - Ventforet Kofu",
         "time": "13:00",
         "id": "275645114971459584"
@@ -103,5 +96,12 @@
         "name": "Albirex Niigata - Toyo University",
         "time": "13:00",
         "id": "275645115110920192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Edgeworth Eagles - Weston Workers",
+        "time": "13:00",
+        "id": "275645115957121024"
     }
 ]
