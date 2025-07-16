@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AFC Ajax - FC PAOK Thessaloniki",
+        "time": "15:00",
+        "id": "275810974545612800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Khon Kaen United - Bangkok Glass Pathumthani United FC",
+        "time": "15:00",
+        "id": "275817819546980352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Talas Karatau - Jas Qyran",
+        "time": "15:00",
+        "id": "275913072320843776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SV Waldhof 07 Mannheim - VfL Bochum",
         "time": "14:00",
         "id": "275904397142265856"
@@ -9,23 +30,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vissel Kobe - Ventforet Kofu",
-        "time": "13:00",
-        "id": "275645114971459584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kawasaki Frontale - SC Sagamihara",
         "time": "13:00",
         "id": "275645114827804672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kashima Antlers - V-Varen Nagasaki",
-        "time": "13:00",
-        "id": "275645115280789504"
     },
     {
         "tur": "live",
@@ -44,64 +51,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Machida Zelvia - Kataller Toyama",
-        "time": "13:00",
-        "id": "275645114696732672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kyoto Purple Sanga - Yokohama FC",
         "time": "13:00",
         "id": "275645114568806400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sanfrecce Hiroshima - Fujieda MYFC",
-        "time": "13:00",
-        "id": "275645114895962112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Tokyo - Oita Trinita",
-        "time": "13:00",
-        "id": "275645115422347264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nagoya Grampus Eight - Roasso Kumamoto",
-        "time": "13:00",
-        "id": "275645114618089472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shonan Bellmare - Shimizu S-pulse",
-        "time": "13:00",
-        "id": "275645114769084416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tokyo Verdy 1969 - Sagan Tosu",
-        "time": "13:00",
-        "id": "275645115336364032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Albirex Niigata - Toyo University",
-        "time": "13:00",
-        "id": "275645115110920192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Edgeworth Eagles - Weston Workers",
-        "time": "13:00",
-        "id": "275645115957121024"
     }
 ]
