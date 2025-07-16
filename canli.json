@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Palmeiras - Mirassol FC",
+        "time": "01:00",
+        "id": "274394005900496896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Bolivar - Palestino Santiago",
+        "time": "01:00",
+        "id": "271846494751035392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Audax Italiano Santiago - Curico Unido",
+        "time": "01:00",
+        "id": "275713058293288960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Itapirense - Inter de Limeira",
+        "time": "01:00",
+        "id": "275770840328572928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santa Cruz RS - Gramadense RS",
+        "time": "01:00",
+        "id": "275843369182302208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Criciuma U20 (W) - Santos FC U20 (W)",
+        "time": "01:00",
+        "id": "275830174683107328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA River Plate Reserves - Ca Platense Reserves",
         "time": "00:00",
         "id": "275847537321185280"
@@ -26,12 +68,5 @@
         "name": "Guayaquil City - Imbabura SC",
         "time": "23:30",
         "id": "275398813961818112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "La Cantera FC - Libertad FC",
-        "time": "23:00",
-        "id": "275679276396843008"
     }
 ]
