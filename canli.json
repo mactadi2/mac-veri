@@ -9,13 +9,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Brugge KV - NK Lokomotiva Zagreb",
-        "time": "13:30",
-        "id": "275811921314320384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Polissya Zhytomyr - Puskas FC Academy",
         "time": "13:00",
         "id": "275817144685563904"
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cerezo Osaka - Tokushima Vortis",
-        "time": "12:30",
-        "id": "275725506614267904"
+        "name": "Tokyo Verdy 1969 - Sagan Tosu",
+        "time": "13:00",
+        "id": "275645115336364032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Albirex Niigata - Toyo University",
+        "time": "13:00",
+        "id": "275645115110920192"
     }
 ]
