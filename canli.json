@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sagesse Sports Club (Al Hekmeh) - Al Ahed",
+        "time": "16:30",
+        "id": "275878155716268032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "BSC Young Boys Bern - Huddersfield Town",
         "time": "16:00",
         "id": "275816754726440960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lübnan (Kadınlar) - Iran (W)",
+        "time": "16:00",
+        "id": "275736839838633984"
     },
     {
         "tur": "live",
@@ -23,22 +37,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AFC Ajax - FC PAOK Thessaloniki",
-        "time": "15:00",
-        "id": "275810974545612800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Khon Kaen United - Bangkok Glass Pathumthani United FC",
         "time": "15:00",
         "id": "275817819546980352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Talas Karatau - Jas Qyran",
-        "time": "15:00",
-        "id": "275913072320843776"
     }
 ]
