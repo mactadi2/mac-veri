@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Cincinnati - Inter Miami CF",
+        "time": "02:30",
+        "id": "275597031099207680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Philadelphia Union - CF Montreal",
+        "time": "02:30",
+        "id": "275595043873624064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atlanta United - Chicago Fire",
+        "time": "02:30",
+        "id": "275598917675126784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charlotte - D.C. United (Washington)",
+        "time": "02:30",
+        "id": "275606456281206784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orlando City SC - New York City FC",
+        "time": "02:30",
+        "id": "275595160594812928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New York Red Bull - New England Revolution",
+        "time": "02:30",
+        "id": "275598790490198016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hartford Athletic - Tampa Bay Rowdies",
+        "time": "02:30",
+        "id": "275619404663885824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New York City FC II - Toronto Fc Ii",
+        "time": "02:30",
+        "id": "275679261245968384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Santos FC Sao Paulo  - Flamengo RJ",
         "time": "02:00",
         "id": "274394104148922368"
@@ -16,41 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "One Knoxville SC - Antelope Valley Alta",
-        "time": "02:00",
-        "id": "275820966962139136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Westchester SC - Spokane Velocity FC",
-        "time": "02:00",
-        "id": "275820664284385280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chattanooga Fc - Texoma FC",
-        "time": "02:00",
-        "id": "275820277695385600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ristozi FC - Jackson Lions",
-        "time": "02:00",
-        "id": "275942831579860992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jacksonville Armada U23 - Lubbock Matadors",
-        "time": "02:00",
-        "id": "275942831498072064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Ceara SC CE - Corinthians Paulista",
         "time": "01:30",
         "id": "274394042386747392"
@@ -61,13 +82,6 @@
         "name": "Portland Hearts of Pine - Greenville Triumph Sc",
         "time": "01:30",
         "id": "275774617881284608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Associacao Atletica Francana - Botafogo SP II",
-        "time": "01:30",
-        "id": "275850619564199936"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Audax Italiano Santiago - Curico Unido",
         "time": "01:00",
         "id": "275713058293288960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Itapirense - Inter de Limeira",
-        "time": "01:00",
-        "id": "275770840328572928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santa Cruz RS - Gramadense RS",
-        "time": "01:00",
-        "id": "275843369182302208"
     }
 ]
