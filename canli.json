@@ -23,13 +23,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Portland Timbers - Real Salt Lake",
-        "time": "05:30",
-        "id": "275631080882704384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Los Angeles Galaxy - Austin FC",
         "time": "05:30",
         "id": "275606295503048704"
@@ -37,15 +30,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Seattle Sounders - Colorado Rapids",
-        "time": "05:15",
-        "id": "275602570826878976"
+        "name": "Portland Timbers - Real Salt Lake",
+        "time": "05:30",
+        "id": "275631080882704384"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club America - Club Tijuana Xoloitzcuintles de Caliente",
-        "time": "04:00",
-        "id": "275005219270692864"
+        "name": "Seattle Sounders - Colorado Rapids",
+        "time": "05:15",
+        "id": "275602570826878976"
     }
 ]
