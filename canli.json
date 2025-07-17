@@ -2,9 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Partizan Belgrade - AEK Larnaca",
+        "time": "22:00",
+        "id": "275409999265665024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KI Klaksvík - Seinäjoen Jalkapallokerho",
+        "time": "21:45",
+        "id": "275482770131783680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cliftonville FC - St. Josephs FC",
+        "time": "21:45",
+        "id": "275372020110331904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vikingur Reykjavik - FC Malisheva",
+        "time": "21:45",
+        "id": "275482761300676608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Carshalton Athletic FC - Sutton Common Rovers",
+        "time": "21:45",
+        "id": "275899764871139328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Dinamo Brest - FK Sutjeska Niksic",
         "time": "21:30",
         "id": "275482897470853120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Biel - Young Boys Ii",
+        "time": "21:30",
+        "id": "275990182942085120"
     },
     {
         "tur": "live",
@@ -44,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AEK Athens - Omonia FC Nicosia",
+        "time": "21:00",
+        "id": "275679260574879744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CFR 1907 Cluj - Paksi FC",
         "time": "20:30",
         "id": "275409840586756096"
@@ -54,54 +103,5 @@
         "name": "FC Koper - FK Zeljeznicar Sarajevo",
         "time": "20:30",
         "id": "275483046554243072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BK Hacken - FC Spartak Trnava",
-        "time": "20:00",
-        "id": "275437468571013120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Petrocub - Birkirkara FC",
-        "time": "20:00",
-        "id": "275483367013748736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Haverfordwest County - Floriana FC",
-        "time": "20:00",
-        "id": "275635026010443776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "F91 Dudelange - Atletic Club d'Escaldes",
-        "time": "20:00",
-        "id": "275483268347990016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Penybont - FK Zalgiris Kaunas",
-        "time": "20:00",
-        "id": "275483268278784000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Sileks - FK Decic Tuzi",
-        "time": "20:00",
-        "id": "275483394900627456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HJK Helsinki - NSI Runavík",
-        "time": "19:00",
-        "id": "275482631942049792"
     }
 ]
