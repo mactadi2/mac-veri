@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "12 de Octubre - Guairena FC",
+        "time": "00:00",
+        "id": "275899338429960192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Indepiendente Juniors - Club 9 de Octubre",
         "time": "23:30",
         "id": "275399862070153216"
@@ -16,20 +23,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "UMF Afturelding - Fram Reykjavik",
-        "time": "22:15",
-        "id": "275133222502928384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grindavik\/Njardvik (W) - Fylkir Reykjavik (W)",
-        "time": "22:15",
-        "id": "275875989865762816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Partizan Belgrade - AEK Larnaca",
         "time": "22:00",
         "id": "275409999265665024"
@@ -40,12 +33,5 @@
         "name": "İsveç (Kadınlar) - İngiltere (Kadınlar)",
         "time": "22:00",
         "id": "275678524435730432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cliftonville FC - St. Josephs FC",
-        "time": "21:45",
-        "id": "275372020110331904"
     }
 ]
