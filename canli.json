@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Recanto da Crianca U20 (W) - Palmeiras U20 (W)",
+        "time": "22:30",
+        "id": "276032715748413440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jorge Wilstermann U19 - Club Aurora U19",
+        "time": "22:30",
+        "id": "275990656916262912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UMF Afturelding - Fram Reykjavik",
+        "time": "22:15",
+        "id": "275133222502928384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Grindavik\/Njardvik (W) - Fylkir Reykjavik (W)",
+        "time": "22:15",
+        "id": "275875989865762816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Partizan Belgrade - AEK Larnaca",
         "time": "22:00",
         "id": "275409999265665024"
@@ -19,6 +47,13 @@
         "name": "Portimonense - Fenerbahce SK",
         "time": "22:00",
         "id": "275850235154141184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "İsveç (Kadınlar) - İngiltere (Kadınlar)",
+        "time": "22:00",
+        "id": "275678524435730432"
     },
     {
         "tur": "live",
@@ -51,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dinamo Brest - FK Sutjeska Niksic",
-        "time": "21:30",
-        "id": "275482897470853120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Biel - Young Boys Ii",
-        "time": "21:30",
-        "id": "275990182942085120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "NK Celje - Sabah FK",
         "time": "21:00",
         "id": "275451601238495232"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Prishtina - FC Sheriff Tiraspol",
-        "time": "21:00",
-        "id": "275449221232070656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "KF Partizani Tirana - JK Nomme Kalju",
         "time": "21:00",
         "id": "275482975001513984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Neman Grodno - FC Urartu Banants Yerevan",
-        "time": "21:00",
-        "id": "275482897392209920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AEK Athens - Omonia FC Nicosia",
-        "time": "21:00",
-        "id": "275679260574879744"
     }
 ]
