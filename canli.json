@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fluminense RJ - Cruzeiro MG",
+        "time": "01:30",
+        "id": "274394562614661120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Operario Ferroviario EC PR - CRB Clube de Regatas Brasil",
+        "time": "01:30",
+        "id": "275469435614138368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Universidad de Chile - Guarani Asuncion",
         "time": "01:00",
         "id": "271846496469651456"
@@ -19,12 +33,5 @@
         "name": "12 de Octubre - Guairena FC",
         "time": "00:00",
         "id": "275899338429960192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Indepiendente Juniors - Club 9 de Octubre",
-        "time": "23:30",
-        "id": "275399862070153216"
     }
 ]
