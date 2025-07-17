@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AL-Nejmeh SC Beirut - Tadamon Sour",
+        "time": "16:30",
+        "id": "275865149444853760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SV Darmstadt 98 - FC St. Gallen",
         "time": "16:00",
         "id": "275989417454342144"
@@ -19,19 +26,5 @@
         "name": "Ndirande Stars - Bangwe All Star",
         "time": "15:30",
         "id": "275984171814490112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yassy Turkistan - Akas FC",
-        "time": "15:00",
-        "id": "275797031635783680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Ekibastuz - FC Altai Oskemen",
-        "time": "15:00",
-        "id": "275796877941805056"
     }
 ]
