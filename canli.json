@@ -44,9 +44,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Carshalton Athletic FC - Sutton Common Rovers",
+        "time": "21:45",
+        "id": "275899764871139328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Dinamo Brest - FK Sutjeska Niksic",
         "time": "21:30",
         "id": "275482897470853120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Biel - Young Boys Ii",
+        "time": "21:30",
+        "id": "275990182942085120"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "AEK Athens - Omonia FC Nicosia",
         "time": "21:00",
         "id": "275679260574879744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CFR 1907 Cluj - Paksi FC",
-        "time": "20:30",
-        "id": "275409840586756096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Koper - FK Zeljeznicar Sarajevo",
-        "time": "20:30",
-        "id": "275483046554243072"
     }
 ]
