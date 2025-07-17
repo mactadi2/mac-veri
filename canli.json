@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Indepiendente Juniors - Club 9 de Octubre",
+        "time": "23:30",
+        "id": "275399862070153216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Recanto da Crianca U20 (W) - Palmeiras U20 (W)",
         "time": "22:30",
         "id": "276032715748413440"
@@ -58,23 +65,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "KI Klaksvík - Seinäjoen Jalkapallokerho",
-        "time": "21:45",
-        "id": "275482770131783680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Cliftonville FC - St. Josephs FC",
         "time": "21:45",
         "id": "275372020110331904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vikingur Reykjavik - FC Malisheva",
-        "time": "21:45",
-        "id": "275482761300676608"
     },
     {
         "tur": "live",
@@ -86,22 +79,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Celje - Sabah FK",
-        "time": "21:00",
-        "id": "275451601238495232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Hapoel Beer-Sheva - PFC Levski Sofia",
         "time": "21:00",
         "id": "275451790173016064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KF Partizani Tirana - JK Nomme Kalju",
-        "time": "21:00",
-        "id": "275482975001513984"
     }
 ]
