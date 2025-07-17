@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CFR 1907 Cluj - Paksi FC",
+        "time": "20:30",
+        "id": "275409840586756096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Koper - FK Zeljeznicar Sarajevo",
+        "time": "20:30",
+        "id": "275483046554243072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "BK Hacken - FC Spartak Trnava",
         "time": "20:00",
         "id": "275437468571013120"
@@ -30,6 +44,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Penybont - FK Zalgiris Kaunas",
+        "time": "20:00",
+        "id": "275483268278784000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Sileks - FK Decic Tuzi",
+        "time": "20:00",
+        "id": "275483394900627456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aris Thessaloniki - Anorthosis Famagusta",
+        "time": "20:00",
+        "id": "275842619984187392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orlando Pirates FC - Las Palmas",
+        "time": "20:00",
+        "id": "275890473244168192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Paide Linnameeskond - Fcb Magpies",
         "time": "19:30",
         "id": "275483438898876416"
@@ -37,9 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ilves Tampere - Shakhtar Donetsk",
-        "time": "19:00",
-        "id": "275444710127046656"
+        "name": "Besiktas JK - FC Petrzalka 1898",
+        "time": "19:30",
+        "id": "275937338379603968"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Flora Tallinn - Valur Reykjavik",
         "time": "19:00",
         "id": "275483547541835776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pyunik Yerevan - SP Tre Fiori",
-        "time": "19:00",
-        "id": "275635919045922816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ordabasy Shymkent - FC Torpedo Kutaisi",
-        "time": "19:00",
-        "id": "275483560725581824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Dila Gori - Racing FC Union Letzebuerg",
-        "time": "19:00",
-        "id": "275483516327825408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Hegelmann Litauen Kaunas - St Patrick's Athletic",
-        "time": "19:00",
-        "id": "275483547463192576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rabotnicki Skopje - Torpedo Belaz Zhodino",
-        "time": "19:00",
-        "id": "275009958750326784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Santa Coloma - FK Borac Banjaluka",
-        "time": "19:00",
-        "id": "275483516254425088"
     }
 ]
