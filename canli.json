@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fylkir Reykjavik - UMF Njardvik",
+        "time": "22:15",
+        "id": "275679274204270592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Keflavik - Fjolnir Reykjavik",
+        "time": "22:15",
+        "id": "275679274366799872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UMF Grindavik  - UMF Selfoss",
+        "time": "22:15",
+        "id": "275679274463268864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Leiknir Reykjavik - Throttur Reykjavik",
+        "time": "22:15",
+        "id": "275679274542960640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Basingstoke Town Lfc - Slough Town FC",
         "time": "21:45",
         "id": "275995714078773248"
@@ -37,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Stjordals-Blink - Tromsdalen UIL",
-        "time": "21:30",
-        "id": "275679274961342464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kings Lynn - Peterborough United",
         "time": "21:00",
         "id": "275947459084161024"
@@ -65,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Calcio Como - OSC Lille",
-        "time": "20:30",
-        "id": "275937070853263360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Flamengo RJ U20 - Bayer 04 Leverkusen",
         "time": "20:30",
         "id": "276013035374645248"
@@ -89,19 +103,5 @@
         "name": "Sportfreunde Eisbachtal - TuS Hornau",
         "time": "20:30",
         "id": "276116201362558976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Getafe - Preston North End FC",
-        "time": "20:00",
-        "id": "275995636015435776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Lugano Reserves - Deportivo Camioneros Reserves",
-        "time": "20:00",
-        "id": "275983589070475264"
     }
 ]
