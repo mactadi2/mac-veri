@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Uruguay (Kadınlar) - Peru (Kadınlar)",
+        "time": "00:00",
+        "id": "275918596629204992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Walter Ferreti - UNAN Managua",
+        "time": "00:00",
+        "id": "276107657970061312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico Cali F.C. - Tigres FC",
         "time": "23:30",
         "id": "275906888390021120"
@@ -26,68 +40,5 @@
         "name": "Titanes FC Guanare - Urena Fc",
         "time": "22:30",
         "id": "275944624758067200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fylkir Reykjavik - UMF Njardvik",
-        "time": "22:15",
-        "id": "275679274204270592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Keflavik - Fjolnir Reykjavik",
-        "time": "22:15",
-        "id": "275679274366799872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UMF Grindavik  - UMF Selfoss",
-        "time": "22:15",
-        "id": "275679274463268864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leiknir Reykjavik - Throttur Reykjavik",
-        "time": "22:15",
-        "id": "275679274542960640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fas (Kadınlar) - Mali (W)",
-        "time": "22:00",
-        "id": "275949393730998272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Antonio Bulo Bulo U19 - Universitario de Vinto U19",
-        "time": "22:00",
-        "id": "276121810210263040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blooming U19 - Oriente Petrolero U19",
-        "time": "22:00",
-        "id": "276046462767468544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rondonopolis EC U20 - Uniao Rondonopolis U20",
-        "time": "22:00",
-        "id": "276075547541508096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kerry FC - Athlone Town FC",
-        "time": "21:45",
-        "id": "275997554115743744"
     }
 ]
