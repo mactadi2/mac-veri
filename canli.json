@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Adelaide University Reserves (W) - Flinders United Reserves (W)",
+        "time": "11:45",
+        "id": "275824086068891648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide City Reserves (W) - West Adelaide Reserves (W)",
+        "time": "11:45",
+        "id": "275837467724222464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Elche - Millwall",
+        "time": "11:30",
+        "id": "276003279461289984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Stade Lausanne Ouchy - Vevey Sports 05",
+        "time": "11:30",
+        "id": "276062353728081920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Changchun Yatai - Shanghai Port FC",
+        "time": "11:30",
+        "id": "275459444332171264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Preston Lions U23 - Melbourne Knights U23",
         "time": "11:15",
         "id": "275836748267917312"
@@ -37,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Olympia Warriors II - Hobart City Beachside II",
+        "time": "11:00",
+        "id": "276082227578802176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sydney FC U20 - Western Sydney U20",
         "time": "10:30",
         "id": "276077496907206656"
@@ -47,12 +89,5 @@
         "name": "Wellington Olympic - North Wellington AFC",
         "time": "10:30",
         "id": "275916091073630208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Christchurch United - Selwyn United",
-        "time": "10:00",
-        "id": "276034840230498304"
     }
 ]
