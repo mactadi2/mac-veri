@@ -2,37 +2,58 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Green Gully Cavaliers SC - Heidelberg United",
+        "time": "12:30",
+        "id": "275679275718414336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sydney FC NPL - Western Sydney Wanderers NPL",
+        "time": "12:30",
+        "id": "275799208835026944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brunswick City - Manningham United Blues",
+        "time": "12:30",
+        "id": "275822248845250560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Langwarrin Sc - Melbourne City U21",
+        "time": "12:30",
+        "id": "275836589990612992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nunawading City - Eltham Redbacks",
+        "time": "12:30",
+        "id": "275836376200646656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pascoe Vale - Altona City",
+        "time": "12:30",
+        "id": "275836376109420544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Box Hill United - Essendon Royals",
+        "time": "12:30",
+        "id": "275836973637308416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "ZKS Stal Stalowa Wola - Sokol Kleczew",
         "time": "12:00",
         "id": "276082643043487744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Garuda FC - University Azzurri FC",
-        "time": "12:00",
-        "id": "275871852165992448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide University Reserves (W) - Flinders United Reserves (W)",
-        "time": "11:45",
-        "id": "275824086068891648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide City Reserves (W) - West Adelaide Reserves (W)",
-        "time": "11:45",
-        "id": "275837467724222464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "The Cove (W) - Modbury Vista (W)",
-        "time": "11:45",
-        "id": "276082501795057664"
     },
     {
         "tur": "live",
@@ -54,13 +75,6 @@
         "name": "Changchun Yatai - Shanghai Port FC",
         "time": "11:30",
         "id": "275459444332171264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Noble Park United Reserves - Casey Comets FC Reserves",
-        "time": "11:30",
-        "id": "276083113483964416"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Caboolture FC U23 - Holland Park Hawks U23",
         "time": "11:15",
         "id": "275922639925678080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Radnik Sesvete - NK Varazdin",
-        "time": "11:00",
-        "id": "276078095458504704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wellington Olympic - North Wellington AFC",
-        "time": "10:30",
-        "id": "275916091073630208"
     }
 ]
