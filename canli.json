@@ -58,9 +58,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Preussen Munster - Heracles Almelo",
+        "name": "SR Donaufeld - SV Stripfing\/Weiden",
         "time": "19:00",
-        "id": "276007096802217984"
+        "id": "276003904239570944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MFK Karvina B - Hlubina",
+        "time": "19:00",
+        "id": "276002935496904704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Oberwart - Wolfsberger Athletik Club II",
+        "time": "19:00",
+        "id": "275995607649357824"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Podbeskidzie Bielsko-Biala - Piast Gliwice",
         "time": "18:30",
         "id": "275999058160652288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC 1907 Memmingen - FC Augsburg",
-        "time": "18:00",
-        "id": "276003733539786752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Udinese - Opatija",
-        "time": "18:00",
-        "id": "276077431542124544"
     }
 ]
