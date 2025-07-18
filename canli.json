@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Calcio Como - OSC Lille",
+        "time": "20:30",
+        "id": "275937070853263360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Flamengo RJ U20 - Bayer 04 Leverkusen",
+        "time": "20:30",
+        "id": "276013035374645248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AS St. Etienne - Servette Geneve FC",
+        "time": "20:30",
+        "id": "276030612968706048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FK Austria Wien - Hertha BSC Berlin",
         "time": "20:00",
         "id": "275995180010704896"
@@ -26,6 +47,13 @@
         "name": "Getafe - Preston North End FC",
         "time": "20:00",
         "id": "275995636015435776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Lebring - Deutschlandsberger SC",
+        "time": "20:00",
+        "id": "275995146652356608"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wiener SK - Floridsdorfer AC",
+        "name": "Oberwart - Wolfsberger Athletik Club II",
         "time": "19:00",
-        "id": "276010082953728000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Sion Sitten - Annecy FC",
-        "time": "19:00",
-        "id": "276004663964340224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SR Donaufeld - SV Stripfing\/Weiden",
-        "time": "19:00",
-        "id": "276003904239570944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MFK Karvina B - Hlubina",
-        "time": "19:00",
-        "id": "276002935496904704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "A.J. Auxerre - Orleans US 45",
-        "time": "18:30",
-        "id": "275679260677640192"
+        "id": "275995607649357824"
     }
 ]
