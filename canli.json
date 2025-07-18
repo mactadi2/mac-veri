@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "West Torrens Birkalla - Adelaide United Reserves",
+        "time": "13:45",
+        "id": "275679271865946112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Daegu FC - Gimcheon Sangmu FC",
+        "time": "13:30",
+        "id": "275544233608351744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Suwon City - Gwangju FC",
+        "time": "13:30",
+        "id": "275366744877568000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Preston Lions - Melbourne Knights",
+        "time": "13:30",
+        "id": "275679275652354048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Oakleigh Cannons - Hume City",
         "time": "13:15",
         "id": "275679275560079360"
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sunshine Coast Wanderers (W) - Souths United NPL (W)",
-        "time": "12:30",
-        "id": "275885682887626752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "ZKS Stal Stalowa Wola - Sokol Kleczew",
         "time": "12:00",
         "id": "276082643043487744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Garuda FC - University Azzurri FC",
-        "time": "12:00",
-        "id": "275871852165992448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Elche - Millwall",
-        "time": "11:30",
-        "id": "276003279461289984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Changchun Yatai - Shanghai Port FC",
-        "time": "11:30",
-        "id": "275459444332171264"
     }
 ]
