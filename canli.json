@@ -2,13 +2,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ca Talleres De Cordoba Reserves - San Lorenzo Reserves",
-        "time": "23:30",
-        "id": "276025842987044864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Atletico Cali F.C. - Tigres FC",
         "time": "23:30",
         "id": "275906888390021120"
@@ -26,6 +19,13 @@
         "name": "CSD Municipal Margarita Belen - Deportivo Lujan",
         "time": "23:00",
         "id": "276046588974075904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Titanes FC Guanare - Urena Fc",
+        "time": "22:30",
+        "id": "275944624758067200"
     },
     {
         "tur": "live",
@@ -58,27 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "İspanya (Kadınlar) - İsviçre (Kadınlar)",
-        "time": "22:00",
-        "id": "275621284997632000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guarani de Fram - Deportivo Santani",
-        "time": "22:00",
-        "id": "275760389913972736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KFK Kopavogur - Kf Fjallabyggdar",
-        "time": "22:00",
-        "id": "275959538903027712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Fas (Kadınlar) - Mali (W)",
         "time": "22:00",
         "id": "275949393730998272"
@@ -86,16 +65,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shamrock Rovers FC - Wexford FC",
+        "name": "San Antonio Bulo Bulo U19 - Universitario de Vinto U19",
         "time": "22:00",
-        "id": "276009701130506240"
+        "id": "276121810210263040"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Basingstoke Town Lfc - Slough Town FC",
-        "time": "21:45",
-        "id": "275995714078773248"
+        "name": "Blooming U19 - Oriente Petrolero U19",
+        "time": "22:00",
+        "id": "276046462767468544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rondonopolis EC U20 - Uniao Rondonopolis U20",
+        "time": "22:00",
+        "id": "276075547541508096"
     },
     {
         "tur": "live",
