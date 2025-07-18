@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "North Carolina - Indy Eleven",
+        "time": "02:30",
+        "id": "275619406013403136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Detroit City FC - Pittsburgh Riverhounds",
         "time": "02:00",
         "id": "275676152660627456"
@@ -58,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "DS Football Club - Promex Harlem United SC",
+        "time": "02:00",
+        "id": "275990324030083072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Boca Juniors - Union Santa Fe",
         "time": "01:30",
         "id": "275560773083860992"
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "General Caballero JLM - 2 de Mayo",
-        "time": "00:30",
-        "id": "275503253962231808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fernando de la Mora - Club Sportivo Carapegua",
-        "time": "00:30",
-        "id": "275760389832183808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo La Guaira - Rayo Zuliano",
-        "time": "00:30",
-        "id": "275999323376979968"
+        "name": "Queretaro (W) - CD Chivas Guadalajara (W)",
+        "time": "00:45",
+        "id": "275679267051933696"
     }
 ]
