@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Boca Juniors - Union Santa Fe",
+        "time": "01:30",
+        "id": "275560773083860992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Ituzaingo - Puerto Nuevo",
+        "time": "01:30",
+        "id": "276026483644960768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico Clube Goianiense - Criciuma EC",
         "time": "01:00",
         "id": "275561826267303936"
@@ -54,12 +68,5 @@
         "name": "Uruguay (Kadınlar) - Peru (Kadınlar)",
         "time": "00:00",
         "id": "275918596629204992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Cali F.C. - Tigres FC",
-        "time": "23:30",
-        "id": "275906888390021120"
     }
 ]
