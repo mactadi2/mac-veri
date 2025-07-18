@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sparta Rotterdam - De Graafschap",
+        "time": "19:30",
+        "id": "275933317361176576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Red Bull Salzburg - Derby County",
+        "time": "19:00",
+        "id": "275994033519726592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fortuna Koln - 1. FC Köln",
+        "time": "19:00",
+        "id": "276004688914157568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Montpellier HSC - Rodez Aveyron",
+        "time": "19:00",
+        "id": "275961090921336832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Ried - FC Energie Cottbus",
+        "time": "19:00",
+        "id": "275729984756256768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wiener SK - Floridsdorfer AC",
+        "time": "19:00",
+        "id": "276010082953728000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Toulouse - Queens Park Rangers FC",
+        "time": "19:00",
+        "id": "275679260489945088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Sion Sitten - Annecy FC",
+        "time": "19:00",
+        "id": "276004663964340224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Preussen Munster - Heracles Almelo",
+        "time": "19:00",
+        "id": "276007096802217984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Erzgebirge Aue - Borussia Monchengladbach",
         "time": "18:30",
         "id": "275679260762574848"
@@ -30,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AC Forli - Sassuolo U20",
-        "time": "18:30",
-        "id": "276010450987126784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Krsko - Budafoki MTE-Ujbuda",
-        "time": "18:30",
-        "id": "276107492553003008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC 1907 Memmingen - FC Augsburg",
         "time": "18:00",
         "id": "276003733539786752"
@@ -54,54 +103,5 @@
         "name": "Udinese - Opatija",
         "time": "18:00",
         "id": "276077431542124544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blekitni Stargard - Miedz Legnica ll",
-        "time": "18:00",
-        "id": "276076236199038976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Yantra Gabrovo - Pfc Spartak Pleven",
-        "time": "18:00",
-        "id": "276105610111619072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kotkan Tyovaen Palloilijat - FC Inter Turku",
-        "time": "18:00",
-        "id": "275471697899032576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Austria Wien II - SV Horn",
-        "time": "17:30",
-        "id": "276003791304790016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Utrecht - Royal Charleroi SC",
-        "time": "17:00",
-        "id": "276003551200808960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hannover 96 II - SV Babelsberg 03",
-        "time": "17:00",
-        "id": "276077199862403072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Siarka Tarnobrzeg - Pogon Sokol Lubaczow",
-        "time": "17:00",
-        "id": "276086134274134016"
     }
 ]
