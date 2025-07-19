@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "KS Gornik Zabrze II - MSK Zilina B",
-        "time": "12:00",
-        "id": "276092337781870592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "NK Nafta Lendava - Varteks",
         "time": "12:00",
         "id": "276151834619547648"
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Zaglebie Lubin II - Karkonosze Jelenia Gora",
+        "name": "Fk Hodonin - OFK Malzenice",
         "time": "12:00",
-        "id": "276147285593821184"
+        "id": "276169863078219776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brinje Grosuplje - Budafoki MTE-Ujbuda",
+        "time": "12:00",
+        "id": "276173658876153856"
     }
 ]
