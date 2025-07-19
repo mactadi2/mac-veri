@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Lugano - Pro Vercelli",
+        "time": "21:30",
+        "id": "276140301217828864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA San Miguel - CA All Boys",
+        "time": "21:30",
+        "id": "275734018234912768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Almagro - Club Atletico Alvarado",
+        "time": "21:30",
+        "id": "275733925788258304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Valencia CF - Castellon",
         "time": "21:00",
         "id": "276171143515344896"
@@ -26,13 +47,6 @@
         "name": "Athletic Bilbao B - Ponferradina",
         "time": "21:00",
         "id": "276138949687250944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Utc de Cajamarca - FBC Melgar Arequipa",
-        "time": "21:00",
-        "id": "275679268726509568"
     },
     {
         "tur": "live",
@@ -79,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Granada CF - Orlando Pirates FC",
-        "time": "20:00",
-        "id": "276103548360593408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Sociedad Deportivo Tarazona - SD Huesca",
         "time": "20:00",
         "id": "276102608046919680"
@@ -96,12 +103,5 @@
         "name": "PAE APS Atromitos Athens - Asteras Tripolis",
         "time": "20:00",
         "id": "275913531603423232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Espanola - Union La Calera",
-        "time": "19:30",
-        "id": "275370328672309248"
     }
 ]
