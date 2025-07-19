@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Belmont Swansea United SC Reserves - New Lambton Reserves",
+        "time": "09:30",
+        "id": "276059241023934464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hakoah Sydney City East - Inter Lions Fc",
+        "time": "09:30",
+        "id": "275870527442259968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mindil Aces - Hellenic Athletic Club",
         "time": "09:30",
         "id": "275871996771962880"
@@ -9,16 +23,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Rochedale Rovers U23 - Magic United U23",
-        "time": "09:00",
-        "id": "275973716614189056"
+        "name": "Glenorchy Knights - Launceston United",
+        "time": "09:30",
+        "id": "275679269821222912"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Logan Lightning U23 - Redlands United U23",
-        "time": "08:50",
-        "id": "276011283099291648"
+        "name": "Rochedale Rovers U23 - Magic United U23",
+        "time": "09:00",
+        "id": "275973716614189056"
     },
     {
         "tur": "live",
@@ -58,30 +72,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fulham United FC - Adelaide Blue Eagles",
+        "time": "08:30",
+        "id": "275822146416152576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pontian Eagles - Adelaide Vipers",
+        "time": "08:30",
+        "id": "275822146780008448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Brisbane City (W) - Lions Fc (W)",
         "time": "08:15",
         "id": "275885682950541312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wellington Phoenix FC - Wrexham",
-        "time": "08:00",
-        "id": "276071791966949376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avondale Fc - Dandenong City",
-        "time": "08:00",
-        "id": "275679275790766080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eastern Lions - Western United II",
-        "time": "08:00",
-        "id": "275836973566005248"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Capalaba U23 - Southside Eagles U23",
         "time": "08:00",
         "id": "276010641455714304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Broadbeach United U23 - Brisbane Strikers U23",
-        "time": "08:00",
-        "id": "276010641546940416"
     }
 ]
