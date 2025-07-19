@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vasco da Gama RJ - Gremio Porto Alegrense RS",
+        "time": "23:30",
+        "id": "275657452239851520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Asociacion Deportiva Tarma - Cienciano Cusco",
+        "time": "23:15",
+        "id": "275666908511080448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rhode Island - Hartford Athletic",
         "time": "23:00",
         "id": "275682877181661184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ituano SP - Botafogo PB",
+        "time": "23:00",
+        "id": "275682876742307840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ABC Futebol Clube - Maringa FC PR",
+        "time": "23:00",
+        "id": "275682876645838848"
     },
     {
         "tur": "live",
@@ -51,57 +79,29 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA San Miguel - CA All Boys",
-        "time": "21:30",
-        "id": "275734018234912768"
+        "name": "Universidad Catolica Quito - Vinotinto Ecuador",
+        "time": "22:00",
+        "id": "275665009101639680"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Almagro - Club Atletico Alvarado",
-        "time": "21:30",
-        "id": "275733925788258304"
+        "name": "Colo Colo - La Serena",
+        "time": "22:00",
+        "id": "275370327583887360"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Argentino de Rosario - General Lamadrid",
-        "time": "21:30",
-        "id": "276103353985011712"
+        "name": "Libertad Asuncion - Nacional Asuncion",
+        "time": "22:00",
+        "id": "275585667559460864"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Canuelas - CSD Central Ballester",
-        "time": "21:30",
-        "id": "276104310787543040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Paraguayo - Victoriano Arenas",
-        "time": "21:30",
-        "id": "276104648811745280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Camioneros - Centro Espanyol",
-        "time": "21:30",
-        "id": "276103935161405440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Muniz - Club Leandro Niceforo Alem",
-        "time": "21:30",
-        "id": "276104310676393984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Lujan - Estrella del Sur",
-        "time": "21:30",
-        "id": "276132632376512512"
+        "name": "Academia de Balompie Boliviano - Aurora",
+        "time": "22:00",
+        "id": "275791524506243072"
     }
 ]
