@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Caroline Springs George Cross U23 - Moreland City U23",
+        "time": "08:45",
+        "id": "275904350228975616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Playford Patriots - North Eastern Metro Stars",
         "time": "08:30",
         "id": "275679271591219200"
@@ -19,6 +26,27 @@
         "name": "Para Hills Knights - Campbelltown City",
         "time": "08:30",
         "id": "275679271754797056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "The Cove Fc - West Adelaide",
+        "time": "08:30",
+        "id": "275822146918420480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Adelaide - Salisbury United",
+        "time": "08:30",
+        "id": "275822146510524416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fulham United FC - Adelaide Blue Eagles",
+        "time": "08:30",
+        "id": "275822146416152576"
     },
     {
         "tur": "live",
@@ -65,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Capalaba U23 - Southside Eagles U23",
-        "time": "08:00",
-        "id": "276010641455714304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Broadbeach United U23 - Brisbane Strikers U23",
         "time": "08:00",
         "id": "276010641546940416"
@@ -82,26 +103,5 @@
         "name": "Brisbane Roar Youth - Gold Coast Knights",
         "time": "07:30",
         "id": "275962347007381504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lambton Jaffas FC - Valentine Phoenix",
-        "time": "07:00",
-        "id": "275679266777206784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Charlestown Azzurri - Cooks Hill United",
-        "time": "07:00",
-        "id": "275679266609434624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Green Gully U23 - Heidelberg Utd U23",
-        "time": "07:00",
-        "id": "275826108806598656"
     }
 ]
