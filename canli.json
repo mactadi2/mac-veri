@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Nantes - EA Guingamp",
+        "time": "18:30",
+        "id": "275730976312791040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Le Puy - Clermont",
+        "time": "18:30",
+        "id": "276097044875186176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Göztepe - Vukovar 1991",
         "time": "18:00",
         "id": "276159608750477312"
@@ -16,6 +30,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SpVgg Greuther Furth - Huddersfield Town",
+        "time": "18:00",
+        "id": "275990591542792192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MTK Budapest - KFC Komarno",
+        "time": "18:00",
+        "id": "276093912304717824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cagliari - ACD Ospitaletto SSD",
+        "time": "18:00",
+        "id": "276088532428263424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wolfsberger Athletik Club - NK Istra 1961 Pula",
+        "time": "18:00",
+        "id": "276103740104249344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Benevento - AS Roma U20",
+        "time": "18:00",
+        "id": "276171282553376768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Floridsdorfer AC - SC Wiener Neustadter",
+        "time": "18:00",
+        "id": "276136010043232256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AZ Alkmaar - NK Lokomotiva Zagreb",
         "time": "17:30",
         "id": "276086886687182848"
@@ -23,16 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Nottingham Forest - AS Monaco",
-        "time": "17:00",
-        "id": "276005378784890880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Celtic FC - Newcastle United FC",
-        "time": "17:00",
-        "id": "275730650156371968"
+        "name": "Podbrezova - FK Inter Bratislava",
+        "time": "17:30",
+        "id": "276178601395752960"
     },
     {
         "tur": "live",
@@ -44,64 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Reading - Tottenham Hotspur",
+        "name": "Rochdale - Grimsby Town",
         "time": "17:00",
-        "id": "275722150093131776"
+        "id": "276012367606845440"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Blackburn Rovers - Everton",
+        "name": "Truro City FC - Falmouth Town",
         "time": "17:00",
-        "id": "276080137264566272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chippenham Town FC - Swindon Town",
-        "time": "17:00",
-        "id": "276012367536590848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gillingham - Luton Town",
-        "time": "17:00",
-        "id": "276086885304111104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blackpool FC - West Bromwich Albion FC",
-        "time": "17:00",
-        "id": "276080723706908672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alfreton Town FC - Chesterfield",
-        "time": "17:00",
-        "id": "276079157203570688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chester FC - Salford City",
-        "time": "17:00",
-        "id": "276012313662853120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yeovil Town - Bristol Rovers",
-        "time": "17:00",
-        "id": "276086780636303360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cheltenham Town - Wycombe Wanderers",
-        "time": "17:00",
-        "id": "276083944326303744"
+        "id": "276126446927351808"
     }
 ]
