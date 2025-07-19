@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "UE Olot - Girona FC",
+        "time": "20:30",
+        "id": "276027465690910720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KVC Westerlo - Samsunspor",
         "time": "20:00",
         "id": "276086022008344576"
@@ -12,6 +19,13 @@
         "name": "Zulte-Waregem - Norwich City FC",
         "time": "20:00",
         "id": "275931164278132736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GNK Dinamo Zagreb - FC Kryvbas Kriviy Rih",
+        "time": "20:00",
+        "id": "276096776408272896"
     },
     {
         "tur": "live",
@@ -72,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Grazer AK 1902 - SV Kapfenberg",
+        "time": "19:00",
+        "id": "275730976452251648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "ACD Virtus Entella - Livorno",
         "time": "19:00",
         "id": "276090083294187520"
@@ -82,26 +103,5 @@
         "name": "SC Bregenz - VfB Hohenems",
         "time": "19:00",
         "id": "276090835685216256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grazer AK 1902 - SV Kapfenberg",
-        "time": "19:00",
-        "id": "275730976452251648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ACV Assen - FC Emmen",
-        "time": "19:00",
-        "id": "276096995214626816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Nantes - EA Guingamp",
-        "time": "18:30",
-        "id": "275730976312791040"
     }
 ]
