@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KVC Westerlo - Samsunspor",
+        "time": "20:00",
+        "id": "276086022008344576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zulte-Waregem - Norwich City FC",
+        "time": "20:00",
+        "id": "275931164278132736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Zalaegerszegi TE - Leicester City",
         "time": "19:30",
         "id": "276103394106675200"
@@ -51,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "ACD Virtus Entella - Livorno",
+        "name": "SV Austria Salzburg - BV Borussia 09 Dortmund II",
         "time": "19:00",
-        "id": "276090083294187520"
+        "id": "276094552144744448"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Austria Salzburg - BV Borussia 09 Dortmund II",
+        "name": "ACD Virtus Entella - Livorno",
         "time": "19:00",
-        "id": "276094552144744448"
+        "id": "276090083294187520"
     },
     {
         "tur": "live",
@@ -72,36 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Grazer AK 1902 - SV Kapfenberg",
+        "time": "19:00",
+        "id": "275730976452251648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ACV Assen - FC Emmen",
+        "time": "19:00",
+        "id": "276096995214626816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Nantes - EA Guingamp",
         "time": "18:30",
         "id": "275730976312791040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Göztepe - Vukovar 1991",
-        "time": "18:00",
-        "id": "276159608750477312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Ingolstadt 04 - Torino FC",
-        "time": "18:00",
-        "id": "276092139361931264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MTK Budapest - KFC Komarno",
-        "time": "18:00",
-        "id": "276093912304717824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cagliari - ACD Ospitaletto SSD",
-        "time": "18:00",
-        "id": "276088532428263424"
     }
 ]
