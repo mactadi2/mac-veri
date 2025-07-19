@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Shenzhen Peng FC - Qingdao Hainiu",
+        "time": "14:35",
+        "id": "275549907340890112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Liefering - SpVgg Unterhaching",
         "time": "14:00",
         "id": "276001298999021568"
@@ -51,30 +58,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Polonia Lidzbark - Olimpia Elblag",
-        "time": "13:00",
-        "id": "276084883139465216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "NK Gorica - Charlton Athletic FC",
         "time": "13:00",
         "id": "275904351325786112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Warta Poznan - Gornik Polkowice",
-        "time": "13:00",
-        "id": "276094552325099520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BK Frem - Nykobing FC",
-        "time": "13:00",
-        "id": "276150149819011072"
     },
     {
         "tur": "live",
@@ -103,5 +89,19 @@
         "name": "Pohang Steelers - Jeonbuk Hyundai Motors FC",
         "time": "13:00",
         "id": "275404516387590144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gangwon FC - Daejeon Citizen",
+        "time": "13:00",
+        "id": "275404516485107712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jeju United - FC Anyang",
+        "time": "13:00",
+        "id": "275404516317335552"
     }
 ]
