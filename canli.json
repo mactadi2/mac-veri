@@ -58,9 +58,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Londrina EC PR - Itabaiana",
-        "time": "01:30",
-        "id": "275692372595183616"
+        "name": "Deportes Concepcion - CD Antofagasta",
+        "time": "02:00",
+        "id": "275685787032489984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chattanooga FC - Inter Miami II",
+        "time": "02:00",
+        "id": "275694283999285248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Crown Legacy FC - Philadelphia Union II",
+        "time": "02:00",
+        "id": "275917541587685376"
     },
     {
         "tur": "live",
@@ -68,6 +82,13 @@
         "name": "AA Ponte Preta - Floresta EC",
         "time": "01:30",
         "id": "275692372531220480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Londrina EC PR - Itabaiana",
+        "time": "01:30",
+        "id": "275692372595183616"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "San Martin De Burzaco - Deportivo Liniers",
         "time": "01:00",
         "id": "276086862236487680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Platense - Velez Sarsfield",
-        "time": "00:45",
-        "id": "275403987574984704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Godoy Cruz - Sarmiento",
-        "time": "00:45",
-        "id": "275404136578682880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Los Andes - CA Atlanta",
-        "time": "00:45",
-        "id": "275734177523044352"
     }
 ]
