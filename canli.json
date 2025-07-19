@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Swansea City - Stevenage Borough",
-        "time": "13:00",
-        "id": "276086463900291072"
+        "name": "FC Liefering - SpVgg Unterhaching",
+        "time": "14:00",
+        "id": "276001298999021568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "1. FC Koln II - TSV Steinbach",
+        "time": "14:00",
+        "id": "276131095702016000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lichtenberg 47 - BFC Dynamo Berlin",
+        "time": "14:00",
+        "id": "276133966397968384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TJ Start Brno - FK Pardubice B",
+        "time": "14:00",
+        "id": "276093790986571776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Buriram United FC - Bangkok Glass Pathumthani United FC",
+        "time": "14:00",
+        "id": "276181770883436544"
     },
     {
         "tur": "live",
@@ -44,9 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "US Creteil - Paris 13 Atletico",
+        "name": "FC Tokyo - Urawa Red Diamonds",
         "time": "13:00",
-        "id": "276126301126004736"
+        "id": "275404521004470272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shonan Bellmare - Cerezo Osaka",
+        "time": "13:00",
+        "id": "275404531646468096"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Fc Solothurn - Team Vaud Lausanne Ii",
         "time": "12:30",
         "id": "276117815138848768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Roskilde - Hellerup IK",
-        "time": "12:00",
-        "id": "275904326569955328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Ried - SKU Amstetten",
-        "time": "12:00",
-        "id": "275729984475238400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Nafta Lendava - Varteks",
-        "time": "12:00",
-        "id": "276151834619547648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fk Hodonin - OFK Malzenice",
-        "time": "12:00",
-        "id": "276169863078219776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brinje Grosuplje - Budafoki MTE-Ujbuda",
-        "time": "12:00",
-        "id": "276173658876153856"
     }
 ]
