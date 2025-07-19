@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Belmont Swansea United FC - New Lambton",
+        "time": "09:30",
+        "id": "275679266682834944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brisbane Roar Youth - Gold Coast Knights",
+        "time": "07:30",
+        "id": "275962347007381504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Clarence Zebras - Kingborough Lions",
+        "time": "07:30",
+        "id": "275679269740482560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lambton Jaffas FC - Valentine Phoenix",
         "time": "07:00",
         "id": "275679266777206784"
@@ -58,16 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Eastern Suburbs Auckland AFC - East Coast Bays",
+        "name": "Bay Olympic - Auckland City",
         "time": "06:00",
-        "id": "276006511211319296"
+        "id": "276006509063835648"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bay Olympic - Auckland City",
+        "name": "Eastern Suburbs Auckland AFC - East Coast Bays",
         "time": "06:00",
-        "id": "276006509063835648"
+        "id": "276006511211319296"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Atletico de San Luis - CF Rayados de Monterrey",
         "time": "06:00",
         "id": "273921091088551936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferrymead Bays - Universities of Canterbury",
-        "time": "05:45",
-        "id": "275993887332503552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nomads United - Cashmere Technical",
-        "time": "05:45",
-        "id": "275993887536975872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BALLARD FC - Colorado Storm",
-        "time": "05:30",
-        "id": "275995768852189184"
     }
 ]
