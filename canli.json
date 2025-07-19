@@ -2,13 +2,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AD Ceuta FC - Juventud Torremolinos CF",
-        "time": "20:00",
-        "id": "276162801687465984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Racing Santander - Eibar",
         "time": "12:30",
         "id": "276096751752056832"
@@ -19,6 +12,13 @@
         "name": "Elite 3000 Helsingor - Fremad Amager",
         "time": "12:30",
         "id": "275904326856216576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fc Solothurn - Team Vaud Lausanne Ii",
+        "time": "12:30",
+        "id": "276117815138848768"
     },
     {
         "tur": "live",
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Obolon Kiev - Veres Rivne",
-        "time": "11:00",
-        "id": "276147285681901568"
+        "name": "Erdi VSE - Hatvan",
+        "time": "11:30",
+        "id": "276172089361305600"
     }
 ]
