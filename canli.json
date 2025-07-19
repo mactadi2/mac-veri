@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "San Lorenzo - Gimnasia y Esgrima La Plata",
+        "time": "20:30",
+        "id": "275403843953627136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KVC Westerlo - Samsunspor",
         "time": "20:00",
         "id": "276086022008344576"
@@ -26,6 +33,27 @@
         "name": "GNK Dinamo Zagreb - FC Kryvbas Kriviy Rih",
         "time": "20:00",
         "id": "276096776408272896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Granada CF - Orlando Pirates FC",
+        "time": "20:00",
+        "id": "276103548360593408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sociedad Deportivo Tarazona - SD Huesca",
+        "time": "20:00",
+        "id": "276102608046919680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PAE APS Atromitos Athens - Asteras Tripolis",
+        "time": "20:00",
+        "id": "275913531603423232"
     },
     {
         "tur": "live",
@@ -65,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Lorient - Osasuna",
-        "time": "19:00",
-        "id": "275730976540332032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Blau-Weiss Linz - Ipswich Town FC",
         "time": "19:00",
         "id": "276097318183374848"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Austria Salzburg - BV Borussia 09 Dortmund II",
+        "name": "Le Havre AC - Le Mans FC",
         "time": "19:00",
-        "id": "276094552144744448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grazer AK 1902 - SV Kapfenberg",
-        "time": "19:00",
-        "id": "275730976452251648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ACD Virtus Entella - Livorno",
-        "time": "19:00",
-        "id": "276090083294187520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Bregenz - VfB Hohenems",
-        "time": "19:00",
-        "id": "276090835685216256"
+        "id": "275730976381997056"
     }
 ]
