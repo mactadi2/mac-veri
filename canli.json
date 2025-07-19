@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "LASK Linz - 1. FC Union Berlin",
+        "time": "16:30",
+        "id": "276120170340159488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SSV Ulm - FC Zurich",
+        "time": "16:30",
+        "id": "276087231001792512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kickers Emden - SV Werder Bremen",
+        "time": "16:30",
+        "id": "276101001036042240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Manchester United - Leeds United",
         "time": "16:00",
         "id": "275909695445798912"
@@ -44,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Korona Kielce II - Bron Radom",
-        "time": "15:30",
-        "id": "276151834774736896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Schalke 04 - FC Twente",
         "time": "15:00",
         "id": "275730650246549504"
@@ -61,13 +75,6 @@
         "name": "NAC Breda - Olympiakos Piraeus FC",
         "time": "15:00",
         "id": "275730313256243200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kickers Offenbach - SV Wehen Wiesbaden",
-        "time": "15:00",
-        "id": "276101001282457600"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Gainsborough Trinity - Scunthorpe United",
         "time": "15:00",
         "id": "275929197567938560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Bulle - Yverdon-Sports",
-        "time": "15:00",
-        "id": "276184909278744576"
     }
 ]
