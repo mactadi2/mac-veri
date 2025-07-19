@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Lanus - Rosario Central",
+        "time": "22:30",
+        "id": "275403844030173184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fortaleza CE - EC Bahia",
         "time": "22:00",
         "id": "275657452161208320"
@@ -58,6 +65,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Canuelas - CSD Central Ballester",
+        "time": "21:30",
+        "id": "276104310787543040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Paraguayo - Victoriano Arenas",
+        "time": "21:30",
+        "id": "276104648811745280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Valencia CF - Castellon",
         "time": "21:00",
         "id": "276171143515344896"
@@ -82,26 +103,5 @@
         "name": "Athletic Bilbao B - Ponferradina",
         "time": "21:00",
         "id": "276138949687250944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA San Telmo - Deportivo Moron",
-        "time": "20:35",
-        "id": "275734243968159744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UE Olot - Girona FC",
-        "time": "20:30",
-        "id": "276027465690910720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Lorenzo - Gimnasia y Esgrima La Plata",
-        "time": "20:30",
-        "id": "275403843953627136"
     }
 ]
