@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mixto EC - AA Aparecidense",
+        "time": "00:00",
+        "id": "276038759524470784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vasco da Gama RJ - Gremio Porto Alegrense RS",
         "time": "23:30",
         "id": "275657452239851520"
@@ -37,6 +44,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Aguia de Maraba - Independencia",
+        "time": "23:00",
+        "id": "275682876938391552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lagarto Se - Barcelona Ilheus ",
+        "time": "23:00",
+        "id": "275679262665740288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Uberlandia MG - Inter de Limeira",
+        "time": "23:00",
+        "id": "275682876827242496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Goiatuba EC - FC Cascavel PR",
+        "time": "23:00",
+        "id": "275682877006548992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Porto Vitoria - Pouso Alegre",
+        "time": "23:00",
+        "id": "275682877079949312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sao Paulo (W) - Racing Louisville FC (W)",
+        "time": "23:00",
+        "id": "276126520954720256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "San Martin Tucuman - Tristan Suarez",
         "time": "22:40",
         "id": "275734074750013440"
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fortaleza CE - EC Bahia",
+        "name": "Fransa (Kadınlar) - Almanya (Kadınlar)",
         "time": "22:00",
-        "id": "275657452161208320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Braga - Celta de Vigo",
-        "time": "22:00",
-        "id": "276092875044950016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sevilla FC - Sunderland",
-        "time": "22:00",
-        "id": "276093147838287872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Goias EC - Cuiaba MT",
-        "time": "22:00",
-        "id": "275654816986959872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universidad Catolica Quito - Vinotinto Ecuador",
-        "time": "22:00",
-        "id": "275665009101639680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colo Colo - La Serena",
-        "time": "22:00",
-        "id": "275370327583887360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Libertad Asuncion - Nacional Asuncion",
-        "time": "22:00",
-        "id": "275585667559460864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Academia de Balompie Boliviano - Aurora",
-        "time": "22:00",
-        "id": "275791524506243072"
+        "id": "275678711986130944"
     }
 ]
