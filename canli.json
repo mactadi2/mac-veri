@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lambton Jaffas FC - Valentine Phoenix",
+        "time": "07:00",
+        "id": "275679266777206784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charlestown Azzurri - Cooks Hill United",
+        "time": "07:00",
+        "id": "275679266609434624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Green Gully U23 - Heidelberg Utd U23",
+        "time": "07:00",
+        "id": "275826108806598656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Hobart - Devonport City Strikers",
+        "time": "07:00",
+        "id": "275866411005513728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mazatlan FC - Puebla",
         "time": "06:05",
         "id": "275005309693595648"
@@ -37,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Auckland FC II - Manurewa AFC",
+        "name": "Bay Olympic - Auckland City",
         "time": "06:00",
-        "id": "276006511146307584"
+        "id": "276006509063835648"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bay Olympic - Auckland City",
+        "name": "Auckland FC II - Manurewa AFC",
         "time": "06:00",
-        "id": "276006509063835648"
+        "id": "276006511146307584"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "BALLARD FC - Colorado Storm",
         "time": "05:30",
         "id": "275995768852189184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eastern Lions U23 - Western United FC U23",
-        "time": "05:15",
-        "id": "276148184358719488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universitario de Deportes - Comerciantes Unidos",
-        "time": "05:00",
-        "id": "275581849606164480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avondale U23 - Dandenong City U23",
-        "time": "05:00",
-        "id": "275822707606687744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lambton Jaffas FC Reserves - Valentine Phoenix Reserves",
-        "time": "05:00",
-        "id": "275875856443904000"
     }
 ]
