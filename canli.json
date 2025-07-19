@@ -2,9 +2,72 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tatran Liptovsky Mikulas - Podbrezova",
+        "time": "11:30",
+        "id": "275993423703576576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Kladno - FC Pisek",
+        "time": "11:30",
+        "id": "275904326778621952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TJ Sokol Lanzhot - Spartak Myjava",
+        "time": "11:30",
+        "id": "276168063636869120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zenit Caslav - Zdar Nad Sazavou",
+        "time": "11:30",
+        "id": "276172026304139264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Slavia Tu Kosice - MSK Tesla Stropkov",
+        "time": "11:30",
+        "id": "276171765631291392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Erdi VSE - Hatvan",
+        "time": "11:30",
+        "id": "276172089361305600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Motorlet Praha - Hradec Kralove B",
+        "time": "11:30",
+        "id": "276093791136518144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shanghai Port Reserves - Shandong Taishan Reserves",
+        "time": "11:30",
+        "id": "276051008429363200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Obolon Kiev - Veres Rivne",
         "time": "11:00",
         "id": "276147285681901568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AD Ceuta FC - Juventud Torremolinos CF",
+        "time": "11:00",
+        "id": "276162801687465984"
     },
     {
         "tur": "live",
@@ -23,27 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Caroline Springs George Cross - Moreland City Fc",
-        "time": "11:00",
-        "id": "275822034403069952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kingston City Fc - Bentleigh Greens",
-        "time": "11:00",
-        "id": "275822068695699456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Spartak Myjava (Kadınlar) - Budapest Honved (W)",
-        "time": "11:00",
-        "id": "276130717414592512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "NK Rudes Zagreb - NK Hrvatski Dragovoljac",
         "time": "10:30",
         "id": "276131119689240576"
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sutherland Sharks U20 - Blacktown City U20",
-        "time": "10:30",
-        "id": "275889315490435072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brisbane City - Queensland Lions SC",
-        "time": "10:30",
-        "id": "275679259483312128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "South Melbourne - Altona Magic",
         "time": "10:00",
         "id": "275804046106955776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St George City FA U20 - Marconi Stallions U20",
-        "time": "10:00",
-        "id": "275892514074005504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bonnyrigg White Eagles U20 - Bull FC Academy U20",
-        "time": "10:00",
-        "id": "276166591529488384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mounties Wanderers U20 - Newcastle Jets U20",
-        "time": "10:00",
-        "id": "276166621036417024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": " Sunshine Coast Wanderers - Gold Coast United",
-        "time": "10:00",
-        "id": "276031461518348288"
     }
 ]
