@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fortaleza CE - EC Bahia",
+        "time": "22:00",
+        "id": "275657452161208320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Braga - Celta de Vigo",
+        "time": "22:00",
+        "id": "276092875044950016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sevilla FC - Sunderland",
+        "time": "22:00",
+        "id": "276093147838287872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Goias EC - Cuiaba MT",
+        "time": "22:00",
+        "id": "275654816986959872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Lugano - Pro Vercelli",
         "time": "21:30",
         "id": "276140301217828864"
@@ -19,6 +47,13 @@
         "name": "Almagro - Club Atletico Alvarado",
         "time": "21:30",
         "id": "275733925788258304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Argentino de Rosario - General Lamadrid",
+        "time": "21:30",
+        "id": "276103353985011712"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "San Lorenzo - Gimnasia y Esgrima La Plata",
         "time": "20:30",
         "id": "275403843953627136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KVC Westerlo - Samsunspor",
-        "time": "20:00",
-        "id": "276086022008344576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zulte-Waregem - Norwich City FC",
-        "time": "20:00",
-        "id": "275931164278132736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GNK Dinamo Zagreb - FC Kryvbas Kriviy Rih",
-        "time": "20:00",
-        "id": "276096776408272896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sociedad Deportivo Tarazona - SD Huesca",
-        "time": "20:00",
-        "id": "276102608046919680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PAE APS Atromitos Athens - Asteras Tripolis",
-        "time": "20:00",
-        "id": "275913531603423232"
     }
 ]
