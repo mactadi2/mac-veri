@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "New York Red Bull - Inter Miami CF",
+        "time": "02:30",
+        "id": "275696262718820352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atlanta United - Charlotte",
+        "time": "02:30",
+        "id": "275696262660100096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CF Montreal - Chicago Fire",
+        "time": "02:30",
+        "id": "275696262931681280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New England Revolution - Orlando City SC",
+        "time": "02:30",
+        "id": "275696262858280960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charleston Battery - Miami FC",
+        "time": "02:30",
+        "id": "275619404057808896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Volta Redonda - CA Paranaense PR",
+        "time": "02:30",
+        "id": "275657667226243072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Loudoun United FC - Oakland Roots SC",
         "time": "02:00",
         "id": "275676389119758336"
@@ -12,6 +54,20 @@
         "name": "Cusco FC - Alianza Lima",
         "time": "02:00",
         "id": "275685850329780224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Londrina EC PR - Itabaiana",
+        "time": "01:30",
+        "id": "275692372595183616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AA Ponte Preta - Floresta EC",
+        "time": "01:30",
+        "id": "275692372531220480"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "CA Los Andes - CA Atlanta",
         "time": "00:45",
         "id": "275734177523044352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mirassol FC - Santos FC Sao Paulo ",
-        "time": "00:30",
-        "id": "275657457508945920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Quilmes Atletico Club - Arsenal de Sarandi",
-        "time": "00:30",
-        "id": "275734253222891520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Coritiba FC PR - Paysandu",
-        "time": "00:30",
-        "id": "275593506329858048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avai - Vila Nova GO",
-        "time": "00:30",
-        "id": "275656208002715648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orense SC - El Nacional Quito",
-        "time": "00:30",
-        "id": "275679544797696000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Coquimbo Unido - Deportes Iquique",
-        "time": "00:30",
-        "id": "275370465439125504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Olimpia Asuncion - Club Atletico Tembetary",
-        "time": "00:30",
-        "id": "275682397204385792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Bolivar - Oriente Petrolero",
-        "time": "00:30",
-        "id": "275791654292688896"
     }
 ]
