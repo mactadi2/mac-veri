@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Palermo - FC Paradiso",
+        "time": "18:30",
+        "id": "276110881194119168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HJK Helsinki - AC Oulu",
+        "time": "18:30",
+        "id": "275645459072159744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FF Jaro - Ilves Tampere",
+        "time": "18:30",
+        "id": "275645459140317184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bologna F.C. - Virtus Verona",
         "time": "18:00",
         "id": "276014519086616576"
@@ -82,26 +103,5 @@
         "name": "FK Sloboda Uzice - Macva Sabac",
         "time": "17:00",
         "id": "276283144077971456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Jelgava - SK Super Nova",
-        "time": "17:00",
-        "id": "275750876855013376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KaPa Kajaani - RoPo",
-        "time": "17:00",
-        "id": "276146080864931840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VfB 03 Hilden - Fortuna Koln II",
-        "time": "16:30",
-        "id": "276266875097321472"
     }
 ]
