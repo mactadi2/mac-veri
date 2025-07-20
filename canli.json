@@ -2,9 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Capital Brasilia CF - Porto Velho EC",
+        "name": "CA Patronato - CD Maipu",
         "time": "21:30",
-        "id": "275767932501495808"
+        "id": "275735332521119744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Guemes - Gimnasia Y Tiro De Salta",
+        "time": "21:30",
+        "id": "275735182332530688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Almirante Brown de Lules - Club Atletico Mitre",
+        "time": "21:30",
+        "id": "275735182253887488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JJ Urquiza - Defensores de Cambaceres",
+        "time": "21:30",
+        "id": "276208375063252992"
     },
     {
         "tur": "live",
@@ -51,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": " Gremio Esportivo Brasil RS - Azuriz FC PR",
-        "time": "21:00",
-        "id": "276077327345127424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Galatasaray SK - VfB Admira Wacker Modling",
         "time": "20:30",
         "id": "276186512661549056"
@@ -89,19 +103,5 @@
         "name": "Chacarita Juniors - Talleres Remedios Escalada",
         "time": "20:00",
         "id": "275734668805017600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Audax Italiano Santiago - Universidad Catolica",
-        "time": "19:30",
-        "id": "275370393593843712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Copiapo - Curico Unido",
-        "time": "19:30",
-        "id": "275686165464616960"
     }
 ]
