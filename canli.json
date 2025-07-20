@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "VfB 03 Hilden - Fortuna Koln II",
+        "time": "16:30",
+        "id": "276266875097321472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Wacker Innsbruck - SSV Reutlingen 05",
         "time": "16:00",
         "id": "276175385489707008"
@@ -96,12 +103,5 @@
         "name": "FK Auda - BFC Daugava Daugavpils",
         "time": "15:00",
         "id": "275743395365916672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guizhou Zhucheng Athletic - Chengdu Rongcheng II",
-        "time": "14:30",
-        "id": "276136250032918528"
     }
 ]
