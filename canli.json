@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "St Albans Saints Sc - Melbourne Victory U21",
+        "time": "10:00",
+        "id": "275804049474981888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sydney Olympic FC - Mt Druitt Town Rangers",
+        "time": "10:00",
+        "id": "275799208772112384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "APIA Leichhardt Tigers U20 - Sydney United 58 U20",
+        "time": "10:00",
+        "id": "275886802269769728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Virginia United - Mount Gravatt Hawks",
+        "time": "10:00",
+        "id": "275971573908901888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Western Sydney Wanderers B (W) - Macarthur Rams (W)",
+        "time": "10:00",
+        "id": "276063617896550400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sydney University FC (W) - Mt Druitt Town Rangers (W)",
+        "time": "10:00",
+        "id": "276063617959464960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Newcastle Jets NPL (W) - Apia Leichhardt Tigers (W)",
+        "time": "10:00",
+        "id": "276063617815810048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ipswich Knights - SWQ Thunder",
         "time": "09:45",
         "id": "275877905430614016"
@@ -12,20 +61,6 @@
         "name": "Broadmeadow Magic - Maitland",
         "time": "09:30",
         "id": "275722569802452992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Belconnen United - Canberra White Eagles FC",
-        "time": "09:30",
-        "id": "275890592959041536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hoang Anh Gia Lai II U21 - Dong Thap U21",
-        "time": "09:30",
-        "id": "276181993941766144"
     },
     {
         "tur": "live",
@@ -51,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Charlestown Azzurri (W) - Broadmeadow Magic (W)",
-        "time": "09:00",
-        "id": "276216332962369536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Fraser Park - Inner West Hawks",
         "time": "08:50",
         "id": "275871856833204224"
@@ -75,33 +103,5 @@
         "name": "Tiamo Hirakata - Minebea Mitsumi",
         "time": "08:30",
         "id": "276088820851675136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Illawarra Stingrays (W) - Bulls Northbridge FC Academy (W)",
-        "time": "08:25",
-        "id": "276063618011893760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Apia Leichhardt Tigers - Sydney United",
-        "time": "08:00",
-        "id": "275716938890612736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Central Coast Mariners NPL - St. George Saints",
-        "time": "08:00",
-        "id": "275802447200522240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melbourne University (W) - Southern United FC (W)",
-        "time": "08:00",
-        "id": "276249481939390464"
     }
 ]
