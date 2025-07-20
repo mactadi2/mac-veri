@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Audax Italiano Santiago - Universidad Catolica",
+        "time": "19:30",
+        "id": "275370393593843712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Copiapo - Curico Unido",
+        "time": "19:30",
+        "id": "275686165464616960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Marsilya - Excelsior Maassluis",
         "time": "19:00",
         "id": "276200610887503872"
@@ -65,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bologna F.C. - Virtus Verona",
-        "time": "18:00",
-        "id": "276014519086616576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Varzim SC - Vizela",
         "time": "18:00",
         "id": "276267670311145472"
@@ -93,15 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hammarby IF - IF Brommapojkarna",
-        "time": "17:30",
-        "id": "275642192976023552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Halmstads BK - BK Hacken",
-        "time": "17:30",
-        "id": "275651179408658432"
+        "name": "FK Aktobe - Tobol Kostanay",
+        "time": "18:00",
+        "id": "275731837685469184"
     }
 ]
