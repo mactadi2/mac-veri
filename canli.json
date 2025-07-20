@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Flamengo RJ - Fluminense RJ",
+        "time": "01:30",
+        "id": "275657463261433856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fortaleza FC - Once Caldas",
+        "time": "01:15",
+        "id": "275665275890831360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Atletico Belgrano - Racing Club",
         "time": "01:00",
         "id": "275405133301551104"
@@ -23,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Jaguares de Cordoba - Atletico Huila",
+        "time": "01:00",
+        "id": "276000283247644672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "America Mineiro MG - Chapecoense SC",
         "time": "00:30",
         "id": "275658571727900672"
@@ -40,6 +61,13 @@
         "name": "Deportes Temuco - Santiago Morning",
         "time": "00:30",
         "id": "275687483291865088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Trasandino Los Andes - Santiago City",
+        "time": "00:30",
+        "id": "276174107560775680"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Palmeiras - Atletico Mineiro",
-        "time": "23:30",
-        "id": "275657463324348416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sport Club do Recife - Botafogo RJ",
-        "time": "23:30",
-        "id": "275657488030896128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Emelec Guayaquil - Mushuc Runa",
-        "time": "23:30",
-        "id": "275676389015949312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juan Pablo II College - Sport Boys",
-        "time": "23:30",
-        "id": "275674400236376064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colon FC - Deportivo Maldonado",
-        "time": "23:30",
-        "id": "275944210155311104"
+        "name": "Olympic Club Deportivo U20 - Atletico Bucaramanga U20",
+        "time": "00:00",
+        "id": "276274110418522112"
     }
 ]
