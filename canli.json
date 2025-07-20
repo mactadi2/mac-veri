@@ -79,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "GKS 71 Tychy - LKS Goczalkowice Zdroj",
-        "time": "12:00",
-        "id": "276239635995299840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kashima Antlers - Kashiwa Reysol",
         "time": "12:00",
         "id": "275404521288634368"
@@ -103,5 +96,12 @@
         "name": "Fukushima United FC - F.C. Ryukyu",
         "time": "12:00",
         "id": "275731986132373504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lanzhou Longyuan Athletic - Shanxi Chongde Ronghai Football Club",
+        "time": "12:00",
+        "id": "276135229242085376"
     }
 ]
