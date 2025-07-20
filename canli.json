@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Galatasaray SK - VfB Admira Wacker Modling",
+        "time": "20:30",
+        "id": "276186512661549056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Barracas Central - Independiente Rivadavia",
+        "time": "20:30",
+        "id": "275405040891596800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ham-Kam - Fredrikstad FK",
         "time": "20:15",
         "id": "275723227017383936"
@@ -33,6 +47,13 @@
         "name": "Copiapo - Curico Unido",
         "time": "19:30",
         "id": "275686165464616960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Suduva Marijampole - FK Riteriai",
+        "time": "19:30",
+        "id": "275760401401122816"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Palermo - FC Paradiso",
-        "time": "18:30",
-        "id": "276110881194119168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HJK Helsinki - AC Oulu",
-        "time": "18:30",
-        "id": "275645459072159744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FF Jaro - Ilves Tampere",
-        "time": "18:30",
-        "id": "275645459140317184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Farul Constanta - Otelul Galati",
-        "time": "18:30",
-        "id": "274099158246363136"
+        "name": "FC Midtjylland - OB Odense",
+        "time": "19:00",
+        "id": "274415910600708096"
     }
 ]
