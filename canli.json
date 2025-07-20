@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bologna F.C. - Virtus Verona",
+        "time": "18:00",
+        "id": "276014519086616576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Varzim SC - Vizela",
+        "time": "18:00",
+        "id": "276267670311145472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tromso IL - Bryne FK",
+        "time": "18:00",
+        "id": "275653468606304256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sandefjord - Kristiansund BK",
+        "time": "18:00",
+        "id": "275653594748948480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Iii Ker Tue Upe - Erzsebeti SMTK",
         "time": "17:30",
         "id": "276277071632797696"
@@ -75,33 +103,5 @@
         "name": "VfB 03 Hilden - Fortuna Koln II",
         "time": "16:30",
         "id": "276266875097321472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wacker Innsbruck - SSV Reutlingen 05",
-        "time": "16:00",
-        "id": "276175385489707008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kalmar FF - IK Brage Borlange",
-        "time": "16:00",
-        "id": "275267569629401088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Seinäjoen Jalkapallokerho - Gnistan",
-        "time": "16:00",
-        "id": "275645427109466112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KePS - Ajax Sarkkiranta",
-        "time": "16:00",
-        "id": "276140996119629824"
     }
 ]
