@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Shimizu S-pulse - Yokohama FC",
+        "time": "12:30",
+        "id": "275404520890175488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Reims - Oud-Heverlee Leuven",
         "time": "12:00",
         "id": "276181922190856192"
@@ -96,12 +103,5 @@
         "name": "Toin Yokohama University - Nihon University",
         "time": "11:00",
         "id": "276095921693003776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Selenge Press Falcons - Khangarid Klub",
-        "time": "10:45",
-        "id": "276255634792517632"
     }
 ]
