@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guizhou Zhucheng Athletic - Chengdu Rongcheng II",
+        "time": "14:30",
+        "id": "276136250032918528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jiangxi Lushan F.C. - Nantong Haimen Codion",
+        "time": "14:30",
+        "id": "276135229182316544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nanjing Fengfan - Guangxi Baoyun Fc",
+        "time": "14:30",
+        "id": "275741333761691648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "BSG Chemie Leipzig - SG Union Sandersdorf",
         "time": "14:00",
         "id": "276268555350183936"
@@ -58,16 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gyeongnam FC - Incheon United FC",
+        "name": "Bucheon FC 1995 - Chungnam Asan",
         "time": "13:00",
-        "id": "275634618488721408"
+        "id": "275634618358697984"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bucheon FC 1995 - Chungnam Asan",
+        "name": "Gyeongnam FC - Incheon United FC",
         "time": "13:00",
-        "id": "275634618358697984"
+        "id": "275634618488721408"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Tochigi SC - SC Sagamihara",
         "time": "13:00",
         "id": "275735926450294784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yeoju Citizen FC - Siheung Citizen",
-        "time": "13:00",
-        "id": "275735927150743552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Changwon City - Pocheon Fc",
-        "time": "13:00",
-        "id": "275735927253504000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shimizu S-pulse - Yokohama FC",
-        "time": "12:30",
-        "id": "275404520890175488"
     }
 ]
