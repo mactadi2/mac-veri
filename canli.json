@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tigre - Argentinos Juniors",
+        "time": "22:45",
+        "id": "275405139845713920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Newell's Old Boys - Banfield",
+        "time": "22:45",
+        "id": "275405177226399744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vikingur Reykjavik - Valur Reykjavik",
         "time": "22:15",
         "id": "275676290474971136"
@@ -79,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "JJ Urquiza - Defensores de Cambaceres",
-        "time": "21:30",
-        "id": "276208375063252992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Vitoria Guimaraes - AVS Futebol SAD",
         "time": "21:00",
         "id": "276273543255298048"
@@ -96,12 +103,5 @@
         "name": "Gimnasia Mendoza - Temperley",
         "time": "21:00",
         "id": "275734909097742336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tecnico Universitario - Macara",
-        "time": "21:00",
-        "id": "275668747635789824"
     }
 ]
