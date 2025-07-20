@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Wacker Innsbruck - SSV Reutlingen 05",
+        "time": "16:00",
+        "id": "276175385489707008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kalmar FF - IK Brage Borlange",
+        "time": "16:00",
+        "id": "275267569629401088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Seinäjoen Jalkapallokerho - Gnistan",
+        "time": "16:00",
+        "id": "275645427109466112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KePS - Ajax Sarkkiranta",
+        "time": "16:00",
+        "id": "276140996119629824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Valerenga IF Oslo - FK Haugesund",
         "time": "15:30",
         "id": "275653452218109952"
@@ -75,33 +103,5 @@
         "name": "Guizhou Zhucheng Athletic - Chengdu Rongcheng II",
         "time": "14:30",
         "id": "276136250032918528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jiangxi Lushan F.C. - Nantong Haimen Codion",
-        "time": "14:30",
-        "id": "276135229182316544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BSG Chemie Leipzig - SG Union Sandersdorf",
-        "time": "14:00",
-        "id": "276268555350183936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Varbergs BoIS FC - GIF Sundsvall",
-        "time": "14:00",
-        "id": "275267675521945600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Beijing Institute of Technology FC - Hubei Chufengheli",
-        "time": "14:00",
-        "id": "276135229114159104"
     }
 ]
