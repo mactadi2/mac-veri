@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Iii Ker Tue Upe - Erzsebeti SMTK",
+        "time": "17:30",
+        "id": "276277071632797696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hammarby IF - IF Brommapojkarna",
+        "time": "17:30",
+        "id": "275642192976023552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Halmstads BK - BK Hacken",
+        "time": "17:30",
+        "id": "275651179408658432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SC Internacional RS - Ceara SC CE",
         "time": "17:00",
         "id": "275657452347854848"
@@ -51,20 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "JK Nomme Kalju - JK Tallinna Kalev",
-        "time": "17:00",
-        "id": "275629802345598976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JK Tammeka Tartu - Flora Tallinn",
-        "time": "17:00",
-        "id": "275629804456382464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "VfB 03 Hilden - Fortuna Koln II",
         "time": "16:30",
         "id": "276266875097321472"
@@ -96,12 +103,5 @@
         "name": "KePS - Ajax Sarkkiranta",
         "time": "16:00",
         "id": "276140996119629824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Valerenga IF Oslo - FK Haugesund",
-        "time": "15:30",
-        "id": "275653452218109952"
     }
 ]
