@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Always Ready - Independiente Petrolero",
+        "time": "00:15",
+        "id": "275792258735935488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nueva Chicago - CA Chaco For Ever",
+        "time": "00:00",
+        "id": "275735609585307648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Norte Salta  - Colon de Santa Fe",
+        "time": "00:00",
+        "id": "275735533701959680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Palmeiras - Atletico Mineiro",
         "time": "23:30",
         "id": "275657463324348416"
@@ -30,6 +51,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Colon FC - Deportivo Maldonado",
+        "time": "23:30",
+        "id": "275944210155311104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ferrocarril Midland - Club Atletico Acassuso",
+        "time": "23:00",
+        "id": "275790903653830656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palmeiras (W) - Pachuca (W)",
+        "time": "23:00",
+        "id": "276214309215932416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tigre - Argentinos Juniors",
         "time": "22:45",
         "id": "275405139845713920"
@@ -44,64 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vikingur Reykjavik - Valur Reykjavik",
-        "time": "22:15",
-        "id": "275676290474971136"
+        "name": "CS Alagoano AL - Figueirense FC",
+        "time": "22:30",
+        "id": "275771723002023936"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cruzeiro MG - EC Juventude",
-        "time": "22:00",
-        "id": "275657457607512064"
+        "name": "AD Confianca SE - Tombense MG",
+        "time": "22:30",
+        "id": "275771723121561600"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "EC Vitoria - Bragantino Red Bull",
+        "name": "CA Union Villa Krause - CA Colon Junior",
         "time": "22:00",
-        "id": "275657457422962688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Uniao de Leiria - Fenerbahce SK",
-        "time": "22:00",
-        "id": "276029345554894848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia Y Esgrima de Jujuy - CA Defensores Unidos",
-        "time": "22:00",
-        "id": "275735481068687360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Defensores de Belgrano - Estudiantes Rio Cuarto",
-        "time": "22:00",
-        "id": "275735332596617216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Racing de Cordoba - Club Atletico Colegiales",
-        "time": "22:00",
-        "id": "275735510078590976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Amazonas FC - Botafogo SP ",
-        "time": "22:00",
-        "id": "275710716877606912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nublense - Universidad de Chile",
-        "time": "22:00",
-        "id": "275370543904067584"
+        "id": "276227538194403328"
     }
 ]
