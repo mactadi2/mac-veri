@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Atletico Belgrano - Racing Club",
+        "time": "01:00",
+        "id": "275405133301551104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ypiranga RS - Sao Bernardo FC",
+        "time": "01:00",
+        "id": "275780991550885888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brusque - Retro FC Brasil",
+        "time": "01:00",
+        "id": "275780991469096960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "America Mineiro MG - Chapecoense SC",
         "time": "00:30",
         "id": "275658571727900672"
@@ -44,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Metropolitanos FC - Yaracuyanos FC",
+        "time": "00:00",
+        "id": "276006371984543744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Palmeiras - Atletico Mineiro",
         "time": "23:30",
         "id": "275657463324348416"
@@ -75,33 +103,5 @@
         "name": "Colon FC - Deportivo Maldonado",
         "time": "23:30",
         "id": "275944210155311104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferrocarril Midland - Club Atletico Acassuso",
-        "time": "23:00",
-        "id": "275790903653830656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palmeiras (W) - Pachuca (W)",
-        "time": "23:00",
-        "id": "276214309215932416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Ada Jaen - San Marcos Ancash",
-        "time": "23:00",
-        "id": "276048024942284800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bentin Tacna Heroica - UCV Moquegua",
-        "time": "23:00",
-        "id": "276103550010003456"
     }
 ]
