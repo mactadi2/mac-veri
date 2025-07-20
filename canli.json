@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vikingur Reykjavik - Valur Reykjavik",
+        "time": "22:15",
+        "id": "275676290474971136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cruzeiro MG - EC Juventude",
+        "time": "22:00",
+        "id": "275657457607512064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EC Vitoria - Bragantino Red Bull",
+        "time": "22:00",
+        "id": "275657457422962688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Uniao de Leiria - Fenerbahce SK",
+        "time": "22:00",
+        "id": "276029345554894848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnasia Y Esgrima de Jujuy - CA Defensores Unidos",
+        "time": "22:00",
+        "id": "275735481068687360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Defensores de Belgrano - Estudiantes Rio Cuarto",
+        "time": "22:00",
+        "id": "275735332596617216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing de Cordoba - Club Atletico Colegiales",
+        "time": "22:00",
+        "id": "275735510078590976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Amazonas FC - Botafogo SP ",
+        "time": "22:00",
+        "id": "275710716877606912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Patronato - CD Maipu",
         "time": "21:30",
         "id": "275735332521119744"
@@ -23,20 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "JJ Urquiza - Defensores de Cambaceres",
-        "time": "21:30",
-        "id": "276208375063252992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ayacucho FC - Atletico Grau",
-        "time": "21:15",
-        "id": "275666908579237888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Vitoria Guimaraes - AVS Futebol SAD",
         "time": "21:00",
         "id": "276273543255298048"
@@ -51,27 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tecnico Universitario - Macara",
-        "time": "21:00",
-        "id": "275668747635789824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ivory Coast U20 - Ghana U20",
-        "time": "21:00",
-        "id": "276281031895683072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rubio Nu - Sportivo San Lorenzo",
-        "time": "21:00",
-        "id": "275955455776395264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Galatasaray SK - VfB Admira Wacker Modling",
         "time": "20:30",
         "id": "276186512661549056"
@@ -82,26 +103,5 @@
         "name": "Barracas Central - Independiente Rivadavia",
         "time": "20:30",
         "id": "275405040891596800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ham-Kam - Fredrikstad FK",
-        "time": "20:15",
-        "id": "275723227017383936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Albacete Balompie - Al-Rayyan",
-        "time": "20:00",
-        "id": "276174699173646336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chacarita Juniors - Talleres Remedios Escalada",
-        "time": "20:00",
-        "id": "275734668805017600"
     }
 ]
