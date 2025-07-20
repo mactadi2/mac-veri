@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Marsilya - Excelsior Maassluis",
+        "time": "19:00",
+        "id": "276200610887503872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NK Siroki Brijeg - NK Croatia Zmijavci",
+        "time": "19:00",
+        "id": "276268928309792768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Sopron - Favoritner AC",
+        "time": "19:00",
+        "id": "276290824669630464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sporting Cristal Lima - Alianza Universidad",
+        "time": "19:00",
+        "id": "275674390028488704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paide Linnameeskond - JK Trans Narva",
+        "time": "19:00",
+        "id": "275629804379836416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Kuressaare - Parnu JK Vaprus",
+        "time": "19:00",
+        "id": "275629804530831360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Palermo - FC Paradiso",
         "time": "18:30",
         "id": "276110881194119168"
@@ -51,27 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Aktobe - Tobol Kostanay",
-        "time": "18:00",
-        "id": "275731837685469184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zhetysu Taldykorgan - Ordabasy Shymkent",
-        "time": "18:00",
-        "id": "275731486321283072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Iii Ker Tue Upe - Erzsebeti SMTK",
-        "time": "17:30",
-        "id": "276277071632797696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Hammarby IF - IF Brommapojkarna",
         "time": "17:30",
         "id": "275642192976023552"
@@ -82,26 +103,5 @@
         "name": "Halmstads BK - BK Hacken",
         "time": "17:30",
         "id": "275651179408658432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Internacional RS - Ceara SC CE",
-        "time": "17:00",
-        "id": "275657452347854848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trabzonspor - Zob Ahan",
-        "time": "17:00",
-        "id": "276266861391384576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KuPS Akatemia - KPV Kokkola",
-        "time": "17:00",
-        "id": "275750876739670016"
     }
 ]
