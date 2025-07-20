@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Valerenga IF Oslo - FK Haugesund",
+        "time": "15:30",
+        "id": "275653452218109952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rot-Weiss Ahlen - FC Schalke 04",
+        "time": "15:00",
+        "id": "276192409643257856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VfL Osnabruck - SV Werder Bremen II",
+        "time": "15:00",
+        "id": "276171706201149440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "1. FC Saarbrucken - Union Titus Petange",
+        "time": "15:00",
+        "id": "276095569165946880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Wehen Wiesbaden - TSV Steinbach",
+        "time": "15:00",
+        "id": "276191358258122752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Malvern Town FC - Hereford FC",
+        "time": "15:00",
+        "id": "276217208424763392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bayern Alzenau - RW Walldorf",
+        "time": "15:00",
+        "id": "276265755374391296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IK Sirius FK - IFK Goteborg",
+        "time": "15:00",
+        "id": "275651230517301248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mjallby AIF - AIK",
+        "time": "15:00",
+        "id": "275651179586916352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Auda - BFC Daugava Daugavpils",
+        "time": "15:00",
+        "id": "275743395365916672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Guizhou Zhucheng Athletic - Chengdu Rongcheng II",
         "time": "14:30",
         "id": "276136250032918528"
@@ -12,13 +82,6 @@
         "name": "Jiangxi Lushan F.C. - Nantong Haimen Codion",
         "time": "14:30",
         "id": "276135229182316544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nanjing Fengfan - Guangxi Baoyun Fc",
-        "time": "14:30",
-        "id": "275741333761691648"
     },
     {
         "tur": "live",
@@ -40,68 +103,5 @@
         "name": "Beijing Institute of Technology FC - Hubei Chufengheli",
         "time": "14:00",
         "id": "276135229114159104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fagiano Okayama - Vissel Kobe",
-        "time": "13:00",
-        "id": "275404516717891584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gamba Osaka - Kawasaki Frontale",
-        "time": "13:00",
-        "id": "275404516868886528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Albirex Niigata - Sanfrecce Hiroshima",
-        "time": "13:00",
-        "id": "275404516643442688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yokohama F Marinos - Nagoya Grampus Eight",
-        "time": "13:00",
-        "id": "275404521070530560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Seoul - Ulsan Hyundai Horang-i",
-        "time": "13:00",
-        "id": "275544708647882752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gyeongnam FC - Incheon United FC",
-        "time": "13:00",
-        "id": "275634618488721408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bucheon FC 1995 - Chungnam Asan",
-        "time": "13:00",
-        "id": "275634618358697984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cheongju City FC - Cheonan City Fc",
-        "time": "13:00",
-        "id": "275634618430001152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tochigi SC - SC Sagamihara",
-        "time": "13:00",
-        "id": "275735926450294784"
     }
 ]
