@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Jorge Wilstermann - The Strongest La Paz",
+        "time": "02:30",
+        "id": "275792642219053056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zamora FC - Portuguesa FC",
+        "time": "02:30",
+        "id": "276006630825529344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "LDU Quito  - Deportivo Cuenca",
         "time": "02:00",
         "id": "275680799674732544"
@@ -37,9 +51,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club America (W) - Tijuana (W)",
+        "time": "02:00",
+        "id": "275726515154587648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Flamengo RJ - Fluminense RJ",
         "time": "01:30",
         "id": "275657463261433856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "We United FC - East Central FC",
+        "time": "01:30",
+        "id": "276187794383179776"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "CD Jaguares de Cordoba - Atletico Huila",
         "time": "01:00",
         "id": "276000283247644672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "America Mineiro MG - Chapecoense SC",
-        "time": "00:30",
-        "id": "275658571727900672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guarani Asuncion - Sportivo Trinidense",
-        "time": "00:30",
-        "id": "275683593116848128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportes Temuco - Santiago Morning",
-        "time": "00:30",
-        "id": "275687483291865088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trasandino Los Andes - Santiago City",
-        "time": "00:30",
-        "id": "276174107560775680"
     }
 ]
