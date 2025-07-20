@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Akhmat Grozny - FK Rubin Kazan",
+        "time": "20:30",
+        "id": "274622903356624896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ham-Kam - Fredrikstad FK",
         "time": "20:15",
         "id": "275723227017383936"
@@ -33,6 +40,13 @@
         "name": "Chacarita Juniors - Talleres Remedios Escalada",
         "time": "20:00",
         "id": "275734668805017600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nacional Sucre - Flamengo de Sucre",
+        "time": "20:00",
+        "id": "276193049389961216"
     },
     {
         "tur": "live",
@@ -58,30 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Marsilya - Excelsior Maassluis",
-        "time": "19:00",
-        "id": "276200610887503872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Siroki Brijeg - NK Croatia Zmijavci",
-        "time": "19:00",
-        "id": "276268928309792768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Sopron - Favoritner AC",
-        "time": "19:00",
-        "id": "276290824669630464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sporting Cristal Lima - Alianza Universidad",
-        "time": "19:00",
-        "id": "275674390028488704"
+        "name": "Melipilla - Provincial Osorno",
+        "time": "19:30",
+        "id": "276173136144240640"
     },
     {
         "tur": "live",
@@ -93,15 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Kuressaare - Parnu JK Vaprus",
+        "name": "FC Midtjylland - OB Odense",
         "time": "19:00",
-        "id": "275629804530831360"
+        "id": "274415910600708096"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Midtjylland - OB Odense",
+        "name": "Haukar Hafnarfjordur - Dalvik\/Reynir",
         "time": "19:00",
-        "id": "274415910600708096"
+        "id": "276146028918476800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFC Slavia Sofia - PFK Botev Vratsa",
+        "time": "19:00",
+        "id": "274445445779034112"
     }
 ]
