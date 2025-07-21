@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Karpaty Lviv - Al Sharjah SCC",
+        "time": "18:00",
+        "id": "276348507921715200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Ittihad Al Sakandary - Al Moqawloon Al Arab",
+        "time": "18:00",
+        "id": "276356248179445760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pogon Szczecin - Blekitni Stargard",
+        "time": "18:00",
+        "id": "276360824847732736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IFK Mariehamn - FC Haka Valkeakoski",
+        "time": "18:00",
+        "id": "275645427188109312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tukums 2000 - SC Grobinas",
+        "time": "18:00",
+        "id": "275915743653138432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hegelmann Litauen II - FK Nevezis Kedainiai",
+        "time": "18:00",
+        "id": "276197792299487232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gazovik Orenburg - CSKA Moskova",
         "time": "17:30",
         "id": "275997397696516096"
@@ -12,19 +54,5 @@
         "name": "Lula FC - Politecnico J.I.C.",
         "time": "17:00",
         "id": "276305868864229376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Negeri Sembilan - Semen Padang",
-        "time": "16:00",
-        "id": "276356248112336896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Envigado FC Reserves - Rojo FC",
-        "time": "16:00",
-        "id": "276306433260261376"
     }
 ]
