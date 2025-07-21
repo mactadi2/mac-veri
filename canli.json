@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gazovik Orenburg - CSKA Moskova",
+        "time": "17:30",
+        "id": "275997397696516096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lula FC - Politecnico J.I.C.",
+        "time": "17:00",
+        "id": "276305868864229376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Negeri Sembilan - Semen Padang",
         "time": "16:00",
         "id": "276356248112336896"
@@ -26,26 +40,5 @@
         "name": "Indonesia U23 - Malaysia U23",
         "time": "16:00",
         "id": "276190223153631232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tobol Kostanay (W) - FK Atyrau (W)",
-        "time": "16:00",
-        "id": "276257715429445632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stabaek If 2 - Fredrikstad 2",
-        "time": "15:00",
-        "id": "276176168214990848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BFF Academy U19 - Thimphu City",
-        "time": "15:00",
-        "id": "276355594379726848"
     }
 ]
