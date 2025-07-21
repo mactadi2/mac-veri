@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Biel - FC Langenthal",
+        "time": "19:30",
+        "id": "276268509510635520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KF Llapi Podujeve - KS Teuta Durres",
+        "time": "19:30",
+        "id": "276352136944685056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tervakosken Pato - Tampereen Peli-Toverit",
+        "time": "19:30",
+        "id": "276225672694861824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Zalgiris Kaunas - DFK Dainava Alytus",
+        "time": "19:30",
+        "id": "275918074441502720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Marsilya - Royal Olympic Charleroi",
         "time": "19:00",
         "id": "276284212046336000"
@@ -44,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PFC Lokomotiv Plovdiv 1936 - Dobrudzha Dobrich",
-        "time": "19:00",
-        "id": "274445446653546496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "HPS - Pallo-Iirot Rauma",
         "time": "18:30",
         "id": "276225767439994880"
@@ -61,20 +82,6 @@
         "name": "VJS Vantaa - GrIFK Grankulla",
         "time": "18:30",
         "id": "276201433760665600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Karpaty Lviv - Al Sharjah SCC",
-        "time": "18:00",
-        "id": "276348507921715200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pogon Szczecin - Blekitni Stargard",
-        "time": "18:00",
-        "id": "276360824847732736"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Tukums 2000 - SC Grobinas",
         "time": "18:00",
         "id": "275915743653138432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hegelmann Litauen II - FK Nevezis Kedainiai",
-        "time": "18:00",
-        "id": "276197792299487232"
     }
 ]
