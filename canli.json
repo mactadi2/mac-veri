@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Stabaek If 2 - Fredrikstad 2",
+        "time": "15:00",
+        "id": "276176168214990848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BFF Academy U19 - Thimphu City",
+        "time": "15:00",
+        "id": "276355594379726848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Shenzhen Juniors FC - Shanghai Jiading",
         "time": "14:30",
         "id": "275741333903249408"
@@ -12,33 +26,5 @@
         "name": "Club Guarani Asuncion Reserves - Sportivo Trinidense Reserves",
         "time": "14:00",
         "id": "276309562101993472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Gifu - Nara Club",
-        "time": "13:00",
-        "id": "275913678771064832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kagoshima United - FC Osaka",
-        "time": "13:00",
-        "id": "275913678702907392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tegevajaro Miyazaki - Giravanz Kitakyushu",
-        "time": "13:00",
-        "id": "275913678624264192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Seoul City Wfc - Incheon Hyundai Steel Red Angels (W)",
-        "time": "13:00",
-        "id": "276232233688371200"
     }
 ]
