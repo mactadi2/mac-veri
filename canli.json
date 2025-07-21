@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Guarani Asuncion Reserves - Sportivo Trinidense Reserves",
+        "time": "14:00",
+        "id": "276309562101993472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Gifu - Nara Club",
         "time": "13:00",
         "id": "275913678771064832"
@@ -26,19 +33,5 @@
         "name": "Seoul City Wfc - Incheon Hyundai Steel Red Angels (W)",
         "time": "13:00",
         "id": "276232233688371200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avispa Fukuoka - Kyoto Purple Sanga",
-        "time": "12:00",
-        "id": "275404516778708992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mio Biwako Shiga - Grulla Morioka",
-        "time": "12:00",
-        "id": "276229760209784832"
     }
 ]
