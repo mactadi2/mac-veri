@@ -58,6 +58,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Blackburn Rovers - Qatar SC Doha",
+        "time": "20:00",
+        "id": "276360890795823104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Wienerberger - Wiener Viktoria",
+        "time": "19:30",
+        "id": "276358415399391232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lincoln FC - Kızılyıldız",
         "time": "19:00",
         "id": "276009997863882752"
@@ -68,13 +82,6 @@
         "name": "FC Noah Artsakh - Ferencvarosi TC",
         "time": "19:00",
         "id": "275905468748140544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Napoli - AC Arezzo",
-        "time": "19:00",
-        "id": "276355190243856384"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Holbaek - Naestved BK",
         "time": "19:00",
         "id": "276238114237845504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orleans US 45 - Blois Foot 41",
-        "time": "19:00",
-        "id": "276372153321000960"
     }
 ]
