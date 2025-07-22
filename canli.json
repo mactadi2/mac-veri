@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SV Wienerberger - Wiener Viktoria",
+        "time": "19:30",
+        "id": "276358415399391232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Pinzgau Saalfelden - Bramberg",
+        "time": "19:30",
+        "id": "276358694752620544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Vozdovac - Baniyas FC",
+        "time": "19:30",
+        "id": "276443599707705344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lincoln FC - Kızılyıldız",
         "time": "19:00",
         "id": "276009997863882752"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "KuPS Kuopio - Kairat Almaty",
-        "time": "18:00",
-        "id": "275962448855568384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zorya Luhansk - Al Sailiya",
-        "time": "18:00",
-        "id": "276443732360957952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Kfar Shelem - Hapoel Kfar-Saba",
-        "time": "18:00",
-        "id": "276441846007336960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Genclerbirligi SK - Tractor Sazi FC",
-        "time": "18:00",
-        "id": "276465115074793472"
+        "name": "FF Jaro II - Seinajoen Sisu",
+        "time": "18:30",
+        "id": "276371569535750144"
     }
 ]
