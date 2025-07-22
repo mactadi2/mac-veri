@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Barnet - Wycombe Wanderers",
+        "time": "21:45",
+        "id": "276303234328563712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KKS Lech Poznan - Breidablik Kopavogur",
         "time": "21:30",
         "id": "275919863311110144"
@@ -96,12 +103,5 @@
         "name": "Grimsby Town - Lincoln City",
         "time": "21:00",
         "id": "276366955431202816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rigas Futbola Skola - Malmo FF",
-        "time": "20:00",
-        "id": "275918588537344000"
     }
 ]
