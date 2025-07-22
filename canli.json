@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Royal Thimphu College - Ugyen Academy FC",
+        "time": "13:00",
+        "id": "276402079184064512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sunshine Coast Wanderers (W) - Gold Coast Knights (W)",
         "time": "12:45",
         "id": "276382186618359808"
@@ -51,20 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "  Bonnyrigg White Eagles - Bankstown City Lions",
-        "time": "12:00",
-        "id": "276381736248676352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Graficar Beograd - OFK Petrovac",
-        "time": "11:30",
-        "id": "276442100969639936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Dak Lak U21 - Hoang Anh Gia Lai II U21",
         "time": "11:30",
         "id": "276367483717423104"
@@ -82,12 +75,5 @@
         "name": "Kep Province - Preah Sihanouk Province",
         "time": "11:30",
         "id": "276444388518924288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Phnom Penh Galaxy - Takeo Province",
-        "time": "11:30",
-        "id": "276444696367206400"
     }
 ]
