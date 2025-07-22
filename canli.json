@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Avellino - Napoli U20",
+        "time": "17:30",
+        "id": "276465214896082944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "GKS Katowice (Kadınlar) - FC Slovacko (Kadınlar)",
         "time": "17:00",
         "id": "276369167350894592"
@@ -40,12 +47,5 @@
         "name": "Vietnam U23 - Cambodia U23",
         "time": "16:00",
         "id": "276280560545042432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Helsingborgs U21 - Mjallby U21",
-        "time": "16:00",
-        "id": "276462830597836800"
     }
 ]
