@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nigeria U20 - Ivory Coast U20",
+        "time": "22:00",
+        "id": "276551149132320768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Shelbourne FC - FK Qarabag",
         "time": "21:45",
         "id": "276104210247979008"
@@ -51,6 +58,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SD Compostela - Deportivo La Coruna",
+        "time": "21:30",
+        "id": "276393586837295104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hercules Alicante - Elche",
+        "time": "21:30",
+        "id": "276472280647864320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Birmingham City - Solihull Moors",
+        "time": "21:30",
+        "id": "276534364837384192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NK Olimpija Ljubljana - Inter Club d'Escaldes",
         "time": "21:00",
         "id": "276285907302223872"
@@ -65,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Valencia CF - Leganes",
-        "time": "21:00",
-        "id": "276450622343090176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Bradford City - Middlesbrough",
         "time": "21:00",
         "id": "276389808805384192"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bristol Rovers - Coventry City",
-        "time": "21:00",
-        "id": "276389809061236736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cheltenham Town - Swansea City",
-        "time": "21:00",
-        "id": "276446006658338816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Boston United FC - Grimsby Town",
         "time": "21:00",
         "id": "276486300975108096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Teruel - Levante",
-        "time": "21:00",
-        "id": "276450634430025728"
     }
 ]
