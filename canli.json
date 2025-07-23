@@ -44,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Torquay United - Plymouth Argyle FC",
+        "time": "21:30",
+        "id": "276393587402477568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NK Olimpija Ljubljana - Inter Club d'Escaldes",
         "time": "21:00",
         "id": "276285907302223872"
@@ -96,12 +103,5 @@
         "name": "CD Teruel - Levante",
         "time": "21:00",
         "id": "276450634430025728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Athletic Bilbao B - Cultural Leonesa",
-        "time": "20:00",
-        "id": "276449245550219264"
     }
 ]
