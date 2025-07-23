@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Silkeborg IF - KA Akureyri",
+        "time": "20:00",
+        "id": "274461039912947712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Albacete Balompie - FC Andorra",
+        "time": "20:00",
+        "id": "276389808453062656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Levadia Tallinn - FC Iberia 1999",
         "time": "19:30",
         "id": "276285863340675072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "US Quevilly-Rouen Métropole - Le Mans FC",
+        "time": "19:30",
+        "id": "276457911319924736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bronshoj BK - FC Gladsaxe",
+        "time": "19:30",
+        "id": "276465086039724032"
     },
     {
         "tur": "live",
@@ -58,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Struga Trim & Lum - KF Llapi Podujeve",
-        "time": "19:00",
-        "id": "276533378253197312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Slaven Belupo - NK Rudes Zagreb",
-        "time": "19:00",
-        "id": "276558642862493696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FK Zira - HNK Hajduk Split",
         "time": "18:30",
         "id": "276280629152321536"
@@ -89,19 +103,5 @@
         "name": "SSC Venezia - AC Dolomiti Bellunesi",
         "time": "18:30",
         "id": "276300288785256448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Metalist 1925 - Qatar SC Doha",
-        "time": "18:30",
-        "id": "276560189268824064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Korona Kielce II - Naprzod Jedrzejow",
-        "time": "18:00",
-        "id": "276391938955022336"
     }
 ]
