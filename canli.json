@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NK Olimpija Ljubljana - Inter Club d'Escaldes",
+        "time": "21:00",
+        "id": "276285907302223872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "The New Saints FC - FC Differdange 03",
+        "time": "21:00",
+        "id": "276285897773813760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valencia CF - Leganes",
+        "time": "21:00",
+        "id": "276450622343090176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bradford City - Middlesbrough",
+        "time": "21:00",
+        "id": "276389808805384192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bristol Rovers - Coventry City",
+        "time": "21:00",
+        "id": "276389809061236736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cheltenham Town - Swansea City",
+        "time": "21:00",
+        "id": "276446006658338816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Galatasaray SK - Cagliari",
         "time": "20:30",
         "id": "276363048212631552"
@@ -61,47 +103,5 @@
         "name": "De Treffers - NEC Nijmegen",
         "time": "20:00",
         "id": "276386030114967552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Athletic Bilbao B - Cultural Leonesa",
-        "time": "20:00",
-        "id": "276449245550219264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Huesca - Osasuna B",
-        "time": "20:00",
-        "id": "276461840355168256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Les Herbiers - Le Poire SV",
-        "time": "20:00",
-        "id": "276460444639694848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Levadia Tallinn - FC Iberia 1999",
-        "time": "19:30",
-        "id": "276285863340675072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "US Quevilly-Rouen Métropole - Le Mans FC",
-        "time": "19:30",
-        "id": "276457911319924736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stade Laval - FC Rouen 1899",
-        "time": "19:00",
-        "id": "276457995321348096"
     }
 ]
