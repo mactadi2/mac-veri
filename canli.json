@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Belgrano Cordoba Reserves - Racing Club De Avellaneda Reserves",
+        "time": "00:00",
+        "id": "276467771259359232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Llaneros FC - Boyaca Chico",
+        "time": "00:00",
+        "id": "276237453591973888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cristobal Colon - Club Sportivo Carapegua",
+        "time": "00:00",
+        "id": "276539225781964800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Luis Angel Firpo Reserves - CD Platense Zacatecoluca Reserves",
+        "time": "00:00",
+        "id": "276576967633014784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Leones Del Norte - Guayaquil City",
         "time": "23:30",
         "id": "276049896975503360"
@@ -12,6 +40,13 @@
         "name": "Thorlakur FC - RB Keflavik",
         "time": "23:30",
         "id": "276449858137755648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Hercules Reserves - CD FAS Reserves",
+        "time": "23:30",
+        "id": "276555160416817152"
     },
     {
         "tur": "live",
@@ -37,43 +72,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ellidi - Arborg",
-        "time": "22:15",
-        "id": "276447543698788352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Buducnost Podgorica - FC Milsami Orhei",
-        "time": "22:00",
-        "id": "276285894291492864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fenerbahce SK - Al-Ittihad",
-        "time": "22:00",
-        "id": "276451424969297920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Almanya (Kadınlar) - İspanya (Kadınlar)",
         "time": "22:00",
         "id": "276224563152556032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nigeria U20 - Ivory Coast U20",
-        "time": "22:00",
-        "id": "276551149132320768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sion Swifts LFC (W) - Greenisland (W)",
-        "time": "22:00",
-        "id": "276446225334669312"
     }
 ]
