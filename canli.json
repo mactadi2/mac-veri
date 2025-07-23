@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Galatasaray SK - Cagliari",
+        "time": "20:30",
+        "id": "276363048212631552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NAC Breda - NK Lokomotiva Zagreb",
+        "time": "20:30",
+        "id": "276389809209085952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wealdstone FC - Charlton Athletic",
+        "time": "20:30",
+        "id": "276389809136734208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Brann Bergen - FC Red Bull Salzburg",
+        "time": "20:00",
+        "id": "274176309497827328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Silkeborg IF - KA Akureyri",
         "time": "20:00",
         "id": "274461039912947712"
@@ -9,9 +37,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Albacete Balompie - FC Andorra",
+        "name": "RCD Espanyol - Girona FC",
         "time": "20:00",
-        "id": "276389808453062656"
+        "id": "276464039158222848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing Santander - Real Aviles CF",
+        "time": "20:00",
+        "id": "276448463248560128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "De Treffers - NEC Nijmegen",
+        "time": "20:00",
+        "id": "276386030114967552"
     },
     {
         "tur": "live",
@@ -26,13 +68,6 @@
         "name": "US Quevilly-Rouen Métropole - Le Mans FC",
         "time": "19:30",
         "id": "276457911319924736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bronshoj BK - FC Gladsaxe",
-        "time": "19:30",
-        "id": "276465086039724032"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Stade Laval - FC Rouen 1899",
         "time": "19:00",
         "id": "276457995321348096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Elite 3000 Helsingor - Sundby BK",
-        "time": "19:00",
-        "id": "276456436695961600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Mladost Zdralovi - Radnik Krizevci",
-        "time": "19:00",
-        "id": "276535810234388480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Zira - HNK Hajduk Split",
-        "time": "18:30",
-        "id": "276280629152321536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Udinese - Shabab Al Ahli Dubai",
-        "time": "18:30",
-        "id": "276532944446820352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSC Venezia - AC Dolomiti Bellunesi",
-        "time": "18:30",
-        "id": "276300288785256448"
     }
 ]
