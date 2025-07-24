@@ -1,128 +1,86 @@
 [
     {
         "type": "futbol",
-        "name": "Danimarka - İsveç",
-        "day": "04",
-        "time": "19:00",
-        "channel": "TRT Spor"
+        "name": "Fluminense - Palmeiras",
+        "day": "24",
+        "time": "01:00",
+        "channel": "Spor Smart"
     },
     {
         "type": "futbol",
-        "name": "Almanya - Polonya",
-        "day": "04",
-        "time": "22:00",
-        "channel": "TRT Spor"
+        "name": "Corinthians - Cruzeiro",
+        "day": "24",
+        "time": "01:30",
+        "channel": "Spor Smart 2"
     },
     {
         "type": "futbol",
-        "name": "Fluminense - Al Hilal",
-        "day": "04",
-        "time": "22:00",
+        "name": "Gremio - Alianza Lima",
+        "day": "24",
+        "time": "03:30",
+        "channel": "S Sport 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Santos - Internacional",
+        "day": "24",
+        "time": "03:30",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Bragantino - Flamengo",
+        "day": "24",
+        "time": "03:30",
+        "channel": "Spor Smart 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Bilinmiyor - Bilinmiyor",
+        "day": "24",
+        "time": "13:30",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Cherno More - Rams Başakşehir",
+        "day": "24",
+        "time": "20:00",
         "channel": "TRT 1"
     },
     {
-        "type": "tenis",
-        "name": "Sanchez\/Fernandez - Zielinski\/Pelegri",
-        "day": "04",
-        "time": "11:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "A.Pavlyuchenkova - N.Osaka",
-        "day": "04",
-        "time": "13:00",
-        "channel": "tabii Spor 6"
-    },
-    {
-        "type": "tenis",
-        "name": "Coello\/Tapia - Gonzalez\/Sanz",
-        "day": "04",
-        "time": "13:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "L.Siegemund - M.Keys",
-        "day": "04",
-        "time": "14:30",
-        "channel": "tabii Spor 6"
-    },
-    {
-        "type": "tenis",
-        "name": "D.Parry - Sonay Kartal",
-        "day": "04",
-        "time": "15:00",
-        "channel": "S Sport 2"
-    },
-    {
-        "type": "tenis",
-        "name": "Lopez\/Ortiz - Araujo\/Prieto",
-        "day": "04",
-        "time": "15:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "T.Fritz - A.D.Fokina",
-        "day": "04",
-        "time": "15:30",
+        "type": "futbol",
+        "name": "Celtic - Ajax",
+        "day": "24",
+        "time": "21:30",
         "channel": "S Sport"
     },
     {
+        "type": "basketbol",
+        "name": "Bilinmiyor - Bilinmiyor",
+        "day": "24",
+        "time": "18:25",
+        "channel": "tabii Spor 5"
+    },
+    {
+        "type": "basketbol",
+        "name": "Bilinmiyor - Bilinmiyor",
+        "day": "24",
+        "time": "20:55",
+        "channel": "tabii Spor 5"
+    },
+    {
         "type": "tenis",
-        "name": "Kudermetova\/Sönmez - Dabrowski\/Routliffe",
-        "day": "04",
+        "name": "J.Ponchet - T.Valentova",
+        "day": "24",
+        "time": "12:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "L.Noskova - K.Siniakova",
+        "day": "24",
         "time": "16:00",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "tenis",
-        "name": "M.Bellucci - C.Norrie",
-        "day": "04",
-        "time": "16:30",
-        "channel": "S Sport 2"
-    },
-    {
-        "type": "tenis",
-        "name": "J.L.Struff - C.Alcaraz",
-        "day": "04",
-        "time": "17:30",
-        "channel": "S Sport"
-    },
-    {
-        "type": "tenis",
-        "name": "Martin\/Fallada - Villa\/Jensen",
-        "day": "04",
-        "time": "18:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "E.Mertens - E.Svitolina",
-        "day": "04",
-        "time": "18:30",
-        "channel": "S Sport 2"
-    },
-    {
-        "type": "tenis",
-        "name": "A.Sabalenka - E.Raducanu",
-        "day": "04",
-        "time": "19:30",
-        "channel": "S Sport"
-    },
-    {
-        "type": "tenis",
-        "name": "Diestro\/Esbri - Nenno\/Tello",
-        "day": "04",
-        "time": "20:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Cardona\/Augsburguer - Chingotto\/Galan",
-        "day": "04",
-        "time": "20:45",
         "channel": "Bein Sports Max 1"
     }
 ]
