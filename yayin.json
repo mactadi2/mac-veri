@@ -1,86 +1,16 @@
 [
     {
         "type": "futbol",
-        "name": "Fluminense - Palmeiras",
-        "day": "24",
-        "time": "01:00",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Corinthians - Cruzeiro",
-        "day": "24",
-        "time": "01:30",
-        "channel": "Spor Smart 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Gremio - Alianza Lima",
-        "day": "24",
+        "name": "Atletico Mineiro - Bucaramanga",
+        "day": "25",
         "time": "03:30",
         "channel": "S Sport 2"
     },
     {
-        "type": "futbol",
-        "name": "Santos - Internacional",
-        "day": "24",
-        "time": "03:30",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Bragantino - Flamengo",
-        "day": "24",
-        "time": "03:30",
-        "channel": "Spor Smart 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Bilinmiyor - Bilinmiyor",
-        "day": "24",
-        "time": "13:30",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Cherno More - Rams Başakşehir",
-        "day": "24",
-        "time": "20:00",
-        "channel": "TRT 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Celtic - Ajax",
-        "day": "24",
-        "time": "21:30",
-        "channel": "S Sport"
-    },
-    {
         "type": "basketbol",
-        "name": "Bilinmiyor - Bilinmiyor",
-        "day": "24",
-        "time": "18:25",
-        "channel": "tabii Spor 5"
-    },
-    {
-        "type": "basketbol",
-        "name": "Bilinmiyor - Bilinmiyor",
-        "day": "24",
+        "name": "ABD - Çin",
+        "day": "25",
         "time": "20:55",
-        "channel": "tabii Spor 5"
-    },
-    {
-        "type": "tenis",
-        "name": "J.Ponchet - T.Valentova",
-        "day": "24",
-        "time": "12:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "L.Noskova - K.Siniakova",
-        "day": "24",
-        "time": "16:00",
-        "channel": "Bein Sports Max 1"
+        "channel": "TRT Spor"
     }
 ]
