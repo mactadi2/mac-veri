@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "TiPS - HJK Kantsu",
+        "time": "18:30",
+        "id": "277179115532062720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KaaPo - SalPa II",
+        "time": "18:30",
+        "id": "277179103243800576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KeuPa - Huima\/Urho",
+        "time": "18:30",
+        "id": "277179103431495680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RiPS Riihimaki - PK Keski-Uusimaa II",
+        "time": "18:30",
+        "id": "277179115275161600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Jazz Pori - Inter Turku Ii",
+        "time": "18:30",
+        "id": "277104517488709632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "BATE Borisov - FC Vitebsk",
         "time": "18:15",
         "id": "276021803179184128"
@@ -26,27 +61,6 @@
         "name": "Gnistan Ogeli - Ponnistus",
         "time": "18:00",
         "id": "277179103374872576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Rukh Lviv - SK Poltava",
-        "time": "18:00",
-        "id": "275756511122296832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Mash'al Mubarek - Pakhtakor Tashkent",
-        "time": "18:00",
-        "id": "277193989754589184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Buxoro - Olmaliq OKMK",
-        "time": "18:00",
-        "id": "277256814565920768"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "FK Kaspyi Aktau - FC Taraz",
         "time": "17:00",
         "id": "277358747547996160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Family - Zhetisay",
-        "time": "17:00",
-        "id": "277359256308682752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Irtys Pavlodar - FC Shakhter Karagandy",
-        "time": "17:00",
-        "id": "277358556830896128"
     }
 ]
