@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Schalke 04 - Hertha BSC Berlin",
+        "time": "21:30",
+        "id": "274267975739117568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Petrolul Ploiesti - UTA Arad",
+        "time": "21:30",
+        "id": "276264365833981952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnastic de Tarragona - FC Andorra",
+        "time": "21:00",
+        "id": "277205766292770816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Los Chankas CYC - Comerciantes Unidos",
+        "time": "21:00",
+        "id": "276804536543350784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vejle Boldklub - OB Odense",
+        "time": "21:00",
+        "id": "276778089702363136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Dijon FCO - ASC Biesheim",
         "time": "20:30",
         "id": "277267417253679104"
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Le Mans FC - Stade Caen",
-        "time": "19:30",
-        "id": "277262126370918400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Herlev IF - FC Gladsaxe",
-        "time": "19:30",
-        "id": "277262727247958016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bistrc Irbis - Tabor Sezana",
-        "time": "19:30",
-        "id": "277379772380745728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tarxien Rainbows FC - Marsaxlokk",
-        "time": "19:15",
-        "id": "277350920448249856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Clermont - Annecy FC",
-        "time": "19:00",
-        "id": "277329000315097088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Fleury 91 - Boulogne",
-        "time": "19:00",
-        "id": "277259960191160320"
+        "name": "Tabasalu Charma - JK Trans Narva II",
+        "time": "20:00",
+        "id": "277287226199642112"
     }
 ]
