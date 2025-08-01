@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "12 de Junio de Villa Hayes - Deportivo Santani",
+        "time": "00:30",
+        "id": "277212401496100864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Atletico Belgrano - CA Independiente Avellaneda",
         "time": "00:15",
         "id": "276648922805571584"
@@ -47,12 +54,5 @@
         "name": "Total Soccer FC U20 - Turbo FC U20",
         "time": "23:00",
         "id": "277335868426031104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Rentistas - Club Oriental",
-        "time": "22:45",
-        "id": "277197840600666112"
     }
 ]
