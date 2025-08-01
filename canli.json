@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Alianza Atletico - FBC Melgar Arequipa",
+        "time": "23:15",
+        "id": "276804523760160768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vitoria Guimaraes - Celta de Vigo",
         "time": "22:00",
         "id": "277267919201767424"
@@ -12,6 +19,13 @@
         "name": "Santiago Morning - Deportes Recoleta",
         "time": "22:00",
         "id": "276949094506827776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guarani de Fram - Rubio Nu",
+        "time": "22:00",
+        "id": "277209271365668864"
     },
     {
         "tur": "live",
@@ -79,29 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KV Mechelen - Club Brugge KV",
+        "time": "21:45",
+        "id": "276927607849750528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Schalke 04 - Hertha BSC Berlin",
         "time": "21:30",
         "id": "274267975739117568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnastic de Tarragona - FC Andorra",
-        "time": "21:00",
-        "id": "277205766292770816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Los Chankas CYC - Comerciantes Unidos",
-        "time": "21:00",
-        "id": "276804536543350784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vejle Boldklub - OB Odense",
-        "time": "21:00",
-        "id": "276778089702363136"
     }
 ]
