@@ -2,9 +2,65 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Magallanes (W) - Union La Calera (W)",
+        "time": "17:30",
+        "id": "277308091027034112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Augsburg - Crystal Palace",
         "time": "17:00",
         "id": "277270991068073984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EA Guingamp - Stade Briochin",
+        "time": "17:00",
+        "id": "277270482767712256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AEL Limassol - PFC Neftchi Baku",
+        "time": "17:00",
+        "id": "277342997273776128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Malmo FF (W) - Vaxjo (W)",
+        "time": "17:00",
+        "id": "277370311019728896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Kaspyi Aktau - FC Taraz",
+        "time": "17:00",
+        "id": "277358747547996160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SD Family - Zhetisay",
+        "time": "17:00",
+        "id": "277359256308682752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Irtys Pavlodar - FC Shakhter Karagandy",
+        "time": "17:00",
+        "id": "277358556830896128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cucuta Deportivo U20 - CD Real Santander U20",
+        "time": "17:00",
+        "id": "277370547720032256"
     },
     {
         "tur": "live",
@@ -26,26 +82,5 @@
         "name": "Ahrobiznes Volochysk - FC Levy Bereg Kiev",
         "time": "16:00",
         "id": "277289929099317248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kolos Kovalivka - FC Kryvbas Kriviy Rih",
-        "time": "15:30",
-        "id": "275750424702750720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Werder Bremen - TSG 1899 Hoffenheim",
-        "time": "15:00",
-        "id": "277366393432838144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Koge (Kadınlar) - Rosengard (W)",
-        "time": "15:00",
-        "id": "277279782155194368"
     }
 ]
