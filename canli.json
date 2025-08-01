@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Augsburg - Crystal Palace",
+        "time": "17:00",
+        "id": "277270991068073984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Wil 1900 - FC Aarau",
+        "time": "17:00",
+        "id": "276835862081310720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Noroeste SP - Aracatuba",
         "time": "16:00",
         "id": "277273729902448640"
@@ -33,12 +47,5 @@
         "name": "Koge (Kadınlar) - Rosengard (W)",
         "time": "15:00",
         "id": "277279782155194368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yassy Turkistan - Akademiya Ontyustik",
-        "time": "15:00",
-        "id": "277355694846513152"
     }
 ]
