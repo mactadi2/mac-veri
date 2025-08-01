@@ -9,6 +9,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Herlev IF - FC Gladsaxe",
+        "time": "19:30",
+        "id": "277262727247958016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bistrc Irbis - Tabor Sezana",
+        "time": "19:30",
+        "id": "277379772380745728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tarxien Rainbows FC - Marsaxlokk",
+        "time": "19:15",
+        "id": "277350920448249856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Clermont - Annecy FC",
         "time": "19:00",
         "id": "277329000315097088"
@@ -37,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Toivalan Urheilijat - Ylamyllyn Yllatys",
+        "name": "ViPa - Komeetat",
         "time": "19:00",
-        "id": "277179115375824896"
+        "id": "277352419497742336"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "ViPa - Komeetat",
+        "name": "Toivalan Urheilijat - Ylamyllyn Yllatys",
         "time": "19:00",
-        "id": "277352419497742336"
+        "id": "277179115375824896"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "VPS Vaasan Palloseura - IFK Mariehamn",
         "time": "18:00",
         "id": "276824680115081216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NuPS - EsPa\/Renat",
-        "time": "18:00",
-        "id": "277183439189446656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gnistan Ogeli - Ponnistus",
-        "time": "18:00",
-        "id": "277179103374872576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Genclerbirligi SK - Ankaragücü",
-        "time": "17:30",
-        "id": "277272072884981760"
     }
 ]
