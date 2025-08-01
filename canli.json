@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo La Guaira - Academia Anzoategui",
+        "time": "02:30",
+        "id": "277228155745472512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Suva - Navua FC",
         "time": "02:00",
         "id": "277397791852072960"
@@ -96,12 +103,5 @@
         "name": "Deportivo Saprissa U21 - AD San Carlos U21",
         "time": "01:00",
         "id": "277364542378479616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "12 de Junio de Villa Hayes - Deportivo Santani",
-        "time": "00:30",
-        "id": "277212401496100864"
     }
 ]
