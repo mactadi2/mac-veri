@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vitoria Guimaraes - Celta de Vigo",
+        "time": "22:00",
+        "id": "277267919201767424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Santiago Morning - Deportes Recoleta",
         "time": "22:00",
         "id": "276949094506827776"
@@ -96,12 +103,5 @@
         "name": "Vejle Boldklub - OB Odense",
         "time": "21:00",
         "id": "276778089702363136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dijon FCO - ASC Biesheim",
-        "time": "20:30",
-        "id": "277267417253679104"
     }
 ]
