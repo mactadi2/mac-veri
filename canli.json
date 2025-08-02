@@ -2,9 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sport Club do Recife - EC Bahia",
+        "time": "22:00",
+        "id": "276551311017775104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arminia Bielefeld - TSV Fortuna Dusseldorf",
         "time": "21:30",
         "id": "274267975838732288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Borussia Monchengladbach - Valencia CF",
+        "time": "21:30",
+        "id": "277397150744317952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cagliari - AS St. Etienne",
+        "time": "21:30",
+        "id": "277397166402703360"
     },
     {
         "tur": "live",
@@ -37,6 +58,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dessel - Berg en Dal",
+        "time": "21:00",
+        "id": "277425204553191424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vizela -  Celta Fortuna",
+        "time": "21:00",
+        "id": "277401095909806080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SD Sarriana - Lugo",
+        "time": "21:00",
+        "id": "277425187523268608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gimnastica Segoviana - Atletico Madrid B",
         "time": "20:30",
         "id": "277367027441733632"
@@ -51,57 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Twente - Udinese",
-        "time": "20:00",
-        "id": "277305238868856832"
+        "name": "CD Trofense - FC Porto B",
+        "time": "20:30",
+        "id": "277458871538290688"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VVV Venlo - FC Volendam",
-        "time": "20:00",
-        "id": "277376733054898176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Osasuna - Racing Santander",
-        "time": "20:00",
-        "id": "277379312620015616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tenerife - Las Palmas",
-        "time": "20:00",
-        "id": "277429132895326208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chaves - Vitoria Guimaraes",
-        "time": "20:00",
-        "id": "277387569731342336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cadiz - AD Ceuta FC",
-        "time": "20:00",
-        "id": "277427773254012928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Huesca - Castellon",
-        "time": "20:00",
-        "id": "277455549043445760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Madrid B - Racing de Ferrol",
-        "time": "20:00",
-        "id": "277467411964366848"
+        "name": "Marino de Luanco - CD Mosconia",
+        "time": "20:30",
+        "id": "277367027365187584"
     }
 ]
