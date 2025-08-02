@@ -44,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SD Huesca - Castellon",
+        "time": "20:00",
+        "id": "277455549043445760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Burgos CF - Eibar",
         "time": "19:30",
         "id": "277305078961016832"
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Les Herbiers - FC Nantes B",
-        "time": "19:00",
-        "id": "277387597674844160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "US Pontedera 1912 - Tau Calcio Altopascio",
-        "time": "19:00",
-        "id": "277381624999579648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Fafe - Pacos Ferreira",
         "time": "19:00",
         "id": "277401095758811136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Les Herbiers - FC Nantes B",
+        "time": "19:00",
+        "id": "277387597674844160"
     }
 ]
