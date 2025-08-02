@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Karlsruher SC - SC Preussen Munster",
+        "time": "14:00",
+        "id": "274267988683788288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Darmstadt 98 - VfL Bochum",
+        "time": "14:00",
+        "id": "274267988540133376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SV Elversberg - FC Nurnberg",
+        "time": "14:00",
+        "id": "274267988258066432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Paderborn 07 - KSV Holstein Kiel",
+        "time": "14:00",
+        "id": "274267988382846976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sparta Rotterdam - OFI FC",
+        "time": "14:00",
+        "id": "277300709089742848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Buriram United FC - Shan United FC",
+        "time": "14:00",
+        "id": "277401095832211456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nakhon Ratchasima - Uthai Thani FC",
+        "time": "14:00",
+        "id": "277429399217901568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ostersunds FK - Helsingborgs IF",
+        "time": "14:00",
+        "id": "276629108857901056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "De Graafschap - Volos NFC",
         "time": "13:30",
         "id": "277376517136322560"
@@ -19,20 +75,6 @@
         "name": "SD Rayo Cantabria - Real Valladolid B",
         "time": "13:00",
         "id": "277430209908707328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yunnan Yukun FC - Shanghai Shenhua",
-        "time": "13:00",
-        "id": "276820135546851328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ulsan Hyundai Horang-i - Suwon City",
-        "time": "13:00",
-        "id": "276903330133970944"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Deportivo Alaves B - Barakaldo",
         "time": "12:30",
         "id": "277370284908089344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juventus FC - AC Reggiana 1919",
-        "time": "12:00",
-        "id": "277370903608823808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "U.D. Talavera - Cacereno",
-        "time": "12:00",
-        "id": "277360786236641280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UD Logrones - Naxara",
-        "time": "12:00",
-        "id": "277362393455136768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Rothis - FC Widnau",
-        "time": "12:00",
-        "id": "277425165535678464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hradec Kralove B - SK Slovan Varnsdorf",
-        "time": "12:00",
-        "id": "277438278752407552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "V-Varen Nagasaki - Vegalta Sendai",
-        "time": "12:00",
-        "id": "276818831898447872"
     }
 ]
