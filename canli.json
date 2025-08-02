@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "ES Troyes AC - FC Metz",
+        "time": "18:00",
+        "id": "277303984435367936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Feyenoord Rotterdam - VfL Wolfsburg",
         "time": "17:30",
         "id": "277303339934420992"
@@ -72,16 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Portsmouth - FC Zwolle",
+        "name": "SC Heerenveen - Olympiakos Piraeus FC",
         "time": "17:00",
-        "id": "277202579824447488"
+        "id": "277427750548148224"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Heerenveen - Olympiakos Piraeus FC",
+        "name": "Portsmouth - FC Zwolle",
         "time": "17:00",
-        "id": "277427750548148224"
+        "id": "277202579824447488"
     },
     {
         "tur": "live",
@@ -93,15 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Bayern Münih - Olympique Lyonnais",
-        "time": "16:30",
-        "id": "277261592458039296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "1. FC Union Berlin - RCD Espanyol",
-        "time": "16:30",
-        "id": "277368892791328768"
+        "name": "Swansea City - FC Lorient",
+        "time": "17:00",
+        "id": "277352551539675136"
     }
 ]
