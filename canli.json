@@ -51,9 +51,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Real Madrid B - Racing de Ferrol",
+        "time": "20:00",
+        "id": "277467411964366848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Burgos CF - Eibar",
         "time": "19:30",
         "id": "277305078961016832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Andorra - CE Europa",
+        "time": "19:30",
+        "id": "277392295757746176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Zaragoza Deportivo Aragon - Terrassa CF",
+        "time": "19:30",
+        "id": "277387444979109888"
     },
     {
         "tur": "live",
@@ -72,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "A.J. Auxerre - Ipswich Town",
-        "time": "19:00",
-        "id": "277371355920470016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Rodez Aveyron - Pau FC",
         "time": "19:00",
         "id": "277410296177496064"
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Patro Eisden - MVV Maastricht",
-        "time": "19:00",
-        "id": "277366663421235200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Fafe - Pacos Ferreira",
         "time": "19:00",
         "id": "277401095758811136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Les Herbiers - FC Nantes B",
-        "time": "19:00",
-        "id": "277387597674844160"
     }
 ]
