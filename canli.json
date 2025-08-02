@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "St George City FA U20 - Sutherland Sharks U20",
+        "time": "10:00",
+        "id": "277335667144527872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": " Sunshine Coast Wanderers - Brisbane City",
+        "time": "10:00",
+        "id": "277136812608196608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Peninsula Power - Queensland Lions SC",
+        "time": "10:00",
+        "id": "277050427745374208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Perth - Armadale",
+        "time": "10:00",
+        "id": "277139551074521088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fremantle City FC - Western Knights SC",
+        "time": "10:00",
+        "id": "277139550946594816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yeronga FC - Ipswich Knights",
+        "time": "10:00",
+        "id": "277244742890295296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Dandenong Thunder - Melbourne Victory U21",
         "time": "09:00",
         "id": "277082132257574912"
@@ -44,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Playford Patriots - Adelaide United Reserves",
-        "time": "08:30",
-        "id": "277077109487308800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Modbury Jets - West Torrens Birkalla",
         "time": "08:30",
         "id": "277074864489238528"
@@ -58,16 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SWQ Thunder - Caboolture",
+        "name": "Playford Patriots - Adelaide United Reserves",
         "time": "08:30",
-        "id": "277150462126460928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manningham United Blues - Bentleigh Greens",
-        "time": "08:15",
-        "id": "277163517930508288"
+        "id": "277077109487308800"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Labasa - Nadroga",
         "time": "08:00",
         "id": "277401362598334464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Consadole Sapporo - Sagan Tosu",
-        "time": "08:00",
-        "id": "276802816053481472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avondale Fc - Heidelberg United",
-        "time": "08:00",
-        "id": "277072872185401344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Croydon Kings - White City Beograd",
-        "time": "08:00",
-        "id": "277074864411643904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide Comets - North Eastern Metro Stars",
-        "time": "08:00",
-        "id": "277220431145078784"
     }
 ]
