@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Forward Madison FC - Antelope Valley Alta",
+        "time": "01:00",
+        "id": "277363483469811712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mirassol FC - Vasco da Gama RJ",
         "time": "00:30",
         "id": "276675874804338688"
@@ -96,12 +103,5 @@
         "name": "Crown Legacy FC - Huntsville City FC",
         "time": "00:00",
         "id": "277359636060966912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mixto EC - Portuguesa Desportos",
-        "time": "00:00",
-        "id": "277193977101422592"
     }
 ]
