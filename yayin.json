@@ -1,16 +1,44 @@
 [
     {
         "type": "futbol",
-        "name": "Atletico Mineiro - Bucaramanga",
-        "day": "25",
-        "time": "03:30",
-        "channel": "S Sport 2"
+        "name": "Feyenoord - Wolfsburg",
+        "day": "02",
+        "time": "17:30",
+        "channel": "Tivibu Spor 1"
     },
     {
-        "type": "basketbol",
-        "name": "ABD - Çin",
-        "day": "25",
-        "time": "20:55",
+        "type": "futbol",
+        "name": "B.Dortmund - Lille",
+        "day": "02",
+        "time": "18:00",
         "channel": "TRT Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "Twente - Udinese",
+        "day": "02",
+        "time": "20:00",
+        "channel": "Tivibu Spor 1"
+    },
+    {
+        "type": "futbol",
+        "name": "Marsilya - Sevilla",
+        "day": "02",
+        "time": "21:00",
+        "channel": "TRT Spor"
+    },
+    {
+        "type": "tenis",
+        "name": "Martin\/Fallada - Araujo\/Prieto",
+        "day": "02",
+        "time": "18:00",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "tenis",
+        "name": "Stupaczuk\/Lebron - Chingotto\/Galan",
+        "day": "02",
+        "time": "20:00",
+        "channel": "Bein Sports Max 2"
     }
 ]
