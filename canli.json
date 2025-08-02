@@ -16,6 +16,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "New Lambton - Newcastle Olympic",
+        "time": "09:00",
+        "id": "277238014962438144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maitland - Belmont Swansea United FC",
+        "time": "09:00",
+        "id": "277046045436940288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Campbelltown City - Adelaide City",
         "time": "08:30",
         "id": "277074864338243584"
@@ -79,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Langwarrin Sc - FC Melbourne Serbia",
-        "time": "08:00",
-        "id": "277163517847670784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Croydon Kings - White City Beograd",
         "time": "08:00",
         "id": "277074864411643904"
@@ -96,12 +103,5 @@
         "name": "Adelaide Comets - North Eastern Metro Stars",
         "time": "08:00",
         "id": "277220431145078784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brunswick City U23 - Northcote City U23",
-        "time": "08:00",
-        "id": "277168447742414848"
     }
 ]
