@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CS Alagoano AL - Botafogo PB",
+        "time": "23:00",
+        "id": "277192782462980096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AA Ponte Preta - Guarani FC De Campinas",
+        "time": "23:00",
+        "id": "277192763310739456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ferroviario - ASA (Agremiação Sportiva Arapiraquense)",
+        "time": "23:00",
+        "id": "277193925115121664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sport Club do Recife - EC Bahia",
         "time": "22:00",
         "id": "276551311017775104"
@@ -30,78 +51,57 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Coquimbo Unido - Deportes Limache",
+        "time": "22:00",
+        "id": "276937072974106624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Trinidense - Sportivo Luqueno",
+        "time": "22:00",
+        "id": "276947631223214080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Antonio Bulo Bulo - Academia de Balompie Boliviano",
+        "time": "22:00",
+        "id": "276947632504573952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cobreloa Calama - Rangers de Talca",
+        "time": "22:00",
+        "id": "276950043525779456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Marica RJ - AA Aparecidense",
+        "time": "22:00",
+        "id": "277193862691295232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maranhao MA - Tuna Luso PA",
+        "time": "22:00",
+        "id": "277193903711588352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Cascavel PR - Barra FC",
+        "time": "22:00",
+        "id": "277193903611973632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sligo Rovers FC - Shelbourne FC",
         "time": "21:45",
         "id": "276846881532940288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arminia Bielefeld - TSV Fortuna Dusseldorf",
-        "time": "21:30",
-        "id": "274267975838732288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Borussia Monchengladbach - Valencia CF",
-        "time": "21:30",
-        "id": "277397150744317952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cagliari - AS St. Etienne",
-        "time": "21:30",
-        "id": "277397166402703360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hercules Alicante - Real Murcia",
-        "time": "21:30",
-        "id": "277397447875104768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Almagro - Arsenal de Sarandi",
-        "time": "21:30",
-        "id": "277116061728509952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Victoriano Arenas - Sportivo Barracas",
-        "time": "21:30",
-        "id": "277391686957666304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Paraguayo - CSD Central Ballester",
-        "time": "21:30",
-        "id": "277437203061280768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Lujan - Centro Espanyol",
-        "time": "21:30",
-        "id": "277394562829389824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Camioneros - Yupanqui",
-        "time": "21:30",
-        "id": "277391686883217408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Espanol - Club Leandro Niceforo Alem",
-        "time": "21:30",
-        "id": "277390931023499264"
     }
 ]
