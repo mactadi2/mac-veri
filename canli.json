@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Riverside Olympic - Launceston United",
+        "time": "07:30",
+        "id": "277078302648307712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kingborough Lions - Devonport City Strikers",
+        "time": "07:15",
+        "id": "277078286499188736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Melbourne U23 - Green Gully U23",
+        "time": "07:00",
+        "id": "277274696571031552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gold Coast United (W) - Gold Coast Knights (W)",
         "time": "06:45",
         "id": "277243509759676416"
@@ -16,16 +37,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ba FC - Lautoka",
-        "time": "06:00",
-        "id": "277400826896584704"
+        "name": "Modbury Jets Reserves - West Torrens Birkalla Reserves",
+        "time": "06:15",
+        "id": "277242825328955392"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "University NSW U20 - Macarthur Rams U20",
+        "name": "Para Hills Knights Reserves - Adelaide Croatia Raiders Reserves",
+        "time": "06:15",
+        "id": "277243996835811328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Campbelltown Reserves - Adelaide City Reserves",
+        "time": "06:15",
+        "id": "277294862154469376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ba FC - Lautoka",
         "time": "06:00",
-        "id": "277335664972926976"
+        "id": "277400826896584704"
     },
     {
         "tur": "live",
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Universities of Canterbury - Christchurch United",
-        "time": "05:45",
-        "id": "277272957441675264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Selwyn United - Wanaka AFC",
         "time": "05:45",
         "id": "277272956324941824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sunshine Coast Wanderers U23 - Brisbane City U23",
-        "time": "05:45",
-        "id": "277244307930484736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Croydon Kings Reserves - White City Reserves",
-        "time": "05:45",
-        "id": "277242638982320128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Los Angeles FC - Pachuca CF",
-        "time": "05:30",
-        "id": "277175011918352384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Seattle Reign FC (W) - Angel City FC (W)",
-        "time": "05:30",
-        "id": "276786736175124480"
     }
 ]
