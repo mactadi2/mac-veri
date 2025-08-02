@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Arminia Bielefeld - TSV Fortuna Dusseldorf",
+        "time": "21:30",
+        "id": "274267975838732288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Recreativo de Huelva - Real Betis B",
+        "time": "21:30",
+        "id": "277370285000364032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Galatasaray SK - SS Lazio",
+        "time": "21:00",
+        "id": "277386845824880640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Marsilya - Sevilla FC",
+        "time": "21:00",
+        "id": "277395315885215744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Torreense - Merida",
+        "time": "21:00",
+        "id": "277340477651554304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnastica Segoviana - Atletico Madrid B",
+        "time": "20:30",
+        "id": "277367027441733632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kfco Beerschot-Wilrijk - SSC Venezia",
+        "time": "20:30",
+        "id": "277410296441737216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Twente - Udinese",
         "time": "20:00",
         "id": "277305238868856832"
@@ -54,54 +103,5 @@
         "name": "Real Madrid B - Racing de Ferrol",
         "time": "20:00",
         "id": "277467411964366848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Burgos CF - Eibar",
-        "time": "19:30",
-        "id": "277305078961016832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Andorra - CE Europa",
-        "time": "19:30",
-        "id": "277392295757746176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Zaragoza Deportivo Aragon - Terrassa CF",
-        "time": "19:30",
-        "id": "277387444979109888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "RC Lens - AS Roma",
-        "time": "19:00",
-        "id": "277396566025834496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Sociedad - Rennes FC",
-        "time": "19:00",
-        "id": "277428382268002304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rodez Aveyron - Pau FC",
-        "time": "19:00",
-        "id": "277410296177496064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fafe - Pacos Ferreira",
-        "time": "19:00",
-        "id": "277401095758811136"
     }
 ]
