@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nadi - Navua FC",
+        "time": "01:00",
+        "id": "277419759508787200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orlando City SC - CF Atlas Guadalajara",
+        "time": "01:00",
+        "id": "277252080999206912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Luverdense - Rio Branco ES",
+        "time": "01:00",
+        "id": "277194395694010368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Forward Madison FC - Antelope Valley Alta",
+        "time": "01:00",
+        "id": "277363483469811712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mirassol FC - Vasco da Gama RJ",
         "time": "00:30",
         "id": "276675874804338688"
@@ -75,33 +103,5 @@
         "name": "Mixto EC - Portuguesa Desportos",
         "time": "00:00",
         "id": "277193977101422592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Caracas FC - Deportivo Tachira FC",
-        "time": "00:00",
-        "id": "277288279052783616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Alagoano AL - Botafogo PB",
-        "time": "23:00",
-        "id": "277192782462980096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AA Ponte Preta - Guarani FC De Campinas",
-        "time": "23:00",
-        "id": "277192763310739456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferroviario - ASA (Agremiação Sportiva Arapiraquense)",
-        "time": "23:00",
-        "id": "277193925115121664"
     }
 ]
