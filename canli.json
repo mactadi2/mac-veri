@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Indy Eleven - Tampa Bay Rowdies",
+        "time": "02:00",
+        "id": "276862713386373120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pittsburgh Riverhounds - Rhode Island",
+        "time": "02:00",
+        "id": "276995814132420608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chattanooga FC - Toronto Fc Ii",
+        "time": "02:00",
+        "id": "277361183600807936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter Miami CF - Necaxa",
+        "time": "02:00",
+        "id": "277252179959615488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "ABC Futebol Clube - Figueirense FC",
         "time": "01:30",
         "id": "277192284852850688"
@@ -26,13 +54,6 @@
         "name": "Luverdense - Rio Branco ES",
         "time": "01:00",
         "id": "277194395694010368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Forward Madison FC - Antelope Valley Alta",
-        "time": "01:00",
-        "id": "277363483469811712"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "CDT Real Oruro - Club Bolivar",
         "time": "00:30",
         "id": "276956976891695104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Junior de Barranquilla  - Boyaca Chico",
-        "time": "00:10",
-        "id": "276861918875095040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nashville SC - Aston Villa",
-        "time": "00:00",
-        "id": "277261156743254016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Crown Legacy FC - Huntsville City FC",
-        "time": "00:00",
-        "id": "277359636060966912"
     }
 ]
