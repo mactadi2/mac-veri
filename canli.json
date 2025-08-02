@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "De Graafschap - Volos NFC",
+        "time": "13:30",
+        "id": "277376517136322560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gamba Osaka - Reims",
         "time": "13:00",
         "id": "277173944832888832"
@@ -96,12 +103,5 @@
         "name": "V-Varen Nagasaki - Vegalta Sendai",
         "time": "12:00",
         "id": "276818831898447872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kataller Toyama - Omiya Ardija",
-        "time": "12:00",
-        "id": "276808450693009408"
     }
 ]
