@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "San Lorenzo - Tigre",
+        "time": "22:15",
+        "id": "276641929497808896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sport Club do Recife - EC Bahia",
         "time": "22:00",
         "id": "276551311017775104"
@@ -33,13 +40,6 @@
         "name": "Sociedad Deportivo Tarazona - Real Zaragoza",
         "time": "22:00",
         "id": "277340477566619648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Sebastian De Los Reyes - CD Toledo",
-        "time": "22:00",
-        "id": "277397631761780736"
     },
     {
         "tur": "live",
@@ -100,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sligo Rovers FC - Shelbourne FC",
-        "time": "21:45",
-        "id": "276846881532940288"
+        "name": "La Luz - Deportivo Maldonado",
+        "time": "22:00",
+        "id": "277197840505245696"
     }
 ]
