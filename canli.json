@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Twente - Udinese",
+        "time": "20:00",
+        "id": "277305238868856832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VVV Venlo - FC Volendam",
+        "time": "20:00",
+        "id": "277376733054898176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Osasuna - Racing Santander",
+        "time": "20:00",
+        "id": "277379312620015616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tenerife - Las Palmas",
+        "time": "20:00",
+        "id": "277429132895326208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chaves - Vitoria Guimaraes",
+        "time": "20:00",
+        "id": "277387569731342336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cadiz - AD Ceuta FC",
+        "time": "20:00",
+        "id": "277427773254012928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Burgos CF - Eibar",
         "time": "19:30",
         "id": "277305078961016832"
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Pescara - Potenza Calcio",
-        "time": "18:30",
-        "id": "277340477341175808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Borussia Dortmund - OSC Lille",
-        "time": "18:00",
-        "id": "277303718001643520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Angers SCO - FC Nantes",
-        "time": "18:00",
-        "id": "277234550225113088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ES Troyes AC - FC Metz",
-        "time": "18:00",
-        "id": "277303984435367936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Dordrecht - SK Beveren",
-        "time": "18:00",
-        "id": "277356890844958720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ravenna Calcio - SCD Progresso",
-        "time": "18:00",
-        "id": "277445069701779456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Renaissance Mons (RAEC) - Luik Fc",
-        "time": "18:00",
-        "id": "277357527482634240"
+        "name": "Fafe - Pacos Ferreira",
+        "time": "19:00",
+        "id": "277401095758811136"
     }
 ]
