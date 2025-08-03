@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Leicester City - AC Fiorentina",
+        "time": "17:00",
+        "id": "277446131783438336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cremonese - Pro Patria",
+        "time": "17:00",
+        "id": "277371566216581120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Entite Manageoise - UR Namur",
+        "time": "17:00",
+        "id": "277535435990896640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cercle Brugge KSV - RSC Anderlecht",
+        "time": "17:00",
+        "id": "276726203679903744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AGF Aarhus - FC Midtjylland",
+        "time": "17:00",
+        "id": "276959266045300736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paide Linnameeskond - Harju Jalgpallikool",
+        "time": "17:00",
+        "id": "276714089612447744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AZ Alkmaar - OFI FC",
         "time": "16:00",
         "id": "277457913080057856"
@@ -44,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Independiente FBC - Club Sportivo Carapegua",
+        "time": "16:00",
+        "id": "277213455025573888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ham-Kam - FK Bodo Glimt",
         "time": "15:30",
         "id": "276986213179723776"
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AFC Ajax - AS Monaco",
-        "time": "15:00",
-        "id": "277443182121324544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BK Hacken - IF Elfsborg",
-        "time": "15:00",
-        "id": "276983318927511552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Djurgardens IF - Halmstads BK",
-        "time": "15:00",
-        "id": "276910851485732864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shenzhen Peng FC - Zhejiang Professional FC",
-        "time": "15:00",
-        "id": "276910545444147200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PIF Parainen - VG-62",
-        "time": "15:00",
-        "id": "277364769702416384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sporting Kristina - FC Ylivieska",
-        "time": "15:00",
-        "id": "277364769769525248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SonderjyskE - FC Nordsjaelland",
-        "time": "15:00",
-        "id": "276959253959413760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Randers FC - Silkeborg IF",
-        "time": "15:00",
-        "id": "276918272936513536"
+        "name": "MAFCO - Big Bullets",
+        "time": "15:30",
+        "id": "277447559545491456"
     }
 ]
