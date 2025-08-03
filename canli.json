@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Breidablik Kopavogur - KA Akureyri",
+        "time": "19:30",
+        "id": "277267055129006080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union St.-Gilloise - Oud-Heverlee Leuven",
+        "time": "19:30",
+        "id": "276918185235714048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Maritimo Funchal - Nacional Madeira Funchal",
+        "time": "19:00",
+        "id": "277448131751317504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "LDU Quito  - Mushuc Runa",
+        "time": "19:00",
+        "id": "276933796397453312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lecce - Carrarese",
         "time": "18:30",
         "id": "277379068823998464"
@@ -75,33 +103,5 @@
         "name": "SC Grobinas - Rigas Futbola Skola",
         "time": "18:00",
         "id": "277096331543187456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IK Sirius FK - Osters IF",
-        "time": "17:30",
-        "id": "276920209262120960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cercle Brugge KSV - RSC Anderlecht",
-        "time": "17:00",
-        "id": "276726203679903744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AGF Aarhus - FC Midtjylland",
-        "time": "17:00",
-        "id": "276959266045300736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paide Linnameeskond - Harju Jalgpallikool",
-        "time": "17:00",
-        "id": "276714089612447744"
     }
 ]
