@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ham-Kam - FK Bodo Glimt",
+        "time": "15:30",
+        "id": "276986213179723776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AFC Ajax - AS Monaco",
+        "time": "15:00",
+        "id": "277443182121324544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BK Hacken - IF Elfsborg",
+        "time": "15:00",
+        "id": "276983318927511552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Djurgardens IF - Halmstads BK",
+        "time": "15:00",
+        "id": "276910851485732864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shenzhen Peng FC - Zhejiang Professional FC",
+        "time": "15:00",
+        "id": "276910545444147200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PIF Parainen - VG-62",
+        "time": "15:00",
+        "id": "277364769702416384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Wuhan Three Towns - Changchun Yatai",
         "time": "14:35",
         "id": "276908979488165888"
@@ -37,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Racing Genk - Royal Antwerp FC",
-        "time": "14:30",
-        "id": "276927578269421568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Tottenham - Newcastle",
         "time": "14:00",
         "id": "277454556359692288"
@@ -68,40 +103,5 @@
         "name": "EPS Reservi - Eif\/Akademi",
         "time": "14:00",
         "id": "277364542651109376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AC Sparta Prague (W) - RB Leipzig (W)",
-        "time": "14:00",
-        "id": "277446573339840512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stockport County - Bolton Wanderers",
-        "time": "14:00",
-        "id": "274107249001107456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SG Essen (W) - VfL Bochum (W)",
-        "time": "13:30",
-        "id": "277446573254905856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bangkok FC - Chonburi FC",
-        "time": "13:00",
-        "id": "277404443515949056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Roasso Kumamoto - Mito HollyHock",
-        "time": "13:00",
-        "id": "276902839226339328"
     }
 ]
