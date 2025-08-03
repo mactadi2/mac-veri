@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Vitoria - Palmeiras",
+        "time": "01:30",
+        "id": "276729101223596032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Nautico Capibaribe - Retro FC Brasil",
         "time": "01:00",
         "id": "277192906365865984"
@@ -96,12 +103,5 @@
         "name": "Manchester United - Everton",
         "time": "00:00",
         "id": "277261160378667008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tecnico Universitario - Manta FC",
-        "time": "23:30",
-        "id": "276943114088878080"
     }
 ]
