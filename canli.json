@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IK Sirius FK - Osters IF",
+        "time": "17:30",
+        "id": "276920209262120960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Luzern - FC Zurich",
+        "time": "17:30",
+        "id": "276276288734498816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Leicester City - AC Fiorentina",
         "time": "17:00",
         "id": "277446131783438336"
@@ -89,19 +103,5 @@
         "name": "Independiente FBC - Club Sportivo Carapegua",
         "time": "16:00",
         "id": "277213455025573888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ham-Kam - FK Bodo Glimt",
-        "time": "15:30",
-        "id": "276986213179723776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MAFCO - Big Bullets",
-        "time": "15:30",
-        "id": "277447559545491456"
     }
 ]
