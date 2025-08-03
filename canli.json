@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AZ Alkmaar - OFI FC",
+        "time": "16:00",
+        "id": "277457913080057856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ADO Den Haag - Olympiakos Piraeus FC",
+        "time": "16:00",
+        "id": "277367958125285376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Schwarz Weiss Essen - SC Preussen Munster II",
+        "time": "16:00",
+        "id": "277533094411636736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Landskrona Bois - Vasteras SK FK",
+        "time": "16:00",
+        "id": "276914105399513088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Seinäjoen Jalkapallokerho - Kotkan Tyovaen Palloilijat",
+        "time": "16:00",
+        "id": "276918185172799488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ham-Kam - FK Bodo Glimt",
         "time": "15:30",
         "id": "276986213179723776"
@@ -58,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hannover 96 - FC Kaiserslautern",
-        "time": "14:30",
-        "id": "274267989105315840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "1.FC Magdeburg - TSV Eintracht Braunschweig",
         "time": "14:30",
         "id": "274267988870434816"
@@ -75,33 +103,5 @@
         "name": "SpVgg Greuther Furth - 1.FC Dynamo Dresden",
         "time": "14:30",
         "id": "274267988158451712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tottenham - Newcastle",
-        "time": "14:00",
-        "id": "277454556359692288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Buriram United FC - Uthai Thani FC",
-        "time": "14:00",
-        "id": "277536273129934848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dalian Young Boy FC - Qingdao Hainiu",
-        "time": "14:00",
-        "id": "276907153433956352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EPS Reservi - Eif\/Akademi",
-        "time": "14:00",
-        "id": "277364542651109376"
     }
 ]
