@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Sion Sitten - FC Lugano",
+        "time": "17:30",
+        "id": "276276382427910144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Leicester City - AC Fiorentina",
         "time": "17:00",
         "id": "277446131783438336"
@@ -58,23 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ferro Carril Oeste Reserves - Velez Sarsfield Reserves",
+        "time": "17:00",
+        "id": "277478054762254336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AZ Alkmaar - OFI FC",
         "time": "16:00",
         "id": "277457913080057856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ADO Den Haag - Olympiakos Piraeus FC",
-        "time": "16:00",
-        "id": "277367958125285376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Schwarz Weiss Essen - SC Preussen Munster II",
-        "time": "16:00",
-        "id": "277533094411636736"
     },
     {
         "tur": "live",
@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Seinäjoen Jalkapallokerho - Kotkan Tyovaen Palloilijat",
-        "time": "16:00",
-        "id": "276918185172799488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Encarnacion FC - Tacuary Asuncion",
         "time": "16:00",
         "id": "277213450398208000"
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Independiente FBC - Club Sportivo Carapegua",
+        "name": "Assyriska Ff - TEAM TG FF",
         "time": "16:00",
-        "id": "277213455025573888"
+        "id": "277320388856385536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Slovacko - SK Slavia Prague",
+        "time": "16:00",
+        "id": "276914370601160704"
     }
 ]
