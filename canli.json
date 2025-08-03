@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Blacktown City Fc - Mt Druitt Town Rangers",
+        "time": "08:00",
+        "id": "277068472541908992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wollongong Wolves FC - Sydney FC NPL",
+        "time": "08:00",
+        "id": "277071529935769600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sydney United - St. George Saints",
+        "time": "08:00",
+        "id": "277071299405287424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "St Albans Saints U23 - Preston Lions U23",
+        "time": "08:00",
+        "id": "277240818392240128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Redlands United - Ipswich Knights",
+        "time": "08:00",
+        "id": "277157347034533888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Melbourne University (W) - Calder Utd Sc (W)",
+        "time": "08:00",
+        "id": "277517626771640320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Majura FC (W) - West Canberra Wanderers FC (W)",
+        "time": "08:00",
+        "id": "277406911548231680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Peninsula Power U23 - Queensland Lions U23",
         "time": "07:45",
         "id": "277245546348023808"
@@ -23,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cooks Hill United FC Reserves - Lambton Jaffas FC Reserves",
-        "time": "07:00",
-        "id": "277273762335952896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "South Melbourne (W) - Preston Lions (W)",
         "time": "07:00",
         "id": "277239629900550144"
@@ -40,33 +82,5 @@
         "name": "Canberra Olympic (W) - Gungahlin United (W)",
         "time": "07:00",
         "id": "277406920982269952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grange Thistle U23 - Pine Hills U23",
-        "time": "06:50",
-        "id": "277513296257617920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blacktown City U20 - Mt Druitt Town Rangers U20",
-        "time": "06:00",
-        "id": "277335666652745728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portland Timbers - Gallos Blancos Queretaro",
-        "time": "06:00",
-        "id": "277252948338282496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dorados - Cancun FC",
-        "time": "06:00",
-        "id": "276981652970934272"
     }
 ]
