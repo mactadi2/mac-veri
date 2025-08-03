@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SG Essen (W) - VfL Bochum (W)",
+        "time": "13:30",
+        "id": "277446573254905856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Akron Tolyatti - Spartak Moskova",
+        "time": "13:30",
+        "id": "274622903064072192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "VVV Venlo - Oud Heverlee Leuven Ii",
         "time": "13:00",
         "id": "277536179948228608"
@@ -58,9 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FAR Rabat - FUS de Rabat",
-        "time": "12:00",
-        "id": "277509107504779264"
+        "name": "Dinaz Vyshgorod - Lokomotyv Kyiv",
+        "time": "12:30",
+        "id": "277534164221300736"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Myanmar University - Kachin United Fc",
         "time": "12:00",
         "id": "277526303315464192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Armed Forces F.C. - Bunga Raya",
-        "time": "11:45",
-        "id": "277525570369228800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Raca Bratislava - SK 1923 Gabcikovo",
-        "time": "11:30",
-        "id": "277519410753835008"
     }
 ]
