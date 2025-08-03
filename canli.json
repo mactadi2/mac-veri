@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lecce - Carrarese",
+        "time": "18:30",
+        "id": "277379068823998464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Avellino - AZ Picerno ASD",
+        "time": "18:30",
+        "id": "277527592793411584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lumezzane - Pro Palazzolo",
+        "time": "18:30",
+        "id": "277530156014374912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Shabab Riyadh - Al Sharjah SCC",
         "time": "18:00",
         "id": "277536242765271040"
@@ -82,26 +103,5 @@
         "name": "CS Entite Manageoise - UR Namur",
         "time": "17:00",
         "id": "277535435990896640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cercle Brugge KSV - RSC Anderlecht",
-        "time": "17:00",
-        "id": "276726203679903744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AGF Aarhus - FC Midtjylland",
-        "time": "17:00",
-        "id": "276959266045300736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paide Linnameeskond - Harju Jalgpallikool",
-        "time": "17:00",
-        "id": "276714089612447744"
     }
 ]
