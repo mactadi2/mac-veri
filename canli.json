@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FAR Rabat - FUS de Rabat",
+        "time": "12:00",
+        "id": "277509107504779264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Angers SCO - Olympique Saumur",
+        "time": "12:00",
+        "id": "277532981874266112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Saku Sporting (K) - MFA Zalgiris (W)",
+        "time": "12:00",
+        "id": "277508935513149440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Viktoria Zizkov - Prostejov",
+        "time": "11:15",
+        "id": "277217239860645888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Slavia Prague B - Dynamo Ceske Budejovice",
+        "time": "11:15",
+        "id": "277217524989431808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "UD Ibiza Eivissa - Al Riyadh",
         "time": "11:00",
         "id": "277316644902146048"
@@ -58,50 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Redlands United U23 - Ipswich FC U23",
-        "time": "10:15",
-        "id": "277273547427155968"
+        "name": "Fukuyama City FC - Yonago Genki",
+        "time": "11:00",
+        "id": "277361183746560000"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fujieda MYFC - Jubilo Iwata",
-        "time": "10:00",
-        "id": "277455158007435264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St Albans Saints Sc - Preston Lions",
-        "time": "10:00",
-        "id": "277073542216028160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South Melbourne - Green Gully Cavaliers SC",
-        "time": "10:00",
-        "id": "277073100751900672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brisbane Roar Youth - Brisbane Olympic FC",
-        "time": "10:00",
-        "id": "277136871372492800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melbourne Knights U23 - Hume City U23",
-        "time": "10:00",
-        "id": "277240923170148352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mount Gravatt Hawks - Newmarket",
-        "time": "10:00",
-        "id": "277402449906634752"
+        "name": "Subiaco AFC (W) - Perth SC (W)",
+        "time": "10:45",
+        "id": "277240231988695040"
     }
 ]
