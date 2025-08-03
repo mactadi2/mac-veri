@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Internacional RS - Sao Paulo FC",
+        "time": "02:30",
+        "id": "276728940873256960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universidad Central de Venezuela - Portuguesa FC",
+        "time": "02:30",
+        "id": "277289988167700480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Independiente Medellin - Club Deportivo Los Millonarios",
+        "time": "02:20",
+        "id": "276994543521501184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ferro Carril Oeste - CA All Boys",
+        "time": "02:15",
+        "id": "277116061660352512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Libertad FC - Emelec Guayaquil",
         "time": "02:00",
         "id": "276943065044881408"
@@ -65,30 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ceara SC CE - Flamengo RJ",
-        "time": "00:30",
-        "id": "276728661621739520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Mineiro - Bragantino Red Bull",
-        "time": "00:30",
-        "id": "276728219895468032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Paranaense PR - Paysandu",
-        "time": "00:30",
-        "id": "276991622870339584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nublense - Everton Vina del Mar",
-        "time": "00:30",
-        "id": "276941620768804864"
+        "name": "Atletico Cali F.C. - CD Jaguares de Cordoba",
+        "time": "01:00",
+        "id": "277084803000569856"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "FC Cincinnati - FC Juarez",
         "time": "00:30",
         "id": "277342040445030400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "The Strongest La Paz - Blooming",
-        "time": "00:15",
-        "id": "277046746181406720"
     }
 ]
