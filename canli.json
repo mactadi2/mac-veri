@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ceara SC CE - Flamengo RJ",
+        "time": "00:30",
+        "id": "276728661621739520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Mineiro - Bragantino Red Bull",
+        "time": "00:30",
+        "id": "276728219895468032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Paranaense PR - Paysandu",
+        "time": "00:30",
+        "id": "276991622870339584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nublense - Everton Vina del Mar",
+        "time": "00:30",
+        "id": "276941620768804864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Cincinnati - FC Juarez",
+        "time": "00:30",
+        "id": "277342040445030400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gimnasia Y Esgrima de Jujuy - Colon de Santa Fe",
         "time": "00:15",
         "id": "277013048789700608"
@@ -26,20 +61,6 @@
         "name": "Manchester United - Everton",
         "time": "00:00",
         "id": "277261160378667008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Millonarios (W) - America de Cali (W)",
-        "time": "00:00",
-        "id": "277444985287217152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Monagas SC - Academia Puerto Cabello",
-        "time": "00:00",
-        "id": "277289988070182912"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Atletico Ottawa - York United FC",
         "time": "23:00",
         "id": "276998480116977664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Ada Jaen - Santos FC de Ica",
-        "time": "23:00",
-        "id": "277331406459375616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sao Bernardo FC - Tombense MG",
-        "time": "22:30",
-        "id": "277192799741415424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maringa FC PR - Floresta EC",
-        "time": "22:30",
-        "id": "277192810878341120"
     }
 ]
