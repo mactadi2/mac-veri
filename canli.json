@@ -44,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Swope Park Rangers - Austin FC II",
+        "time": "20:00",
+        "id": "277449441634553856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Nueva Chicago - Almirante Brown de Lules",
         "time": "19:45",
         "id": "277013048851566592"
@@ -96,12 +103,5 @@
         "name": "Brondby I.F. - Viborg FF",
         "time": "19:00",
         "id": "276925746924097536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lecce - Carrarese",
-        "time": "18:30",
-        "id": "277379068823998464"
     }
 ]
