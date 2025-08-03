@@ -2,23 +2,65 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al Shabab Riyadh - Al Sharjah SCC",
+        "time": "18:00",
+        "id": "277536242765271040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Molde FK - Bryne FK",
+        "time": "18:00",
+        "id": "276912604215119872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KFUM Oslo - Rosenborg BK",
+        "time": "18:00",
+        "id": "276912587382329344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valerenga IF Oslo - Sandefjord",
+        "time": "18:00",
+        "id": "276839149340856320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stromsgodset IF - FK Haugesund",
+        "time": "18:00",
+        "id": "276986245144514560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Waterford FC - St Patrick's Athletic",
+        "time": "18:00",
+        "id": "276923212148903936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tukums 2000 - Riga FC",
+        "time": "18:00",
+        "id": "277096331699425280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Grobinas - Rigas Futbola Skola",
+        "time": "18:00",
+        "id": "277096331543187456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "IK Sirius FK - Osters IF",
         "time": "17:30",
         "id": "276920209262120960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Luzern - FC Zurich",
-        "time": "17:30",
-        "id": "276276288734498816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Sion Sitten - FC Lugano",
-        "time": "17:30",
-        "id": "276276382427910144"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Paide Linnameeskond - Harju Jalgpallikool",
         "time": "17:00",
         "id": "276714089612447744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferro Carril Oeste Reserves - Velez Sarsfield Reserves",
-        "time": "17:00",
-        "id": "277478054762254336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AZ Alkmaar - OFI FC",
-        "time": "16:00",
-        "id": "277457913080057856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Landskrona Bois - Vasteras SK FK",
-        "time": "16:00",
-        "id": "276914105399513088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Encarnacion FC - Tacuary Asuncion",
-        "time": "16:00",
-        "id": "277213450398208000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Assyriska Ff - TEAM TG FF",
-        "time": "16:00",
-        "id": "277320388856385536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Slovacko - SK Slavia Prague",
-        "time": "16:00",
-        "id": "276914370601160704"
     }
 ]
