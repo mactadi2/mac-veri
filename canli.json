@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "WSG Hertha Wels - Floridsdorfer AC",
+        "time": "11:30",
+        "id": "276991164534624256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FK Viktoria Zizkov - Prostejov",
         "time": "11:15",
         "id": "277217239860645888"
@@ -96,12 +103,5 @@
         "name": "Fukuyama City FC - Yonago Genki",
         "time": "11:00",
         "id": "277361183746560000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Subiaco AFC (W) - Perth SC (W)",
-        "time": "10:45",
-        "id": "277240231988695040"
     }
 ]
