@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tecnico Universitario - Manta FC",
+        "time": "23:30",
+        "id": "276943114088878080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Central Norte Salta  - CA Chaco For Ever",
         "time": "23:00",
         "id": "277013353607598080"
@@ -12,6 +19,27 @@
         "name": "Sport Huancayo - Ayacucho FC",
         "time": "23:00",
         "id": "277218601638957056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Manaus FC - Imperatriz",
+        "time": "23:00",
+        "id": "277195204166029312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sao Bernardo FC - Tombense MG",
+        "time": "22:30",
+        "id": "277192799741415424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maringa FC PR - Floresta EC",
+        "time": "22:30",
+        "id": "277192810878341120"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Atletico Guemes - Deportivo Madryn",
-        "time": "21:30",
-        "id": "277036234021408768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chacarita Juniors - CA Estudiantes Caseros",
-        "time": "21:30",
-        "id": "277068100478832640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Patronato - Club Atletico Alvarado",
-        "time": "21:30",
-        "id": "277012581362831360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Canuelas - Estrella del Sur",
-        "time": "21:30",
-        "id": "277323143508529152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Merlo - Villa Dalmine",
-        "time": "21:30",
-        "id": "277307406067830784"
+        "name": "Copiapo - Union San Felipe",
+        "time": "22:00",
+        "id": "276950256902606848"
     }
 ]
