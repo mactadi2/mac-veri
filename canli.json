@@ -58,13 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Estudiantes Rio Cuarto - Talleres Remedios Escalada",
-        "time": "22:00",
-        "id": "277013695912087552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Novorizontino SP - Avai",
         "time": "22:00",
         "id": "276920275005739008"
@@ -103,5 +96,12 @@
         "name": "Copiapo - Union San Felipe",
         "time": "22:00",
         "id": "276950256902606848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central SC - Lagarto Se",
+        "time": "22:00",
+        "id": "277194211367981056"
     }
 ]
