@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sevilla FC - Al-Qadisiya",
+        "time": "22:00",
+        "id": "277569436794359808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Liverpool - Athletic Bilbao",
         "time": "22:00",
         "id": "277612919115616256"
@@ -26,6 +33,13 @@
         "name": "River Plate Asuncion - Sportivo San Lorenzo",
         "time": "22:00",
         "id": "277400452639887360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HFX Wanderers FC - Vancouver Langley FC",
+        "time": "22:00",
+        "id": "276998480206106624"
     },
     {
         "tur": "live",
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kecskemeti TE - Budapest Vasas SC",
-        "time": "21:00",
-        "id": "276991105143279616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Duque de Caxias - SE Paraty RJ",
         "time": "20:45",
         "id": "277562222742474752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Dinamo Batumi - Dinamo Tbilisi",
-        "time": "20:00",
-        "id": "277473217707380736"
     }
 ]
