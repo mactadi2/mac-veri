@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Liverpool - Athletic Bilbao",
+        "time": "22:00",
+        "id": "277612919115616256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Ameliano - Libertad Asuncion",
+        "time": "22:00",
+        "id": "277219405937643520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brusque - Itabaiana",
+        "time": "22:00",
+        "id": "277192915536711680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "River Plate Asuncion - Sportivo San Lorenzo",
+        "time": "22:00",
+        "id": "277400452639887360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hearts Of Midlothian FC - Aberdeen FC",
+        "time": "22:00",
+        "id": "273557691549487104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Berazategui - Central Cordoba de Rosario",
         "time": "21:30",
         "id": "277348552655638528"
@@ -37,37 +72,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "IFK Goteborg - Degerfors IF",
-        "time": "20:00",
-        "id": "276983285917290496"
+        "name": "NK Varazdin - NK Gorica",
+        "time": "21:00",
+        "id": "275918829477040128"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Umea FC - Falkenbergs FF",
-        "time": "20:00",
-        "id": "277013283773485056"
+        "name": "Valur Reykjavik (Kadınlar) - Breidablik Kopavogur (W)",
+        "time": "21:00",
+        "id": "277503238597644288"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Skovde AIK - IFK Skovde FK",
-        "time": "20:00",
-        "id": "277354029566267392"
+        "name": "Kecskemeti TE - Budapest Vasas SC",
+        "time": "21:00",
+        "id": "276991105143279616"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Trollhaettan - Ljungskile SK",
-        "time": "20:00",
-        "id": "277352576686624768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hassleholms IF - Ariana FC",
-        "time": "20:00",
-        "id": "277352576750587904"
+        "name": "Duque de Caxias - SE Paraty RJ",
+        "time": "20:45",
+        "id": "277562222742474752"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "FC Dinamo Batumi - Dinamo Tbilisi",
         "time": "20:00",
         "id": "277473217707380736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vasalunds\/Essinge IF - Hammarby Talang Ff",
-        "time": "20:00",
-        "id": "277352137493712896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Zalgiris Vilnius - FK Zalgiris Kaunas",
-        "time": "20:00",
-        "id": "277099014784159744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Novi Pazar - IMT Novi Belgrade",
-        "time": "20:00",
-        "id": "276999997539618816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zeleznicar Pancevo - Napredak Krusevac",
-        "time": "20:00",
-        "id": "276999997624553472"
     }
 ]
