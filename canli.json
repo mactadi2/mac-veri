@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Progreso Reserves - Montevideo City Torque Reserve",
+        "time": "15:30",
+        "id": "277621474354925568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Daegu FC - FC Barcelona",
         "time": "14:00",
         "id": "277533657954127872"
@@ -19,19 +26,5 @@
         "name": "Tobol Kostanay (W) - Kairat Almaty (W)",
         "time": "14:00",
         "id": "277428379021611008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Bulleen Lions - Melbourne City U21",
-        "time": "13:30",
-        "id": "277492160825266176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Shamal - Telstar",
-        "time": "13:00",
-        "id": "277556726641856512"
     }
 ]
