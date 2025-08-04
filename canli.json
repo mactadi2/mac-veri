@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IFK Goteborg - Degerfors IF",
+        "time": "20:00",
+        "id": "276983285917290496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Umea FC - Falkenbergs FF",
+        "time": "20:00",
+        "id": "277013283773485056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Skovde AIK - IFK Skovde FK",
+        "time": "20:00",
+        "id": "277354029566267392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Trollhaettan - Ljungskile SK",
+        "time": "20:00",
+        "id": "277352576686624768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hassleholms IF - Ariana FC",
+        "time": "20:00",
+        "id": "277352576750587904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Liverpool - Athletic Bilbao",
         "time": "19:00",
         "id": "277612902255562752"
@@ -68,40 +103,5 @@
         "name": "Unirea Slobozia - Otelul Galati",
         "time": "19:00",
         "id": "276269625030873088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Elva - Tartu JK Welco",
-        "time": "19:00",
-        "id": "277469477342416896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nomme Kalju II - Viimsi Jk",
-        "time": "19:00",
-        "id": "277469477098098688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AC Monopoli - Sambiase",
-        "time": "18:00",
-        "id": "277546550556758016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ilves Tampere - Gnistan",
-        "time": "18:00",
-        "id": "276988329442021376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Inter Milano (W) - Parma (W)",
-        "time": "18:00",
-        "id": "277627724034609152"
     }
 ]
