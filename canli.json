@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Always Ready - Nacional Potosi",
+        "time": "00:30",
+        "id": "277228788143755264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fernando de la Mora - Resistencia SC",
         "time": "00:30",
         "id": "277410024914030592"
@@ -26,12 +33,5 @@
         "name": "Sport Boys - Asociacion Deportiva Tarma",
         "time": "23:00",
         "id": "277276065851904000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mixto EC U20 - Chapada U20",
-        "time": "23:00",
-        "id": "277555863370207232"
     }
 ]
