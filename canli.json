@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Berazategui - Central Cordoba de Rosario",
+        "time": "21:30",
+        "id": "277348552655638528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rapid Bükreş - Botosani",
+        "time": "21:30",
+        "id": "276347297474940928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFC Botev Plovdiv 1912 - Arda Kardzhali",
+        "time": "21:15",
+        "id": "276891075468201984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Utc de Cajamarca - Cusco FC",
+        "time": "21:00",
+        "id": "277276077051744256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Flint - Fredrikstad 2",
+        "time": "21:00",
+        "id": "277532115789287424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "IFK Goteborg - Degerfors IF",
         "time": "20:00",
         "id": "276983285917290496"
@@ -68,40 +103,5 @@
         "name": "Zeleznicar Pancevo - Napredak Krusevac",
         "time": "20:00",
         "id": "276999997624553472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hvidovre IF - AC Horsens",
-        "time": "20:00",
-        "id": "276937541136027648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sandefjord 2 - Lyn Oslo 2",
-        "time": "20:00",
-        "id": "277539274988064768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GKS 71 Tychy - TS Wisla Krakow",
-        "time": "20:00",
-        "id": "276950914156335104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Dziugas Telsiai - FC Hegelmann Litauen Kaunas",
-        "time": "19:30",
-        "id": "277099014640504832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Finn Harps FC - Bray Wanderers AFC",
-        "time": "19:00",
-        "id": "277377897488060416"
     }
 ]
