@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Oriente Petrolero - Aurora",
+        "time": "22:30",
+        "id": "277219407468564480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sevilla FC - Al-Qadisiya",
         "time": "22:00",
         "id": "277569436794359808"
@@ -72,16 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Utc de Cajamarca - Cusco FC",
-        "time": "21:00",
-        "id": "277276077051744256"
+        "name": "Hapoel Afula - Hapoel Raanana",
+        "time": "21:15",
+        "id": "277526425985224704"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Flint - Fredrikstad 2",
+        "name": "Utc de Cajamarca - Cusco FC",
         "time": "21:00",
-        "id": "277532115789287424"
+        "id": "277276077051744256"
     },
     {
         "tur": "live",
@@ -93,15 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Valur Reykjavik (Kadınlar) - Breidablik Kopavogur (W)",
+        "name": "Liverpool Montevideo Reserves - Albion Reserves",
         "time": "21:00",
-        "id": "277503238597644288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Duque de Caxias - SE Paraty RJ",
-        "time": "20:45",
-        "id": "277562222742474752"
+        "id": "277621504519311360"
     }
 ]
