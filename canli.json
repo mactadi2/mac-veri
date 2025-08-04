@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportes Concepcion - Cd Santa Cruz",
+        "time": "02:30",
+        "id": "276950294691188736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Leones - Barranquilla FC",
         "time": "02:05",
         "id": "277086326461960192"
@@ -79,22 +86,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Recoleta - Guarani Asuncion",
-        "time": "00:30",
-        "id": "277305108725895168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Always Ready - Nacional Potosi",
         "time": "00:30",
         "id": "277228788143755264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fernando de la Mora - Resistencia SC",
-        "time": "00:30",
-        "id": "277410024914030592"
     }
 ]
