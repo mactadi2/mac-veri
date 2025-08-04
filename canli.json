@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Liverpool - Athletic Bilbao",
+        "time": "19:00",
+        "id": "277612902255562752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lentigione Calcio - AC Reggiana 1919",
+        "time": "19:00",
+        "id": "277497979216203776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Latina Calcio -  Aquila 1902 Montevarchi",
         "time": "19:00",
         "id": "277617092005597184"
@@ -9,9 +23,65 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VJS Vantaa - Pepo Lappeenranta",
-        "time": "18:30",
-        "id": "277497192314441728"
+        "name": "HJK Helsinki - FC Inter Turku",
+        "time": "19:00",
+        "id": "276988324018786304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dundalk FC - Longford Town",
+        "time": "19:00",
+        "id": "277379262191898624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cobh Ramblers - Wexford FC",
+        "time": "19:00",
+        "id": "277377981280817152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Finn Harps FC - Bray Wanderers AFC",
+        "time": "19:00",
+        "id": "277377897488060416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Treaty United FC - Kerry FC",
+        "time": "19:00",
+        "id": "277378302845521920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Athlone Town FC - University College Dublin FC",
+        "time": "19:00",
+        "id": "277378824148226048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Unirea Slobozia - Otelul Galati",
+        "time": "19:00",
+        "id": "276269625030873088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Elva - Tartu JK Welco",
+        "time": "19:00",
+        "id": "277469477342416896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nomme Kalju II - Viimsi Jk",
+        "time": "19:00",
+        "id": "277469477098098688"
     },
     {
         "tur": "live",
@@ -33,61 +103,5 @@
         "name": "Inter Milano (W) - Parma (W)",
         "time": "18:00",
         "id": "277627724034609152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Suduroy - HB Torshavn",
-        "time": "18:00",
-        "id": "277443956213682176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Metalist 1925 - FC Obolon Kiev",
-        "time": "18:00",
-        "id": "275908336815312896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sacachispas Reserves - Argentino Merlo Reserves",
-        "time": "18:00",
-        "id": "277568042870902784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Spaeri - FC Lokomotivi Tbilisi",
-        "time": "18:00",
-        "id": "277530112970330112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "The Strongest U19 - Oriente Petrolero U19",
-        "time": "18:00",
-        "id": "277625211479789568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Hadera - Hapoel Akko FC",
-        "time": "18:00",
-        "id": "277512641939902464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nijer - Gine",
-        "time": "17:00",
-        "id": "277448893495644160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Oruro U19 - Guabira U19",
-        "time": "17:00",
-        "id": "277623556760801280"
     }
 ]
