@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Athletic Club MG - Atletico Clube Goianiense",
+        "time": "01:00",
+        "id": "276830631717113856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universidad de Chile - Cobresal Salvador",
+        "time": "01:00",
+        "id": "276941859496005632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pacific FC - Cavalry FC",
+        "time": "01:00",
+        "id": "276998477013192704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Recoleta - Guarani Asuncion",
         "time": "00:30",
         "id": "277305108725895168"
@@ -26,12 +47,5 @@
         "name": "Real Santander - Bogota FC",
         "time": "00:00",
         "id": "277086326535360512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sport Boys - Asociacion Deportiva Tarma",
-        "time": "23:00",
-        "id": "277276065851904000"
     }
 ]
