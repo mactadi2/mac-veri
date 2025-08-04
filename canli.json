@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Latina Calcio -  Aquila 1902 Montevarchi",
+        "time": "19:00",
+        "id": "277617092005597184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "VJS Vantaa - Pepo Lappeenranta",
         "time": "18:30",
         "id": "277497192314441728"
@@ -82,12 +89,5 @@
         "name": "Real Oruro U19 - Guabira U19",
         "time": "17:00",
         "id": "277623556760801280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Spartak Moscow II - Chertanovo Moscow",
-        "time": "17:00",
-        "id": "277612067172782080"
     }
 ]
