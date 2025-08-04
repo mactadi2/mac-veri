@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Recoleta - Guarani Asuncion",
+        "time": "00:30",
+        "id": "277305108725895168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fernando de la Mora - Resistencia SC",
+        "time": "00:30",
+        "id": "277410024914030592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Santander - Bogota FC",
         "time": "00:00",
         "id": "277086326535360512"
@@ -19,12 +33,5 @@
         "name": "Mixto EC U20 - Chapada U20",
         "time": "23:00",
         "id": "277555863370207232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Oriente Petrolero - Aurora",
-        "time": "22:30",
-        "id": "277219407468564480"
     }
 ]
