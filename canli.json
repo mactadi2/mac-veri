@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Columbus Crew - Leon",
+        "time": "02:30",
+        "id": "277507995945013248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Toluca FC - New York City FC",
+        "time": "02:30",
+        "id": "277507995884195840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter de Santa Maria - Gremio Esportivo Bage",
+        "time": "02:30",
+        "id": "277576450867073024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arsenal Salto - Club Oriental",
+        "time": "02:30",
+        "id": "277640588382310400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sportivo AC Las Parejas - Newell's Old Boys",
         "time": "02:00",
         "id": "277654438861213696"
@@ -68,19 +96,5 @@
         "name": "CD Espuce (W) - Club Sport Emelec (W)",
         "time": "01:00",
         "id": "277643422447308800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Tembetary - General Caballero JLM",
-        "time": "00:30",
-        "id": "277309012309053440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club General Martin Ledesma - 12 de Junio de Villa Hayes",
-        "time": "00:30",
-        "id": "277634809893883904"
     }
 ]
