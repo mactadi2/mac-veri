@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lotus Baile Felix - CSM Olimpia Satu Mare",
+        "time": "17:30",
+        "id": "277658760238993408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KS Hutnik Krakow - Zaglebie Sosnowiec SSA",
+        "time": "17:30",
+        "id": "277620984979263488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Paraguayo Reserves  - Leandro N. Alem Reserves",
+        "time": "17:00",
+        "id": "277712414128082944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yupanqui Reserves - Deportivo Camioneros Reserves",
+        "time": "17:00",
+        "id": "277713030496784384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kongo - Sudan",
         "time": "17:00",
         "id": "277552567325691904"
@@ -33,12 +61,5 @@
         "name": "Osters U21 - Trelleborg U21",
         "time": "16:00",
         "id": "277727497599193088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Sportivo Barracas Reserves - Central Espanol Reserves",
-        "time": "15:30",
-        "id": "277712260809494528"
     }
 ]
