@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sportivo AC Las Parejas - Newell's Old Boys",
+        "time": "02:00",
+        "id": "277654438861213696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "EC Novo Hamburgo - Gramadense RS",
         "time": "01:30",
         "id": "277576561709944832"
@@ -19,6 +26,13 @@
         "name": "Aimore - Lajeadense Rs",
         "time": "01:30",
         "id": "277576349639643136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Promex Harlem United SC - Mahaut Soca Strikers",
+        "time": "01:30",
+        "id": "277764407088517120"
     },
     {
         "tur": "live",
@@ -68,26 +82,5 @@
         "name": "Club General Martin Ledesma - 12 de Junio de Villa Hayes",
         "time": "00:30",
         "id": "277634809893883904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boca Juniors Reserves - Racing Club De Avellaneda Reserves",
-        "time": "00:00",
-        "id": "277658091951099904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cucuta Deportivo - Atletico Nacional de Medellin",
-        "time": "00:00",
-        "id": "277568789674070016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orsomarso (W) - Asociacion Deportivo Cali (W)",
-        "time": "00:00",
-        "id": "277663317330366464"
     }
 ]
