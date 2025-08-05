@@ -2,23 +2,58 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Malmo FF - FC Kopenhag",
+        "time": "20:00",
+        "id": "277307517900558336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hamrun Spartans FC - Maccabi Tel-Aviv",
+        "time": "20:00",
+        "id": "277464741063036928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Caudal Deportivo de Mieres - Marino de Luanco",
+        "time": "20:00",
+        "id": "277638970323636224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alianza Universidad - Universitario de Deportes",
+        "time": "20:00",
+        "id": "277276622882738176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Karadağ U19 - Gürcistan",
+        "time": "20:00",
+        "id": "277630570404646912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Sol de Oriente - Rionegro Aguilas Reserves",
+        "time": "20:00",
+        "id": "277668303042908160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Senegal - Nijerya",
+        "time": "20:00",
+        "id": "277563903380164608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Empoli - Sassuolo",
         "time": "19:30",
         "id": "277563903304667136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Kallon - Bai Bureh Warriors FC",
-        "time": "19:15",
-        "id": "277742208955846656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Freetown City - Star Sport Academy",
-        "time": "19:15",
-        "id": "277742257382232064"
     },
     {
         "tur": "live",
@@ -44,16 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bodo\/Glimt (W) - SK Brann (Kadınlar)",
+        "name": "Lyn Fotball (W) - Valerenga (Kadınlar)",
         "time": "19:00",
-        "id": "277617626064228352"
+        "id": "277560125766635520"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lyn Fotball (W) - Valerenga (Kadınlar)",
+        "name": "Bodo\/Glimt (W) - SK Brann (Kadınlar)",
         "time": "19:00",
-        "id": "277560125766635520"
+        "id": "277617626064228352"
     },
     {
         "tur": "live",
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hoenefoss (W) - Kolbotn (W)",
-        "time": "19:00",
-        "id": "277617625959370752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Roa (W) - Stabaek IF (W)",
-        "time": "19:00",
-        "id": "277560125239201792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SavU (MP II) - Purha",
         "time": "18:30",
         "id": "277621667378892800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Atlas Reserves - Argentino de Rosario Reserves",
-        "time": "18:00",
-        "id": "277736814252527616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pakhtakor Tashkent - Olmaliq OKMK",
-        "time": "18:00",
-        "id": "277556345227579392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fusion Caribe U20 - Costa Azul U20",
-        "time": "18:00",
-        "id": "277643676753203200"
     }
 ]
