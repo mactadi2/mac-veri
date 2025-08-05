@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Empoli - Sassuolo",
+        "time": "19:30",
+        "id": "277563903304667136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Kallon - Bai Bureh Warriors FC",
+        "time": "19:15",
+        "id": "277742208955846656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Freetown City - Star Sport Academy",
+        "time": "19:15",
+        "id": "277742257382232064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bayer 04 Leverkusen - Pisa",
         "time": "19:00",
         "id": "277560124985446400"
@@ -23,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lyn Fotball (W) - Valerenga (Kadınlar)",
+        "name": "Bodo\/Glimt (W) - SK Brann (Kadınlar)",
         "time": "19:00",
-        "id": "277560125766635520"
+        "id": "277617626064228352"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bodo\/Glimt (W) - SK Brann (Kadınlar)",
+        "name": "Lyn Fotball (W) - Valerenga (Kadınlar)",
         "time": "19:00",
-        "id": "277617626064228352"
+        "id": "277560125766635520"
     },
     {
         "tur": "live",
@@ -54,20 +75,6 @@
         "name": "Roa (W) - Stabaek IF (W)",
         "time": "19:00",
         "id": "277560125239201792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Elite 3000 Helsingor - Lyngby BK",
-        "time": "19:00",
-        "id": "277627092403884032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ASA Aarhus - IF Lyseng",
-        "time": "19:00",
-        "id": "277633262565855232"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Fusion Caribe U20 - Costa Azul U20",
         "time": "18:00",
         "id": "277643676753203200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Odense Q (W) - Koge (Kadınlar)",
-        "time": "17:45",
-        "id": "277623774068740096"
     }
 ]
