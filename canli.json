@@ -2,9 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Moralo - U.D. Talavera",
+        "time": "22:00",
+        "id": "277732595474763776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HNK Rijeka - Shelbourne FC",
+        "time": "21:45",
+        "id": "277464740991733760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KKS Lech Poznan - Kızılyıldız",
         "time": "21:30",
         "id": "277265125103243264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aston Villa - AS Roma",
+        "time": "21:30",
+        "id": "277723658980560896"
     },
     {
         "tur": "live",
@@ -16,9 +37,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gimnastic de Tarragona - Real Zaragoza",
+        "time": "21:30",
+        "id": "277733653348487168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CF Villanovense - Cacereno",
+        "time": "21:30",
+        "id": "277732595362566144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Fabril - Racing de Ferrol",
+        "time": "21:15",
+        "id": "277816114573086720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Teruel - Villarreal CF B",
         "time": "21:00",
         "id": "277800891165315072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cda Aguilas Fc - FC Cartagena",
+        "time": "21:00",
+        "id": "277784206182060032"
     },
     {
         "tur": "live",
@@ -44,64 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Red Bull Salzburg - Club Brugge KV",
-        "time": "20:00",
-        "id": "277308531079778304"
+        "name": "Real Aviles CF - Cultural Leonesa",
+        "time": "20:30",
+        "id": "277813493480165376"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Rigas Futbola Skola - KuPS Kuopio",
-        "time": "20:00",
-        "id": "277461986227392512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arsenal - Villarreal CF",
-        "time": "20:00",
-        "id": "277626560289312768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Osasuna - CD Mirandes",
-        "time": "20:00",
-        "id": "277654584092135424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Murcia - Eldense",
-        "time": "20:00",
-        "id": "277716241085501440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Athletic Bilbao B - Barakaldo",
-        "time": "20:00",
-        "id": "277726848357634048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Almazan - CD Numancia",
-        "time": "20:00",
-        "id": "277737684485672960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Terrassa CF - CE Manresa",
-        "time": "20:00",
-        "id": "277718740006735872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Utebo - Guadalajara",
-        "time": "20:00",
-        "id": "277729611878633472"
+        "name": "KFC Merelbeke - Racing Mechelen",
+        "time": "20:30",
+        "id": "277736953306288128"
     }
 ]
