@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hartford Athletic - Miami FC",
+        "time": "02:30",
+        "id": "277232228360130560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter Miami CF - Pumas UNAM",
+        "time": "02:30",
+        "id": "277553096040779776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atlanta United - CF Atlas Guadalajara",
+        "time": "02:30",
+        "id": "277581802638544896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rhode Island - Detroit City FC",
         "time": "02:00",
         "id": "277495953689284608"
@@ -12,20 +33,6 @@
         "name": "Orlando City SC - Necaxa",
         "time": "02:00",
         "id": "277553095924387840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Tachira FC - Rayo Zuliano",
-        "time": "02:00",
-        "id": "277716608413208576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chattanooga Fc - Forward Madison FC",
-        "time": "02:00",
-        "id": "277741570603749376"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Academia Anzoategui - CS Maritimo de La Guaira",
         "time": "01:00",
         "id": "277750311719931904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Botafogo SP II - Comercial Sp",
-        "time": "01:00",
-        "id": "277729462194409472"
     }
 ]
