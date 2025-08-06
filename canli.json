@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Australian National University FC - Canberra Olympic",
+        "time": "12:30",
+        "id": "277711283607965696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Palencia Cristo Atletico - Real Valladolid B",
         "time": "12:00",
         "id": "277736976157904896"
@@ -58,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Ujpest II - Dorogi FC",
+        "time": "12:00",
+        "id": "277677469702688768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Terengganu U20 - Kuala Lumpur U20",
         "time": "11:45",
         "id": "277716805984849920"
@@ -72,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PDRM U20 - Johor Darul Takzim III FC U20",
+        "time": "11:45",
+        "id": "277730864883961856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Azuqueca - RSD Alcala Henares",
         "time": "11:00",
         "id": "277801372039122944"
@@ -82,26 +103,5 @@
         "name": "Alhama CF (W) - Hearts (W)",
         "time": "11:00",
         "id": "277732774434181120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "New Lambton - Adamstown Rosebud FC",
-        "time": "11:00",
-        "id": "277043774224470016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Weston Workers Bears FC Reserves - Newcastle Olympic Reserves",
-        "time": "11:00",
-        "id": "277738027892215808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maitland FC Reserves - Cooks Hill United FC Reserves",
-        "time": "11:00",
-        "id": "277678526869671936"
     }
 ]
