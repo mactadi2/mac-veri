@@ -2,16 +2,72 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Sturm Graz - Strasbourg",
-        "time": "19:30",
-        "id": "277726228294799360"
+        "name": "FC Red Bull Salzburg - Club Brugge KV",
+        "time": "20:00",
+        "id": "277308531079778304"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Omonia 29th May - Anorthosis Famagusta",
+        "name": "Rigas Futbola Skola - KuPS Kuopio",
+        "time": "20:00",
+        "id": "277461986227392512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arsenal - Villarreal CF",
+        "time": "20:00",
+        "id": "277626560289312768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Osasuna - CD Mirandes",
+        "time": "20:00",
+        "id": "277654584092135424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Murcia - Eldense",
+        "time": "20:00",
+        "id": "277716241085501440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Athletic Bilbao B - Barakaldo",
+        "time": "20:00",
+        "id": "277726848357634048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Terrassa CF - CE Manresa",
+        "time": "20:00",
+        "id": "277718740006735872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Utebo - Guadalajara",
+        "time": "20:00",
+        "id": "277729611878633472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SD Almazan - CD Numancia",
+        "time": "20:00",
+        "id": "277737684485672960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Sturm Graz - Strasbourg",
         "time": "19:30",
-        "id": "277811617241108480"
+        "id": "277726228294799360"
     },
     {
         "tur": "live",
@@ -23,9 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ponnistajat - Toukolan Teras",
-        "time": "19:15",
-        "id": "277818117286137856"
+        "name": "Omonia 29th May - Anorthosis Famagusta",
+        "time": "19:30",
+        "id": "277811617241108480"
     },
     {
         "tur": "live",
@@ -37,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Calcio Lecco - Sondrio Calcio",
-        "time": "19:00",
-        "id": "277756835874869248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Paris FC - UNFP Selection",
         "time": "19:00",
         "id": "277822048062017536"
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sogndal IL - IL Hodd Ulsteinvik",
+        "name": "Calcio Lecco - Sondrio Calcio",
         "time": "19:00",
-        "id": "277469619162320896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SalPa II - VG-62",
-        "time": "19:00",
-        "id": "277569399688400896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sampdoria - Novara",
-        "time": "18:30",
-        "id": "277798044187103232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Athletic Carpi FC 1909 - Lentigione Calcio",
-        "time": "18:30",
-        "id": "277732158371663872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ASD Anzio Calcio 1924 - ASD Sora Calcio 1907",
-        "time": "18:30",
-        "id": "277820777293811712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FF Jaro II - Saaripotku",
-        "time": "18:30",
-        "id": "277723962056773632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kairat Almaty - SK Slovan Bratislava",
-        "time": "18:00",
-        "id": "277326523382501376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Carl Zeiss Jena (W) - SK Slavia Prague (W)",
-        "time": "18:00",
-        "id": "277732838568235008"
+        "id": "277756835874869248"
     }
 ]
