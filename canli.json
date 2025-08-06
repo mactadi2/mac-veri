@@ -9,9 +9,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Carabobo FC - Dynamo Puerto Fc",
+        "time": "23:00",
+        "id": "277750251336634368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Metropolitanos FC - Caracas FC",
+        "time": "23:00",
+        "id": "277750421486964736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cruzeiro MG (W) - Corinthians Paulista (W)",
+        "time": "22:30",
+        "id": "277744437537411072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fram Reykjavik - Stjarnan",
         "time": "22:15",
         "id": "277218638352748544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bangor (W) - Mid Ulster (W)",
+        "time": "22:15",
+        "id": "277733328155709440"
     },
     {
         "tur": "live",
@@ -65,43 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "HNK Rijeka - Shelbourne FC",
-        "time": "21:45",
-        "id": "277464740991733760"
+        "name": "Sion Swifts LFC (W) - Ballyclare Comrades (W)",
+        "time": "22:00",
+        "id": "277716564377210880"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "KKS Lech Poznan - Kızılyıldız",
-        "time": "21:30",
-        "id": "277265125103243264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aston Villa - AS Roma",
-        "time": "21:30",
-        "id": "277723658980560896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Betis - Calcio Como",
-        "time": "21:30",
-        "id": "277629611011084288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Villa Alvear - CD Policiales",
-        "time": "21:30",
-        "id": "277810207477862400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Basel - BSC Young Boys Bern",
-        "time": "21:30",
-        "id": "277478736532738048"
+        "name": "CE Dom Bosco U20 - Campo Novo U20",
+        "time": "22:00",
+        "id": "277847901337686016"
     }
 ]
