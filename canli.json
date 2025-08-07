@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vasco da Gama RJ - CS Alagoano AL",
+        "time": "02:00",
+        "id": "277227096875601920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union Magdalena Santa Marta - Deportivo Pasto",
+        "time": "02:00",
+        "id": "277412943868596224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alianza Vallenata U20 - Alianza U20",
+        "time": "02:00",
+        "id": "277947763777474560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "San Lorenzo - Velez Sarsfield",
         "time": "01:00",
         "id": "276397403298467840"
@@ -12,33 +33,5 @@
         "name": "CD Jaguares de Cordoba - Independiente Medellin",
         "time": "01:00",
         "id": "277315375094435840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Cocle - Aguilas UP",
-        "time": "00:00",
-        "id": "277832527226474496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chorrillo - Tauro Fc Reserves",
-        "time": "00:00",
-        "id": "277832199647137792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Atletico Nacional Reserves - Udelas FC",
-        "time": "00:00",
-        "id": "277941624466706432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Deportivo Victoria Reserves - CD Marathon Reserves",
-        "time": "00:00",
-        "id": "277888174335856640"
     }
 ]
