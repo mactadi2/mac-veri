@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AC Forli - Ancona",
+        "time": "18:30",
+        "id": "277829947793477632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Eif\/Akademi - Espoon Tikka",
         "time": "18:30",
         "id": "277657627597606912"
@@ -75,12 +82,5 @@
         "name": "FK Kokand 1912 - Neftchi Fargona",
         "time": "17:00",
         "id": "277659310600884224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Asker U19 - Hamarkameratene U19",
-        "time": "17:00",
-        "id": "277828679727452160"
     }
 ]
