@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Darwin Olympic - Mindil Aces",
+        "time": "14:00",
+        "id": "277774901323108352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "West Torrens Birkalla SC (W) - Adelaide Comets (W)",
         "time": "13:45",
         "id": "277794555458359296"
@@ -9,9 +16,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Adelaide City (W) - Salisbury Inter (W)",
+        "time": "13:45",
+        "id": "277793209033297920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Flinders United (W) - Metro United (W)",
+        "time": "13:45",
+        "id": "277793202525835264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "West Adelaide (W) - Campbelltown City (W)",
         "time": "13:45",
         "id": "277793467007111168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide University (W) - Ffsa Ntc (W)",
+        "time": "13:45",
+        "id": "277983865968136192"
     },
     {
         "tur": "live",
@@ -75,26 +103,5 @@
         "name": "Manly United FC - Sydney Olympic FC",
         "time": "12:30",
         "id": "277686757374431232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Box Hill United (W) - Emerging Jets (W)",
-        "time": "12:30",
-        "id": "277977029723426816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gungahlin United (W) - Majura FC (W)",
-        "time": "12:30",
-        "id": "277816694112653312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "University Azzurri FC - Port Darwin FC",
-        "time": "12:00",
-        "id": "277774901244465152"
     }
 ]
