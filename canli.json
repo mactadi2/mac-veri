@@ -51,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Flinders United Reserves (W) - Metro United FC Reserves (W)",
+        "time": "11:45",
+        "id": "277795900434288640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Adelaide University Reserves (W) - FFSA NTC Reserves (W)",
         "time": "11:45",
         "id": "277984825675223040"
@@ -82,19 +89,5 @@
         "name": "Broadbeach United U23 - Rochedale Rovers U23",
         "time": "11:15",
         "id": "277812715213426688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blacktown Spartans U20 - Macarthur Rams U20",
-        "time": "11:00",
-        "id": "277810331615629312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Edgeworth Eagles FC Reserves - Charlestown Azzurri Reserves",
-        "time": "11:00",
-        "id": "277818691252523008"
     }
 ]
