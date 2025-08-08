@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cezayir - Güney Afrika",
+        "time": "17:00",
+        "id": "277824460237705216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Johor Darul Takzim FC - Selangor FC",
         "time": "16:00",
         "id": "277933821127692288"
@@ -37,13 +44,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Zhetisay - Khan Tengri FC",
-        "time": "15:00",
-        "id": "277986975524458496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Persebaya Surabaya - Psim Yogyakarta",
         "time": "15:00",
         "id": "277872707191836672"
@@ -58,22 +58,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Vorskla Poltava - FC Ucsa Tarasivka",
-        "time": "15:00",
-        "id": "277879849157267456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kasuka FC - Dynamic Herb Cebu FC",
         "time": "15:00",
         "id": "277880884500238336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dalian Young Boy FC - Chengdu Rongcheng FC",
-        "time": "14:35",
-        "id": "277541049597038592"
     }
 ]
