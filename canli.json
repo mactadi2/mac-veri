@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Elche - Union Deportiva Almeria",
+        "time": "20:30",
+        "id": "277822774166294528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Cortes - Arnedo",
+        "time": "20:30",
+        "id": "277905320619151360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Levante - Castellon",
         "time": "20:00",
         "id": "277907439399079936"
@@ -37,9 +51,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "TiPS - PPJ\/Lauttasaari",
-        "time": "19:30",
-        "id": "277880693403553792"
+        "name": "PiPS - Peimari United",
+        "time": "19:00",
+        "id": "277878700133978112"
     },
     {
         "tur": "live",
@@ -54,13 +68,6 @@
         "name": "JJK Jyvaskyla 2 - HoDy",
         "time": "19:00",
         "id": "277877198436831232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PiPS - Peimari United",
-        "time": "19:00",
-        "id": "277878700133978112"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Orijent 1919 - NK Grobnican",
         "time": "18:30",
         "id": "277988279812493312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AIFK Turku - KaaPo",
-        "time": "18:30",
-        "id": "277752133537894400"
     }
 ]
