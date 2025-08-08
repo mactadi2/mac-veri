@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Nurnberg - SV Darmstadt 98",
+        "time": "19:30",
+        "id": "274957770235711488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Preussen Munster - SC Paderborn 07",
+        "time": "19:30",
+        "id": "274957896766328832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TiPS - PPJ\/Lauttasaari",
+        "time": "19:30",
+        "id": "277880693403553792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valtti - Espa",
+        "time": "19:30",
+        "id": "277875323610206208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Komeetat - FCJ Blackbird",
         "time": "19:00",
         "id": "277877198525960192"
@@ -16,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tervakosken Pato - TPV II",
+        "name": "PiPS - Peimari United",
         "time": "19:00",
-        "id": "277878699953623040"
+        "id": "277878700133978112"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PiPS - Peimari United",
+        "name": "Tervakosken Pato - TPV II",
         "time": "19:00",
-        "id": "277878700133978112"
+        "id": "277878699953623040"
     },
     {
         "tur": "live",
@@ -47,27 +75,6 @@
         "name": "Kyparamaki Rangers - KeuPa",
         "time": "19:00",
         "id": "277877134004981760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Kopenhag - AGF Aarhus",
-        "time": "19:00",
-        "id": "277552356124659712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSA Korona Kolporter Kielce - Radomiak Radom",
-        "time": "19:00",
-        "id": "277402733587337216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Panevezys - FK Dziugas Telsiai",
-        "time": "19:00",
-        "id": "277741373359263744"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "FC Inter Turku - AC Oulu",
         "time": "18:00",
         "id": "277629412233580544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Molodechno Dussh4 - Slavia Mozyr",
-        "time": "18:00",
-        "id": "277412449796362240"
     }
 ]
