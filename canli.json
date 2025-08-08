@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Mercedes - Berazategui",
+        "time": "00:00",
+        "id": "277919736778592256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fuerte San Francisco Reserves - CA Independiente de La Chorrera Reserves",
+        "time": "00:00",
+        "id": "277906930733813760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico Nacional de Medellin - Alianza Valledupar",
         "time": "23:30",
         "id": "277566662406967296"
@@ -26,82 +40,5 @@
         "name": "Academia Deport. Cantolao - Deportivo Coopsol",
         "time": "23:00",
         "id": "277847130802098176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Amazonas U20 - EC Taruma U20",
-        "time": "22:30",
-        "id": "277907789495537664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Casa Pia - Sporting Clube de Portugal",
-        "time": "22:15",
-        "id": "277052092059881472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IR Reykjavik - Fjolnir Reykjavik",
-        "time": "22:15",
-        "id": "277755051811934208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UMF Njardvik - UMF Selfoss",
-        "time": "22:15",
-        "id": "277752617467252736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kopavogur - Keflavik",
-        "time": "22:15",
-        "id": "277753755943964672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UMF Grindavik  - Leiknir Reykjavik",
-        "time": "22:15",
-        "id": "277753756047773696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alftanes - Vaengir Jupiters",
-        "time": "22:15",
-        "id": "277933616395325440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KFK Kopavogur - FC Arbaer",
-        "time": "22:15",
-        "id": "277843352956833792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Birmingham - Ipswich",
-        "time": "22:00",
-        "id": "274102695716065280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paraguay U20 - Brazil U20",
-        "time": "22:00",
-        "id": "277991944998752256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Huachipato (W) - Deportes Recoleta (W)",
-        "time": "22:00",
-        "id": "277928306447355904"
     }
 ]
