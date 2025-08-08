@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Birmingham - Ipswich",
+        "time": "22:00",
+        "id": "274102695716065280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gaziantep FK - Galatasaray SK",
         "time": "21:30",
         "id": "275197308055982080"
@@ -79,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Cartagena - SFC Minerva",
+        "time": "21:00",
+        "id": "278021185802997760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Elche - Union Deportiva Almeria",
         "time": "20:30",
         "id": "277822774166294528"
@@ -89,19 +103,5 @@
         "name": "CD Cortes - Arnedo",
         "time": "20:30",
         "id": "277905320619151360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AEL Limassol - Enosis Neon Paralimni FC",
-        "time": "20:00",
-        "id": "277843234188824576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HUSA Agadir - Racing de Casablanca",
-        "time": "20:00",
-        "id": "278015978093285376"
     }
 ]
