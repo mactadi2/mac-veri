@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Flinders United Reserves (W) - Metro United FC Reserves (W)",
+        "name": "Manly United FC - Sydney Olympic FC",
+        "time": "12:30",
+        "id": "277686757374431232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Box Hill United (W) - Emerging Jets (W)",
+        "time": "12:30",
+        "id": "277977029723426816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gungahlin United (W) - Majura FC (W)",
+        "time": "12:30",
+        "id": "277816694112653312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "University Azzurri FC - Port Darwin FC",
+        "time": "12:00",
+        "id": "277774901244465152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide City Reserves (W) - Salisbury Inter Reserves (W)",
         "time": "11:45",
-        "id": "277795900434288640"
+        "id": "277795900323139584"
     },
     {
         "tur": "live",
@@ -19,6 +47,13 @@
         "name": "West Adelaide Reserves (W) - Campbelltown City Reserves (W)",
         "time": "11:45",
         "id": "277958723102707712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide University Reserves (W) - FFSA NTC Reserves (W)",
+        "time": "11:45",
+        "id": "277984825675223040"
     },
     {
         "tur": "live",
@@ -61,19 +96,5 @@
         "name": "Edgeworth Eagles FC Reserves - Charlestown Azzurri Reserves",
         "time": "11:00",
         "id": "277818691252523008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manly United FC U20 - Sydney Olympic U20",
-        "time": "10:30",
-        "id": "277786346348744704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Western Springs (W) - Eastern Suburbs Auckland (W)",
-        "time": "10:30",
-        "id": "277917340790820864"
     }
 ]
