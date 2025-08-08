@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Levante - Castellon",
+        "time": "20:00",
+        "id": "277907439399079936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AEL Limassol - Enosis Neon Paralimni FC",
+        "time": "20:00",
+        "id": "277843234188824576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HUSA Agadir - Racing de Casablanca",
+        "time": "20:00",
+        "id": "278015978093285376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Nurnberg - SV Darmstadt 98",
         "time": "19:30",
         "id": "274957770235711488"
@@ -19,13 +40,6 @@
         "name": "TiPS - PPJ\/Lauttasaari",
         "time": "19:30",
         "id": "277880693403553792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Valtti - Espa",
-        "time": "19:30",
-        "id": "277875323610206208"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "AIFK Turku - KaaPo",
         "time": "18:30",
         "id": "277752133537894400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Augsburg - Pisa",
-        "time": "18:00",
-        "id": "277900581129031680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Inter Turku - AC Oulu",
-        "time": "18:00",
-        "id": "277629412233580544"
     }
 ]
