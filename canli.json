@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Nacional de Medellin - Alianza Valledupar",
+        "time": "23:30",
+        "id": "277566662406967296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Boca Juniors Cali - Real Cartagena",
+        "time": "23:30",
+        "id": "277711057011740672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Comerciantes Unidos - Cienciano Cusco",
         "time": "23:00",
         "id": "277565117656338432"
@@ -37,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "UMF Grindavik  - Leiknir Reykjavik",
+        "time": "22:15",
+        "id": "277753756047773696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alftanes - Vaengir Jupiters",
+        "time": "22:15",
+        "id": "277933616395325440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Birmingham - Ipswich",
         "time": "22:00",
         "id": "274102695716065280"
@@ -58,16 +86,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Derry City - Cork City FC",
-        "time": "21:45",
-        "id": "277567476606308352"
+        "name": "Universitario De Vinto - Oriente Petrolero",
+        "time": "22:00",
+        "id": "277581802955214848"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Drogheda United - Waterford FC",
-        "time": "21:45",
-        "id": "277556242422042624"
+        "name": "Paraguay U20 - Brazil U20",
+        "time": "22:00",
+        "id": "277991944998752256"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "K. Sint-Truidense - FC Verbroedering Dender EH",
         "time": "21:45",
         "id": "277415286022475776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gaziantep FK - Galatasaray SK",
-        "time": "21:30",
-        "id": "275197308055982080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Umraniyespor - Manisa Futbol Kulubu",
-        "time": "21:30",
-        "id": "277645408016142336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Merida - Real Madrid C",
-        "time": "21:30",
-        "id": "277906381578833920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alhaurino - Atletico Malagueno",
-        "time": "21:30",
-        "id": "277912068455272448"
     }
 ]
