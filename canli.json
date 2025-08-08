@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "New York City FC II - Chicago Fire FC II",
+        "time": "02:30",
+        "id": "277758125764907008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universities of Canterbury - Selwyn United",
+        "time": "02:30",
+        "id": "277902168177119232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Toronto Fc Ii - Atlanta United II",
         "time": "02:00",
         "id": "277757805029625856"
@@ -75,26 +89,5 @@
         "name": "Cibao FC - Moca FC",
         "time": "01:00",
         "id": "277935122511171584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cerro Porteno - Nacional Asuncion",
-        "time": "00:30",
-        "id": "277571210587541504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rubio Nu - Deportivo Capiata",
-        "time": "00:30",
-        "id": "277756715571744768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "2 de Mayo Reserves - Sportivo Trinidense Reserves",
-        "time": "00:30",
-        "id": "277902347576938496"
     }
 ]
