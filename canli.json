@@ -2,23 +2,86 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Komeetat - FCJ Blackbird",
+        "time": "19:00",
+        "id": "277877198525960192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JJK Jyvaskyla 2 - HoDy",
+        "time": "19:00",
+        "id": "277877198436831232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tervakosken Pato - TPV II",
+        "time": "19:00",
+        "id": "277878699953623040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PiPS - Peimari United",
+        "time": "19:00",
+        "id": "277878700133978112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lautp - KJP Kouvola",
+        "time": "19:00",
+        "id": "277878700055334912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Toivalan Urheilijat - Warkaus JK",
+        "time": "19:00",
+        "id": "277989593409785856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kyparamaki Rangers - KeuPa",
+        "time": "19:00",
+        "id": "277877134004981760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Kopenhag - AGF Aarhus",
+        "time": "19:00",
+        "id": "277552356124659712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SSA Korona Kolporter Kielce - Radomiak Radom",
+        "time": "19:00",
+        "id": "277402733587337216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Panevezys - FK Dziugas Telsiai",
+        "time": "19:00",
+        "id": "277741373359263744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orijent 1919 - NK Grobnican",
+        "time": "18:30",
+        "id": "277988279812493312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AIFK Turku - KaaPo",
         "time": "18:30",
         "id": "277752133537894400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GBK Kokkola - JS Hercules",
-        "time": "18:30",
-        "id": "277875519474765824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MuSa - NJS",
-        "time": "18:30",
-        "id": "277873722878201856"
     },
     {
         "tur": "live",
@@ -40,68 +103,5 @@
         "name": "Fc Molodechno Dussh4 - Slavia Mozyr",
         "time": "18:00",
         "id": "277412449796362240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Rukh Lviv - FC Dynamo Kiev",
-        "time": "18:00",
-        "id": "277503025165242368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Babrungas Plunge - BE1 NFA",
-        "time": "18:00",
-        "id": "277896025946066944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Nevezis Kedainiai - Minija Kretinga",
-        "time": "18:00",
-        "id": "277896025755226112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFK Qizilqum Zarafshon - FK Buxoro",
-        "time": "18:00",
-        "id": "277791708551450624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sparta Prague B - SK Hanacka Slavia Kromeriz",
-        "time": "18:00",
-        "id": "277632304342503424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Olympiakos Piraeus FC - Al Taawon Buraidah",
-        "time": "17:00",
-        "id": "277973669362405376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Akas FC - Irtys Pavlodar",
-        "time": "17:00",
-        "id": "277986975434280960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Xorazm Urganch - Surkhon Termez",
-        "time": "17:00",
-        "id": "277791708381581312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cezayir - Güney Afrika",
-        "time": "17:00",
-        "id": "277824460237705216"
     }
 ]
