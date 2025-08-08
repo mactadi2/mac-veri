@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Broadbeach United - Rochedale Rovers",
+        "time": "13:15",
+        "id": "277779878117511168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Blacktown Spartans - Macarthur Rams",
+        "time": "13:15",
+        "id": "277700254312304640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Clarence Zebras Reserves - Tasmania University SC",
+        "time": "13:15",
+        "id": "277797009743810560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Edgeworth Eagles - Charlestown Azzurri",
+        "time": "13:00",
+        "id": "277813606979080192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide Croatia Raiders - Campbelltown City",
+        "time": "13:00",
+        "id": "277686835780653056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Manly United FC - Sydney Olympic FC",
         "time": "12:30",
         "id": "277686757374431232"
@@ -37,16 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "West Torrens Birkalla Reserves (W) - Adelaide Comets Reserves (W)",
+        "name": "West Adelaide Reserves (W) - Campbelltown City Reserves (W)",
         "time": "11:45",
-        "id": "277795832833642496"
+        "id": "277958723102707712"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "West Adelaide Reserves (W) - Campbelltown City Reserves (W)",
+        "name": "West Torrens Birkalla Reserves (W) - Adelaide Comets Reserves (W)",
         "time": "11:45",
-        "id": "277958723102707712"
+        "id": "277795832833642496"
     },
     {
         "tur": "live",
@@ -68,26 +103,5 @@
         "name": "The Cove (W) - Western Strikers (W)",
         "time": "11:45",
         "id": "277984849833365504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pusamania Borneo - Bhayangkara Surabaya United",
-        "time": "11:30",
-        "id": "277872549654827008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Madrid B - FC Andorra",
-        "time": "11:15",
-        "id": "277930302127607808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Broadbeach United U23 - Rochedale Rovers U23",
-        "time": "11:15",
-        "id": "277812715213426688"
     }
 ]
