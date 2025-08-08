@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Toronto Fc Ii - Atlanta United II",
+        "time": "02:00",
+        "id": "277757805029625856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Luis de Quillota - Magallanes",
+        "time": "02:00",
+        "id": "277577046148911104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Queretaro (W) - Atletico San Luis (W)",
+        "time": "02:00",
+        "id": "277708772739256320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Chivas Guadalajara (W) - Cruz Azul (W)",
+        "time": "02:00",
+        "id": "277708955952746496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paulista SP - Rio Branco SP",
+        "time": "02:00",
+        "id": "277858465478742016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Middleham United - East Central FC",
+        "time": "01:30",
+        "id": "277937434718769152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tigre - Atletico Huracan",
         "time": "01:00",
         "id": "276396722079535104"
@@ -54,12 +96,5 @@
         "name": "2 de Mayo Reserves - Sportivo Trinidense Reserves",
         "time": "00:30",
         "id": "277902347576938496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Mercedes - Berazategui",
-        "time": "00:00",
-        "id": "277919736778592256"
     }
 ]
