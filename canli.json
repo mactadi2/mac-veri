@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gaziantep FK - Galatasaray SK",
+        "time": "21:30",
+        "id": "275197308055982080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Umraniyespor - Manisa Futbol Kulubu",
         "time": "21:30",
         "id": "277645408016142336"
@@ -9,9 +16,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Newcastle - RCD Espanyol",
+        "time": "21:30",
+        "id": "277915413976846336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brentford - Borussia Monchengladbach",
+        "time": "21:30",
+        "id": "277905565662973952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Merida - Real Madrid C",
+        "time": "21:30",
+        "id": "277906381578833920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sestri Levante - Scd Ligorna 1922",
         "time": "21:30",
         "id": "277912061504262144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alhaurino - Atletico Malagueno",
+        "time": "21:30",
+        "id": "277912068455272448"
     },
     {
         "tur": "live",
@@ -44,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Cartagena - SFC Minerva",
-        "time": "21:00",
-        "id": "278021185802997760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Elche - Union Deportiva Almeria",
         "time": "20:30",
         "id": "277822774166294528"
@@ -65,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Levante - Castellon",
-        "time": "20:00",
-        "id": "277907439399079936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "AEL Limassol - Enosis Neon Paralimni FC",
         "time": "20:00",
         "id": "277843234188824576"
@@ -82,26 +103,5 @@
         "name": "HUSA Agadir - Racing de Casablanca",
         "time": "20:00",
         "id": "278015978093285376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Espoo - VJS Vantaa II",
-        "time": "20:00",
-        "id": "277874503474876416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gnistan Ogeli - Sibbo Vargarna",
-        "time": "20:00",
-        "id": "277805098094170112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Zulimanit - Ylamyllyn Yllatys",
-        "time": "19:45",
-        "id": "277877386594357248"
     }
 ]
