@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Devonport City Strikers - Glenorchy Knights",
+        "time": "07:30",
+        "id": "277697290789064704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kingborough Lions - Riverside Olympic",
+        "time": "07:15",
+        "id": "277697290703081472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Hobart - Launceston City",
+        "time": "07:00",
+        "id": "277697290625486848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gold Coast United U23 - Queensland Lions U23",
         "time": "06:45",
         "id": "277792283769835520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wellington Olympic - Upper Hutt City FC",
+        "time": "06:45",
+        "id": "277969421246533632"
     },
     {
         "tur": "live",
@@ -58,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Petone - Island Bay United",
+        "time": "06:00",
+        "id": "277968308069863424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ferrymead Bays - Cashmere Technical",
         "time": "05:45",
         "id": "277972542162079744"
@@ -68,40 +103,5 @@
         "name": "Nomads United - Wanaka AFC",
         "time": "05:45",
         "id": "277972304219213824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gold Coast Knights U23 - Eastern Suburbs U23",
-        "time": "05:45",
-        "id": "277792283683852288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Miramar Rangers - Napier City Rovers",
-        "time": "05:30",
-        "id": "277968194250084352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Waterside Karori - North Wellington AFC",
-        "time": "05:30",
-        "id": "277968194344456192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Utah Royals (W) - Kansas City Current (W)",
-        "time": "05:00",
-        "id": "277582454521466880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Christchurch United - Dunedin City Royals",
-        "time": "05:00",
-        "id": "277902157217402880"
     }
 ]
