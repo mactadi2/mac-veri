@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Sao Jose RS - Goiatuba EC",
+        "time": "00:00",
+        "id": "277751359747526656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cavalry FC - HFX Wanderers FC",
+        "time": "00:00",
+        "id": "277623570789699584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Asociacion Deportivo Cali (W) - Internacional FC de Palmira (W)",
+        "time": "00:00",
+        "id": "278029642801221632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Asociacion Deportiva Tarma - Sport Huancayo",
         "time": "23:15",
         "id": "277665481419264000"
@@ -19,6 +40,41 @@
         "name": "Botafogo PB - AA Ponte Preta",
         "time": "23:00",
         "id": "277585646115229696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SER Caxias - ABC Futebol Clube",
+        "time": "23:00",
+        "id": "277585646024003584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santa Cruz FC PE - Sergipe Se",
+        "time": "23:00",
+        "id": "277750556024508416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ASA (Agremiação Sportiva Arapiraquense) - Ferroviario",
+        "time": "23:00",
+        "id": "277773600075943936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rio Branco ES - Luverdense",
+        "time": "23:00",
+        "id": "277750794384707584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Once Caldas - Rionegro Aguilas Doradas",
+        "time": "23:00",
+        "id": "277566662236049408"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "Boca Juniors - Racing Club",
         "time": "22:30",
         "id": "276396412794703872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PSV Eindhoven - Sparta Rotterdam",
-        "time": "22:00",
-        "id": "275045975457927168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palermo - Man City",
-        "time": "22:00",
-        "id": "277979308166877184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Valencia CF - Torino FC",
-        "time": "22:00",
-        "id": "277987147981656064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Xerez CD - Sanluqueno",
-        "time": "22:00",
-        "id": "278060971320283136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "America Mineiro MG - Remo PA",
-        "time": "22:00",
-        "id": "277490267020464128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mushuc Runa - Libertad FC",
-        "time": "22:00",
-        "id": "277581804857331712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universidad de Chile - Union Espanola",
-        "time": "22:00",
-        "id": "277548370657153024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "General Caballero JLM - Sportivo Ameliano",
-        "time": "22:00",
-        "id": "277581805461311488"
     }
 ]
