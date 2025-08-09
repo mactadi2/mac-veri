@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Feyenoord Rotterdam - NAC Breda",
+        "time": "19:45",
+        "id": "275044274276536320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sheff Utd - Bristol City",
+        "time": "19:30",
+        "id": "274102694214504448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Samsunspor - Genclerbirligi SK",
         "time": "19:00",
         "id": "275197307623968768"
@@ -72,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AC Trento - FC Sudtirol Bolzano",
-        "time": "18:30",
-        "id": "277922705462923264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Newcastle - Atletico Madrid",
         "time": "18:00",
         "id": "277770072910598144"
@@ -96,12 +103,5 @@
         "name": "Angers SCO - FC Lorient",
         "time": "18:00",
         "id": "277769878928232448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nacional Madeira Funchal - Gil Vicente",
-        "time": "17:30",
-        "id": "277101770981904384"
     }
 ]
