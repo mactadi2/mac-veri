@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KFC Merelbeke - Hoek",
+        "time": "15:30",
+        "id": "277997934980763648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BVV Barendrecht - ASWH",
+        "time": "15:30",
+        "id": "278061196399218688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EA Guingamp - Le Mans FC",
+        "time": "15:00",
+        "id": "275547692575363072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FF Jaro - FC Haka Valkeakoski",
+        "time": "15:00",
+        "id": "277469612236476416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Qingdao Hainiu - Yunnan Yukun FC",
+        "time": "15:00",
+        "id": "277541426750951424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Man Utd - AC Fiorentina",
         "time": "14:45",
         "id": "277912136968179712"
@@ -68,40 +103,5 @@
         "name": "Shandong Luneng Taishan FC - Changchun Yatai",
         "time": "14:00",
         "id": "277542931609554944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ulsan Hyundai Horang-i - Jeju United",
-        "time": "13:30",
-        "id": "277446718951395328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gangwon FC - Gimcheon Sangmu FC",
-        "time": "13:30",
-        "id": "277446722775552000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Burgos CF - Real Valladolid",
-        "time": "13:00",
-        "id": "277997125676175360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Rayo Cantabria - CD Basconia",
-        "time": "13:00",
-        "id": "277996502463418368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kawasaki Frontale - Avispa Fukuoka",
-        "time": "13:00",
-        "id": "276269999263453184"
     }
 ]
