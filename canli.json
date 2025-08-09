@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Miami FC - El Paso Locomotive FC",
+        "time": "02:00",
+        "id": "277632166501945344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pittsburgh Riverhounds - Orange County Sc",
+        "time": "02:00",
+        "id": "277496439829041152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Detroit City FC - Indy Eleven",
+        "time": "02:00",
+        "id": "277632166452662272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rhode Island - Loudoun United FC",
+        "time": "02:00",
+        "id": "277632166558568448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ituano SP - AD Confianca SE",
         "time": "01:30",
         "id": "277711232691212288"
@@ -12,13 +40,6 @@
         "name": "Guarani FC De Campinas - Ypiranga RS",
         "time": "01:30",
         "id": "277594926068404224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Imperatriz - Manaus FC",
-        "time": "01:30",
-        "id": "277759992378036224"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sportivo Luqueno - Club Atletico Tembetary",
-        "time": "00:30",
-        "id": "277574439138365440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Nacional Potosi - The Strongest La Paz",
         "time": "00:30",
         "id": "277591095901294592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santiago Wanderers - Copiapo",
-        "time": "00:30",
-        "id": "277578655894474752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EC Sao Jose RS - Goiatuba EC",
-        "time": "00:00",
-        "id": "277751359747526656"
     }
 ]
