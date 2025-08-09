@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cadiz - Cordoba",
+        "time": "22:45",
+        "id": "278002822704926720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Arouca - AVS Futebol SAD",
         "time": "22:30",
         "id": "277052183083618304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Zaragoza - SD Huesca",
+        "time": "22:30",
+        "id": "278067199458021376"
     },
     {
         "tur": "live",
@@ -19,6 +33,27 @@
         "name": "Palermo - Man City",
         "time": "22:00",
         "id": "277979308166877184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valencia CF - Torino FC",
+        "time": "22:00",
+        "id": "277987147981656064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nottm Forest - Al-Qadisiya",
+        "time": "21:45",
+        "id": "277984481439256576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Estepona - Real Balompedica Linense",
+        "time": "21:45",
+        "id": "277986899094802432"
     },
     {
         "tur": "live",
@@ -58,50 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Heerenveen - FC Volendam",
-        "time": "21:00",
-        "id": "275045236894470144"
+        "name": "Malaga CF - Real Betis",
+        "time": "21:30",
+        "id": "277989391427833856"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Montpellier HSC - Red Star 93 Saint Ouen",
-        "time": "21:00",
-        "id": "275547727772913664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dunkerque - Clermont",
-        "time": "21:00",
-        "id": "275547692843798528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ES Troyes AC - Grenoble Foot 38",
-        "time": "21:00",
-        "id": "275547692943413248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rodez Aveyron - AS Nancy Lorraine",
-        "time": "21:00",
-        "id": "275547692489379840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stade Laval - AS St. Etienne",
-        "time": "21:00",
-        "id": "275547692733698048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pau FC - Annecy FC",
-        "time": "21:00",
-        "id": "275547692657152000"
+        "name": "AC Monopoli - Lecce",
+        "time": "21:30",
+        "id": "277900272408334336"
     }
 ]
