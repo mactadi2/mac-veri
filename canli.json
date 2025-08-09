@@ -2,23 +2,79 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Flamengo RJ - Mirassol FC",
+        "time": "00:30",
+        "id": "276917467142557696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sao Paulo FC - EC Vitoria",
+        "time": "00:30",
+        "id": "276917573623353344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bragantino Red Bull - SC Internacional RS",
+        "time": "00:30",
+        "id": "276917482494758912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Independiente Avellaneda - CA River Plate",
+        "time": "00:30",
+        "id": "276396648169607168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Goias EC - Operario Ferroviario EC PR",
+        "time": "00:30",
+        "id": "277497625015619584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aucas - LDU Quito ",
+        "time": "00:30",
+        "id": "277608877110988800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "La Serena - O'Higgins",
+        "time": "00:30",
+        "id": "277548358746378240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Luqueno - Club Atletico Tembetary",
+        "time": "00:30",
+        "id": "277574439138365440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nacional Potosi - The Strongest La Paz",
+        "time": "00:30",
+        "id": "277591095901294592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santiago Wanderers - Copiapo",
+        "time": "00:30",
+        "id": "277578655894474752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "EC Sao Jose RS - Goiatuba EC",
         "time": "00:00",
         "id": "277751359747526656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cavalry FC - HFX Wanderers FC",
-        "time": "00:00",
-        "id": "277623570789699584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Asociacion Deportivo Cali (W) - Internacional FC de Palmira (W)",
-        "time": "00:00",
-        "id": "278029642801221632"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "SER Caxias - ABC Futebol Clube",
         "time": "23:00",
         "id": "277585646024003584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santa Cruz FC PE - Sergipe Se",
-        "time": "23:00",
-        "id": "277750556024508416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ASA (Agremiação Sportiva Arapiraquense) - Ferroviario",
-        "time": "23:00",
-        "id": "277773600075943936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rio Branco ES - Luverdense",
-        "time": "23:00",
-        "id": "277750794384707584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Once Caldas - Rionegro Aguilas Doradas",
-        "time": "23:00",
-        "id": "277566662236049408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cadiz - Cordoba",
-        "time": "22:45",
-        "id": "278002822704926720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Arouca - AVS Futebol SAD",
-        "time": "22:30",
-        "id": "277052183083618304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Zaragoza - SD Huesca",
-        "time": "22:30",
-        "id": "278067199458021376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boca Juniors - Racing Club",
-        "time": "22:30",
-        "id": "276396412794703872"
     }
 ]
