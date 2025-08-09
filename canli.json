@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Antalyaspor - Kasımpaşa",
+        "time": "21:30",
+        "id": "275197309619408896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hatayspor - Keçiörengücü",
+        "time": "21:30",
+        "id": "277688117994065920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "76 Igdir Belediyespor - Sariyer GK",
         "time": "21:30",
         "id": "277730262877605888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Kaiserslautern - FC Schalke 04",
+        "time": "21:30",
+        "id": "274977410644054016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ACD Virtus Entella - Ternana",
+        "time": "21:30",
+        "id": "277772489387544576"
     },
     {
         "tur": "live",
@@ -58,23 +86,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Real Mallorca - Hamburger SV",
-        "time": "21:00",
-        "id": "277985017978818560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Marsilya - Aston Villa",
         "time": "20:00",
         "id": "277737652527173632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Napoli - Girona FC",
-        "time": "20:00",
-        "id": "277771381116112896"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "FC Nantes - Paris FC",
         "time": "20:00",
         "id": "277771380970360832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eibar - Deportivo Alaves",
-        "time": "20:00",
-        "id": "277926484496224256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Feyenoord Rotterdam - NAC Breda",
-        "time": "19:45",
-        "id": "275044274276536320"
     }
 ]
