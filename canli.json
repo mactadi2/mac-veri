@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Garuda FC - Casuarina FC",
+        "time": "09:30",
+        "id": "277869343875928064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Northern Tigers - Rydalmere Lions",
         "time": "09:15",
         "id": "277700243942936576"
@@ -19,13 +26,6 @@
         "name": "Gold Coast United - Queensland Lions SC",
         "time": "09:00",
         "id": "278066074715443200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "WDSC Wolves U23 - Moreton City Excelsior U23",
-        "time": "09:00",
-        "id": "277795540026134528"
     },
     {
         "tur": "live",
@@ -51,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "West Torrens Birkalla - Adelaide Comets",
+        "time": "08:30",
+        "id": "277686835858247680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "The Cove Fc - Pontian Eagles",
         "time": "08:30",
         "id": "277880553118765056"
@@ -65,16 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Adelaide Blue Eagles - Sturt Lions",
+        "name": "Salisbury United - Adelaide Cobras",
         "time": "08:30",
-        "id": "277880553197408256"
+        "id": "277881958776836096"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Salisbury United - Adelaide Cobras",
+        "name": "Adelaide Blue Eagles - Sturt Lions",
         "time": "08:30",
-        "id": "277881958776836096"
+        "id": "277880553197408256"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "  Bonnyrigg White Eagles - Hakoah Sydney City East",
         "time": "08:00",
         "id": "277700215146942464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Clarence Zebras - Launceston United",
-        "time": "07:30",
-        "id": "277697288350076928"
     }
 ]
