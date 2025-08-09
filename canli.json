@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Asociacion Deportiva Tarma - Sport Huancayo",
+        "time": "23:15",
+        "id": "277665481419264000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Excursionistas - CD UAI Urquiza",
+        "time": "23:00",
+        "id": "277773664100945920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Botafogo PB - AA Ponte Preta",
+        "time": "23:00",
+        "id": "277585646115229696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cadiz - Cordoba",
         "time": "22:45",
         "id": "278002822704926720"
@@ -19,6 +40,13 @@
         "name": "Real Zaragoza - SD Huesca",
         "time": "22:30",
         "id": "278067199458021376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Boca Juniors - Racing Club",
+        "time": "22:30",
+        "id": "276396412794703872"
     },
     {
         "tur": "live",
@@ -44,64 +72,36 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Nottm Forest - Al-Qadisiya",
-        "time": "21:45",
-        "id": "277984481439256576"
+        "name": "Xerez CD - Sanluqueno",
+        "time": "22:00",
+        "id": "278060971320283136"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CD Estepona - Real Balompedica Linense",
-        "time": "21:45",
-        "id": "277986899094802432"
+        "name": "America Mineiro MG - Remo PA",
+        "time": "22:00",
+        "id": "277490267020464128"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Antalyaspor - Kasımpaşa",
-        "time": "21:30",
-        "id": "275197309619408896"
+        "name": "Mushuc Runa - Libertad FC",
+        "time": "22:00",
+        "id": "277581804857331712"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hatayspor - Keçiörengücü",
-        "time": "21:30",
-        "id": "277688117994065920"
+        "name": "Universidad de Chile - Union Espanola",
+        "time": "22:00",
+        "id": "277548370657153024"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "76 Igdir Belediyespor - Sariyer GK",
-        "time": "21:30",
-        "id": "277730262877605888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Kaiserslautern - FC Schalke 04",
-        "time": "21:30",
-        "id": "274977410644054016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ACD Virtus Entella - Ternana",
-        "time": "21:30",
-        "id": "277772489387544576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malaga CF - Real Betis",
-        "time": "21:30",
-        "id": "277989391427833856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AC Monopoli - Lecce",
-        "time": "21:30",
-        "id": "277900272408334336"
+        "name": "General Caballero JLM - Sportivo Ameliano",
+        "time": "22:00",
+        "id": "277581805461311488"
     }
 ]
