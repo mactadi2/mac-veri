@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Newcastle - Atletico Madrid",
+        "time": "18:00",
+        "id": "277770072910598144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VfB Stuttgart - Bologna F.C.",
+        "time": "18:00",
+        "id": "277769879036235776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Nacional Madeira Funchal - Gil Vicente",
         "time": "17:30",
         "id": "277101770981904384"
@@ -72,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Everton - AS Roma",
-        "time": "17:00",
-        "id": "277994815880302592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "1. FC Köln - Atalanta",
         "time": "16:30",
         "id": "277995442992713728"
@@ -96,12 +103,5 @@
         "name": "1. FC Union Berlin - Olympiakos Piraeus FC",
         "time": "16:30",
         "id": "277630122896527360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Augsburg - Sunderland",
-        "time": "16:00",
-        "id": "278015355662766080"
     }
 ]
