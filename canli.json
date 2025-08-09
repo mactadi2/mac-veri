@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "TSV Fortuna Dusseldorf - Hannover 96",
+        "time": "14:00",
+        "id": "274971710366814208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TSV Eintracht Braunschweig - SpVgg Greuther Furth",
+        "time": "14:00",
+        "id": "274971839824007168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "1.FC Dynamo Dresden - 1.FC Magdeburg",
+        "time": "14:00",
+        "id": "274971968537759744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GIF Sundsvall - Sandvikens IF",
+        "time": "14:00",
+        "id": "277469866025422848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shandong Luneng Taishan FC - Changchun Yatai",
+        "time": "14:00",
+        "id": "277542931609554944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ulsan Hyundai Horang-i - Jeju United",
         "time": "13:30",
         "id": "277446718951395328"
@@ -51,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Omiya Ardija - Jef United Ichihara Chiba",
+        "time": "13:00",
+        "id": "277451675367772160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SD Compostela - Deportivo Fabril",
         "time": "12:30",
         "id": "277991320333717504"
@@ -61,47 +103,5 @@
         "name": "UD Samano - Vimenor CF",
         "time": "12:30",
         "id": "278059213184438272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Union Club de Irun - Club Portugalete",
-        "time": "12:00",
-        "id": "278008820343640064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "U.D. Talavera - Real Avila",
-        "time": "12:00",
-        "id": "277991320257171456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Logrones - Alfaro",
-        "time": "12:00",
-        "id": "278038151082151936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yokohama FC - Urawa Red Diamonds",
-        "time": "12:00",
-        "id": "276269999186907136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tokyo Verdy 1969 - Yokohama F Marinos",
-        "time": "12:00",
-        "id": "276269989476044800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "V-Varen Nagasaki - Consadole Sapporo",
-        "time": "12:00",
-        "id": "277451669377257472"
     }
 ]
