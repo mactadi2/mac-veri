@@ -79,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Blaublitz Akita - Fujieda MYFC",
+        "time": "12:00",
+        "id": "277451797111640064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Albacete Balompie - FC Cartagena",
         "time": "11:15",
         "id": "278067110723325952"
@@ -96,12 +103,5 @@
         "name": "UCAM Murcia - Eldense",
         "time": "11:00",
         "id": "277905866282373120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CF Elche Ilicitano - Deportiva Minera",
-        "time": "11:00",
-        "id": "278047011265187840"
     }
 ]
