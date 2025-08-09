@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Northern Tigers - Rydalmere Lions",
+        "time": "09:15",
+        "id": "277700243942936576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sutherland Sharks - Sydney FC NPL",
+        "time": "09:00",
+        "id": "277686759475777536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gold Coast United - Queensland Lions SC",
+        "time": "09:00",
+        "id": "278066074715443200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "WDSC Wolves U23 - Moreton City Excelsior U23",
+        "time": "09:00",
+        "id": "277795540026134528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ipswich FC U23 - Magic United U23",
         "time": "08:45",
         "id": "277911378116874240"
@@ -37,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "South Adelaide - Fulham United FC",
-        "time": "08:30",
-        "id": "277881958682464256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Adelaide Blue Eagles - Sturt Lions",
         "time": "08:30",
         "id": "277880553197408256"
@@ -54,6 +75,13 @@
         "name": "Salisbury United - Adelaide Cobras",
         "time": "08:30",
         "id": "277881958776836096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Adelaide - Fulham United FC",
+        "time": "08:30",
+        "id": "277881958682464256"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Football Queensland QAS (W) - Mitchelton (W)",
-        "time": "07:30",
-        "id": "278060111892713472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Devonport City Strikers - Glenorchy Knights",
-        "time": "07:30",
-        "id": "277697290789064704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Clarence Zebras - Launceston United",
         "time": "07:30",
         "id": "277697288350076928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kingborough Lions - Riverside Olympic",
-        "time": "07:15",
-        "id": "277697290703081472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South Hobart - Launceston City",
-        "time": "07:00",
-        "id": "277697290625486848"
     }
 ]
