@@ -2,16 +2,58 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Miami FC - El Paso Locomotive FC",
-        "time": "02:00",
-        "id": "277632166501945344"
+        "name": "Fortaleza CE - Botafogo RJ",
+        "time": "02:30",
+        "id": "276917931780214784"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Pittsburgh Riverhounds - Orange County Sc",
+        "name": "Philadelphia Union - Toronto FC",
+        "time": "02:30",
+        "id": "276935329016057856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CF Montreal - Atlanta United",
+        "time": "02:30",
+        "id": "276935307487744000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New England Revolution - D.C. United (Washington)",
+        "time": "02:30",
+        "id": "276935278484131840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Volta Redonda - Novorizontino SP",
+        "time": "02:30",
+        "id": "277565363660656640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "North Carolina - Tampa Bay Rowdies",
+        "time": "02:30",
+        "id": "277500286301507584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universitario de Deportes - Sport Boys",
+        "time": "02:30",
+        "id": "277676109503533056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Miami FC - El Paso Locomotive FC",
         "time": "02:00",
-        "id": "277496439829041152"
+        "id": "277632166501945344"
     },
     {
         "tur": "live",
@@ -23,9 +65,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Pittsburgh Riverhounds - Orange County Sc",
+        "time": "02:00",
+        "id": "277496439829041152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rhode Island - Loudoun United FC",
         "time": "02:00",
         "id": "277632166558568448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orlando City II - Chattanooga FC",
+        "time": "02:00",
+        "id": "277775915805708288"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "Lexington SC - Phoenix Rising",
         "time": "01:00",
         "id": "277509798611783680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Flamengo RJ - Mirassol FC",
-        "time": "00:30",
-        "id": "276917467142557696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sao Paulo FC - EC Vitoria",
-        "time": "00:30",
-        "id": "276917573623353344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bragantino Red Bull - SC Internacional RS",
-        "time": "00:30",
-        "id": "276917482494758912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Independiente Avellaneda - CA River Plate",
-        "time": "00:30",
-        "id": "276396648169607168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Goias EC - Operario Ferroviario EC PR",
-        "time": "00:30",
-        "id": "277497625015619584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aucas - LDU Quito ",
-        "time": "00:30",
-        "id": "277608877110988800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "La Serena - O'Higgins",
-        "time": "00:30",
-        "id": "277548358746378240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nacional Potosi - The Strongest La Paz",
-        "time": "00:30",
-        "id": "277591095901294592"
     }
 ]
