@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Football Queensland QAS (W) - Mitchelton (W)",
+        "time": "07:30",
+        "id": "278060111892713472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Devonport City Strikers - Glenorchy Knights",
         "time": "07:30",
         "id": "277697290789064704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Clarence Zebras - Launceston United",
+        "time": "07:30",
+        "id": "277697288350076928"
     },
     {
         "tur": "live",
@@ -31,8 +45,43 @@
         "tur": "live",
         "type": "futbol",
         "name": "Wellington Olympic - Upper Hutt City FC",
-        "time": "06:45",
+        "time": "06:30",
         "id": "277969421246533632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Metro Stars Reserves - Croydon Kings Reserves",
+        "time": "06:15",
+        "id": "277850727276220416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Playford City Patriots Reserves - Modbury Jets Reserves",
+        "time": "06:15",
+        "id": "277851509968998400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cumberland United Reserves - Vipers Reserves",
+        "time": "06:15",
+        "id": "277882061319180288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "The Cove FC Reserves - Pontian Eagles Reserves",
+        "time": "06:15",
+        "id": "277882061411454976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide Blue Eagles Reserves - Sturt Lions Reserves",
+        "time": "06:15",
+        "id": "277882077060403200"
     },
     {
         "tur": "live",
@@ -40,34 +89,6 @@
         "name": "Club Tigres de la UANL - Puebla",
         "time": "06:00",
         "id": "276281047745957888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Auckland United FC - Manurewa AFC",
-        "time": "06:00",
-        "id": "277973158151196672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eastern Suburbs Auckland AFC - West Coast Rangers",
-        "time": "06:00",
-        "id": "277972219788922880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bay Olympic - Birkenhead United",
-        "time": "06:00",
-        "id": "277973159329796096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Auckland FC II - Auckland City",
-        "time": "06:00",
-        "id": "277973159414730752"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "FC Juarez (W) - Tijuana (W)",
         "time": "06:00",
         "id": "277709980774305792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Petone - Island Bay United",
-        "time": "06:00",
-        "id": "277968308069863424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferrymead Bays - Cashmere Technical",
-        "time": "05:45",
-        "id": "277972542162079744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nomads United - Wanaka AFC",
-        "time": "05:45",
-        "id": "277972304219213824"
     }
 ]
