@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bandirmaspor - Sakaryaspor",
+        "time": "16:30",
+        "id": "277645408363220992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Helsingborgs IF - Utsiktens BK",
         "time": "16:00",
         "id": "277549143144140800"
@@ -19,6 +26,20 @@
         "name": "TS Galaxy - Durban City FC 2024",
         "time": "16:00",
         "id": "278002131401838592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pastoreo FC - 12 de Junio de Villa Hayes",
+        "time": "16:00",
+        "id": "277786501854662656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tacuary Asuncion - Fernando de la Mora",
+        "time": "16:00",
+        "id": "277786501736173568"
     },
     {
         "tur": "live",
@@ -44,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gazovik Orenburg - FK Krasnodar",
+        "time": "15:30",
+        "id": "276999321691492352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AIK - Djurgardens IF",
         "time": "15:00",
         "id": "277544927988158464"
@@ -65,43 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Ylivieska - Sporting Kristina",
+        "name": "FC Midtjylland - FC Fredericia",
         "time": "15:00",
-        "id": "278066751020863488"
+        "id": "277623800859856896"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Zhejiang Professional FC - Beijing Guoan FC",
-        "time": "14:35",
-        "id": "277544794273746944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hertha BSC Berlin - Karlsruher SC",
-        "time": "14:30",
-        "id": "274990323282874368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VfL Bochum - SV Elversberg",
-        "time": "14:30",
-        "id": "274990196898009088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KSV Holstein Kiel - Arminia Bielefeld",
-        "time": "14:30",
-        "id": "274990196475432960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Raal La Louviere - Royal Charleroi SC",
-        "time": "14:30",
-        "id": "277643902827237376"
+        "name": "BSC Young Boys Bern - FC Sion Sitten",
+        "time": "15:00",
+        "id": "277624550273978368"
     }
 ]
