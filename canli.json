@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Utrecht - Heracles Almelo",
+        "time": "17:45",
+        "id": "275060873250344960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "IFK Norrkoping - Hammarby IF",
         "time": "17:30",
         "id": "277554452093865984"
@@ -96,12 +103,5 @@
         "name": "TS Galaxy - Durban City FC 2024",
         "time": "16:00",
         "id": "278002131401838592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pastoreo FC - 12 de Junio de Villa Hayes",
-        "time": "16:00",
-        "id": "277786501854662656"
     }
 ]
