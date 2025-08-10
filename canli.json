@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "VPS Vaasan Palloseura - Seinäjoen Jalkapallokerho",
+        "time": "18:30",
+        "id": "277558290857201664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sampdoria - US Pontedera 1912",
         "time": "18:00",
         "id": "278009617287614464"
@@ -96,12 +103,5 @@
         "name": "Osters IF - IF Brommapojkarna",
         "time": "17:30",
         "id": "277554524845117440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chelsea - AC Milan",
-        "time": "17:00",
-        "id": "278102144574427136"
     }
 ]
