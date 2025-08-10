@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IFK Norrkoping - Hammarby IF",
+        "time": "17:30",
+        "id": "277554452093865984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Osters IF - IF Brommapojkarna",
+        "time": "17:30",
+        "id": "277554524845117440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Lugano - FC Basel",
+        "time": "17:30",
+        "id": "277624545010126848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lausanne-Sports - FC Zurich",
+        "time": "17:30",
+        "id": "277554452215500800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Servette Geneve FC - Grasshopper Club Zurich",
+        "time": "17:30",
+        "id": "277479091412799488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chelsea - AC Milan",
         "time": "17:00",
         "id": "278102144574427136"
@@ -68,40 +103,5 @@
         "name": "Pastoreo FC - 12 de Junio de Villa Hayes",
         "time": "16:00",
         "id": "277786501854662656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tacuary Asuncion - Fernando de la Mora",
-        "time": "16:00",
-        "id": "277786501736173568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AFC Ajax - Telstar",
-        "time": "15:30",
-        "id": "275059200450760704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AZ Alkmaar - FC Groningen",
-        "time": "15:30",
-        "id": "275059200000921600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lillestrom SK - Aalesunds FK",
-        "time": "15:30",
-        "id": "277546761861599232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AIK - Djurgardens IF",
-        "time": "15:00",
-        "id": "277544927988158464"
     }
 ]
