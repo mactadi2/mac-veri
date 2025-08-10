@@ -44,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "St Patrick's Athletic - Sligo Rovers FC",
+        "time": "20:00",
+        "id": "277687853810585600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Sadd - WAC Wydad Casablanca",
         "time": "19:30",
         "id": "278079135349346304"
@@ -96,12 +103,5 @@
         "name": "USD Castellanzese - Pro Patria",
         "time": "19:00",
         "id": "278054859830333440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Galway United - Shamrock Rovers FC",
-        "time": "19:00",
-        "id": "277687720207323136"
     }
 ]
