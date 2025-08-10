@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union Deportiva Almeria - Al-Nassr Riyadh",
+        "time": "20:00",
+        "id": "278085622189658112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Toulouse - Sevilla FC",
+        "time": "20:00",
+        "id": "278085436173324288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Haro Deportivo - UD Logrones",
+        "time": "20:00",
+        "id": "278080810469429248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Sadd - WAC Wydad Casablanca",
         "time": "19:30",
         "id": "278079135349346304"
@@ -33,13 +54,6 @@
         "name": "Famalicao - Santa Clara",
         "time": "19:00",
         "id": "277052182899068928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "USD Castellanzese - Pro Patria",
-        "time": "19:00",
-        "id": "278054859830333440"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Baniyas FC - Al Wahda Abu Dhabi",
         "time": "18:30",
         "id": "278167013053042688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cittadella - A.C. Mestre",
-        "time": "18:30",
-        "id": "278191341724372992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sampdoria - US Pontedera 1912",
-        "time": "18:00",
-        "id": "278009617287614464"
     }
 ]
