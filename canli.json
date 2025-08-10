@@ -58,13 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sporting Gijon - CD Arenteiro",
-        "time": "13:00",
-        "id": "278082903394619392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kashiwa Reysol - Shonan Bellmare",
         "time": "13:00",
         "id": "276270001008283648"
@@ -103,5 +96,12 @@
         "name": "Daejeon Citizen - Suwon City",
         "time": "13:00",
         "id": "277537511845269504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pohang Steelers - Gwangju FC",
+        "time": "13:00",
+        "id": "277537175324725248"
     }
 ]
