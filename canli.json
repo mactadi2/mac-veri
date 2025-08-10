@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chelsea - AC Milan",
+        "time": "17:00",
+        "id": "278102144574427136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IF Vestri - Fram Reykjavik",
+        "time": "17:00",
+        "id": "277726765219188736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RSC Anderlecht - Zulte-Waregem",
+        "time": "17:00",
+        "id": "277630577419620352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Silkeborg IF - FC Nordsjaelland",
+        "time": "17:00",
+        "id": "277552594119954432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Londrina EC PR - Nautico Capibaribe",
+        "time": "17:00",
+        "id": "277685881825005568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bandirmaspor - Sakaryaspor",
         "time": "16:30",
         "id": "277645408363220992"
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gazovik Orenburg - FK Krasnodar",
-        "time": "15:30",
-        "id": "276999321691492352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "AIK - Djurgardens IF",
         "time": "15:00",
         "id": "277544927988158464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Degerfors IF - BK Hacken",
-        "time": "15:00",
-        "id": "277630166873804800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wuhan Three Towns - Meizhou Hakka",
-        "time": "15:00",
-        "id": "277545082070110208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Midtjylland - FC Fredericia",
-        "time": "15:00",
-        "id": "277623800859856896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BSC Young Boys Bern - FC Sion Sitten",
-        "time": "15:00",
-        "id": "277624550273978368"
     }
 ]
