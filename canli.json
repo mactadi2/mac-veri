@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sydney United - Sydney FC",
+        "time": "08:00",
+        "id": "277822484054675456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nunawading City - Wellington Phoenix FC",
+        "time": "08:00",
+        "id": "277688200684769280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Coast Mariners NPL - Rockdale Ilinden FC",
+        "time": "08:00",
+        "id": "277686757657546752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Marconi Stallions - Apia Leichhardt Tigers",
+        "time": "08:00",
+        "id": "277686759529254912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ipswich Knights - Springfield United",
+        "time": "08:00",
+        "id": "277870212634775552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SWQ Thunder - Capalaba",
+        "time": "08:00",
+        "id": "277779912705839104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Souths United NPL (W) - Gold Coast United (W)",
+        "time": "08:00",
+        "id": "277785978315345920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Queanbeyan City FC - Canberra Fk",
+        "time": "08:00",
+        "id": "277780485573316608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yoogali SC - Tuggeranong Utd",
+        "time": "08:00",
+        "id": "277780485715922944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Belconnen United (W) - Canberra Croatia (W)",
+        "time": "08:00",
+        "id": "277886015263346688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "St George Willawong FC U23 - Sunshine Coast Wanderers U23",
         "time": "07:45",
         "id": "277800517799907328"
@@ -12,26 +82,5 @@
         "name": "Bulls Northbridge FC Academy (W) - Sydney Olympic (W)",
         "time": "07:40",
         "id": "277873176501948416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South Hobart (W) - Taroona (W)",
-        "time": "07:00",
-        "id": "278147955540758528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sacramento Republic FC - Monterey Bay",
-        "time": "06:00",
-        "id": "277632229397630976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mazatlan FC - Club Tijuana Xoloitzcuintles de Caliente",
-        "time": "06:00",
-        "id": "276285473331220480"
     }
 ]
