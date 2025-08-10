@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Padova - Vicenza",
+        "time": "20:30",
+        "id": "277789828981067776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sandefjord - Viking Stavanger",
+        "time": "20:15",
+        "id": "277565805889196032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Union Deportiva Almeria - Al-Nassr Riyadh",
         "time": "20:00",
         "id": "278085622189658112"
@@ -23,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sporting Gijon - Racing de Ferrol",
+        "time": "20:00",
+        "id": "278156479801987072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Sadd - WAC Wydad Casablanca",
         "time": "19:30",
         "id": "278079135349346304"
@@ -33,6 +54,20 @@
         "name": "Spezia - Sestri Levante",
         "time": "19:30",
         "id": "278054859757981696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Atlanta - CA San Miguel",
+        "time": "19:30",
+        "id": "277648723264278528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KA Akureyri - IBV Vestmannaeyjar",
+        "time": "19:30",
+        "id": "277726765379620864"
     },
     {
         "tur": "live",
@@ -58,50 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Leicester - Sheff Wed",
-        "time": "18:30",
-        "id": "274102695391006720"
+        "name": "USD Castellanzese - Pro Patria",
+        "time": "19:00",
+        "id": "278054859830333440"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Borussia Dortmund - Juventus FC",
-        "time": "18:30",
-        "id": "277788394400124928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Aarau - Al Hilal Riyadh",
-        "time": "18:30",
-        "id": "278109935711162368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sunderland - Rayo Vallecano",
-        "time": "18:30",
-        "id": "278098363432439808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "F.C. Arzignano Valchiampo - Athletic Carpi FC 1909",
-        "time": "18:30",
-        "id": "278091185996828672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Larissa FC - Levadiakos",
-        "time": "18:30",
-        "id": "278054859918413824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Baniyas FC - Al Wahda Abu Dhabi",
-        "time": "18:30",
-        "id": "278167013053042688"
+        "name": "Galway United - Shamrock Rovers FC",
+        "time": "19:00",
+        "id": "277687720207323136"
     }
 ]
