@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AFC Ajax - Telstar",
+        "time": "15:30",
+        "id": "275059200450760704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AZ Alkmaar - FC Groningen",
+        "time": "15:30",
+        "id": "275059200000921600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lillestrom SK - Aalesunds FK",
+        "time": "15:30",
+        "id": "277546761861599232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AIK - Djurgardens IF",
+        "time": "15:00",
+        "id": "277544927988158464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Degerfors IF - BK Hacken",
+        "time": "15:00",
+        "id": "277630166873804800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wuhan Three Towns - Meizhou Hakka",
+        "time": "15:00",
+        "id": "277545082070110208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Ylivieska - Sporting Kristina",
+        "time": "15:00",
+        "id": "278066751020863488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Zhejiang Professional FC - Beijing Guoan FC",
         "time": "14:35",
         "id": "277544794273746944"
@@ -16,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "VfL Bochum - SV Elversberg",
+        "time": "14:30",
+        "id": "274990196898009088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KSV Holstein Kiel - Arminia Bielefeld",
         "time": "14:30",
         "id": "274990196475432960"
@@ -23,9 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VfL Bochum - SV Elversberg",
+        "name": "Raal La Louviere - Royal Charleroi SC",
         "time": "14:30",
-        "id": "274990196898009088"
+        "id": "277643902827237376"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "Tianjin Jinmen Tigers - Qingdao West Coast FC",
         "time": "14:00",
         "id": "277542902759034880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zwolle - FC Twente",
-        "time": "13:15",
-        "id": "275105052548534272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kashiwa Reysol - Shonan Bellmare",
-        "time": "13:00",
-        "id": "276270001008283648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Tokyo - Kashima Antlers",
-        "time": "13:00",
-        "id": "276270059942449152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Machida Zelvia - Vissel Kobe",
-        "time": "13:00",
-        "id": "276270140742569984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gamba Osaka - Fagiano Okayama",
-        "time": "13:00",
-        "id": "276270055675793408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nagoya Grampus Eight - Kyoto Purple Sanga",
-        "time": "13:00",
-        "id": "276270000877211648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Daejeon Citizen - Suwon City",
-        "time": "13:00",
-        "id": "277537511845269504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pohang Steelers - Gwangju FC",
-        "time": "13:00",
-        "id": "277537175324725248"
     }
 ]
