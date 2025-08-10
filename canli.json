@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gremio Porto Alegrense RS - Sport Club do Recife",
+        "time": "02:30",
+        "id": "276920673322012672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aurora - Guabira Santa Cruz",
+        "time": "02:30",
+        "id": "277794416166572032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Argentinos Juniors - Union Santa Fe",
         "time": "02:00",
         "id": "276395959609593856"
@@ -33,6 +47,13 @@
         "name": "Huntsville City FC - Carolina Core",
         "time": "02:00",
         "id": "277794036821135360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Westchester SC - South Georgia Tormenta FC",
+        "time": "02:00",
+        "id": "278086544533884928"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cruzeiro MG - Santos FC Sao Paulo ",
-        "time": "00:30",
-        "id": "276919681908084736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Clube Goianiense - Botafogo SP ",
-        "time": "00:30",
-        "id": "277473683347476480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Libertad Asuncion - Deportivo Recoleta",
-        "time": "00:30",
-        "id": "277671507514232832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportes Concepcion - Curico Unido",
-        "time": "00:30",
-        "id": "277578720375607296"
+        "name": "Estudiantes de Mérida - Caracas FC",
+        "time": "01:00",
+        "id": "277911055698628608"
     }
 ]
