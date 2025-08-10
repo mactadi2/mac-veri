@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Blooming - Always Ready",
+        "time": "00:15",
+        "id": "277672494851297280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Estudiantes Caseros - CA Defensores de Belgrano",
         "time": "23:45",
         "id": "277833996607557632"
@@ -12,6 +19,41 @@
         "name": "Macara - Delfin",
         "time": "23:30",
         "id": "277573322792898560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juan Pablo II College - EM Deportivo Binacional",
+        "time": "23:30",
+        "id": "277792114132258816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cumbaya FC - Chacaritas SC",
+        "time": "23:30",
+        "id": "277655044467331072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gualaceo SC - Guayaquil City",
+        "time": "23:30",
+        "id": "277655222529167360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Imbabura SC - 22 de Julio",
+        "time": "23:30",
+        "id": "277655044394979328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club 9 de Octubre - Atletico Vinotinto",
+        "time": "23:30",
+        "id": "277655222448427008"
     },
     {
         "tur": "live",
@@ -51,57 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vikingur Reykjavik - Stjarnan",
-        "time": "22:15",
-        "id": "277726765309366272"
+        "name": "Anapolis FC - Brusque",
+        "time": "22:30",
+        "id": "277674267669303296"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Valur Reykjavik - Breidablik Kopavogur",
-        "time": "22:15",
-        "id": "277726785164152832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palmeiras - Ceara SC CE",
-        "time": "22:00",
-        "id": "276918981100703744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vasco da Gama RJ - Atletico Mineiro",
-        "time": "22:00",
-        "id": "276919215748943872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Barcelona - Calcio Como",
-        "time": "22:00",
-        "id": "277819927019261952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Villarreal CF - Aston Villa",
-        "time": "22:00",
-        "id": "278114180610002944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colon de Santa Fe - Agropecuario",
-        "time": "22:00",
-        "id": "277648844888608768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avai - Cuiaba MT",
-        "time": "22:00",
-        "id": "277565368862642176"
+        "name": "Floresta EC - Tombense MG",
+        "time": "22:30",
+        "id": "277688114361798656"
     }
 ]
