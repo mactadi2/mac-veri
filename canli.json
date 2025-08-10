@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Braga - CD Tondela",
+        "time": "22:30",
+        "id": "277052225538363392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Moreirense - FC Alverca",
+        "time": "22:30",
+        "id": "277052182998683648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Palmeiras - Ceara SC CE",
         "time": "22:00",
         "id": "276918981100703744"
@@ -89,19 +103,5 @@
         "name": "UD Ourense - SD Sarriana",
         "time": "21:00",
         "id": "278102364886536192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Don Benito - CD Extremadura",
-        "time": "21:00",
-        "id": "277966160563146752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Padova - Vicenza",
-        "time": "20:30",
-        "id": "277789828981067776"
     }
 ]
