@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Eyupspor - Konyaspor",
+        "time": "21:30",
+        "id": "275197308237385728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Corum Belediyespor - Amed Sportif Faaliyetler",
+        "time": "21:30",
+        "id": "277645408126242816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bodrumspor - Pendikspor",
+        "time": "21:30",
+        "id": "277730262784282624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pescara - Rimini Calcio",
+        "time": "21:30",
+        "id": "277790605742051328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Avellino - Audace Cerignola",
+        "time": "21:30",
+        "id": "277790605661310976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Modena - AC Forli",
         "time": "21:00",
         "id": "278020955385761792"
@@ -44,23 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Atletico Alvarado - Club Atletico Guemes",
-        "time": "21:00",
-        "id": "277648669002567680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Padova - Vicenza",
         "time": "20:30",
         "id": "277789828981067776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sandefjord - Viking Stavanger",
-        "time": "20:15",
-        "id": "277565805889196032"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Sporting Gijon - Racing de Ferrol",
         "time": "20:00",
         "id": "278156479801987072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Haro Deportivo - UD Logrones",
-        "time": "20:00",
-        "id": "278080810469429248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Sadd - WAC Wydad Casablanca",
-        "time": "19:30",
-        "id": "278079135349346304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Atlanta - CA San Miguel",
-        "time": "19:30",
-        "id": "277648723264278528"
     }
 ]
