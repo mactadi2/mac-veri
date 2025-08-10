@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Instituto de Cordoba - Platense",
+        "time": "23:00",
+        "id": "276397220180398080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SC Braga - CD Tondela",
         "time": "22:30",
         "id": "277052225538363392"
@@ -79,29 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Modena - AC Forli",
-        "time": "21:00",
-        "id": "278020955385761792"
+        "name": "Temperley - CA San Telmo",
+        "time": "21:30",
+        "id": "277648802945568768"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Salernitana - AC Reggiana 1919",
-        "time": "21:00",
-        "id": "278109257917927424"
+        "name": "Deportivo Madryn - San Martin Tucuman",
+        "time": "21:30",
+        "id": "277648668923924480"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Volos NFC - Panserraikos",
-        "time": "21:00",
-        "id": "277990659170897920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Don Benito - CD Extremadura",
-        "time": "21:00",
-        "id": "277966160563146752"
+        "name": "Club Atletico Mitre - Gimnasia Y Esgrima de Jujuy",
+        "time": "21:30",
+        "id": "277648844975640576"
     }
 ]
