@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Leicester - Sheff Wed",
+        "time": "18:30",
+        "id": "274102695391006720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Borussia Dortmund - Juventus FC",
+        "time": "18:30",
+        "id": "277788394400124928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Aarau - Al Hilal Riyadh",
+        "time": "18:30",
+        "id": "278109935711162368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sunderland - Rayo Vallecano",
+        "time": "18:30",
+        "id": "278098363432439808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "F.C. Arzignano Valchiampo - Athletic Carpi FC 1909",
+        "time": "18:30",
+        "id": "278091185996828672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Larissa FC - Levadiakos",
+        "time": "18:30",
+        "id": "278054859918413824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Baniyas FC - Al Wahda Abu Dhabi",
+        "time": "18:30",
+        "id": "278167013053042688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cittadella - A.C. Mestre",
+        "time": "18:30",
+        "id": "278191341724372992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sampdoria - US Pontedera 1912",
         "time": "18:00",
         "id": "278009617287614464"
@@ -19,41 +75,6 @@
         "name": "Bryne FK - KFUM Oslo",
         "time": "18:00",
         "id": "277556374869774336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IL Hodd Ulsteinvik - IK Start Kristiansand",
-        "time": "18:00",
-        "id": "277557477942366208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kongsvinger IL - Stabaek",
-        "time": "18:00",
-        "id": "277657375411933184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lyn Toppofotball - Ranheim Trondheim",
-        "time": "18:00",
-        "id": "277787937633079296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Moss - Asane IL Ulset",
-        "time": "18:00",
-        "id": "277557473930514432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Odds Ballklubb - Raufoss Fotball",
-        "time": "18:00",
-        "id": "277557473995526144"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Chelsea - AC Milan",
         "time": "17:00",
         "id": "278102144574427136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Vestri - Fram Reykjavik",
-        "time": "17:00",
-        "id": "277726765219188736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "RSC Anderlecht - Zulte-Waregem",
-        "time": "17:00",
-        "id": "277630577419620352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bandirmaspor - Sakaryaspor",
-        "time": "16:30",
-        "id": "277645408363220992"
     }
 ]
