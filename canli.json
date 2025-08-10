@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sampdoria - US Pontedera 1912",
+        "time": "18:00",
+        "id": "278009617287614464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Haugesund - Sarpsborg 08",
+        "time": "18:00",
+        "id": "277556380125237248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bryne FK - KFUM Oslo",
+        "time": "18:00",
+        "id": "277556374869774336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IL Hodd Ulsteinvik - IK Start Kristiansand",
+        "time": "18:00",
+        "id": "277557477942366208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kongsvinger IL - Stabaek",
+        "time": "18:00",
+        "id": "277657375411933184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lyn Toppofotball - Ranheim Trondheim",
+        "time": "18:00",
+        "id": "277787937633079296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Moss - Asane IL Ulset",
+        "time": "18:00",
+        "id": "277557473930514432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Odds Ballklubb - Raufoss Fotball",
+        "time": "18:00",
+        "id": "277557473995526144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Utrecht - Heracles Almelo",
         "time": "17:45",
         "id": "275060873250344960"
@@ -19,27 +75,6 @@
         "name": "Osters IF - IF Brommapojkarna",
         "time": "17:30",
         "id": "277554524845117440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Lugano - FC Basel",
-        "time": "17:30",
-        "id": "277624545010126848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lausanne-Sports - FC Zurich",
-        "time": "17:30",
-        "id": "277554452215500800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Servette Geneve FC - Grasshopper Club Zurich",
-        "time": "17:30",
-        "id": "277479091412799488"
     },
     {
         "tur": "live",
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Silkeborg IF - FC Nordsjaelland",
-        "time": "17:00",
-        "id": "277552594119954432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Londrina EC PR - Nautico Capibaribe",
-        "time": "17:00",
-        "id": "277685881825005568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Bandirmaspor - Sakaryaspor",
         "time": "16:30",
         "id": "277645408363220992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Helsingborgs IF - Utsiktens BK",
-        "time": "16:00",
-        "id": "277549143144140800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trelleborgs FF - Umea FC",
-        "time": "16:00",
-        "id": "277641610888613888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "TS Galaxy - Durban City FC 2024",
-        "time": "16:00",
-        "id": "278002131401838592"
     }
 ]
