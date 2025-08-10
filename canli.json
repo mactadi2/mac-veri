@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cruzeiro MG - Santos FC Sao Paulo ",
+        "time": "00:30",
+        "id": "276919681908084736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Clube Goianiense - Botafogo SP ",
+        "time": "00:30",
+        "id": "277473683347476480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Libertad Asuncion - Deportivo Recoleta",
+        "time": "00:30",
+        "id": "277671507514232832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportes Concepcion - Curico Unido",
+        "time": "00:30",
+        "id": "277578720375607296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Blooming - Always Ready",
         "time": "00:15",
         "id": "277672494851297280"
@@ -58,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Vargas Torres - Indepiendente Juniors",
+        "time": "23:30",
+        "id": "277656361953792000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Instituto de Cordoba - Platense",
         "time": "23:00",
         "id": "276397220180398080"
@@ -68,40 +103,5 @@
         "name": "Gimnasia Y Tiro De Salta - CA Los Andes",
         "time": "23:00",
         "id": "277648754710024192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Braga - CD Tondela",
-        "time": "22:30",
-        "id": "277052225538363392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Moreirense - FC Alverca",
-        "time": "22:30",
-        "id": "277052182998683648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Chaco For Ever - Gimnasia Mendoza",
-        "time": "22:30",
-        "id": "277631514837127168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Anapolis FC - Brusque",
-        "time": "22:30",
-        "id": "277674267669303296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Floresta EC - Tombense MG",
-        "time": "22:30",
-        "id": "277688114361798656"
     }
 ]
