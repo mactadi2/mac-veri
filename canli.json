@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Helsingborgs IF - Utsiktens BK",
+        "time": "16:00",
+        "id": "277549143144140800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Trelleborgs FF - Umea FC",
+        "time": "16:00",
+        "id": "277641610888613888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TS Galaxy - Durban City FC 2024",
+        "time": "16:00",
+        "id": "278002131401838592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AFC Ajax - Telstar",
         "time": "15:30",
         "id": "275059200450760704"
@@ -82,26 +103,5 @@
         "name": "Raal La Louviere - Royal Charleroi SC",
         "time": "14:30",
         "id": "277643902827237376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Buriram United FC - Rayong FC",
-        "time": "14:00",
-        "id": "278080810851110912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kalmar FF - Varbergs BoIS FC",
-        "time": "14:00",
-        "id": "277541464071868416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tianjin Jinmen Tigers - Qingdao West Coast FC",
-        "time": "14:00",
-        "id": "277542902759034880"
     }
 ]
