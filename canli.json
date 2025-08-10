@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Novo Hamburgo - Aimore",
+        "time": "01:30",
+        "id": "278074168961011712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fortaleza FC - Deportivo Pereira",
+        "time": "01:15",
+        "id": "277575332167553024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Cincinnati - Charlotte",
         "time": "01:00",
         "id": "276936897130008576"
@@ -26,6 +40,27 @@
         "name": "Retro FC Brasil - Sao Bernardo FC",
         "time": "01:00",
         "id": "277683542059782144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vancouver Langley FC - Pacific FC",
+        "time": "01:00",
+        "id": "277623710377185280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estudiantes de Mérida - Caracas FC",
+        "time": "01:00",
+        "id": "277911055698628608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bogota FC - Internacional Fc De Palmira",
+        "time": "01:00",
+        "id": "277792114227679232"
     },
     {
         "tur": "live",
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Estudiantes Caseros - CA Defensores de Belgrano",
-        "time": "23:45",
-        "id": "277833996607557632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Macara - Delfin",
-        "time": "23:30",
-        "id": "277573322792898560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juan Pablo II College - EM Deportivo Binacional",
-        "time": "23:30",
-        "id": "277792114132258816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cumbaya FC - Chacaritas SC",
-        "time": "23:30",
-        "id": "277655044467331072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gualaceo SC - Guayaquil City",
-        "time": "23:30",
-        "id": "277655222529167360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club 9 de Octubre - Atletico Vinotinto",
-        "time": "23:30",
-        "id": "277655222448427008"
+        "name": "Metropolitanos FC - Deportivo La Guaira",
+        "time": "00:00",
+        "id": "277911055622082560"
     }
 ]
