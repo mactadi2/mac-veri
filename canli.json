@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Caykur Rizespor - Göztepe",
+        "time": "19:00",
+        "id": "275197398452670464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Boluspor - Vanspor FK",
+        "time": "19:00",
+        "id": "277730216041910272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Famalicao - Santa Clara",
+        "time": "19:00",
+        "id": "277052182899068928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "USD Castellanzese - Pro Patria",
+        "time": "19:00",
+        "id": "278054859830333440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Leicester - Sheff Wed",
         "time": "18:30",
         "id": "274102695391006720"
@@ -58,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VPS Vaasan Palloseura - Seinäjoen Jalkapallokerho",
-        "time": "18:30",
-        "id": "277558290857201664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Sampdoria - US Pontedera 1912",
         "time": "18:00",
         "id": "278009617287614464"
@@ -72,16 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Haugesund - Sarpsborg 08",
+        "name": "Panegialios FC - Ellas Syrou",
         "time": "18:00",
-        "id": "277556380125237248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bryne FK - KFUM Oslo",
-        "time": "18:00",
-        "id": "277556374869774336"
+        "id": "278191353216765952"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "FC Utrecht - Heracles Almelo",
         "time": "17:45",
         "id": "275060873250344960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IFK Norrkoping - Hammarby IF",
-        "time": "17:30",
-        "id": "277554452093865984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Osters IF - IF Brommapojkarna",
-        "time": "17:30",
-        "id": "277554524845117440"
     }
 ]
