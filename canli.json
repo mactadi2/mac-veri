@@ -2,9 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Macara - Delfin",
+        "time": "23:30",
+        "id": "277573322792898560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juan Pablo II College - EM Deportivo Binacional",
+        "time": "23:30",
+        "id": "277792114132258816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Instituto de Cordoba - Platense",
         "time": "23:00",
         "id": "276397220180398080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnasia Y Tiro De Salta - CA Los Andes",
+        "time": "23:00",
+        "id": "277648754710024192"
     },
     {
         "tur": "live",
@@ -19,6 +40,27 @@
         "name": "Moreirense - FC Alverca",
         "time": "22:30",
         "id": "277052182998683648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Chaco For Ever - Gimnasia Mendoza",
+        "time": "22:30",
+        "id": "277631514837127168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vikingur Reykjavik - Stjarnan",
+        "time": "22:15",
+        "id": "277726765309366272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valur Reykjavik - Breidablik Kopavogur",
+        "time": "22:15",
+        "id": "277726785164152832"
     },
     {
         "tur": "live",
@@ -51,57 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Eyupspor - Konyaspor",
-        "time": "21:30",
-        "id": "275197308237385728"
+        "name": "Colon de Santa Fe - Agropecuario",
+        "time": "22:00",
+        "id": "277648844888608768"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Corum Belediyespor - Amed Sportif Faaliyetler",
-        "time": "21:30",
-        "id": "277645408126242816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bodrumspor - Pendikspor",
-        "time": "21:30",
-        "id": "277730262784282624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pescara - Rimini Calcio",
-        "time": "21:30",
-        "id": "277790605742051328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avellino - Audace Cerignola",
-        "time": "21:30",
-        "id": "277790605661310976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Temperley - CA San Telmo",
-        "time": "21:30",
-        "id": "277648802945568768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Madryn - San Martin Tucuman",
-        "time": "21:30",
-        "id": "277648668923924480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Mitre - Gimnasia Y Esgrima de Jujuy",
-        "time": "21:30",
-        "id": "277648844975640576"
+        "name": "Avai - Cuiaba MT",
+        "time": "22:00",
+        "id": "277565368862642176"
     }
 ]
