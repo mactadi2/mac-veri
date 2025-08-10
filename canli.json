@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Cincinnati - Charlotte",
+        "time": "01:00",
+        "id": "276936897130008576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Minnesota United - Colorado Rapids",
+        "time": "01:00",
+        "id": "276937151762010112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New York Red Bull - Real Salt Lake",
+        "time": "01:00",
+        "id": "276936974052495360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Retro FC Brasil - Sao Bernardo FC",
+        "time": "01:00",
+        "id": "277683542059782144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cruzeiro MG - Santos FC Sao Paulo ",
         "time": "00:30",
         "id": "276919681908084736"
@@ -75,33 +103,5 @@
         "name": "Club 9 de Octubre - Atletico Vinotinto",
         "time": "23:30",
         "id": "277655222448427008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Imbabura SC - 22 de Julio",
-        "time": "23:30",
-        "id": "277655044394979328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Vargas Torres - Indepiendente Juniors",
-        "time": "23:30",
-        "id": "277656361953792000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Instituto de Cordoba - Platense",
-        "time": "23:00",
-        "id": "276397220180398080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia Y Tiro De Salta - CA Los Andes",
-        "time": "23:00",
-        "id": "277648754710024192"
     }
 ]
