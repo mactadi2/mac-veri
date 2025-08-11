@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KR Reykjavik - UMF Afturelding",
+        "time": "22:15",
+        "id": "277726976377229312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fh Hafnarfjördur - IA Akranes",
+        "time": "22:15",
+        "id": "277727784635338752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paraguay U20 - Brazil U20",
+        "time": "22:00",
+        "id": "278168653418074112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Resistencia SC - Sol de America",
         "time": "22:00",
         "id": "277853623643410432"
@@ -72,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Molinos El Pirata - CD Universidad San Martin de Porres",
-        "time": "21:00",
-        "id": "278006521814716416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Estoril - Estrela",
         "time": "20:45",
         "id": "277052196814721024"
@@ -89,19 +103,5 @@
         "name": "Ittihad Riadhi de Tanger - COD Meknes",
         "time": "20:30",
         "id": "278157126553178112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "OB Odense - Randers FC",
-        "time": "20:00",
-        "id": "277623800936402944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Javor Ivanjica - FK Radnicki 1923 Kragujevac",
-        "time": "20:00",
-        "id": "277711933408415744"
     }
 ]
