@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Anorthosis Famagusta - APOEL Nicosia FC",
+        "time": "19:30",
+        "id": "278148664788127744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bk Olympic - Hassleholms IF",
+        "time": "19:30",
+        "id": "277826300449787904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "HJK Helsinki - Ilves Tampere",
         "time": "19:00",
         "id": "277629632917934080"
@@ -65,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Shirak - Pyunik Yerevan",
-        "time": "19:00",
-        "id": "278167093247086592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FUS de Rabat - Union Sportive de Touarga",
         "time": "18:30",
         "id": "278282697492795392"
@@ -96,12 +103,5 @@
         "name": "PFK Dinamo Samarkand - Pakhtakor Tashkent",
         "time": "18:00",
         "id": "277838297379770368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Oruro U19 - Bolivar U19",
-        "time": "18:00",
-        "id": "278214781647851520"
     }
 ]
