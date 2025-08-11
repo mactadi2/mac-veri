@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "IF Elfsborg - IFK Varnamo",
+        "time": "20:00",
+        "id": "277630354396942336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GAIS - IFK Goteborg",
+        "time": "20:00",
+        "id": "277630354473488384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "OB Odense - Randers FC",
+        "time": "20:00",
+        "id": "277623800936402944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lechia Gdansk - Motor Lublin",
+        "time": "20:00",
+        "id": "277403713805619200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Espanol FC - Uruguay Montevideo",
+        "time": "20:00",
+        "id": "277836365409947648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hammarby Talang Ff - FC Stockholm Internazionale",
+        "time": "20:00",
+        "id": "277825050358452224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Odds Ballklubb II - Flint",
+        "time": "20:00",
+        "id": "277846171512344576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Anorthosis Famagusta - APOEL Nicosia FC",
         "time": "19:30",
         "id": "278148664788127744"
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Septemvri Sofia - Beroe Stara Zagora",
-        "time": "19:00",
-        "id": "277522451580194816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ullern - KFUM 2",
-        "time": "19:00",
-        "id": "277842075022659584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gürcistan U19 (Kadınlar) - Armenia U19 (W)",
-        "time": "19:00",
-        "id": "278277159870664704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Rustavi - Meshakhte Tkibuli",
-        "time": "19:00",
-        "id": "277842075360301056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FUS de Rabat - Union Sportive de Touarga",
         "time": "18:30",
         "id": "278282697492795392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Sol de Oriente - Leones Reserves",
-        "time": "18:00",
-        "id": "278214908882063360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zorya Luhansk - FK Kudrivka",
-        "time": "18:00",
-        "id": "277805476337553408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFK Dinamo Samarkand - Pakhtakor Tashkent",
-        "time": "18:00",
-        "id": "277838297379770368"
     }
 ]
