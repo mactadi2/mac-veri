@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Alianza Atletico - Utc de Cajamarca",
+        "time": "23:00",
+        "id": "277838408811941888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bf 108 - SR Reykjavik",
+        "time": "23:00",
+        "id": "278157875320328192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RB Keflavik - Ulfarnir",
+        "time": "23:00",
+        "id": "278157239910535168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Porto - Vitoria Guimaraes",
         "time": "22:45",
         "id": "277758291796430848"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AZ Alkmaar Reserves - RKC Waalwijk",
-        "time": "21:00",
-        "id": "276378989965217792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PSV Reserves - FC Emmen",
-        "time": "21:00",
-        "id": "276355965470773248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estoril - Estrela",
-        "time": "20:45",
-        "id": "277052196814721024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ittihad Riadhi de Tanger - COD Meknes",
-        "time": "20:30",
-        "id": "278157126553178112"
+        "name": "Club Atletico Tembetary (W) - Club Guarani (W) ",
+        "time": "21:30",
+        "id": "278206334129803264"
     }
 ]
