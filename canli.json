@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Trabzonspor - Kocaelispor",
+        "time": "21:30",
+        "id": "275197309062615040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Esenler Erokspor - Adana Demirspor",
+        "time": "21:30",
+        "id": "277645408667308032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Otelul Galati - Rapid Bükreş",
+        "time": "21:30",
+        "id": "276940710472716288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estoril - Estrela",
+        "time": "20:45",
+        "id": "277052196814721024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ittihad Riadhi de Tanger - COD Meknes",
+        "time": "20:30",
+        "id": "278157126553178112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "IF Elfsborg - IFK Varnamo",
         "time": "20:00",
         "id": "277630354396942336"
@@ -58,50 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Stabaek If 2 - Lokomotiv Oslo",
+        "time": "20:00",
+        "id": "277846171431604224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Anorthosis Famagusta - APOEL Nicosia FC",
         "time": "19:30",
         "id": "278148664788127744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bk Olympic - Hassleholms IF",
-        "time": "19:30",
-        "id": "277826300449787904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HJK Helsinki - Ilves Tampere",
-        "time": "19:00",
-        "id": "277629632917934080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Botosani - FC Arges",
-        "time": "19:00",
-        "id": "276814013068873728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Gareji - FC Dinamo Batumi",
-        "time": "19:00",
-        "id": "277842075108642816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viimsi Jk - JK Nomme United",
-        "time": "19:00",
-        "id": "277842075271172096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Siauliai FA - FK Zalgiris Vilnius",
-        "time": "19:00",
-        "id": "277842075457818624"
     }
 ]
