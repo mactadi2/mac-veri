@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Figueirense FC - Maringa FC PR",
+        "time": "01:30",
+        "id": "277686575810351104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Itabaiana - CS Alagoano AL",
+        "time": "01:30",
+        "id": "277811759494074368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estrela Do Norte FC ES - Linhares FC ES",
+        "time": "01:30",
+        "id": "278247589764272128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA All Boys - CA Patronato",
         "time": "01:10",
         "id": "277645350526914560"
@@ -82,12 +103,5 @@
         "name": "CD Marathon Reserves - Juticalpa Reserves",
         "time": "00:00",
         "id": "278271857901309952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Leones - Tigres FC",
-        "time": "23:30",
-        "id": "277816957281112064"
     }
 ]
