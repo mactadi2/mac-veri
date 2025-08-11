@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Resistencia SC - Sol de America",
+        "time": "22:00",
+        "id": "277853623643410432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Amiens - Reims",
+        "time": "21:45",
+        "id": "275995263653515264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Trabzonspor - Kocaelispor",
         "time": "21:30",
         "id": "275197309062615040"
@@ -16,9 +30,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "General Lamadrid - Canuelas",
+        "time": "21:30",
+        "id": "278032855350775808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Barracas - CSD Central Ballester",
+        "time": "21:30",
+        "id": "278032855426273280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Otelul Galati - Rapid Bükreş",
         "time": "21:30",
         "id": "276940710472716288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arda Kardzhali - PFC Lokomotiv Plovdiv 1936",
+        "time": "21:15",
+        "id": "276913175128051712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AZ Alkmaar Reserves - RKC Waalwijk",
+        "time": "21:00",
+        "id": "276378989965217792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PSV Reserves - FC Emmen",
+        "time": "21:00",
+        "id": "276355965470773248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Molinos El Pirata - CD Universidad San Martin de Porres",
+        "time": "21:00",
+        "id": "278006521814716416"
     },
     {
         "tur": "live",
@@ -37,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "IF Elfsborg - IFK Varnamo",
-        "time": "20:00",
-        "id": "277630354396942336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GAIS - IFK Goteborg",
-        "time": "20:00",
-        "id": "277630354473488384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "OB Odense - Randers FC",
         "time": "20:00",
         "id": "277623800936402944"
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lechia Gdansk - Motor Lublin",
+        "name": "FK Javor Ivanjica - FK Radnicki 1923 Kragujevac",
         "time": "20:00",
-        "id": "277403713805619200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Central Espanol FC - Uruguay Montevideo",
-        "time": "20:00",
-        "id": "277836365409947648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hammarby Talang Ff - FC Stockholm Internazionale",
-        "time": "20:00",
-        "id": "277825050358452224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sarpsborg 08 2 - IF Fram Larvik",
-        "time": "20:00",
-        "id": "277846171596230656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Odds Ballklubb II - Flint",
-        "time": "20:00",
-        "id": "277846171512344576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stabaek If 2 - Lokomotiv Oslo",
-        "time": "20:00",
-        "id": "277846171431604224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Anorthosis Famagusta - APOEL Nicosia FC",
-        "time": "19:30",
-        "id": "278148664788127744"
+        "id": "277711933408415744"
     }
 ]
