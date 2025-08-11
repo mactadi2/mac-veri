@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sportivo San Lorenzo - Club Sportivo Carapegua",
+        "time": "00:30",
+        "id": "277863092963119104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Emelec Guayaquil - Deportivo Cuenca",
         "time": "00:00",
         "id": "277573778442162176"
@@ -19,6 +26,13 @@
         "name": "Olancho FC Reserves - Club Deportivo Victoria Reserves",
         "time": "00:00",
         "id": "278271857802743808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Marathon Reserves - Juticalpa Reserves",
+        "time": "00:00",
+        "id": "278271857901309952"
     },
     {
         "tur": "live",
@@ -54,12 +68,5 @@
         "name": "FC Porto - Vitoria Guimaraes",
         "time": "22:45",
         "id": "277758291796430848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fast Clube U20 - Unidos do Alvorada U20",
-        "time": "22:30",
-        "id": "278275063474688000"
     }
 ]
