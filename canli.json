@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Cincinnati II - Crown Legacy FC",
+        "time": "02:30",
+        "id": "278169495482273792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portuguesa FC - Rayo Zuliano",
+        "time": "02:30",
+        "id": "277911055459553280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "EC Juventude - Corinthians Paulista",
         "time": "02:00",
         "id": "276919861441073152"
@@ -89,19 +103,5 @@
         "name": "Guarani FC Campinas B - EC Sao Bento",
         "time": "01:00",
         "id": "278207514490834944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Defensor Sporting - Club Atletico River Plate",
-        "time": "01:00",
-        "id": "277828826406457344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo San Lorenzo - Club Sportivo Carapegua",
-        "time": "00:30",
-        "id": "277863092963119104"
     }
 ]
