@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Juventude - Corinthians Paulista",
+        "time": "02:00",
+        "id": "276919861441073152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportes Limache - Audax Italiano Santiago",
+        "time": "02:00",
+        "id": "277575520428888064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New York Red Bulls Ii - Philadelphia Union II",
+        "time": "02:00",
+        "id": "277868714563604480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Huila - Atletico Cali F.C.",
+        "time": "02:00",
+        "id": "277823104726732800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Comercial Sp - Inter de Limeira",
+        "time": "02:00",
+        "id": "278130238328803328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Figueirense FC - Maringa FC PR",
         "time": "01:30",
         "id": "277686575810351104"
@@ -12,13 +47,6 @@
         "name": "Itabaiana - CS Alagoano AL",
         "time": "01:30",
         "id": "277811759494074368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estrela Do Norte FC ES - Linhares FC ES",
-        "time": "01:30",
-        "id": "278247589764272128"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Sportivo San Lorenzo - Club Sportivo Carapegua",
         "time": "00:30",
         "id": "277863092963119104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Emelec Guayaquil - Deportivo Cuenca",
-        "time": "00:00",
-        "id": "277573778442162176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yaracuyanos FC - Monagas SC",
-        "time": "00:00",
-        "id": "277911055540293632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Olancho FC Reserves - Club Deportivo Victoria Reserves",
-        "time": "00:00",
-        "id": "278271857802743808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Marathon Reserves - Juticalpa Reserves",
-        "time": "00:00",
-        "id": "278271857901309952"
     }
 ]
