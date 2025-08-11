@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Emelec Guayaquil - Deportivo Cuenca",
+        "time": "00:00",
+        "id": "277573778442162176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yaracuyanos FC - Monagas SC",
+        "time": "00:00",
+        "id": "277911055540293632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Olancho FC Reserves - Club Deportivo Victoria Reserves",
+        "time": "00:00",
+        "id": "278271857802743808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Leones - Tigres FC",
         "time": "23:30",
         "id": "277816957281112064"
@@ -40,33 +61,5 @@
         "name": "Fast Clube U20 - Unidos do Alvorada U20",
         "time": "22:30",
         "id": "278275063474688000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KR Reykjavik - UMF Afturelding",
-        "time": "22:15",
-        "id": "277726976377229312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fh Hafnarfjördur - IA Akranes",
-        "time": "22:15",
-        "id": "277727784635338752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Greenisland (W) - St. James Swifts (W)",
-        "time": "22:15",
-        "id": "278171439502331904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paraguay U20 - Brazil U20",
-        "time": "22:00",
-        "id": "278168653418074112"
     }
 ]
