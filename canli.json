@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "HJK Helsinki - Ilves Tampere",
+        "time": "19:00",
+        "id": "277629632917934080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Botosani - FC Arges",
+        "time": "19:00",
+        "id": "276814013068873728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fc Gareji - FC Dinamo Batumi",
+        "time": "19:00",
+        "id": "277842075108642816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Viimsi Jk - JK Nomme United",
+        "time": "19:00",
+        "id": "277842075271172096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Siauliai FA - FK Zalgiris Vilnius",
+        "time": "19:00",
+        "id": "277842075457818624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Septemvri Sofia - Beroe Stara Zagora",
+        "time": "19:00",
+        "id": "277522451580194816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ullern - KFUM 2",
+        "time": "19:00",
+        "id": "277842075022659584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gürcistan U19 (Kadınlar) - Armenia U19 (W)",
+        "time": "19:00",
+        "id": "278277159870664704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Rustavi - Meshakhte Tkibuli",
+        "time": "19:00",
+        "id": "277842075360301056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Shirak - Pyunik Yerevan",
+        "time": "19:00",
+        "id": "278167093247086592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FUS de Rabat - Union Sportive de Touarga",
         "time": "18:30",
         "id": "278282697492795392"
@@ -33,75 +103,5 @@
         "name": "Real Oruro U19 - Bolivar U19",
         "time": "18:00",
         "id": "278214781647851520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Leon U21 - CF Monterrey U21",
-        "time": "18:00",
-        "id": "278172002679918592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juarez FC U21 - Toluca U21",
-        "time": "18:00",
-        "id": "278172216112320512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Braga U23 - Rio Ave U23",
-        "time": "18:00",
-        "id": "278167874828374016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Neftchi Fargona - Nasaf Qarshi",
-        "time": "17:00",
-        "id": "277834853357064192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Güney Afrika - Gine",
-        "time": "17:00",
-        "id": "278096223298260992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Lokomotivi Tbilisi - Dinamo Tbilisi II",
-        "time": "17:00",
-        "id": "277834853472407552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Rigas FS  II - Riga FC II",
-        "time": "17:00",
-        "id": "278150357760217088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Olimpik-Mobiuz - Fardu Ferghana",
-        "time": "17:00",
-        "id": "278275902574563328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tomiris Turan (W) - Kaisar Kyzylorda (W)",
-        "time": "17:00",
-        "id": "278265169840312320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rubin Kazan 2 - Krylya Sovetov 2",
-        "time": "17:00",
-        "id": "278247159934095360"
     }
 ]
