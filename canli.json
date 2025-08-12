@@ -51,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Selangor FC - Brunei Dpmm FC",
+        "time": "16:00",
+        "id": "278102837541605376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bristol City U21 - Peterborough United U21",
+        "time": "15:30",
+        "id": "278260915875483648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vietnam (Kadınlar) - Tayland (Kadınlar)",
         "time": "15:30",
         "id": "278183151086473216"
@@ -61,13 +75,6 @@
         "name": "Endonezya (Kadınlar) - Cambodia (W)",
         "time": "15:30",
         "id": "278183151444037632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bristol City U21 - Peterborough United U21",
-        "time": "15:30",
-        "id": "278260915875483648"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Paro FC - Abu Muslim Farah",
         "time": "15:00",
         "id": "278346598202871808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tainan City Steel - Khangarid Klub",
-        "time": "14:30",
-        "id": "278339083152003072"
     }
 ]
