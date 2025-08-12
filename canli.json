@@ -86,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Barrow - Preston",
+        "time": "21:30",
+        "id": "275817604298444800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ferencvarosi TC - PFC Ludogorets Razgrad",
         "time": "21:15",
         "id": "277843945346699264"
@@ -96,12 +103,5 @@
         "name": "SK Slovan Bratislava - Kairat Almaty",
         "time": "21:15",
         "id": "277835489999982592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Brugge KV - FC Red Bull Salzburg",
-        "time": "20:30",
-        "id": "277841921129451520"
     }
 ]
