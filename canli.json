@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SL Benfica - OGC Nice",
+        "time": "22:00",
+        "id": "277851897742888960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kızılyıldız - KKS Lech Poznan",
+        "time": "22:00",
+        "id": "277848570235850752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bromley - Ipswich",
+        "time": "22:00",
+        "id": "275815222767390720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Shelbourne FC - HNK Rijeka",
         "time": "21:45",
         "id": "277870707477712896"
@@ -51,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Watford - Norwich",
-        "time": "21:45",
-        "id": "275815195637583872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Middlesbrough - Doncaster",
         "time": "21:30",
         "id": "275817457908846592"
@@ -68,13 +82,6 @@
         "name": "Stockport - Crewe",
         "time": "21:30",
         "id": "275817114134253568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Barrow - Preston",
-        "time": "21:30",
-        "id": "275817604298444800"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Club Brugge KV - FC Red Bull Salzburg",
         "time": "20:30",
         "id": "277841921129451520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pafos FC - FC Dynamo Kiev",
-        "time": "20:00",
-        "id": "277757179504758784"
     }
 ]
