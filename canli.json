@@ -44,13 +44,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cardiff - Swindon",
-        "time": "21:45",
-        "id": "275820253874884608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Portsmouth - Reading",
         "time": "21:45",
         "id": "275815195712032768"
@@ -65,9 +58,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cardiff - Swindon",
+        "time": "21:45",
+        "id": "275820253874884608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Blackburn - Bradford",
         "time": "21:45",
         "id": "275817016815915008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "West Brom - Derby",
+        "time": "21:45",
+        "id": "275816545874219008"
     },
     {
         "tur": "live",
@@ -89,13 +96,6 @@
         "name": "Barrow - Preston",
         "time": "21:30",
         "id": "275817604298444800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferencvarosi TC - PFC Ludogorets Razgrad",
-        "time": "21:15",
-        "id": "277843945346699264"
     },
     {
         "tur": "live",
