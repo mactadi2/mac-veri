@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Once Caldas - Atletico Huracan",
+        "time": "01:00",
+        "id": "276649343781572608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fortaleza CE - Velez Sarsfield",
+        "time": "01:00",
+        "id": "272032430167298048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nacional Potosi - Universitario De Vinto",
+        "time": "01:00",
+        "id": "278072788431015936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AD Confianca SE - AA Guarany SE",
+        "time": "01:00",
+        "id": "278278188866605056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Moca FC - Jarabacoa FC",
+        "time": "01:00",
+        "id": "278271505467576320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cruz Azul (W) - Monterrey (W)",
         "time": "00:45",
         "id": "278135737702027264"
@@ -33,12 +68,5 @@
         "name": "Thorlakur FC - Kfr Hvolsvollur",
         "time": "23:30",
         "id": "278282115172405248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Delfines Del Este - Universidad O&M FC",
-        "time": "23:00",
-        "id": "278271586644135936"
     }
 ]
