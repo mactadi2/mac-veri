@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CRB Clube de Regatas Brasil - Athletic Club MG",
+        "time": "01:30",
+        "id": "277565995237904384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Once Caldas - Atletico Huracan",
         "time": "01:00",
         "id": "276649343781572608"
@@ -61,12 +68,5 @@
         "name": "Corinthians Paulista (W) - Ferroviaria (W)",
         "time": "00:00",
         "id": "278213383951618048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Thorlakur FC - Kfr Hvolsvollur",
-        "time": "23:30",
-        "id": "278282115172405248"
     }
 ]
