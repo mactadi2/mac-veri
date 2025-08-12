@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Brugge KV - FC Red Bull Salzburg",
+        "time": "20:30",
+        "id": "277841921129451520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RCS Brainois - AFC Tubize",
+        "time": "20:30",
+        "id": "278365318539251712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mamelodi Sundowns FC - Amazulu FC",
+        "time": "20:30",
+        "id": "278092216424075264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Marumo Gallants FC - Orlando Pirates FC",
+        "time": "20:30",
+        "id": "278103479575252992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orbit College - Siwelele FC",
+        "time": "20:30",
+        "id": "278119755005693952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fenerbahce SK - Feyenoord Rotterdam",
         "time": "20:00",
         "id": "277851713860407296"
@@ -51,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Real Oviedo (W) - Real Sociedad (W)",
-        "time": "19:45",
-        "id": "278348006120624128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FK Qarabag - FK Shkendija 79",
         "time": "19:00",
         "id": "277757064105824256"
@@ -75,33 +103,5 @@
         "name": "KS Vllaznia Shkoder - KS Kukesi",
         "time": "19:00",
         "id": "278374296935600128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Saaksjaerven Loiske - NoPS",
-        "time": "19:00",
-        "id": "278347600196931584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferrocarril Midland Reserves - Villa Dalmine Reserves",
-        "time": "19:00",
-        "id": "278315706806833152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Larissa FC - Panserraikos",
-        "time": "18:30",
-        "id": "278323897423761408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Excursionistas Reserves - CA Fenix Pilar Reserves",
-        "time": "18:30",
-        "id": "278315312800206848"
     }
 ]
