@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Independiente Rivadavia Reserves - Boca Juniors Reserves",
+        "time": "00:00",
+        "id": "278298158849724416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Corinthians Paulista (W) - Ferroviaria (W)",
+        "time": "00:00",
+        "id": "278213383951618048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Thorlakur FC - Kfr Hvolsvollur",
         "time": "23:30",
         "id": "278282115172405248"
@@ -19,61 +33,5 @@
         "name": "Delfines Del Este - Universidad O&M FC",
         "time": "23:00",
         "id": "278271586644135936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "RB do Norte Clube U20 - Amazonas U20",
-        "time": "22:30",
-        "id": "278330832919334912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SL Benfica - OGC Nice",
-        "time": "22:00",
-        "id": "277851897742888960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kızılyıldız - KKS Lech Poznan",
-        "time": "22:00",
-        "id": "277848570235850752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bromley - Ipswich",
-        "time": "22:00",
-        "id": "275815222767390720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fortaleza U20 - Jacioba U20",
-        "time": "22:00",
-        "id": "278299769550540800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "West Brom - Derby",
-        "time": "21:45",
-        "id": "275816545874219008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stoke - Walsall",
-        "time": "21:45",
-        "id": "275813556641992704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Slovan Bratislava - Kairat Almaty",
-        "time": "21:15",
-        "id": "277835489999982592"
     }
 ]
