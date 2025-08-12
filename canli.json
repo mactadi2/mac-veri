@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Queretaro (W) - Pachuca (W)",
+        "time": "02:00",
+        "id": "278140298692005888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico San Luis (W) - Atlas (W)",
+        "time": "02:00",
+        "id": "278140298598682624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CRB Clube de Regatas Brasil - Athletic Club MG",
         "time": "01:30",
         "id": "277565995237904384"
@@ -30,16 +44,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AD Confianca SE - AA Guarany SE",
+        "name": "Moca FC - Jarabacoa FC",
         "time": "01:00",
-        "id": "278278188866605056"
+        "id": "278271505467576320"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Moca FC - Jarabacoa FC",
+        "name": "AD Confianca SE - AA Guarany SE",
         "time": "01:00",
-        "id": "278271505467576320"
+        "id": "278278188866605056"
     },
     {
         "tur": "live",
@@ -54,19 +68,5 @@
         "name": "Club Primero de Enero Nueva Colombia - Nacional Asuncion",
         "time": "00:30",
         "id": "278273410818248704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente Rivadavia Reserves - Boca Juniors Reserves",
-        "time": "00:00",
-        "id": "278298158849724416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Corinthians Paulista (W) - Ferroviaria (W)",
-        "time": "00:00",
-        "id": "278213383951618048"
     }
 ]
