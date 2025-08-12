@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Stirling Macedonia FC - Perth RedStar FC",
+        "time": "14:15",
+        "id": "278257302686011392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Perth - Perth Glory NPL",
+        "time": "14:15",
+        "id": "278281637453762560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Johvi FC Phoenix U19 - JK Trans Narva U19",
+        "time": "14:00",
+        "id": "278340760704782336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AC Carina - Mount Gravatt Hawks",
         "time": "13:30",
         "id": "278275683607777280"
@@ -44,20 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vizela U23 - Leixoes U23",
-        "time": "13:00",
-        "id": "278193215591550976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Academico Viseu U23 - Maritimo U23",
-        "time": "13:00",
-        "id": "278256770783252480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Brisbane City - Kingsway Olympic",
         "time": "12:30",
         "id": "277688570462998528"
@@ -96,12 +103,5 @@
         "name": "Gold Coast Knights (W) - Mitchelton (W)",
         "time": "12:30",
         "id": "278277124424601600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Monaro Panthers Fc - Cooma Tigers",
-        "time": "12:00",
-        "id": "276512906627125248"
     }
 ]
