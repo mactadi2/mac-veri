@@ -1,51 +1,37 @@
 [
     {
         "type": "futbol",
-        "name": "Fluminense - Gremio",
-        "day": "03",
-        "time": "03:00",
+        "name": "Juventude - Corinthians",
+        "day": "12",
+        "time": "02:00",
         "channel": "Spor Smart"
     },
     {
         "type": "futbol",
-        "name": "Tottenham - Newcastle Utd.",
-        "day": "03",
-        "time": "14:00",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Ajax - Monaco",
-        "day": "03",
-        "time": "15:00",
-        "channel": "Tivibu Spor 1"
-    },
-    {
-        "type": "futbol",
-        "name": "PSV - G.A. Eagles",
-        "day": "03",
-        "time": "19:00",
+        "name": "Monza - Inter",
+        "day": "12",
+        "time": "22:00",
         "channel": "S Sport"
     },
     {
-        "type": "futbol",
-        "name": "Bournemouth - West Ham",
-        "day": "03",
-        "time": "21:00",
-        "channel": "Bein Sports 3"
+        "type": "tenis",
+        "name": "I.Jovic - B.Krejcikova",
+        "day": "12",
+        "time": "18:00",
+        "channel": "Bein Sports Max 1"
     },
     {
-        "type": "futbol",
-        "name": "Porto - Atletico Madrid",
-        "day": "03",
-        "time": "21:00",
-        "channel": "Tivibu Spor 1"
+        "type": "tenis",
+        "name": "J.Paolini - A.Krueger",
+        "day": "12",
+        "time": "19:30",
+        "channel": "Bein Sports Max 1"
     },
     {
-        "type": "futbol",
-        "name": "Corinthians - Fortaleza",
-        "day": "03",
+        "type": "tenis",
+        "name": "D.Yastremska - C.Gauff",
+        "day": "12",
         "time": "22:00",
-        "channel": "Spor Smart"
+        "channel": "Bein Sports Max 1"
     }
 ]
