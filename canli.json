@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Balcatta (W) - Perth SC (W)",
+        "time": "14:00",
+        "id": "278331322792022016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Valladolid B - CD Coria",
         "time": "13:30",
         "id": "278432452907765760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hyundai NTC (W) - Perth Redstar FC (W)",
+        "time": "13:30",
+        "id": "278435671243362304"
     },
     {
         "tur": "live",
@@ -44,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Elizabeth Grove (W) - The Cove (W)",
+        "time": "13:00",
+        "id": "278442564393242624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "South Melbourne - Auckland FC",
         "time": "12:30",
         "id": "277688569654546432"
@@ -65,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Mt Druitt Town Rangers (W) - University of New South Wales (W)",
-        "time": "12:30",
-        "id": "278410942671360000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Gold Coast Knights U23 - St George Willawong FC U23",
         "time": "12:30",
         "id": "278336683047522304"
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sydney United - Blacktown City Fc",
-        "time": "12:00",
-        "id": "277686757525426176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ispe U21 - Dagon Port FC U21",
-        "time": "12:00",
-        "id": "278377094576214016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hantharwady United FC U21 - Falcon U21",
-        "time": "12:00",
-        "id": "278438826790227968"
+        "name": "Canberra Olympic (W) - Canberra Croatia (W)",
+        "time": "12:30",
+        "id": "278312858935234560"
     }
 ]
