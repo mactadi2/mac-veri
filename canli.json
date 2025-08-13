@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Birmingham - Sheff Utd",
+        "time": "22:00",
+        "id": "275814387848187904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bolton - Sheff Wed",
         "time": "21:45",
         "id": "275816711568101376"
@@ -96,12 +103,5 @@
         "name": " Celta Fortuna - UD Ourense",
         "time": "20:30",
         "id": "278431579880165376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Villarreal CF B - Gimnastic de Tarragona",
-        "time": "20:00",
-        "id": "278353571138899968"
     }
 ]
