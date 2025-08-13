@@ -51,9 +51,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CD Teruel - Castellon",
-        "time": "21:00",
-        "id": "278356056514629632"
+        "name": "Fjolnir Reykjavik - UMF Njardvik",
+        "time": "21:30",
+        "id": "278203881413021696"
     },
     {
         "tur": "live",
@@ -68,13 +68,6 @@
         "name": "CF Trival Valderas Alcorcon - Navalcarnero",
         "time": "21:00",
         "id": "278358476062855168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Pulpileno - Ud Almeria B",
-        "time": "21:00",
-        "id": "278365424256684032"
     },
     {
         "tur": "live",
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Keflavik - UMF Grindavik ",
+        "name": "Volsungur - Thor Akureyri",
         "time": "21:00",
-        "id": "278201670441242624"
+        "id": "272097846303526912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UMF Selfoss - Kopavogur",
+        "time": "21:00",
+        "id": "278200818925178880"
     }
 ]
