@@ -44,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Reus FC Reddis - CE Sabadell",
+        "time": "20:30",
+        "id": "278449763138015232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Madrid B - Valencia CF B",
         "time": "20:00",
         "id": "278237949097807872"
@@ -79,29 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Levante B - Saguntino",
+        "time": "20:00",
+        "id": "278460907076587520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VfB 03 Hilden - TSV Fortuna Dusseldorf",
+        "time": "20:00",
+        "id": "278469016936386560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "İstanbul Başakşehir FK - Viking Stavanger",
         "time": "19:00",
         "id": "278095576948674560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Athletic Bilbao B - Arenas Club de Getxo",
-        "time": "19:00",
-        "id": "278300053673742336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Varteks - NK Trnje",
-        "time": "19:00",
-        "id": "278353990059692032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Sudtirol Bolzano - AC Virtus Bolzano",
-        "time": "19:00",
-        "id": "278385240494444544"
     }
 ]
