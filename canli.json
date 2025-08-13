@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Real Valladolid B - CD Coria",
+        "time": "13:30",
+        "id": "278432452907765760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Central Coast Mariners NPL - Marconi Stallions",
         "time": "13:00",
         "id": "277838582270529536"
@@ -72,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Canberra White Eagles FC - Australian National University FC",
+        "time": "12:30",
+        "id": "276614724435709952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sydney United - Blacktown City Fc",
         "time": "12:00",
         "id": "277686757525426176"
@@ -89,19 +103,5 @@
         "name": "Hantharwady United FC U21 - Falcon U21",
         "time": "12:00",
         "id": "278438826790227968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Penang U20 - Kuching City U20",
-        "time": "11:45",
-        "id": "278354832555905024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Selangor FA U20 - Terengganu U20",
-        "time": "11:45",
-        "id": "278354232797696000"
     }
 ]
