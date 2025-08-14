@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Breidablik Kopavogur - HSK Zrinjski Mostar",
+        "time": "20:30",
+        "id": "277991238047764480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brondby I.F. - Vikingur Reykjavik",
+        "time": "20:30",
+        "id": "277991892205047808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Vaduz - AZ Alkmaar",
+        "time": "20:30",
+        "id": "278096016708866048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SK Brann Bergen - BK Hacken",
         "time": "20:00",
         "id": "277979340578361344"
@@ -44,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Omonia FC Nicosia - Araz Nakhchivan PFK",
-        "time": "20:00",
-        "id": "277936216012361728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Paksi FC - Polissya Zhytomyr",
         "time": "20:00",
         "id": "278186061070471168"
@@ -58,9 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AC Pistoiese - Pisa",
+        "name": "Omonia FC Nicosia - Araz Nakhchivan PFK",
         "time": "20:00",
-        "id": "278446906857885696"
+        "id": "277936216012361728"
     },
     {
         "tur": "live",
@@ -68,13 +82,6 @@
         "name": "FC Levadia Tallinn - FC Differdange 03",
         "time": "19:30",
         "id": "278204580056141824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethnikos Achnas FC - APOEL Nicosia FC",
-        "time": "19:30",
-        "id": "278449395716984832"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Sabah FK - PFC Levski Sofia",
         "time": "19:00",
         "id": "277991892136890368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Napoli - Olympiakos Piraeus FC",
-        "time": "19:00",
-        "id": "278076290998865920"
     }
 ]
