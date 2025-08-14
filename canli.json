@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SK Brann Bergen - BK Hacken",
+        "time": "20:00",
+        "id": "277979340578361344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Noah Artsakh - Lincoln FC",
+        "time": "20:00",
+        "id": "278068566010499072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wolfsberger Athletik Club - FC PAOK Thessaloniki",
+        "time": "20:00",
+        "id": "277941868771282944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Sheriff Tiraspol - RSC Anderlecht",
+        "time": "20:00",
+        "id": "277948710138286080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hammarby IF - Rosenborg BK",
+        "time": "20:00",
+        "id": "278102076022722560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gyori ETO FC - AIK",
+        "time": "20:00",
+        "id": "278096016605057024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Omonia FC Nicosia - Araz Nakhchivan PFK",
+        "time": "20:00",
+        "id": "277936216012361728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paksi FC - Polissya Zhytomyr",
+        "time": "20:00",
+        "id": "278186061070471168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AC Pistoiese - Pisa",
+        "time": "20:00",
+        "id": "278446906857885696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Levadia Tallinn - FC Differdange 03",
         "time": "19:30",
         "id": "278204580056141824"
@@ -12,20 +75,6 @@
         "name": "Ethnikos Achnas FC - APOEL Nicosia FC",
         "time": "19:30",
         "id": "278449395716984832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Zagorec Krapina - NK Hrvatski Dragovoljac",
-        "time": "19:30",
-        "id": "278549365678804992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atlantis FC\/PM - Ponnistus",
-        "time": "19:15",
-        "id": "278391027485773824"
     },
     {
         "tur": "live",
@@ -54,54 +103,5 @@
         "name": "Napoli - Olympiakos Piraeus FC",
         "time": "19:00",
         "id": "278076290998865920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sif - FF Jaro II",
-        "time": "19:00",
-        "id": "278456889413603328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Seinajoen Sisu - VPV Pallo-Veikot",
-        "time": "19:00",
-        "id": "278430206592684032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Komeetat - HoDy",
-        "time": "19:00",
-        "id": "278427816668827648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tampereen Peli-Toverit - Ylojarvi United",
-        "time": "19:00",
-        "id": "278429096019628032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Bjelovar - Kustosija",
-        "time": "18:30",
-        "id": "278549818253643776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tups - RiPS Riihimaki",
-        "time": "18:30",
-        "id": "278391186958454784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KuPS Kuopio - Rigas Futbola Skola",
-        "time": "18:00",
-        "id": "277845842232217600"
     }
 ]
