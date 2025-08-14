@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Braga - CFR Cluj",
+        "time": "21:30",
+        "id": "277950487662301184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shakhtar Donetsk - Panathinaikos",
+        "time": "21:00",
+        "id": "277941868708368384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Utrecht - Servette Geneve FC",
+        "time": "21:00",
+        "id": "277979217306718208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Drita Gjilan - FCSB",
+        "time": "21:00",
+        "id": "277950199242035200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maccabi Tel-Aviv - Hamrun Spartans FC",
+        "time": "21:00",
+        "id": "277756355440414720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Besiktas JK - St Patrick's Athletic",
+        "time": "21:00",
+        "id": "278095888673542144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AEK Athens - Aris Limmasol",
+        "time": "21:00",
+        "id": "277938788349644800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Breidablik Kopavogur - HSK Zrinjski Mostar",
         "time": "20:30",
         "id": "277991238047764480"
@@ -19,20 +68,6 @@
         "name": "FC Vaduz - AZ Alkmaar",
         "time": "20:30",
         "id": "278096016708866048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Beitar Jerusalem - Riga FC",
-        "time": "20:30",
-        "id": "278096955830308864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arda Kardzhali - FK Zalgiris Kaunas",
-        "time": "20:30",
-        "id": "277953384992083968"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Hammarby IF - Rosenborg BK",
         "time": "20:00",
         "id": "278102076022722560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gyori ETO FC - AIK",
-        "time": "20:00",
-        "id": "278096016605057024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paksi FC - Polissya Zhytomyr",
-        "time": "20:00",
-        "id": "278186061070471168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Omonia FC Nicosia - Araz Nakhchivan PFK",
-        "time": "20:00",
-        "id": "277936216012361728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Levadia Tallinn - FC Differdange 03",
-        "time": "19:30",
-        "id": "278204580056141824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Napoli - Olympiakos Piraeus FC",
-        "time": "19:00",
-        "id": "278076290998865920"
     }
 ]
