@@ -9,6 +9,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KH Hildarendi - Hafnir",
+        "time": "23:00",
+        "id": "278419417911660544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vaengir Jupiters - Ellidi",
+        "time": "22:15",
+        "id": "278418938137808896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HK Kopavogur (W) - IA Akranes (W)",
+        "time": "22:15",
+        "id": "278405131979067392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kr Reykjavik - Grindavik\/Njardvik (W)",
+        "time": "22:15",
+        "id": "278405210392629248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "KP Legia Warszawa - AEK Larnaca",
         "time": "22:00",
         "id": "277932836027240448"
@@ -33,20 +61,6 @@
         "name": "Santa Clara - Larne",
         "time": "22:00",
         "id": "278259100028112896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AC Virtus Acquaviva - FC Milsami Orhei",
-        "time": "22:00",
-        "id": "278204761777508352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shamrock Rovers FC - KF Ballkani",
-        "time": "22:00",
-        "id": "278215941155852288"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "FC Spartak Trnava - Universitatea Craiova",
         "time": "21:30",
         "id": "277948828502593536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shakhtar Donetsk - Panathinaikos",
-        "time": "21:00",
-        "id": "277941868708368384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Neman Grodno - KI Klaksvík",
-        "time": "21:00",
-        "id": "277793925978263552"
     }
 ]
