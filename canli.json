@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dundee United FC - SK Rapid Wien",
+        "time": "21:45",
+        "id": "277989392668299264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SC Braga - CFR Cluj",
         "time": "21:30",
         "id": "277950487662301184"
@@ -72,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SK Brann Bergen - BK Hacken",
-        "time": "20:00",
-        "id": "277979340578361344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Noah Artsakh - Lincoln FC",
         "time": "20:00",
         "id": "278068566010499072"
@@ -93,15 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Sheriff Tiraspol - RSC Anderlecht",
+        "name": "Hammarby IF - Rosenborg BK",
         "time": "20:00",
-        "id": "277948710138286080"
+        "id": "278102076022722560"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hammarby IF - Rosenborg BK",
+        "name": "Gyori ETO FC - AIK",
         "time": "20:00",
-        "id": "278102076022722560"
+        "id": "278096016605057024"
     }
 ]
