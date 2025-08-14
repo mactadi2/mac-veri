@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Stabaek U19 - Rosenborg Bk",
+        "time": "16:30",
+        "id": "278459046385815552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rivers United - Kwara United",
         "time": "16:00",
         "id": "278544728803381248"
@@ -23,13 +30,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Aktobe II - FC Shakhter Karagandy",
-        "time": "15:00",
-        "id": "278527261877080064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SD Family - FC Taraz",
         "time": "15:00",
         "id": "278527146643820544"
@@ -40,12 +40,5 @@
         "name": "Thimphu City - Ugyen Academy FC",
         "time": "15:00",
         "id": "278402917138042880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Jungfrau Punggol - FCTengah",
-        "time": "14:45",
-        "id": "278396011034054656"
     }
 ]
