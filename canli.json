@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportes Santa Cruz (W) - Deportes Concepcion (W)",
+        "time": "02:30",
+        "id": "278569183429660672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Espana Reserves - CD Marathon Reserves",
+        "time": "00:00",
+        "id": "278536567644098560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Millonarios (W) - Atletico Nacional Medellin (W)",
         "time": "23:00",
         "id": "278475095784165376"
@@ -16,41 +30,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vaengir Jupiters - Ellidi",
-        "time": "22:15",
-        "id": "278418938137808896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HK Kopavogur (W) - IA Akranes (W)",
-        "time": "22:15",
-        "id": "278405131979067392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kr Reykjavik - Grindavik\/Njardvik (W)",
-        "time": "22:15",
-        "id": "278405210392629248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KP Legia Warszawa - AEK Larnaca",
-        "time": "22:00",
-        "id": "277932836027240448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Austria Wien - FC Banik Ostrava",
-        "time": "22:00",
-        "id": "277932152944988160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Hibernian FC - Partizan Belgrade",
         "time": "22:00",
         "id": "278211954184687616"
@@ -58,30 +37,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Santa Clara - Larne",
-        "time": "22:00",
-        "id": "278259100028112896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "KF Egnatia - NK Olimpija Ljubljana",
         "time": "22:00",
         "id": "278205032426508288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Encarnacion FC - Pastoreo FC",
-        "time": "22:00",
-        "id": "278266953604403200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Inter Milano (W) - Madrid (K)",
-        "time": "22:00",
-        "id": "278392548409610240"
     },
     {
         "tur": "live",
@@ -96,12 +54,5 @@
         "name": "Dinamo Tirana - HNK Hajduk Split",
         "time": "21:45",
         "id": "278096955713916928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Spartak Trnava - Universitatea Craiova",
-        "time": "21:30",
-        "id": "277948828502593536"
     }
 ]
