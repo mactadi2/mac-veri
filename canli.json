@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AVS Futebol SAD - Casa Pia",
+        "time": "17:30",
+        "id": "278116712398852096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Irtys Pavlodar - Zhetisay",
         "time": "17:00",
         "id": "278638523536510976"
@@ -72,20 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Scotland FC Mabvuku - Zpc Kariba",
-        "time": "16:00",
-        "id": "278535800620191744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Van Charencavan - FC Urartu Banants Yerevan",
-        "time": "16:00",
-        "id": "278488488784039936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "UFV Thalgau - SV Burmoos",
         "time": "16:00",
         "id": "278488278454374400"
@@ -93,15 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vejle U19 - FC Copenhagen U19",
+        "name": "Karvan Yevlakh - FK Gabala",
         "time": "16:00",
-        "id": "278532084549685248"
+        "id": "278499491150172160"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Karvan Yevlakh - FK Gabala",
+        "name": "Lujan U20 - Argentino Merlo U20",
         "time": "16:00",
-        "id": "278499491150172160"
+        "id": "278638465460080640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Berazategui U20 - Excursionistas U20",
+        "time": "16:00",
+        "id": "278638439981780992"
     }
 ]
