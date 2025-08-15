@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Grau - Comerciantes Unidos",
+        "time": "23:00",
+        "id": "278027505751953408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Villarreal - Real Oviedo",
         "time": "22:30",
         "id": "274722721792921600"
@@ -51,6 +58,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Arminia Bielefeld - SV Werder Bremen",
+        "time": "21:45",
+        "id": "273838750390423552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Oud-Heverlee Leuven - Racing Genk",
+        "time": "21:45",
+        "id": "277995737490526208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Galatasaray SK - Fatih Karagumruk",
         "time": "21:30",
         "id": "278202658936983552"
@@ -65,43 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Telstar - FC Zwolle",
-        "time": "21:00",
-        "id": "277550294847590400"
+        "name": "CD Marino - Tenerife",
+        "time": "21:30",
+        "id": "278537627728220160"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Bastia - Pau FC",
-        "time": "21:00",
-        "id": "278111131124502528"
+        "name": "Club Atletico Aldosivi - Club Atletico Belgrano",
+        "time": "21:30",
+        "id": "277025478619041792"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Red Star 93 Saint Ouen - SC Amiens",
-        "time": "21:00",
-        "id": "278215941964304384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Clermont - ES Troyes AC",
-        "time": "21:00",
-        "id": "278111092580945920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Nancy Lorraine - Boulogne",
-        "time": "21:00",
-        "id": "278273161133428736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grenoble Foot 38 - Stade Laval",
-        "time": "21:00",
-        "id": "278111092756058112"
+        "name": "Deportivo Paraguayo - Sportivo Barracas",
+        "time": "21:30",
+        "id": "278219635868962816"
     }
 ]
