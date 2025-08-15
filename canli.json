@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Instituto de Cordoba - Union Santa Fe",
+        "time": "01:00",
+        "id": "277026634053324800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bragantino Sp U20 - Athletico Paranaense U20",
+        "time": "01:00",
+        "id": "278488628807733248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universidad Central de Venezuela - Yaracuyanos FC",
+        "time": "01:00",
+        "id": "278310250120089600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fuerte San Francisco Reserves - Aguilas UP",
+        "time": "01:00",
+        "id": "278540817943105536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Recoleta - General Caballero JLM",
         "time": "00:30",
         "id": "278208208114421760"
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CEFAT Tirol U20 - Caucaia EC CE U20",
-        "time": "23:30",
-        "id": "278608235118858240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Atletico Grau - Comerciantes Unidos",
         "time": "23:00",
         "id": "278027505751953408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KA Asvellir - Arborg",
-        "time": "23:00",
-        "id": "278464781007065088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Llacuabamba - Academia Deport. Cantolao",
-        "time": "23:00",
-        "id": "278481385054932992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hviti Riddarinn - Reynir Sandgerdi",
-        "time": "23:00",
-        "id": "278426454433337344"
     }
 ]
