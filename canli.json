@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Villarreal - Real Oviedo",
+        "time": "22:30",
+        "id": "274722721792921600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Valladolid - AD Ceuta FC",
+        "time": "22:30",
+        "id": "276999959837020160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Burgos CF - Cultural Leonesa",
+        "time": "22:30",
+        "id": "276999959365160960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Genoa - Vicenza",
         "time": "22:15",
         "id": "278297389532581888"
@@ -30,13 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Arminia Bielefeld - SV Werder Bremen",
-        "time": "21:45",
-        "id": "273838750390423552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Galatasaray SK - Fatih Karagumruk",
         "time": "21:30",
         "id": "278202658936983552"
@@ -47,13 +61,6 @@
         "name": "Serik Belediyespor - Umraniyespor",
         "time": "21:30",
         "id": "278215932958085120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Marino - Tenerife",
-        "time": "21:30",
-        "id": "278537627728220160"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Grenoble Foot 38 - Stade Laval",
         "time": "21:00",
         "id": "278111092756058112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cda Aguilas Fc - CF Lorca Deportiva",
-        "time": "21:00",
-        "id": "278593285910564864"
     }
 ]
