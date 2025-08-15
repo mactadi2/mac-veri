@@ -2,9 +2,44 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rennes FC - Marsilya",
+        "time": "21:45",
+        "id": "274293719785672704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lecce - Juve Stabia",
+        "time": "21:45",
+        "id": "278215950115934208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arminia Bielefeld - SV Werder Bremen",
+        "time": "21:45",
+        "id": "273838750390423552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Galatasaray SK - Fatih Karagumruk",
+        "time": "21:30",
+        "id": "278202658936983552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Serik Belediyespor - Umraniyespor",
         "time": "21:30",
         "id": "278215932958085120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Marino - Tenerife",
+        "time": "21:30",
+        "id": "278537627728220160"
     },
     {
         "tur": "live",
@@ -58,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Arosa SC - Bergantinos CF",
-        "time": "20:30",
-        "id": "278596461191630848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KS Teuta Durres - KS Kukesi",
-        "time": "20:30",
-        "id": "278647961221730304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Girona - Rayo Vallecano",
         "time": "20:00",
         "id": "274721628161708032"
@@ -82,26 +103,5 @@
         "name": "UE Olot - CE Europa",
         "time": "20:00",
         "id": "278626045290221568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FUS de Rabat - Ittihad Riadhi de Tanger",
-        "time": "20:00",
-        "id": "278411580370194432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stromsgodset IF - FK Bodo Glimt",
-        "time": "20:00",
-        "id": "277979449043062784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SG Sonnenhof Grossaspach - Bayer 04 Leverkusen",
-        "time": "19:00",
-        "id": "273838748807073792"
     }
 ]
