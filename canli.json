@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Arosa SC - Bergantinos CF",
+        "time": "20:30",
+        "id": "278596461191630848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KS Teuta Durres - KS Kukesi",
+        "time": "20:30",
+        "id": "278647961221730304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Girona - Rayo Vallecano",
         "time": "20:00",
         "id": "274721628161708032"
@@ -89,19 +103,5 @@
         "name": "FC Nordsjaelland - FC Kopenhag",
         "time": "19:00",
         "id": "278012850710122496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KaaPo - Toejoen Veikot",
-        "time": "18:30",
-        "id": "278499999810195456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KeuPa - ViPa",
-        "time": "18:30",
-        "id": "278498594045169664"
     }
 ]
