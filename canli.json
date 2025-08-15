@@ -72,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": " Sunshine Coast Wanderers - Brisbane Wynnum Wolves FC",
+        "time": "12:30",
+        "id": "278215958715305984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Santa Amalia - Merida",
         "time": "12:00",
         "id": "278533338674892800"
@@ -96,12 +103,5 @@
         "name": "Atletico Madrid B - UD Ibiza Eivissa",
         "time": "11:30",
         "id": "278545594612584448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Slaven Belupo - Radnik Krizevci",
-        "time": "11:00",
-        "id": "278534310599987200"
     }
 ]
