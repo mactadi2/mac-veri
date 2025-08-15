@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KaaPo - Toejoen Veikot",
+        "time": "18:30",
+        "id": "278499999810195456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KeuPa - ViPa",
+        "time": "18:30",
+        "id": "278498594045169664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KoPa - SavU (MP II)",
+        "time": "18:30",
+        "id": "278499800289251328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC TPS Turku - Pk-35",
+        "time": "18:30",
+        "id": "278278812925562880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "JaPS - SalPa Salo",
+        "time": "18:30",
+        "id": "278278813074460672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gnistan - VPS Vaasan Palloseura",
         "time": "18:00",
         "id": "278008562368778240"
@@ -44,34 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Lokomotiv Gomel - Ostrovets",
-        "time": "18:00",
-        "id": "278618839372140544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rekord Bielsko-Biala - Sokol Kleczew",
-        "time": "18:00",
-        "id": "278257588481691648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Slovan Bratislava B - FK Inter Bratislava",
-        "time": "18:00",
-        "id": "278246116726804480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Petrojet - Kahraba Ismailia",
-        "time": "18:00",
-        "id": "278487109795450880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "AVS Futebol SAD - Casa Pia",
         "time": "17:30",
         "id": "278116712398852096"
@@ -96,12 +103,5 @@
         "name": "Pakhtakor Tashkent - Sogdiyona Jizzax",
         "time": "17:00",
         "id": "278215932044775424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Lida - FC Minsk 2",
-        "time": "17:00",
-        "id": "278545246017687552"
     }
 ]
