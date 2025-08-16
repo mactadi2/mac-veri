@@ -2,23 +2,65 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sport Club do Recife - Sao Paulo FC",
+        "time": "00:30",
+        "id": "277674401859768320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EC Vitoria - EC Juventude",
+        "time": "00:30",
+        "id": "277675006653239296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rosario Central - Deportivo Riestra",
+        "time": "00:30",
+        "id": "277026829867552768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vila Nova GO - Goias EC",
+        "time": "00:30",
+        "id": "278196329788870656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universidad Catolica Quito - Libertad FC",
+        "time": "00:30",
+        "id": "278124667604176896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guarani Asuncion - Cerro Porteno",
+        "time": "00:30",
+        "id": "278123652776595456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Copiapo - Deportes Concepcion",
+        "time": "00:30",
+        "id": "278212585794441216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Los Andes - Quilmes Atletico Club",
+        "time": "00:15",
+        "id": "278305882933170176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Blooming - Club Bolivar",
         "time": "00:00",
         "id": "278662525679177728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Caracas FC - Portuguesa FC",
-        "time": "00:00",
-        "id": "278310250296250368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Legends FC U20 - Deportes Tolima U20",
-        "time": "00:00",
-        "id": "278735889515024384"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "La Equidad - Llaneros FC",
         "time": "23:00",
         "id": "278185154806157312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Valencia - Real Sociedad",
-        "time": "22:30",
-        "id": "274721628237205504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alaves - Levante",
-        "time": "22:30",
-        "id": "274721717322125312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estrela - SL Benfica",
-        "time": "22:30",
-        "id": "278201767322324992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Granada CF - Deportivo La Coruna",
-        "time": "22:30",
-        "id": "276999960627646464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cremonese - Palermo",
-        "time": "22:15",
-        "id": "278216939114991616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Groningen - SC Heerenveen",
-        "time": "22:00",
-        "id": "277550389246693376"
     }
 ]
