@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Halmstads BK - Malmo FF",
+        "time": "16:00",
+        "id": "278092202554560512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IK Brage Borlange - Vasteras SK FK",
+        "time": "16:00",
+        "id": "278215942936334336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Umea FC - Kalmar FF",
+        "time": "16:00",
+        "id": "278182837697515520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Helsingborgs IF - Falkenbergs FF",
+        "time": "16:00",
+        "id": "278182756474818560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Reims - EA Guingamp",
         "time": "15:00",
         "id": "278215941901389824"
@@ -75,33 +103,5 @@
         "name": "BFC Dynamo Berlin - VfL Bochum",
         "time": "14:00",
         "id": "273838749659566080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ostersunds FK - GIF Sundsvall",
-        "time": "14:00",
-        "id": "278092449592774656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Qingdao West Coast FC - Beijing Guoan FC",
-        "time": "14:00",
-        "id": "278083910314889216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Changchun Yatai - Meizhou Hakka",
-        "time": "14:00",
-        "id": "278083902834348032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Suwon City - Ulsan Hyundai Horang-i",
-        "time": "14:00",
-        "id": "278171654031544320"
     }
 ]
