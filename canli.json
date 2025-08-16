@@ -51,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Magic United U23 - Caboolture FC U23",
+        "time": "09:00",
+        "id": "278517877282312192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Altona Magic - Port Melbourne Sharks",
         "time": "08:15",
         "id": "278215961653415936"
@@ -96,12 +103,5 @@
         "name": "Perth - Kingsway Olympic",
         "time": "08:00",
         "id": "278408355458977792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eastern Lions U23 - Bulleen Lions U23",
-        "time": "08:00",
-        "id": "278516927430791168"
     }
 ]
