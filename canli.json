@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Utc de Cajamarca - Juan Pablo II College",
+        "time": "23:15",
+        "id": "278204614737793024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Valencia - Real Sociedad",
         "time": "22:30",
         "id": "274721628237205504"
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Remo PA - Botafogo SP ",
+        "time": "22:00",
+        "id": "278196582773559296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cagliari - ACD Virtus Entella",
         "time": "21:45",
         "id": "278246992861335552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atalanta - Juventus FC",
-        "time": "21:45",
-        "id": "278255063783313408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bologna F.C. - OFI FC",
-        "time": "21:45",
-        "id": "278215942470766592"
     }
 ]
