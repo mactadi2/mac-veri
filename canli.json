@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FK Pirmasens - Hamburger SV",
+        "time": "14:00",
+        "id": "273838750019227648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BFC Dynamo Berlin - VfL Bochum",
+        "time": "14:00",
+        "id": "273838749659566080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ostersunds FK - GIF Sundsvall",
+        "time": "14:00",
+        "id": "278092449592774656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Qingdao West Coast FC - Beijing Guoan FC",
+        "time": "14:00",
+        "id": "278083910314889216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tianjin Jinmen Tigers - Dalian Young Boy FC",
+        "time": "13:30",
+        "id": "278082240397840384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vissel Kobe - Yokohama FC",
         "time": "13:00",
         "id": "278080447004676096"
@@ -68,40 +103,5 @@
         "name": "Shimizu S-pulse - Yokohama F Marinos",
         "time": "12:30",
         "id": "278078370789593088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Osasuna B - Mutilvera",
-        "time": "12:00",
-        "id": "278632362099740672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnastica Segoviana - Navalcarnero",
-        "time": "12:00",
-        "id": "278634723000061952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Logrones - CD Tudelano",
-        "time": "12:00",
-        "id": "278623703202402304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UD Barbastro - Atletic Lleida",
-        "time": "12:00",
-        "id": "278659261470478336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kashima Antlers - Avispa Fukuoka",
-        "time": "12:00",
-        "id": "278076222671556608"
     }
 ]
