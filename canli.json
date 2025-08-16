@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Adelaide Comets (W) - Salisbury Inter (W)",
+        "time": "08:30",
+        "id": "278656732919631872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Altona Magic - Port Melbourne Sharks",
         "time": "08:15",
         "id": "278215961653415936"
@@ -96,12 +103,5 @@
         "name": "Heidelberg Utd U23 - Oakleigh Cannons U23",
         "time": "07:00",
         "id": "278520688698068992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Green Gully U23 - Preston Lions U23",
-        "time": "07:00",
-        "id": "278520534018428928"
     }
 ]
