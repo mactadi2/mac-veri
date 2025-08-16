@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cremonese - Palermo",
+        "time": "22:15",
+        "id": "278216939114991616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Nice - Toulouse",
         "time": "22:05",
         "id": "274293719958687744"
@@ -93,15 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Heracles Almelo - NEC Nijmegen",
-        "time": "21:00",
-        "id": "277550294787821568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS St. Etienne - Rodez Aveyron",
-        "time": "21:00",
-        "id": "278215941831135232"
+        "name": "Inter - Olympiakos Piraeus FC",
+        "time": "21:30",
+        "id": "278209319959400448"
     }
 ]
