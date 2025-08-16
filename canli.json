@@ -51,13 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VfB Lubeck - SV Darmstadt 98",
-        "time": "19:00",
-        "id": "273838749807415296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Energie Cottbus - Hannover 96",
         "time": "19:00",
         "id": "273838748591067136"
@@ -65,9 +58,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "VfB Lubeck - SV Darmstadt 98",
+        "time": "19:00",
+        "id": "273838749807415296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ethnikos Achnas FC - AEL Limassol",
         "time": "19:00",
         "id": "278634761745993728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Palencia Cristo Atletico - CD Tropezon",
+        "time": "19:00",
+        "id": "278737040648048640"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Racing Santander - Castellon",
         "time": "18:00",
         "id": "277000027974537216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Roma - Neom SC",
-        "time": "18:00",
-        "id": "278632131928920064"
     }
 ]
