@@ -79,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Jippo Joensuu - Klubi 04",
+        "time": "16:00",
+        "id": "278278813367013376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Reims - EA Guingamp",
         "time": "15:00",
         "id": "278215941901389824"
@@ -96,12 +103,5 @@
         "name": "Chengdu Rongcheng FC - Qingdao Hainiu",
         "time": "15:00",
         "id": "278087717158522880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BFC Dynamo Berlin - VfL Bochum",
-        "time": "14:00",
-        "id": "273838749659566080"
     }
 ]
