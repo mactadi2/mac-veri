@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Launceston United - South Hobart",
+        "time": "07:30",
+        "id": "278215953458794496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Dandenong City U23 - Melbourne Knights U23",
         "time": "07:00",
         "id": "278532144414986240"
@@ -23,13 +30,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Eastern Suburbs U23 - Gold Coast United U23",
-        "time": "07:00",
-        "id": "278425632861458432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Moreton City Excelsior U23 - Gold Coast Knights U23",
         "time": "07:00",
         "id": "278425599653056512"
@@ -37,9 +37,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Eastern Suburbs U23 - Gold Coast United U23",
+        "time": "07:00",
+        "id": "278425632861458432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sunshine Coast Wanderers U23 - WDSC Wolves U23",
         "time": "07:00",
         "id": "278425632960024576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brisbane Olympic U23 - Queensland Lions U23",
+        "time": "07:00",
+        "id": "278425648822882304"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Selwyn United - Nomads United",
         "time": "06:00",
         "id": "278634762114043904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Moreland City U23 - Brunswick City U23",
-        "time": "05:45",
-        "id": "278516925245558784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cashmere Technical - Christchurch United",
-        "time": "05:45",
-        "id": "278634762210512896"
     }
 ]
