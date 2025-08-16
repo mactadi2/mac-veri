@@ -51,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hakoah Sydney City East - Bankstown City Lions",
+        "time": "09:30",
+        "id": "278577044698304512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Yeronga FC - North Brisbane",
         "time": "09:15",
         "id": "278506241103368192"
@@ -61,13 +68,6 @@
         "name": "Dandenong City - Melbourne Knights",
         "time": "09:00",
         "id": "278345570526040064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wollongong Wolves Fc U20 - NWS Spirit FC U20",
-        "time": "09:00",
-        "id": "278430590887399424"
     },
     {
         "tur": "live",
@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Magic United U23 - Caboolture FC U23",
-        "time": "09:00",
-        "id": "278517877282312192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Brisbane Strikers U23 - Ipswich FC U23",
         "time": "09:00",
         "id": "278513643636789248"
@@ -103,5 +96,12 @@
         "name": "SWQ Thunder U23 - Southside Eagles U23",
         "time": "09:00",
         "id": "278519717358080000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Redlands United U23 - Capalaba U23",
+        "time": "09:00",
+        "id": "278517849411162112"
     }
 ]
