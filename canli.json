@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Excelsior Rotterdam - Feyenoord Rotterdam",
+        "time": "19:45",
+        "id": "277550343050629120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wolverhampton Wanderers - Manchester City",
+        "time": "19:30",
+        "id": "273362759396233216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Calcio Como - FC Sudtirol Bolzano",
+        "time": "19:30",
+        "id": "278215949848547328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kocaelispor - Samsunspor",
         "time": "19:00",
         "id": "278215935242932224"
@@ -51,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CD Palencia Cristo Atletico - CD Tropezon",
-        "time": "19:00",
-        "id": "278737040648048640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "IFK Mariehamn - Kotkan Tyovaen Palloilijat",
         "time": "19:00",
         "id": "278103697011118080"
@@ -89,19 +103,5 @@
         "name": "AS Roma - Neom SC",
         "time": "18:00",
         "id": "278632131928920064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Tondela - Famalicao",
-        "time": "17:30",
-        "id": "278215936749735936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FV Illertissen - FC Nurnberg",
-        "time": "16:30",
-        "id": "273838748334166016"
     }
 ]
