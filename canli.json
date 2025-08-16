@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kocaelispor - Samsunspor",
+        "time": "19:00",
+        "id": "278215935242932224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sariyer GK - Boluspor",
+        "time": "19:00",
+        "id": "278215932865810432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SSC Venezia - Mantova",
+        "time": "19:00",
+        "id": "278215950187237376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportfreunde Lotte - SC Freiburg",
+        "time": "19:00",
+        "id": "273838748987428864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VfB Lubeck - SV Darmstadt 98",
+        "time": "19:00",
+        "id": "273838749807415296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Energie Cottbus - Hannover 96",
+        "time": "19:00",
+        "id": "273838748591067136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ethnikos Achnas FC - AEL Limassol",
+        "time": "19:00",
+        "id": "278634761745993728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Palencia Cristo Atletico - CD Tropezon",
+        "time": "19:00",
+        "id": "278737040648048640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IFK Mariehamn - Kotkan Tyovaen Palloilijat",
+        "time": "19:00",
+        "id": "278103697011118080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IFK Norrkoping - IF Elfsborg",
+        "time": "18:30",
+        "id": "278100816117764096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lens - Lyon",
         "time": "18:00",
         "id": "276365797996236800"
@@ -16,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AS Roma - Neom SC",
+        "time": "18:00",
+        "id": "278632131928920064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Tondela - Famalicao",
         "time": "17:30",
         "id": "278215936749735936"
@@ -23,85 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tottenham - Burnley",
-        "time": "17:00",
-        "id": "273362700551196672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brighton - Fulham",
-        "time": "17:00",
-        "id": "273362529953124352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sunderland - West Ham",
-        "time": "17:00",
-        "id": "273362692469821440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Preston North End - Leicester City",
-        "time": "17:00",
-        "id": "278102827396632576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blackburn - Birmingham",
-        "time": "17:00",
-        "id": "278102839626174464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bristol City - Charlton",
-        "time": "17:00",
-        "id": "278096022275756032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Millwall - Middlesbrough",
-        "time": "17:00",
-        "id": "278102827298066432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Watford - QPR",
-        "time": "17:00",
-        "id": "278097753769381888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sheff Wed - Stoke",
-        "time": "17:00",
-        "id": "278097753664524288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Swansea - Sheff Utd",
-        "time": "17:00",
-        "id": "278096022175092736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hadley - Maldon & Tiptree",
-        "time": "17:00",
-        "id": "278654697288634368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lowestoft Town - St Neots Town",
-        "time": "17:00",
-        "id": "278654697371471872"
+        "name": "FV Illertissen - FC Nurnberg",
+        "time": "16:30",
+        "id": "273838748334166016"
     }
 ]
