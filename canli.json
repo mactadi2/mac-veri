@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rionegro Aguilas Doradas - Boyaca Chico",
+        "time": "01:15",
+        "id": "278127516180418560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guayaquil City - Deportivo Vargas Torres",
+        "time": "01:00",
+        "id": "278215939321892864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pacific FC - HFX Wanderers FC",
+        "time": "01:00",
+        "id": "278227351231401984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Martin De Burzaco - Villa Dalmine",
+        "time": "00:45",
+        "id": "278666281134198784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sport Club do Recife - Sao Paulo FC",
         "time": "00:30",
         "id": "277674401859768320"
@@ -65,43 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Caracas FC - Portuguesa FC",
+        "time": "00:00",
+        "id": "278310250296250368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "22 de Julio - Club 9 de Octubre",
         "time": "23:30",
         "id": "278484220339425280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Utc de Cajamarca - Juan Pablo II College",
-        "time": "23:15",
-        "id": "278204614737793024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maringa FC PR - Retro FC Brasil",
-        "time": "23:00",
-        "id": "278219636578848768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AA Ponte Preta - Itabaiana",
-        "time": "23:00",
-        "id": "278118933353074688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rio Branco ES - Inter de Limeira",
-        "time": "23:00",
-        "id": "278384170549514240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "La Equidad - Llaneros FC",
-        "time": "23:00",
-        "id": "278185154806157312"
     }
 ]
