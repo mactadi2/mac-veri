@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EM Deportivo Binacional - Sporting Cristal Lima",
+        "time": "01:30",
+        "id": "278127962297077760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "O'Higgins - Cobresal Salvador",
+        "time": "01:30",
+        "id": "278127422520561664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Alagoano AL - Ituano SP",
+        "time": "01:30",
+        "id": "278128348824211456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ABC Futebol Clube - Guarani FC De Campinas",
+        "time": "01:30",
+        "id": "278128110943211520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rionegro Aguilas Doradas - Boyaca Chico",
         "time": "01:15",
         "id": "278127516180418560"
@@ -12,13 +40,6 @@
         "name": "Guayaquil City - Deportivo Vargas Torres",
         "time": "01:00",
         "id": "278215939321892864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pacific FC - HFX Wanderers FC",
-        "time": "01:00",
-        "id": "278227351231401984"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "CA Los Andes - Quilmes Atletico Club",
         "time": "00:15",
         "id": "278305882933170176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blooming - Club Bolivar",
-        "time": "00:00",
-        "id": "278662525679177728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Caracas FC - Portuguesa FC",
-        "time": "00:00",
-        "id": "278310250296250368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "22 de Julio - Club 9 de Octubre",
-        "time": "23:30",
-        "id": "278484220339425280"
     }
 ]
