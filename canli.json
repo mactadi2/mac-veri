@@ -30,6 +30,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kyoto Purple Sanga - Tokyo Verdy 1969",
+        "time": "13:00",
+        "id": "278150750196076544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Urawa Red Diamonds - Nagoya Grampus Eight",
+        "time": "13:00",
+        "id": "278079910166269952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Barakaldo - Real Union Club de Irun",
         "time": "12:30",
         "id": "278634761887551488"
@@ -89,19 +103,5 @@
         "name": "Kashima Antlers - Avispa Fukuoka",
         "time": "12:00",
         "id": "278076222671556608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Malagueno - CD Estepona",
-        "time": "11:30",
-        "id": "278681795567947776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Madrid B - Alcorcon",
-        "time": "11:30",
-        "id": "278712724244008960"
     }
 ]
