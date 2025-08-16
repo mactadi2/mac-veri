@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Reims - EA Guingamp",
+        "time": "15:00",
+        "id": "278215941901389824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Annecy FC - Dunkerque",
+        "time": "15:00",
+        "id": "278111092670074880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chengdu Rongcheng FC - Qingdao Hainiu",
+        "time": "15:00",
+        "id": "278087717158522880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Zhejiang Professional FC - Shanghai Shenhua",
         "time": "14:35",
         "id": "278085971849908224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shenzhen Peng FC - Shandong Luneng Taishan FC",
+        "time": "14:35",
+        "id": "278086613556400128"
     },
     {
         "tur": "live",
@@ -58,50 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vissel Kobe - Yokohama FC",
-        "time": "13:00",
-        "id": "278080447004676096"
+        "name": "Qingdao West Coast FC - Beijing Guoan FC",
+        "time": "14:00",
+        "id": "278083910314889216"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Machida Zelvia - Cerezo Osaka",
-        "time": "13:00",
-        "id": "278081235564236800"
+        "name": "Changchun Yatai - Meizhou Hakka",
+        "time": "14:00",
+        "id": "278083902834348032"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Albirex Niigata - Kawasaki Frontale",
-        "time": "13:00",
-        "id": "278081235646025728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kyoto Purple Sanga - Tokyo Verdy 1969",
-        "time": "13:00",
-        "id": "278150750196076544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sanfrecce Hiroshima - Gamba Osaka",
-        "time": "13:00",
-        "id": "278079910007934976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Urawa Red Diamonds - Nagoya Grampus Eight",
-        "time": "13:00",
-        "id": "278079910166269952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shonan Bellmare - FC Tokyo",
-        "time": "13:00",
-        "id": "278080446551691264"
+        "name": "Suwon City - Ulsan Hyundai Horang-i",
+        "time": "14:00",
+        "id": "278171654031544320"
     }
 ]
