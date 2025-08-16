@@ -2,9 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cremonese - Palermo",
-        "time": "22:15",
-        "id": "278216939114991616"
+        "name": "Valencia - Real Sociedad",
+        "time": "22:30",
+        "id": "274721628237205504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alaves - Levante",
+        "time": "22:30",
+        "id": "274721717322125312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estrela - SL Benfica",
+        "time": "22:30",
+        "id": "278201767322324992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Granada CF - Deportivo La Coruna",
+        "time": "22:30",
+        "id": "276999960627646464"
     },
     {
         "tur": "live",
@@ -72,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Inter - Olympiakos Piraeus FC",
-        "time": "21:30",
-        "id": "278209319959400448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Heracles Almelo - NEC Nijmegen",
         "time": "21:00",
         "id": "277550294787821568"
@@ -89,19 +103,5 @@
         "name": "AS St. Etienne - Rodez Aveyron",
         "time": "21:00",
         "id": "278215941831135232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mallorca - Barcelona",
-        "time": "20:30",
-        "id": "274721717397622784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malaga CF - Eibar",
-        "time": "20:30",
-        "id": "276999959264497664"
     }
 ]
