@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Heracles Almelo - NEC Nijmegen",
+        "time": "21:00",
+        "id": "277550294787821568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AS St. Etienne - Rodez Aveyron",
+        "time": "21:00",
+        "id": "278215941831135232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SS Lazio - PAE APS Atromitos Athens",
+        "time": "21:00",
+        "id": "278266568788545536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mallorca - Barcelona",
         "time": "20:30",
         "id": "274721717397622784"
@@ -12,6 +33,27 @@
         "name": "Malaga CF - Eibar",
         "time": "20:30",
         "id": "276999959264497664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing de Ferrol - Ponferradina",
+        "time": "20:30",
+        "id": "278634761552007168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CE L'Hospitalet - Gimnastic de Tarragona",
+        "time": "20:30",
+        "id": "278509727782146048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Marino de Luanco - Real Aviles CF",
+        "time": "20:30",
+        "id": "278633293643124736"
     },
     {
         "tur": "live",
@@ -37,6 +79,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Saguntino - Torrent CF",
+        "time": "20:00",
+        "id": "278622173429633024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Reus FC Reddis - Utebo",
+        "time": "20:00",
+        "id": "278622171388055552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Excelsior Rotterdam - Feyenoord Rotterdam",
         "time": "19:45",
         "id": "277550343050629120"
@@ -47,61 +103,5 @@
         "name": "Wolverhampton Wanderers - Manchester City",
         "time": "19:30",
         "id": "273362759396233216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Calcio Como - FC Sudtirol Bolzano",
-        "time": "19:30",
-        "id": "278215949848547328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kocaelispor - Samsunspor",
-        "time": "19:00",
-        "id": "278215935242932224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sariyer GK - Boluspor",
-        "time": "19:00",
-        "id": "278215932865810432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSC Venezia - Mantova",
-        "time": "19:00",
-        "id": "278215950187237376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportfreunde Lotte - SC Freiburg",
-        "time": "19:00",
-        "id": "273838748987428864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Energie Cottbus - Hannover 96",
-        "time": "19:00",
-        "id": "273838748591067136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VfB Lubeck - SV Darmstadt 98",
-        "time": "19:00",
-        "id": "273838749807415296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethnikos Achnas FC - AEL Limassol",
-        "time": "19:00",
-        "id": "278634761745993728"
     }
 ]
