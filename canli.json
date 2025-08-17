@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Konyaspor - Gaziantep FK",
+        "time": "19:00",
+        "id": "278203846708301824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Genclerbirligi SK - Antalyaspor",
+        "time": "19:00",
+        "id": "278228623037698048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vanspor FK - Esenler Erokspor",
+        "time": "19:00",
+        "id": "278295360089231360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sivasspor - Bodrumspor",
+        "time": "19:00",
+        "id": "278295360215060480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SSD Monza 1912 - Frosinone",
+        "time": "19:00",
+        "id": "278295359268196352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hallescher FC - FC Augsburg",
+        "time": "19:00",
+        "id": "273838749410004992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Homburg - KSV Holstein Kiel",
+        "time": "19:00",
+        "id": "273838750305488896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Manchester United - Arsenal",
         "time": "18:30",
         "id": "273362814336372736"
@@ -44,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "KFUM Oslo - Molde FK",
-        "time": "18:00",
-        "id": "277979900896481280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kristiansund BK - Sandefjord",
-        "time": "18:00",
-        "id": "277979421300887552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Volendam - AZ Alkmaar",
         "time": "17:45",
         "id": "277550389329530880"
@@ -68,40 +103,5 @@
         "name": "Rio Ave - Nacional Madeira Funchal",
         "time": "17:30",
         "id": "278188609410043904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mjallby AIF - Djurgardens IF",
-        "time": "17:30",
-        "id": "278187621532962816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hammarby IF - GAIS",
-        "time": "17:30",
-        "id": "278188254420930560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BK Hacken - Osters IF",
-        "time": "17:30",
-        "id": "278187621654597632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hull City - Oxford United",
-        "time": "17:00",
-        "id": "278103003575226368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lokomotive Leipzig - FC Schalke 04",
-        "time": "16:30",
-        "id": "273838749572534272"
     }
 ]
