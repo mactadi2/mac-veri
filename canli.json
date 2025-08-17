@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AC Parma - Pescara",
+        "time": "19:30",
+        "id": "278334520694018048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Konyaspor - Gaziantep FK",
         "time": "19:00",
         "id": "278203846708301824"
@@ -51,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SSV Ulm - SV Elversberg",
+        "time": "19:00",
+        "id": "273838749917515776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Manchester United - Arsenal",
         "time": "18:30",
         "id": "273362814336372736"
@@ -89,19 +103,5 @@
         "name": "Real Sociedad B - Real Zaragoza",
         "time": "18:00",
         "id": "276999959575924736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Volendam - AZ Alkmaar",
-        "time": "17:45",
-        "id": "277550389329530880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rio Ave - Nacional Madeira Funchal",
-        "time": "17:30",
-        "id": "278188609410043904"
     }
 ]
