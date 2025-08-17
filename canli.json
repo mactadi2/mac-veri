@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ventforet Kofu - Oita Trinita",
+        "time": "12:30",
+        "id": "278168726576173056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bayside United - North Pine",
+        "time": "12:30",
+        "id": "278803023318355968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": " Celta Fortuna - Ourense CF",
         "time": "12:00",
         "id": "278756054368653312"
@@ -12,13 +26,6 @@
         "name": "Club Portugalete - Athletic Bilbao B",
         "time": "12:00",
         "id": "278728138407677952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fagiano Okayama - Kashiwa Reysol",
-        "time": "12:00",
-        "id": "278167183629094912"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Gijang United - Dangjin Citizen FC",
         "time": "11:00",
         "id": "278643566356598784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pyeongtaek Citizen Fc - Pyeongchang United",
-        "time": "11:00",
-        "id": "278643566217138176"
     }
 ]
