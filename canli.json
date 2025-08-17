@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Athletic Bilbao - Sevilla",
+        "time": "20:30",
+        "id": "274721628346257408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cadiz - CD Mirandes",
+        "time": "20:30",
+        "id": "276999959216263168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Alverca - SC Braga",
         "time": "20:00",
         "id": "278298916586393600"
@@ -19,13 +33,6 @@
         "name": "AC Parma - Pescara",
         "time": "19:30",
         "id": "278334520694018048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kawkab AC Marrakech - Racing de Casablanca",
-        "time": "19:30",
-        "id": "278828653922619392"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Aris Thessaloniki - Asteras Tripolis",
         "time": "19:00",
         "id": "278720831591419904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manchester United - Arsenal",
-        "time": "18:30",
-        "id": "273362814336372736"
     }
 ]
