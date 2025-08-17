@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chelsea - Crystal Palace",
+        "time": "16:00",
+        "id": "273362789664428032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nottingham Forest - Brentford",
+        "time": "16:00",
+        "id": "273362520507551744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brest - Lille",
+        "time": "16:00",
+        "id": "274293865373110272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orebro SK - Orgryte IS",
+        "time": "16:00",
+        "id": "278283758906511360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Independiente FBC - Resistencia SC",
+        "time": "16:00",
+        "id": "278316805669392384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Rubin Kazan - FC Rostov",
+        "time": "15:45",
+        "id": "277335707084787712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Twente - PSV Eindhoven",
         "time": "15:30",
         "id": "277550324415336448"
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ajax (K) - Chelsea (Kadınlar)",
-        "time": "15:00",
-        "id": "278717027401732096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Traeff - Jerv",
-        "time": "15:00",
-        "id": "278279994463096832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Verbroedering Dender EH - RSC Anderlecht",
         "time": "14:30",
         "id": "278002248096813056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ipswich Town - Southampton",
-        "time": "14:00",
-        "id": "278102868906610688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FV Engers 07 - Eintracht Frankfurt",
-        "time": "14:00",
-        "id": "273838749156249600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viktoria Koln 1904 - SC Paderborn 07",
-        "time": "14:00",
-        "id": "273838748410712064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brattvag - Fk Tonsberg",
-        "time": "14:00",
-        "id": "278276251207208960"
     }
 ]
