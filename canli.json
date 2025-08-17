@@ -2,9 +2,58 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "New York City FC - Nashville SC",
+        "time": "00:00",
+        "id": "277541192201277440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tecnico Universitario - Emelec Guayaquil",
+        "time": "23:30",
+        "id": "278208361791623168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Vinotinto - Cumbaya FC",
+        "time": "23:30",
+        "id": "278435137366134784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chacaritas SC - Gualaceo SC",
+        "time": "23:30",
+        "id": "278215939011514368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Indepiendente Juniors - San Antonio FC Cotacachi",
+        "time": "23:30",
+        "id": "278419529601781760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "San Martin Tucuman - Club Atletico Alvarado",
         "time": "23:10",
         "id": "278210298433900544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FBC Melgar Arequipa - Ayacucho FC",
+        "time": "23:00",
+        "id": "278204871529861120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Forge FC - Atletico Ottawa",
+        "time": "23:00",
+        "id": "278278614067318784"
     },
     {
         "tur": "live",
@@ -37,71 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AC Milan - Bari",
-        "time": "22:15",
-        "id": "278307352115023872"
+        "name": "Sao Bernardo FC - Figueirense FC",
+        "time": "22:30",
+        "id": "278207578030346240"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Banfield - Estudiantes de la Plata",
-        "time": "22:15",
-        "id": "277025478215340032"
+        "name": "Brusque - Londrina EC PR",
+        "time": "22:30",
+        "id": "278206711460925440"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Central Cordoba De Santiago - Barracas Central",
-        "time": "22:15",
-        "id": "277025994192326656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santos FC Sao Paulo  - Vasco da Gama RJ",
-        "time": "22:00",
-        "id": "277579065565777920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Mineiro - Gremio Porto Alegrense RS",
-        "time": "22:00",
-        "id": "277675726703038464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Almagro - CA Atlanta",
-        "time": "22:00",
-        "id": "278276667279020032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Patronato - Arsenal de Sarandi",
-        "time": "22:00",
-        "id": "278305914717605888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Guemes - CA All Boys",
-        "time": "22:00",
-        "id": "278302741069172736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estudiantes Rio Cuarto - CA Estudiantes Caseros",
-        "time": "22:00",
-        "id": "278262007676932096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cesena FC - Pisa",
-        "time": "21:45",
-        "id": "278305519431716864"
+        "name": "Cianorte Pr - Mixto EC",
+        "time": "22:30",
+        "id": "278361735503679488"
     }
 ]
