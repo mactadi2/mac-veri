@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Go Ahead Eagles - AFC Ajax",
+        "time": "13:15",
+        "id": "277550342985617408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Emmen - Almere City",
+        "time": "13:15",
+        "id": "278273263278362624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimcheon Sangmu FC - FC Seoul",
+        "time": "13:00",
+        "id": "278171301908189184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gwangju FC - Daejeon Citizen",
+        "time": "13:00",
+        "id": "278171504090419200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ehime FC - Omiya Ardija",
+        "time": "13:00",
+        "id": "278170659433091072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sagan Tosu - V-Varen Nagasaki",
+        "time": "13:00",
+        "id": "278171903520280576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cheonan City Fc - Busan I. Park",
+        "time": "13:00",
+        "id": "278171503986610176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Kudrivka - SK Poltava",
+        "time": "13:00",
+        "id": "278227647622942720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ventforet Kofu - Oita Trinita",
         "time": "12:30",
         "id": "278168726576173056"
@@ -30,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Yangpyeong FC - Yeoju Citizen FC",
-        "time": "12:00",
-        "id": "278268895299768320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Police SA - Yishun Sentek Mariners FC",
-        "time": "12:00",
-        "id": "278682295525838848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Real Madrid B - UD Ibiza Eivissa",
         "time": "11:30",
         "id": "278523899875037184"
@@ -61,47 +103,5 @@
         "name": "Western United FC U23 - Langwarrin U23",
         "time": "11:30",
         "id": "278799230653566976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Austria Salzburg - SK Rapid Wien II",
-        "time": "11:30",
-        "id": "278283953369124864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Slavia Prague B - FK Pribram",
-        "time": "11:15",
-        "id": "278266119147622400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Siheung Citizen - Busan Transportation Corporation",
-        "time": "11:00",
-        "id": "278265099615080448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Tunari - ACS FC Bacau",
-        "time": "11:00",
-        "id": "278157055430365184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gijang United - Dangjin Citizen FC",
-        "time": "11:00",
-        "id": "278643566356598784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pyeongtaek Citizen Fc - Pyeongchang United",
-        "time": "11:00",
-        "id": "278643566217138176"
     }
 ]
