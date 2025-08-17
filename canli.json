@@ -2,9 +2,44 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": " Celta Fortuna - Ourense CF",
+        "time": "12:00",
+        "id": "278756054368653312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Portugalete - Athletic Bilbao B",
+        "time": "12:00",
+        "id": "278728138407677952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fagiano Okayama - Kashiwa Reysol",
+        "time": "12:00",
+        "id": "278167183629094912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yangpyeong FC - Yeoju Citizen FC",
+        "time": "12:00",
+        "id": "278268895299768320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Madrid B - UD Ibiza Eivissa",
         "time": "11:30",
         "id": "278523899875037184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "U.D. Melilla - Ud Almeria B",
+        "time": "11:30",
+        "id": "278733890897711104"
     },
     {
         "tur": "live",
@@ -44,64 +79,29 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gladesville Ravens (W) - Sydney University FC (W)",
-        "time": "10:10",
-        "id": "278508748439425024"
+        "name": "CS Tunari - ACS FC Bacau",
+        "time": "11:00",
+        "id": "278157055430365184"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "South Melbourne - Avondale Fc",
-        "time": "10:00",
-        "id": "278261276461895680"
+        "name": "CS Concordia Chiajna - FC Ceahlaul Piatra Neamt",
+        "time": "11:00",
+        "id": "278156107556458496"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "St Albans Saints Sc - Dandenong Thunder",
-        "time": "10:00",
-        "id": "278345930985574400"
+        "name": "Gijang United - Dangjin Citizen FC",
+        "time": "11:00",
+        "id": "278643566356598784"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "APIA Leichhardt Tigers U20 - Sutherland Sharks U20",
-        "time": "10:00",
-        "id": "278458731385196544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Macarthur Rams (W) - Bulls Northbridge FC Academy (W)",
-        "time": "10:00",
-        "id": "278508748268507136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sydney Olympic (W) - Apia Leichhardt Tigers (W)",
-        "time": "10:00",
-        "id": "278508748521213952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Western Sydney Wanderers B (W) - Mt Druitt Town Rangers (W)",
-        "time": "10:00",
-        "id": "278508748617682944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Manly United FC (W) - Illawarra Stingrays (W)",
-        "time": "10:00",
-        "id": "278508748360781824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Morley Windmills SC - North Perth United",
-        "time": "10:00",
-        "id": "278793379312177152"
+        "name": "Pyeongtaek Citizen Fc - Pyeongchang United",
+        "time": "11:00",
+        "id": "278643566217138176"
     }
 ]
