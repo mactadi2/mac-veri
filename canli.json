@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NAC Breda - Fortuna Sittard",
+        "time": "21:00",
+        "id": "277550358412267520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IA Akranes - Vikingur Reykjavik",
+        "time": "21:00",
+        "id": "278297751571271680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "LDU Quito  - Manta FC",
+        "time": "21:00",
+        "id": "278201914359943168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Athletic Bilbao - Sevilla",
         "time": "20:30",
         "id": "274721628346257408"
@@ -12,6 +33,20 @@
         "name": "Cadiz - CD Mirandes",
         "time": "20:30",
         "id": "276999959216263168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valerenga IF Oslo - Sarpsborg 08",
+        "time": "20:15",
+        "id": "277979901352611840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cercle Brugge KSV - KVC Westerlo",
+        "time": "20:15",
+        "id": "278002161867165696"
     },
     {
         "tur": "live",
@@ -30,9 +65,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AC Parma - Pescara",
-        "time": "19:30",
-        "id": "278334520694018048"
+        "name": "Defensa y Justicia - Newell's Old Boys",
+        "time": "20:00",
+        "id": "277026295104278528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnasia y Esgrima La Plata - Atletico Lanus",
+        "time": "20:00",
+        "id": "277026267521486848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UMF Afturelding - KA Akureyri",
+        "time": "20:00",
+        "id": "278297824667504640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sport Huancayo - Universitario de Deportes",
+        "time": "20:00",
+        "id": "278197343026810880"
     },
     {
         "tur": "live",
@@ -44,64 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Konyaspor - Gaziantep FK",
+        "name": "ES Mostaganem - NRB Telaghema",
         "time": "19:00",
-        "id": "278203846708301824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Genclerbirligi SK - Antalyaspor",
-        "time": "19:00",
-        "id": "278228623037698048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vanspor FK - Esenler Erokspor",
-        "time": "19:00",
-        "id": "278295360089231360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sivasspor - Bodrumspor",
-        "time": "19:00",
-        "id": "278295360215060480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSD Monza 1912 - Frosinone",
-        "time": "19:00",
-        "id": "278295359268196352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hallescher FC - FC Augsburg",
-        "time": "19:00",
-        "id": "273838749410004992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Homburg - KSV Holstein Kiel",
-        "time": "19:00",
-        "id": "273838750305488896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSV Ulm - SV Elversberg",
-        "time": "19:00",
-        "id": "273838749917515776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aris Thessaloniki - Asteras Tripolis",
-        "time": "19:00",
-        "id": "278720831591419904"
+        "id": "278827075878653952"
     }
 ]
