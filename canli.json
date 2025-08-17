@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Springfield United - University of Queensland",
+        "time": "09:15",
+        "id": "278771622544019456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mitchelton (W) - Lions Fc (W)",
         "time": "09:15",
         "id": "278509721657413632"
@@ -16,16 +23,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gold Coast United (W) - Brisbane City (W)",
+        "name": "Sunshine Coast Wanderers (W) - Eastern Suburbs (W)",
         "time": "09:15",
-        "id": "278509721750736896"
+        "id": "278515195927728128"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sunshine Coast Wanderers (W) - Eastern Suburbs (W)",
+        "name": "Gold Coast United (W) - Brisbane City (W)",
         "time": "09:15",
-        "id": "278515195927728128"
+        "id": "278509721750736896"
     },
     {
         "tur": "live",
@@ -47,6 +54,13 @@
         "name": "Lake Macquarie (W) - Adamstown Rosebud (W)",
         "time": "09:00",
         "id": "278555649815744512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maitland (W) - Charlestown Azzurri (W)",
+        "time": "09:00",
+        "id": "278545011908415488"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Lambton Jaffas FC - Maitland",
         "time": "08:00",
         "id": "278586769946054656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gungahlin United FC - Canberra Fk",
-        "time": "08:00",
-        "id": "278253791074193408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Canberra Olympic - Canberra Juventus",
-        "time": "08:00",
-        "id": "278519062868398080"
     }
 ]
