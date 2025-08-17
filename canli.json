@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Manchester United - Arsenal",
+        "time": "18:30",
+        "id": "273362814336372736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Metz - Strasbourg",
         "time": "18:15",
         "id": "274293477966221312"
@@ -37,6 +44,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "KFUM Oslo - Molde FK",
+        "time": "18:00",
+        "id": "277979900896481280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kristiansund BK - Sandefjord",
+        "time": "18:00",
+        "id": "277979421300887552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Volendam - AZ Alkmaar",
         "time": "17:45",
         "id": "277550389329530880"
@@ -58,6 +79,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hammarby IF - GAIS",
+        "time": "17:30",
+        "id": "278188254420930560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BK Hacken - Osters IF",
+        "time": "17:30",
+        "id": "278187621654597632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hull City - Oxford United",
         "time": "17:00",
         "id": "278103003575226368"
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SV Atlas Delmenhorst - Borussia Monchengladbach",
-        "time": "16:30",
-        "id": "273838748509278208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Lokomotive Leipzig - FC Schalke 04",
         "time": "16:30",
         "id": "273838749572534272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSV Jahn Regensburg - 1. FC Köln",
-        "time": "16:30",
-        "id": "273838748736819200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "TuS Blau-Weiss Lohne - SpVgg Greuther Furth",
-        "time": "16:30",
-        "id": "273838750170222592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "RSV Eintracht 1949 - FC Kaiserslautern",
-        "time": "16:30",
-        "id": "273838748659224576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ZFC Meuselwitz - Karlsruher SC",
-        "time": "16:30",
-        "id": "273838750580215808"
     }
 ]
