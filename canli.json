@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "South Melbourne U23 - Avondale U23",
+        "time": "07:00",
+        "id": "278536564786728960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "South Hobart Reserves - South East United",
         "time": "07:00",
         "id": "278505589021216768"
@@ -68,33 +75,5 @@
         "name": "Dorados - Venados Merida FC",
         "time": "06:00",
         "id": "278154575724285952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portland Timbers - FC Cincinnati",
-        "time": "05:30",
-        "id": "277540913674326016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gungahlin Utd U23 - Canberra Croatia U23",
-        "time": "05:30",
-        "id": "278533141578256384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Herediano - Municipal Perez Zeledon",
-        "time": "05:00",
-        "id": "278220782599016448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orlando City SC - Sporting Kansas City",
-        "time": "02:30",
-        "id": "277539376023605248"
     }
 ]
