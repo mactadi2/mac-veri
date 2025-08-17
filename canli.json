@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hull City - Oxford United",
+        "time": "17:00",
+        "id": "278103003575226368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KuPS Kuopio - FC Inter Turku",
+        "time": "17:00",
+        "id": "278244948380356608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SV Atlas Delmenhorst - Borussia Monchengladbach",
         "time": "16:30",
         "id": "273838748509278208"
@@ -89,19 +103,5 @@
         "name": "Tromso IL - SK Brann Bergen",
         "time": "15:30",
         "id": "277979261909995520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Brommapojkarna - IK Sirius FK",
-        "time": "15:00",
-        "id": "278178426674876416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IFK Goteborg - AIK",
-        "time": "15:00",
-        "id": "278178426428461056"
     }
 ]
