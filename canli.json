@@ -2,16 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hull City - Oxford United",
-        "time": "17:00",
-        "id": "278103003575226368"
+        "name": "Rio Ave - Nacional Madeira Funchal",
+        "time": "17:30",
+        "id": "278188609410043904"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "KuPS Kuopio - FC Inter Turku",
+        "name": "Mjallby AIF - Djurgardens IF",
+        "time": "17:30",
+        "id": "278187621532962816"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hammarby IF - GAIS",
+        "time": "17:30",
+        "id": "278188254420930560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "BK Hacken - Osters IF",
+        "time": "17:30",
+        "id": "278187621654597632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hull City - Oxford United",
         "time": "17:00",
-        "id": "278244948380356608"
+        "id": "278103003575226368"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Orebro SK - Orgryte IS",
         "time": "16:00",
         "id": "278283758906511360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Twente - PSV Eindhoven",
-        "time": "15:30",
-        "id": "277550324415336448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sparta Rotterdam - FC Utrecht",
-        "time": "15:30",
-        "id": "277550294730149888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tromso IL - SK Brann Bergen",
-        "time": "15:30",
-        "id": "277979261909995520"
     }
 ]
