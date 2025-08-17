@@ -2,23 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Western Strikers (W) - Modbury Vista (W)",
-        "time": "08:30",
-        "id": "278788181122486272"
+        "name": "Mitchelton (W) - Lions Fc (W)",
+        "time": "09:15",
+        "id": "278509721657413632"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Adelaide Jaguars (W) - Elizabeth Grove (W)",
-        "time": "08:30",
-        "id": "278788017733373952"
+        "name": "Souths United NPL (W) - Gold Coast Knights (W)",
+        "time": "09:15",
+        "id": "278509721570381824"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Apia Leichhardt Tigers - Sutherland Sharks",
-        "time": "08:00",
-        "id": "278348226486210560"
+        "name": "Gold Coast United (W) - Brisbane City (W)",
+        "time": "09:15",
+        "id": "278509721750736896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sunshine Coast Wanderers (W) - Eastern Suburbs (W)",
+        "time": "09:15",
+        "id": "278515195927728128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Western United II - Langwarrin Sc",
+        "time": "09:00",
+        "id": "278571438183682048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Surfers Paradise - Musgrave",
+        "time": "09:00",
+        "id": "278768044012081152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lake Macquarie (W) - Adamstown Rosebud (W)",
+        "time": "09:00",
+        "id": "278555649815744512"
     },
     {
         "tur": "live",
@@ -26,6 +54,13 @@
         "name": "Marconi Stallions - Manly United FC",
         "time": "08:00",
         "id": "278348226398130176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Apia Leichhardt Tigers - Sutherland Sharks",
+        "time": "08:00",
+        "id": "278348226486210560"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "Canberra Olympic - Canberra Juventus",
         "time": "08:00",
         "id": "278519062868398080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Belconnen United (W) - Gungahlin United (W)",
-        "time": "08:00",
-        "id": "278553258970189824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Canberra Croatia (W) - West Canberra Wanderers FC (W)",
-        "time": "08:00",
-        "id": "278553407903633408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St Albans Saints U23 - Dandenong Thunder U23",
-        "time": "07:00",
-        "id": "278517730924171264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South Melbourne U23 - Avondale U23",
-        "time": "07:00",
-        "id": "278536564786728960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South Hobart Reserves - South East United",
-        "time": "07:00",
-        "id": "278505589021216768"
     }
 ]
