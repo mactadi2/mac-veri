@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SV Atlas Delmenhorst - Borussia Monchengladbach",
+        "time": "16:30",
+        "id": "273838748509278208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SSV Jahn Regensburg - 1. FC Köln",
+        "time": "16:30",
+        "id": "273838748736819200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lokomotive Leipzig - FC Schalke 04",
+        "time": "16:30",
+        "id": "273838749572534272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "TuS Blau-Weiss Lohne - SpVgg Greuther Furth",
+        "time": "16:30",
+        "id": "273838750170222592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RSV Eintracht 1949 - FC Kaiserslautern",
+        "time": "16:30",
+        "id": "273838748659224576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ZFC Meuselwitz - Karlsruher SC",
+        "time": "16:30",
+        "id": "273838750580215808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chelsea - Crystal Palace",
         "time": "16:00",
         "id": "273362789664428032"
@@ -26,20 +68,6 @@
         "name": "Orebro SK - Orgryte IS",
         "time": "16:00",
         "id": "278283758906511360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente FBC - Resistencia SC",
-        "time": "16:00",
-        "id": "278316805669392384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Rubin Kazan - FC Rostov",
-        "time": "15:45",
-        "id": "277335707084787712"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "IFK Goteborg - AIK",
         "time": "15:00",
         "id": "278178426428461056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Haka Valkeakoski - HJK Helsinki",
-        "time": "15:00",
-        "id": "278179424943345664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vejle Boldklub - FC Midtjylland",
-        "time": "15:00",
-        "id": "278178598182064128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PIF Parainen - SalPa II",
-        "time": "15:00",
-        "id": "278677109385334784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Verbroedering Dender EH - RSC Anderlecht",
-        "time": "14:30",
-        "id": "278002248096813056"
     }
 ]
