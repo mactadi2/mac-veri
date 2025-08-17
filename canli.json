@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Botafogo RJ - Palmeiras",
+        "time": "02:30",
+        "id": "277677217520160768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Independiente Rivadavia - Boca Juniors",
+        "time": "02:30",
+        "id": "277026524679507968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cusco FC - Alianza Atletico",
+        "time": "02:30",
+        "id": "278204969430159360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atlanta United II - Crown Legacy FC",
+        "time": "02:30",
+        "id": "278323493628678144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportes Tolima - Club Deportivo Los Millonarios",
         "time": "02:10",
         "id": "278199169146032128"
@@ -65,43 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Internacional RS - Flamengo RJ",
-        "time": "00:30",
-        "id": "277580943789789184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA River Plate - Godoy Cruz",
-        "time": "00:30",
-        "id": "277026775491547136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Clube Goianiense - Ferroviaria SP",
-        "time": "00:30",
-        "id": "278115686253989888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Coquimbo Unido - Everton Vina del Mar",
-        "time": "00:30",
-        "id": "278208970927247360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Trinidense - Nacional Asuncion",
-        "time": "00:30",
-        "id": "278205914696257536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "New York City FC - Nashville SC",
         "time": "00:00",
         "id": "277541192201277440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "NJ\/NY Gotham FC (W) - Houston Dash (W)",
+        "time": "23:00",
+        "id": "278213442145488896"
     }
 ]
