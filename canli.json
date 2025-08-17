@@ -2,9 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SC Internacional RS - Flamengo RJ",
+        "time": "00:30",
+        "id": "277580943789789184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA River Plate - Godoy Cruz",
+        "time": "00:30",
+        "id": "277026775491547136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Clube Goianiense - Ferroviaria SP",
+        "time": "00:30",
+        "id": "278115686253989888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Coquimbo Unido - Everton Vina del Mar",
+        "time": "00:30",
+        "id": "278208970927247360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Trinidense - Nacional Asuncion",
+        "time": "00:30",
+        "id": "278205914696257536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "New York City FC - Nashville SC",
         "time": "00:00",
         "id": "277541192201277440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cucuta Deportivo - Boca Juniors Cali",
+        "time": "00:00",
+        "id": "278314299924025344"
     },
     {
         "tur": "live",
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Espanyol - Atletico Madrid",
-        "time": "22:30",
-        "id": "274721628096696320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sporting Clube de Portugal - FC Arouca",
-        "time": "22:30",
-        "id": "278207605488357376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Las Palmas - FC Andorra",
-        "time": "22:30",
-        "id": "277000027872825344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Huesca - Leganes",
-        "time": "22:30",
-        "id": "276999960320413696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sao Bernardo FC - Figueirense FC",
-        "time": "22:30",
-        "id": "278207578030346240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brusque - Londrina EC PR",
-        "time": "22:30",
-        "id": "278206711460925440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cianorte Pr - Mixto EC",
-        "time": "22:30",
-        "id": "278361735503679488"
+        "name": "NJ\/NY Gotham FC (W) - Houston Dash (W)",
+        "time": "23:00",
+        "id": "278213442145488896"
     }
 ]
