@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Police SA - Yishun Sentek Mariners FC",
+        "time": "12:00",
+        "id": "278682295525838848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Madrid B - UD Ibiza Eivissa",
         "time": "11:30",
         "id": "278523899875037184"
@@ -72,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Shimizu S-pulse - Honda F.C.",
-        "time": "11:00",
-        "id": "278720072565002240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Siheung Citizen - Busan Transportation Corporation",
         "time": "11:00",
         "id": "278265099615080448"
@@ -93,15 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CS Concordia Chiajna - FC Ceahlaul Piatra Neamt",
+        "name": "Gijang United - Dangjin Citizen FC",
         "time": "11:00",
-        "id": "278156107556458496"
+        "id": "278643566356598784"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gijang United - Dangjin Citizen FC",
+        "name": "Pyeongtaek Citizen Fc - Pyeongchang United",
         "time": "11:00",
-        "id": "278643566356598784"
+        "id": "278643566217138176"
     }
 ]
