@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EIF Ekenas - Sjk Akatemia",
+        "time": "18:30",
+        "id": "278290820608692224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter Turku Ii - Atlantis FC",
+        "time": "18:30",
+        "id": "278383971045347328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Radomlje U19 - Maribor U19",
+        "time": "18:30",
+        "id": "278893548270653440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Brann 2 - Vard Haugesund",
         "time": "18:00",
         "id": "278382165812711424"
@@ -37,23 +58,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Akademija Pandev Brera Strumica - FK Pelister",
-        "time": "18:00",
-        "id": "278800235950641152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Parma Calcio 1913 U20 - AS Roma U20",
         "time": "17:30",
         "id": "278651995256131584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Gjilani - KF Ballkani",
-        "time": "17:30",
-        "id": "278806985616527360"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Niki Volou - Panetolikos FC",
         "time": "17:00",
         "id": "278793640661356544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Saham - Bahla Club",
-        "time": "17:00",
-        "id": "278821304511107072"
     }
 ]
