@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Persijap Jepara - Persib Bandung",
+        "time": "14:30",
+        "id": "278769868432609280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Olimpia Asuncion Reserves - Club Libertad Asuncion Reserves",
         "time": "14:00",
         "id": "278814361739464704"
@@ -33,12 +40,5 @@
         "name": "Akron Togliatti 2 - NoSta Novotroitsk",
         "time": "13:00",
         "id": "278888152323723264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Northcote City - Manningham United Blues",
-        "time": "12:30",
-        "id": "278745029399416832"
     }
 ]
