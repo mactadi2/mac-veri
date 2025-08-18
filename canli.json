@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tombense MG - SER Caxias",
+        "time": "01:30",
+        "id": "278309396840321024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ypiranga RS - Botafogo PB",
+        "time": "01:30",
+        "id": "278309244655243264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Junior de Barranquilla  - Atletico Bucaramanga",
         "time": "01:15",
         "id": "278307861888634880"
@@ -19,13 +33,6 @@
         "name": "Volta Redonda - CRB Clube de Regatas Brasil",
         "time": "01:00",
         "id": "278116064005591040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Cartagena - FC Leones",
-        "time": "01:00",
-        "id": "278759165611085824"
     },
     {
         "tur": "live",
@@ -61,12 +68,5 @@
         "name": "Olancho FC Reserves - Motagua Reserves",
         "time": "00:00",
         "id": "278845263346536448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rubio Nu - Encarnacion FC",
-        "time": "23:30",
-        "id": "278374593163563008"
     }
 ]
