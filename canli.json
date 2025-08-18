@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union Deportiva Almeria - Albacete Balompie",
+        "time": "22:30",
+        "id": "277000028258701312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gil Vicente - FC Porto",
         "time": "22:15",
         "id": "278201753447567360"
@@ -96,12 +103,5 @@
         "name": "CSD Central Ballester - Estrella del Sur",
         "time": "21:30",
         "id": "278219636021006336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Claypole - JJ Urquiza",
-        "time": "21:30",
-        "id": "278219635519787008"
     }
 ]
