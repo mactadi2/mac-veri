@@ -58,13 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Nizhny Novgorod - FC Dynamo Makhachkala",
-        "time": "20:00",
-        "id": "277334994711613440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Spezia - Sampdoria",
         "time": "19:30",
         "id": "278441914833965056"
@@ -103,5 +96,12 @@
         "name": "FF Jaro - Seinäjoen Jalkapallokerho",
         "time": "19:00",
         "id": "278250945104711680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Arges - Otelul Galati",
+        "time": "19:00",
+        "id": "277557937605578752"
     }
 ]
