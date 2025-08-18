@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sporting Gijon - Cordoba",
+        "time": "20:00",
+        "id": "276999960061415424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IFK Varnamo - Degerfors IF",
+        "time": "20:00",
+        "id": "278258381458903040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Agropecuario - Club Atletico Mitre",
+        "time": "20:00",
+        "id": "277934399338713088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "OB Odense - AGF Aarhus",
+        "time": "20:00",
+        "id": "278259328661721088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kongsvinger IL - Mjondalen IF",
+        "time": "20:00",
+        "id": "278299249040560128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aalesunds FK - Ranheim Trondheim",
+        "time": "20:00",
+        "id": "278288912281112576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Stabaek - Sogndal IL",
+        "time": "20:00",
+        "id": "278287813591568384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Asane IL Ulset - Raufoss Fotball",
+        "time": "20:00",
+        "id": "278287914835775488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Nizhny Novgorod - FC Dynamo Makhachkala",
+        "time": "20:00",
+        "id": "277334994711613440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Spezia - Sampdoria",
         "time": "19:30",
         "id": "278441914833965056"
@@ -40,68 +103,5 @@
         "name": "FF Jaro - Seinäjoen Jalkapallokerho",
         "time": "19:00",
         "id": "278250945104711680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Arges - Otelul Galati",
-        "time": "19:00",
-        "id": "277557937605578752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Samgurali Tskaltubo - Fc Gareji",
-        "time": "19:00",
-        "id": "278385766645764096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FCI Levadia Tallinn II - FC Flora Tallinn II",
-        "time": "19:00",
-        "id": "278738214252056576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viimsi Jk - Tartu JK Welco",
-        "time": "19:00",
-        "id": "278385767463653376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vaag IK - Viking (A)",
-        "time": "19:00",
-        "id": "278385767376621568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Septemvri Sofia - Dobrudzha Dobrich",
-        "time": "19:00",
-        "id": "277594900494684160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EIF Ekenas - Sjk Akatemia",
-        "time": "18:30",
-        "id": "278290820608692224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Inter Turku Ii - Atlantis FC",
-        "time": "18:30",
-        "id": "278383971045347328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Zorya Luhansk - FC Kryvbas Kriviy Rih",
-        "time": "18:00",
-        "id": "278318730189082624"
     }
 ]
