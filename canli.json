@@ -2,6 +2,83 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Spezia - Sampdoria",
+        "time": "19:30",
+        "id": "278441914833965056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Audace Cerignola - Hellas Verona",
+        "time": "19:00",
+        "id": "278880893801730048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "1.FC Dynamo Dresden - 1. FSV Mainz 05",
+        "time": "19:00",
+        "id": "273838756819243008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "1.FC Schweinfurt 05 - TSV Fortuna Dusseldorf",
+        "time": "19:00",
+        "id": "273838748224065536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Preussen Munster - Hertha BSC Berlin",
+        "time": "19:00",
+        "id": "273838750103113728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FF Jaro - Seinäjoen Jalkapallokerho",
+        "time": "19:00",
+        "id": "278250945104711680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Arges - Otelul Galati",
+        "time": "19:00",
+        "id": "277557937605578752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Samgurali Tskaltubo - Fc Gareji",
+        "time": "19:00",
+        "id": "278385766645764096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FCI Levadia Tallinn II - FC Flora Tallinn II",
+        "time": "19:00",
+        "id": "278738214252056576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Viimsi Jk - Tartu JK Welco",
+        "time": "19:00",
+        "id": "278385767463653376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vaag IK - Viking (A)",
+        "time": "19:00",
+        "id": "278385767376621568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "EIF Ekenas - Sjk Akatemia",
         "time": "18:30",
         "id": "278290820608692224"
@@ -16,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Radomlje U19 - Maribor U19",
-        "time": "18:30",
-        "id": "278893548270653440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Brann 2 - Vard Haugesund",
         "time": "18:00",
         "id": "278382165812711424"
@@ -33,75 +103,5 @@
         "name": "FC Zorya Luhansk - FC Kryvbas Kriviy Rih",
         "time": "18:00",
         "id": "278318730189082624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JK Nomme United II - Laanemaa JK Haapsalu",
-        "time": "18:00",
-        "id": "278761248974311424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Lokomotivi Tbilisi - Fc Gonio",
-        "time": "18:00",
-        "id": "278378224811118592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Baqa'a - Al Salt",
-        "time": "18:00",
-        "id": "278734278084399104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Akademija Pandev Brera Strumica - FK Pelister",
-        "time": "18:00",
-        "id": "278800235950641152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Parma Calcio 1913 U20 - AS Roma U20",
-        "time": "17:30",
-        "id": "278651995256131584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Wahda Abu Dhabi U23 - Ajman Club U23",
-        "time": "17:05",
-        "id": "278904747941040128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Jazira U23 - Khor Fakkan U23",
-        "time": "17:05",
-        "id": "278905060985016320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Baniyas SC U23 - Al Wasl SC U23",
-        "time": "17:05",
-        "id": "278904745435992064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Xorazm Urganch - PFK Qizilqum Zarafshon",
-        "time": "17:00",
-        "id": "278650169772347392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Niki Volou - Panetolikos FC",
-        "time": "17:00",
-        "id": "278793640661356544"
     }
 ]
