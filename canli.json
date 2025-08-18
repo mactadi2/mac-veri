@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kasımpaşa - Trabzonspor",
+        "time": "21:30",
+        "id": "278293919270309888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Amed Sportif Faaliyetler - Erzurumspor FK",
+        "time": "21:30",
+        "id": "278294036936265728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Defensores de Belgrano - CA Defensores Unidos",
+        "time": "21:30",
+        "id": "278453162011136000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Farul Constanta - U Cluj",
+        "time": "21:30",
+        "id": "277594138167349248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pastoreo FC - Fernando de la Mora",
+        "time": "21:00",
+        "id": "278374593300926464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sporting Gijon - Cordoba",
         "time": "20:00",
         "id": "276999960061415424"
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Audace Cerignola - Hellas Verona",
-        "time": "19:00",
-        "id": "278880893801730048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "1.FC Dynamo Dresden - 1. FSV Mainz 05",
-        "time": "19:00",
-        "id": "273838756819243008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "1.FC Schweinfurt 05 - TSV Fortuna Dusseldorf",
-        "time": "19:00",
-        "id": "273838748224065536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SC Preussen Munster - Hertha BSC Berlin",
         "time": "19:00",
         "id": "273838750103113728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Arges - Otelul Galati",
-        "time": "19:00",
-        "id": "277557937605578752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Samgurali Tskaltubo - Fc Gareji",
-        "time": "19:00",
-        "id": "278385766645764096"
     }
 ]
