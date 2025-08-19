@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportiva Minera - CF Lorca Deportiva",
+        "time": "20:30",
+        "id": "279013619600068608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kaizer Chiefs - Richards Bay FC",
+        "time": "20:30",
+        "id": "278472405828112384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Durban City FC 2024 - Lamontville Golden Arrows",
+        "time": "20:30",
+        "id": "278572722197499904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orbit College - Sekhukhune United",
+        "time": "20:30",
+        "id": "278472040964558848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Siwelele FC - Polokwane City FC",
+        "time": "20:30",
+        "id": "278572722275094528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "UD Samano - Gimnastica de Torrelavega",
         "time": "20:00",
         "id": "278970701530140672"
@@ -44,27 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lyngby BK - Hillerod",
-        "time": "20:00",
-        "id": "278570948957966336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Esbjerg F.B. - AaB Aalborg",
-        "time": "20:00",
-        "id": "278570948750348288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viggbyholms IK FF - IFK Norrkoping",
-        "time": "19:30",
-        "id": "278959512237510656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "MPS\/Atletico Malmi - JaPS II",
         "time": "19:15",
         "id": "278837219419099136"
@@ -89,19 +103,5 @@
         "name": "Flint - Stabaek If 2",
         "time": "19:00",
         "id": "278567007604051968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Polonia Warszawa - Wieczysta Krakow",
-        "time": "19:00",
-        "id": "278408865793576960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Karlbergs BK - IK Brage Borlange",
-        "time": "19:00",
-        "id": "278959524386312192"
     }
 ]
