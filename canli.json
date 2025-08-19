@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Fredericia Reserves - Sonderjyske Reserve",
+        "time": "14:00",
+        "id": "278977356455088128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Springfield United - Centenary Stormers",
         "time": "13:30",
         "id": "278911126291484672"
@@ -47,12 +54,5 @@
         "name": "Southern City - Royal Thimphu College",
         "time": "13:00",
         "id": "278897984853381120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Balcatta U23 - Perth RedStar FC U23",
-        "time": "13:00",
-        "id": "278986316248649728"
     }
 ]
