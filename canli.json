@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ferroviaria (W) - Sao Paulo (W)",
+        "time": "00:00",
+        "id": "278847352113074176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CS Uruguay de Coronado - Sporting San Jose",
+        "time": "00:00",
+        "id": "278901751344664576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ulfarnir - Kfr Hvolsvollur",
         "time": "23:00",
         "id": "278900452974792704"
@@ -19,68 +33,5 @@
         "name": "EC Taruma U20 - RB do Norte Clube U20",
         "time": "22:30",
         "id": "278999849299480576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kria - KA Asvellir",
-        "time": "22:15",
-        "id": "278750974935437312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kızılyıldız - Pafos FC",
-        "time": "22:00",
-        "id": "278407095734374400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferencvarosi TC - FK Qarabag",
-        "time": "22:00",
-        "id": "278395034895781888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Glasgow Rangers FC - Club Brugge KV",
-        "time": "22:00",
-        "id": "278395035037339648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Madrid - Osasuna",
-        "time": "22:00",
-        "id": "274721717488848896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bala Azul - Real Madrid B",
-        "time": "22:00",
-        "id": "278997121477251072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Walsall - Grimsby",
-        "time": "22:00",
-        "id": "278654902092304384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tranmere - Burton",
-        "time": "21:45",
-        "id": "278667680651808768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ayamonte CF - Cartaya",
-        "time": "21:30",
-        "id": "279019905302532096"
     }
 ]
