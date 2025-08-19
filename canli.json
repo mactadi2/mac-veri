@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Viggbyholms IK FF - IFK Norrkoping",
+        "time": "19:30",
+        "id": "278959512237510656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kubikenborgs - Vasteras SK FK",
+        "time": "19:30",
+        "id": "278959530890629120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IF Karlstad - Umea FC",
+        "time": "19:30",
+        "id": "278959528909869056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Eskilsminne IF - Varbergs BoIS FC",
+        "time": "19:30",
+        "id": "278959530696642560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Taby FK - Ostersunds FK",
+        "time": "19:30",
+        "id": "278959526610341888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "MPS\/Atletico Malmi - JaPS II",
         "time": "19:15",
         "id": "278837219419099136"
@@ -68,40 +103,5 @@
         "name": "Tiendas Margos - Club Deportivo La Chalaca",
         "time": "18:00",
         "id": "278986773273645056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "National Bank of Egypt SC - Kahraba Ismailia",
-        "time": "18:00",
-        "id": "278824724114575360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pharco - Talaea El Gaish",
-        "time": "18:00",
-        "id": "278654940308705280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Faisaly Amman  - Shabab AL Ordun",
-        "time": "18:00",
-        "id": "278824724841238528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AL Ahli Amman - Al Wehdat",
-        "time": "18:00",
-        "id": "278824724952387584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Domzale U19 - NK Fuzinar U19",
-        "time": "18:00",
-        "id": "278895805930278912"
     }
 ]
