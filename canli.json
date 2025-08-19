@@ -58,9 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vipers - FC Dila Gori",
+        "name": "Ajloun (W) - Shabab Bushra (W)",
+        "time": "17:00",
+        "id": "279002637700042752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vipers - Gorilla FC",
         "time": "16:00",
-        "id": "278998014304063488"
+        "id": "279002451410030592"
     },
     {
         "tur": "live",
@@ -89,12 +96,5 @@
         "name": "PFK Aral - Olimpik-Mobiuz",
         "time": "16:00",
         "id": "278910841461542912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chengdu Rongcheng FC - Henan FC",
-        "time": "14:35",
-        "id": "278608565782056960"
     }
 ]
