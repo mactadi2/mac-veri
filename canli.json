@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hviti Riddarinn - KFK Kopavogur",
+        "time": "23:00",
+        "id": "278849976353820672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Monagas SC - Deportivo Tachira FC",
         "time": "22:30",
         "id": "278928339808423936"
@@ -19,6 +26,20 @@
         "name": "Granada (W) - Malaga CF (W)",
         "time": "22:15",
         "id": "279088027500941312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Arbaer - KV Vesturbaejar",
+        "time": "22:15",
+        "id": "278849976233234432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Augnablik Kopavogur - Ymir",
+        "time": "22:15",
+        "id": "278849976126279680"
     },
     {
         "tur": "live",
@@ -65,16 +86,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Notts County - Shrewsbury",
-        "time": "21:45",
-        "id": "278730050468188160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rochdale - Gateshead",
-        "time": "21:45",
-        "id": "278725566038937600"
+        "name": "Nacional Potosi (W) - Club Always Ready (W)",
+        "time": "22:00",
+        "id": "279077930247786496"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Aldershot - Eastleigh",
         "time": "21:45",
         "id": "278725579886432256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Southend - York",
-        "time": "21:45",
-        "id": "278725553550397440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boreham Wood - Braintree",
-        "time": "21:45",
-        "id": "278725553797861376"
     }
 ]
