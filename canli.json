@@ -51,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "JK Tallinna Kalev (K) - Tallinna FC Ararat (W)",
+        "time": "12:30",
+        "id": "278992136083476480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Yangon United U21 - Shan Utd U21",
         "time": "12:00",
         "id": "279006382516211712"
@@ -96,12 +103,5 @@
         "name": "NK Lokomotiva Zagreb U19 - Nk Rudes U19",
         "time": "11:00",
         "id": "278988330301001728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kustosija U19 - Samobor U19",
-        "time": "11:00",
-        "id": "279068858134958080"
     }
 ]
