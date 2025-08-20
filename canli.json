@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "GLKS Dobrcz Wudzyn - Cuiavia Inowroclaw",
+        "time": "16:30",
+        "id": "279067113009844224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Guarani de Fram - Deportivo Capiata",
         "time": "16:00",
         "id": "278827617314017280"
@@ -19,6 +26,13 @@
         "name": "Stromsgodset U19 - Molde U19",
         "time": "16:00",
         "id": "278918596676161536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sogndal U19 - FK Bodo\/Glimt U19",
+        "time": "16:00",
+        "id": "279066071083913216"
     },
     {
         "tur": "live",
@@ -79,29 +93,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Zhejiang Professional FC - Tianjin Jinmen Tigers",
-        "time": "14:35",
-        "id": "278873062074617856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Beijing Guoan FC - Yunnan Yukun FC",
-        "time": "14:35",
-        "id": "278359181387501568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ecu Joondalup - Curtin University SC",
-        "time": "14:35",
-        "id": "278955129359699968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dianella White Eagles - UWA Nedlands",
-        "time": "14:30",
-        "id": "278955129261133824"
+        "name": "Bolton Wanderers Reserves - Preston Reserves",
+        "time": "15:00",
+        "id": "279084871490605056"
     }
 ]
