@@ -2,9 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ontinyent - Yeclano Deportivo",
-        "time": "20:00",
-        "id": "279066396960362496"
+        "name": "CD Palencia Cristo Atletico - Gimnastica Segoviana",
+        "time": "20:30",
+        "id": "278995211168911360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Avila - Rayo Majadahonda",
+        "time": "20:30",
+        "id": "278995185482993664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Coruxo CF - Pontevedra",
+        "time": "20:30",
+        "id": "278842630686773248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UD Barbastro - CD Binefar",
+        "time": "20:30",
+        "id": "279105227148365824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Magesi FC - Mamelodi Sundowns FC",
+        "time": "20:30",
+        "id": "278472406132199424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Amazulu FC - Marumo Gallants FC",
+        "time": "20:30",
+        "id": "278471421243559936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orlando Pirates FC - Stellenbosch FC",
+        "time": "20:30",
+        "id": "278470893370478592"
     },
     {
         "tur": "live",
@@ -12,6 +54,13 @@
         "name": "Lleida - Sant Andreu Barcelona",
         "time": "20:00",
         "id": "279068331209789440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ontinyent - Yeclano Deportivo",
+        "time": "20:00",
+        "id": "279066396960362496"
     },
     {
         "tur": "live",
@@ -44,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Real Betis (W) - Sevilla FC (W)",
-        "time": "20:00",
-        "id": "279038663464194048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Lorenzo Reserves - Instituto AC Cordoba Reserves",
-        "time": "20:00",
-        "id": "279003040685625344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Finnkurd - VJS Vantaa II",
         "time": "19:45",
         "id": "278952613724164096"
@@ -68,40 +103,5 @@
         "name": "Valencia CF B - Real Zaragoza Deportivo Aragon",
         "time": "19:30",
         "id": "279065160577060864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Holstin Dynamo - Huima\/Urho",
-        "time": "19:00",
-        "id": "278907893007388672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Zalgiris Vilnius - DFK Dainava Alytus",
-        "time": "19:00",
-        "id": "278827613724741632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Siauliai FA - FK Zalgiris Kaunas",
-        "time": "19:00",
-        "id": "278838965809844224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Panevezys - Banga Gargzdai",
-        "time": "19:00",
-        "id": "278827704427614208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lula FC - Leones Reserves",
-        "time": "18:30",
-        "id": "279034565561028608"
     }
 ]
