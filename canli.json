@@ -72,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Boca Juniors Reserves - Banfield Reserves",
-        "time": "01:00",
-        "id": "278902340267937792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Atletico Tucuman Reserves - Ca Talleres De Cordoba Reserves",
         "time": "01:00",
         "id": "279007376049311744"
@@ -100,8 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lobos UPNFM Reserves - Club Deportivo Victoria Reserves",
+        "name": "Bangu RJ - Campo Grande RJ",
         "time": "01:00",
-        "id": "279052608868585472"
+        "id": "278975386783715328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sergipe Se - Itabaiana",
+        "time": "01:00",
+        "id": "278975140755279872"
     }
 ]
