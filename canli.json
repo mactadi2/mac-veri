@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ebro - CD Caspe",
+        "time": "21:00",
+        "id": "279071353131372544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Palencia Cristo Atletico - Gimnastica Segoviana",
         "time": "20:30",
         "id": "278995211168911360"
@@ -96,12 +103,5 @@
         "name": "FC Finnkurd - VJS Vantaa II",
         "time": "19:45",
         "id": "278952613724164096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Valencia CF B - Real Zaragoza Deportivo Aragon",
-        "time": "19:30",
-        "id": "279065160577060864"
     }
 ]
