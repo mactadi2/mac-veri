@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "LKS Lodz III - Pelikan Lowicz",
+        "time": "17:30",
+        "id": "279065906733256704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ilves Tampere (W) - Aland United (W)",
+        "time": "17:30",
+        "id": "278952046125780992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ellas Syrou - Nestos Chrisoupolis",
         "time": "17:15",
         "id": "278793643558572032"
@@ -75,12 +89,5 @@
         "name": "Costa Do Sol - Ferroviario de Lichinga",
         "time": "15:45",
         "id": "279069881061740544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferroviario Beira - Clube Ferroviario De Nacala",
-        "time": "15:45",
-        "id": "279084794945605632"
     }
 ]
