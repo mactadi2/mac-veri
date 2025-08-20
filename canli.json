@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Juventude - Vasco da Gama RJ",
+        "time": "01:00",
+        "id": "277974780924268544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cienciano Cusco - Club Bolivar",
+        "time": "01:00",
+        "id": "278503512218931200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estudiantes de la Plata - Cerro Porteno",
+        "time": "01:00",
+        "id": "278496053153632256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Boca Juniors Reserves - Banfield Reserves",
+        "time": "01:00",
+        "id": "278902340267937792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Tucuman Reserves - Ca Talleres De Cordoba Reserves",
+        "time": "01:00",
+        "id": "279007376049311744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Rentistas - Cerrito CS",
+        "time": "01:00",
+        "id": "278850228172492800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Caracas FC - Deportivo La Guaira",
+        "time": "01:00",
+        "id": "278930191518142464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lobos UPNFM Reserves - Club Deportivo Victoria Reserves",
+        "time": "01:00",
+        "id": "279052608868585472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bangu RJ - Campo Grande RJ",
+        "time": "01:00",
+        "id": "278975386783715328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sergipe Se - Itabaiana",
+        "time": "01:00",
+        "id": "278975140755279872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sampaio Correa RJ - CEAC Araruama RJ",
         "time": "00:30",
         "id": "279061387281567744"
@@ -33,33 +103,5 @@
         "name": "Internacional FC de Palmira (W) - Orsomarso (W)",
         "time": "00:00",
         "id": "278985507287994368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo San Pedro - Deportivo Coatepeque FC",
-        "time": "00:00",
-        "id": "279036485105225728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bf 108 - Stokkseyri",
-        "time": "23:00",
-        "id": "279114291752341504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hviti Riddarinn - KFK Kopavogur",
-        "time": "23:00",
-        "id": "278849976353820672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club 9 de Octubre - Tecnico Universitario",
-        "time": "23:00",
-        "id": "278850009710071808"
     }
 ]
