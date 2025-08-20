@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sampaio Correa RJ - CEAC Araruama RJ",
+        "time": "00:30",
+        "id": "279061387281567744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bragantino Sp U20 - Palmeiras U20",
         "time": "00:00",
         "id": "279028341115326464"
@@ -54,19 +61,5 @@
         "name": "Club 9 de Octubre - Tecnico Universitario",
         "time": "23:00",
         "id": "278850009710071808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Monagas SC - Deportivo Tachira FC",
-        "time": "22:30",
-        "id": "278928339808423936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Farnborough FC - Worthing FC",
-        "time": "21:45",
-        "id": "278849210761220096"
     }
 ]
