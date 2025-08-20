@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Holstin Dynamo - Huima\/Urho",
+        "time": "19:00",
+        "id": "278907893007388672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Zalgiris Vilnius - DFK Dainava Alytus",
+        "time": "19:00",
+        "id": "278827613724741632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Siauliai FA - FK Zalgiris Kaunas",
+        "time": "19:00",
+        "id": "278838965809844224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Panevezys - Banga Gargzdai",
+        "time": "19:00",
+        "id": "278827704427614208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hobro - AC Horsens",
+        "time": "19:00",
+        "id": "278465077803356160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aarhus Fremad - Kolding IF",
+        "time": "19:00",
+        "id": "278737822426468352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UAI Urquiza Reserves - Club Comunicaciones Reserves",
+        "time": "19:00",
+        "id": "279023953963520000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chrobry Glogow - Slask Wroclaw",
+        "time": "19:00",
+        "id": "278720827986415616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Polonia Bytom - Pogon Grodzisk Mazowiecki",
+        "time": "19:00",
+        "id": "278721141978304512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pitea IF - IK Sirius FK",
+        "time": "19:00",
+        "id": "279087922576232448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Lula FC - Leones Reserves",
         "time": "18:30",
         "id": "279034565561028608"
@@ -33,75 +103,5 @@
         "name": "Sogdiyona Jizzax - PFK Dinamo Samarkand",
         "time": "18:00",
         "id": "278834980068659200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bolivar La Paz (W) - Astor FC (W)",
-        "time": "18:00",
-        "id": "279077930135588864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ceramica Cleopatra FC  - ENPPI Club",
-        "time": "18:00",
-        "id": "278738202309824512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tj Druzstevnik Latky - Sk Novohrad Lucenec",
-        "time": "18:00",
-        "id": "279005063386632192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Javornik Makov - MSK Namestovo",
-        "time": "18:00",
-        "id": "278920445991981056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Vysoke Tatry - Tatran Liptovsky Mikulas",
-        "time": "18:00",
-        "id": "279022992158232576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Jelka - DAC Dunajska",
-        "time": "18:00",
-        "id": "278920445913337856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gil Vicente FC U23 - Academico Viseu U23",
-        "time": "18:00",
-        "id": "278920445727739904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Spaeri - Kolkheti 1913 Poti",
-        "time": "18:00",
-        "id": "278920445813723136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "LKS Lodz III - Pelikan Lowicz",
-        "time": "17:30",
-        "id": "279065906733256704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PFC Shurtan - Navbahor",
-        "time": "17:00",
-        "id": "278831274080210944"
     }
 ]
