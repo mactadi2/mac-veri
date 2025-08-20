@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lula FC - Leones Reserves",
+        "time": "18:30",
+        "id": "279034565561028608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Onsala BK - Mjallby AIF",
+        "time": "18:30",
+        "id": "279005147949043712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FBK Karlstad - IK Oddevold",
+        "time": "18:30",
+        "id": "279089763920777216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Niemisen Urheilijat - Ylamyllyn Yllatys",
         "time": "18:00",
         "id": "278905822978904064"
@@ -12,6 +33,13 @@
         "name": "Sogdiyona Jizzax - PFK Dinamo Samarkand",
         "time": "18:00",
         "id": "278834980068659200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bolivar La Paz (W) - Astor FC (W)",
+        "time": "18:00",
+        "id": "279077930135588864"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ellas Syrou - Nestos Chrisoupolis",
-        "time": "17:15",
-        "id": "278793643558572032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "PFC Shurtan - Navbahor",
         "time": "17:00",
         "id": "278831274080210944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Panionios NFC - Iraklis 1908 FC",
-        "time": "17:00",
-        "id": "278793643756752896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kampaniakos - Kallithea",
-        "time": "17:00",
-        "id": "278793643025895424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GLKS Dobrcz Wudzyn - Cuiavia Inowroclaw",
-        "time": "16:30",
-        "id": "279067113009844224"
     }
 ]
