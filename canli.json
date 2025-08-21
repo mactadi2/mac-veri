@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Aberdeen FC - FCSB",
+        "time": "21:45",
+        "id": "278612367227621376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HNK Rijeka - FC PAOK Thessaloniki",
+        "time": "21:45",
+        "id": "278575680469471232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KKS Lech Poznan - Racing Genk",
+        "time": "21:30",
+        "id": "278514206694838272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SK Slovan Bratislava - BSC Young Boys Bern",
         "time": "21:15",
         "id": "278605371005865984"
@@ -65,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Polissya Zhytomyr - AC Fiorentina",
-        "time": "21:00",
-        "id": "278816432892022784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "RSC Anderlecht - AEK Athens",
-        "time": "21:00",
-        "id": "278606057594556416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "İstanbul Başakşehir FK - Universitatea Craiova",
         "time": "20:45",
         "id": "278604312127606784"
@@ -96,12 +103,5 @@
         "name": "SK Brann Bergen - AEK Larnaca",
         "time": "20:00",
         "id": "278579917553274880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gyori ETO FC - SK Rapid Wien",
-        "time": "20:00",
-        "id": "278625153744769024"
     }
 ]
