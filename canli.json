@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Seattle Sounders - Puebla",
+        "time": "06:00",
+        "id": "278311312090599424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Colorado Rapids II - Portland Timbers II",
         "time": "05:00",
         "id": "278865945196367872"
@@ -40,26 +47,5 @@
         "name": "Alajuelense (W) - Club America (W)",
         "time": "05:00",
         "id": "278982622226550784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CSD Amatitlan - Draco FC",
-        "time": "04:15",
-        "id": "279121243357188096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Toluca FC - Orlando City SC",
-        "time": "03:50",
-        "id": "278311220540477440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Deportivo Los Millonarios - Union Magdalena Santa Marta",
-        "time": "03:30",
-        "id": "278975266011877376"
     }
 ]
