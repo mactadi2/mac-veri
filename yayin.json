@@ -1,93 +1,58 @@
 [
     {
         "type": "futbol",
-        "name": "Botafogo RJ - LDU Quito",
-        "day": "15",
+        "name": "Estudiantes - Cerro Porteno",
+        "day": "21",
         "time": "01:00",
         "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Atletico Mineiro - Godoy Cruz",
-        "day": "15",
-        "time": "01:00",
-        "channel": "S Sport 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Libertad - River Plate",
-        "day": "15",
+        "name": "Internacional - Flamengo",
+        "day": "21",
         "time": "03:30",
         "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Bilinmiyor - Bilinmiyor",
-        "day": "15",
-        "time": "10:00",
-        "channel": "Spor Smart"
+        "name": "Rams Başakşehir - Uni. Craiova",
+        "day": "21",
+        "time": "20:45",
+        "channel": "TRT 1"
     },
     {
-        "type": "futbol",
-        "name": "Girona - Rayo Vallecano",
-        "day": "15",
+        "type": "basketbol",
+        "name": "İtalya - Letonya",
+        "day": "21",
         "time": "20:00",
         "channel": "S Sport"
     },
     {
-        "type": "futbol",
-        "name": "Serik Bld. - Ümraniyespor",
-        "day": "15",
-        "time": "21:30",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Galatasaray - Fatih Karagümrük",
-        "day": "15",
-        "time": "21:30",
-        "channel": "Bein Sports 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Rennes - Marsilya",
-        "day": "15",
-        "time": "21:45",
-        "channel": "Bein Sports 4"
-    },
-    {
-        "type": "futbol",
-        "name": "Liverpool - Bournemouth",
-        "day": "15",
-        "time": "22:00",
-        "channel": "Bein Sports 3"
-    },
-    {
-        "type": "futbol",
-        "name": "Villarreal - Real Oviedo",
-        "day": "15",
-        "time": "22:30",
-        "channel": "S Sport"
-    },
-    {
-        "type": "basketbol",
-        "name": "Almanya - Türkiye",
-        "day": "15",
-        "time": "19:00",
-        "channel": "S Sport 2"
-    },
-    {
-        "type": "basketbol",
-        "name": "Sırbistan - Çekya",
-        "day": "15",
-        "time": "21:45",
-        "channel": "S Sport 2"
+        "type": "tenis",
+        "name": "D.Shnaider - K.Rakhimova",
+        "day": "21",
+        "time": "00:00",
+        "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "V.Kudermetova - M.Linette",
-        "day": "15",
+        "name": "M.Bouzkova - B.Haddad Maia",
+        "day": "21",
         "time": "02:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "E.Navarro - A.Parks",
+        "day": "21",
+        "time": "04:30",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "A.Tomljanovic - E.Alexandrova",
+        "day": "21",
+        "time": "06:00",
         "channel": "Bein Sports Max 1"
     }
 ]
