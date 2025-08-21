@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lincoln FC - SC Braga",
+        "time": "22:00",
+        "id": "278587366363500544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Crystal Palace - Fredrikstad FK",
+        "time": "22:00",
+        "id": "278612336341815296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Aberdeen FC - FCSB",
         "time": "21:45",
         "id": "278612367227621376"
@@ -89,19 +103,5 @@
         "name": "İstanbul Başakşehir FK - Universitatea Craiova",
         "time": "20:45",
         "id": "278604312127606784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malmo FF - SK Sigma Olomouc",
-        "time": "20:00",
-        "id": "278514212751413248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Brann Bergen - AEK Larnaca",
-        "time": "20:00",
-        "id": "278579917553274880"
     }
 ]
