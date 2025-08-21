@@ -2,23 +2,86 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CDFC La Calzada - SD Logrones",
-        "time": "20:30",
-        "id": "279041705482784768"
+        "name": "SK Slovan Bratislava - BSC Young Boys Bern",
+        "time": "21:15",
+        "id": "278605371005865984"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Xerez Deportivo FC - AD Ceuta FC B",
-        "time": "20:30",
-        "id": "279175914393309184"
+        "name": "Lausanne-Sports - Besiktas JK",
+        "time": "21:15",
+        "id": "278827079385092096"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Teutonia Weiden - Union Schafhausen",
-        "time": "20:30",
-        "id": "279176314311806976"
+        "name": "Panathinaikos - Samsunspor",
+        "time": "21:00",
+        "id": "278612369312190464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HSK Zrinjski Mostar - FC Utrecht",
+        "time": "21:00",
+        "id": "278622038525087744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Shkendija 79 - PFC Ludogorets Razgrad",
+        "time": "21:00",
+        "id": "278431234791706624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maccabi Tel-Aviv - FC Dynamo Kiev",
+        "time": "21:00",
+        "id": "278790845278326784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shakhtar Donetsk - Servette Geneve FC",
+        "time": "21:00",
+        "id": "278816619252289536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AC Sparta Praha - Riga FC",
+        "time": "21:00",
+        "id": "278601521897279488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PFC Levski Sofia - AZ Alkmaar",
+        "time": "21:00",
+        "id": "278597302616199168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Polissya Zhytomyr - AC Fiorentina",
+        "time": "21:00",
+        "id": "278816432892022784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RSC Anderlecht - AEK Athens",
+        "time": "21:00",
+        "id": "278606057594556416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "İstanbul Başakşehir FK - Universitatea Craiova",
+        "time": "20:45",
+        "id": "278604312127606784"
     },
     {
         "tur": "live",
@@ -40,68 +103,5 @@
         "name": "Gyori ETO FC - SK Rapid Wien",
         "time": "20:00",
         "id": "278625153744769024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BK Hacken - CFR Cluj",
-        "time": "20:00",
-        "id": "278612339003101184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wolfsberger Athletik Club - Omonia FC Nicosia",
-        "time": "20:00",
-        "id": "278612356749201408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hamrun Spartans FC - Rigas Futbola Skola",
-        "time": "20:00",
-        "id": "278816550380769280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Midtjylland - KuPS Kuopio",
-        "time": "19:30",
-        "id": "278598886311989248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SJK Akatemia II - Sif",
-        "time": "19:30",
-        "id": "279060515512258560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rosenborg BK - 1. FSV Mainz 05",
-        "time": "19:00",
-        "id": "278612342096400384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PonPa - HauPa",
-        "time": "19:00",
-        "id": "279060794025578496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Ylivieska - Larsmo Bollklubb",
-        "time": "19:00",
-        "id": "279059929261805568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dubai City FC - Al-Arabi Kuwait",
-        "time": "18:30",
-        "id": "279183111147884544"
     }
 ]
