@@ -2,16 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PiPS - EuPa",
-        "time": "19:00",
-        "id": "279279948523507712"
+        "name": "Elversberg - Kaiserslautern",
+        "time": "19:30",
+        "id": "278021525373849600"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Radomiak Radom - Termalica BB Nieciecza",
+        "name": "Preussen Munster - Nurnberg",
+        "time": "19:30",
+        "id": "278021525470318592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Valtti - Fc Kontu",
+        "time": "19:30",
+        "id": "279144664945266688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PiPS - EuPa",
         "time": "19:00",
-        "id": "278342661782507520"
+        "id": "279279948523507712"
     },
     {
         "tur": "live",
@@ -44,16 +58,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gnistan Ogeli - MPS",
+        "name": "Warkaus JK - SC Zulimanit",
         "time": "18:30",
-        "id": "279144664765960192"
+        "id": "279145953770999808"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Warkaus JK - SC Zulimanit",
+        "name": "Gnistan Ogeli - MPS",
         "time": "18:30",
-        "id": "279145953770999808"
+        "id": "279144664765960192"
     },
     {
         "tur": "live",
@@ -79,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "EIF Ekenas - FC Lahti",
-        "time": "18:30",
-        "id": "278849977089921024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "SexyPoxyt - FC Espoo",
         "time": "18:15",
         "id": "279143585752944640"
@@ -96,12 +103,5 @@
         "name": "VPS Vaasan Palloseura - Kotkan Tyovaen Palloilijat",
         "time": "18:00",
         "id": "278642418511908864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gazovik Orenburg - FC Akhmat Grozny",
-        "time": "18:00",
-        "id": "277334994610950144"
     }
 ]
