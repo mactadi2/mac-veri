@@ -2,9 +2,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Kaspyi Aktau - SD Family",
-        "time": "17:00",
-        "id": "279244639346757632"
+        "name": "OFK Banik Lehota pod Vtacnikom - Lokomotiva Zvolen",
+        "time": "17:30",
+        "id": "278877451698966528"
     },
     {
         "tur": "live",
@@ -12,6 +12,13 @@
         "name": "FC Taraz - Khan Tengri FC",
         "time": "17:00",
         "id": "279244663488122880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Kaspyi Aktau - SD Family",
+        "time": "17:00",
+        "id": "279244639346757632"
     },
     {
         "tur": "live",
@@ -37,6 +44,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bff Academy Minsk U19 - Dnepr Mogilev",
+        "time": "17:00",
+        "id": "279265929937948672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fatih Karagumruk U19 - Göztepe Sk U19",
         "time": "17:00",
         "id": "279180190267084800"
@@ -47,6 +61,13 @@
         "name": "Miedz Legnica ll - Sparta Katowice",
         "time": "17:00",
         "id": "278955947491201024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Baniyas FC - Ittihad Kalba",
+        "time": "17:00",
+        "id": "278850027434151936"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Mil-Mugan Imisli         FK - PFC Neftchi Baku",
         "time": "16:00",
         "id": "279141756361117696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kelantan Red Warrior FC - Damansara United",
-        "time": "15:45",
-        "id": "279268122292260864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pss Sleman - Pekanbaru FC",
-        "time": "15:30",
-        "id": "279266587579650048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Ararat Yerevan - Pyunik Yerevan",
-        "time": "15:30",
-        "id": "279122043271778304"
     }
 ]
