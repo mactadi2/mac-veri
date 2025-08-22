@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nacional Asuncion - Club Atletico Tembetary",
+        "time": "00:30",
+        "id": "278827987575640064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sol de America - Pastoreo FC",
+        "time": "00:30",
+        "id": "278849984104894464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Quilmes Atletico Club - CA San Miguel",
         "time": "00:00",
         "id": "278673007219707904"
@@ -65,43 +79,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Carmelita - Escorpiones de Belen",
+        "time": "23:00",
+        "id": "279249455661846528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tijuana U19 - Chivas Guadalajara U19",
         "time": "22:45",
         "id": "279177759404724224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Betis - Alaves",
-        "time": "22:30",
-        "id": "278067954284892160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Castellon - Real Valladolid",
-        "time": "22:30",
-        "id": "278674517912588288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leganes - Cadiz",
-        "time": "22:30",
-        "id": "278674518024785920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nacional FC AM U20 - Manaus U20",
-        "time": "22:30",
-        "id": "279260698150834176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Livorno - Ternana",
-        "time": "22:15",
-        "id": "279111596497833984"
     }
 ]
