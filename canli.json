@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Real Betis - Alaves",
+        "time": "22:30",
+        "id": "278067954284892160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Castellon - Real Valladolid",
+        "time": "22:30",
+        "id": "278674517912588288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Leganes - Cadiz",
+        "time": "22:30",
+        "id": "278674518024785920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "West Ham - Chelsea",
         "time": "22:00",
         "id": "278528949580075008"
@@ -12,13 +33,6 @@
         "name": "Derby County - Bristol City",
         "time": "22:00",
         "id": "278674116725313536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Cartagena - Eldense",
-        "time": "22:00",
-        "id": "279117584567242752"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Le Mans FC - SC Bastia",
         "time": "21:00",
         "id": "278850002979262464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eibar - Granada CF",
-        "time": "20:30",
-        "id": "278660098907312128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arenas Club de Getxo - Mutilvera",
-        "time": "20:30",
-        "id": "279287612518305792"
     }
 ]
