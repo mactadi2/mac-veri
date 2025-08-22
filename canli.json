@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Eibar - Granada CF",
+        "time": "20:30",
+        "id": "278660098907312128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Unionistas de Salamanca CF - Merida",
         "time": "20:15",
         "id": "279177337078157312"
@@ -65,6 +72,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Levadia Tallinn - Parnu JK Vaprus",
+        "time": "19:30",
+        "id": "278850019451342848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "DUX Logrono (W) - UD Granadilla Tenerife (W)",
+        "time": "19:30",
+        "id": "279170353774858240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PiPS - EuPa",
         "time": "19:00",
         "id": "279279948523507712"
@@ -72,36 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lautp - Union Plaani",
-        "time": "18:30",
-        "id": "279146184705183744"
+        "name": "Radomiak Radom - Termalica BB Nieciecza",
+        "time": "19:00",
+        "id": "278342661782507520"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FCJ Blackbird - KeuPa",
-        "time": "18:30",
-        "id": "279145880456663040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Warkaus JK - SC Zulimanit",
-        "time": "18:30",
-        "id": "279145953770999808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Masku - LTU",
-        "time": "18:30",
-        "id": "279147167865769984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC TPS Turku - Sjk Akatemia",
-        "time": "18:30",
-        "id": "278849976985063424"
+        "name": "UTA Arad - Unirea Slobozia",
+        "time": "19:00",
+        "id": "278155507982798848"
     }
 ]
