@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hangzhou Linping Wuyue - Wenzhou Professional F.C",
+        "time": "14:30",
+        "id": "279123943692046336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Perth AFC (W) - Hamersley Rovers (W)",
+        "time": "14:30",
+        "id": "279263381600473088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "ADO Den Haag - FC Zwolle",
         "time": "14:00",
         "id": "279240087747825664"
@@ -16,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Shakhter Karagandy - Kairat Zhastar",
+        "time": "14:00",
+        "id": "279244661097369600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Hellenic Athletic Club - Casuarina FC",
         "time": "14:00",
         "id": "279031779832238080"
@@ -26,6 +47,13 @@
         "name": "University of Queensland - AC Carina",
         "time": "13:30",
         "id": "279055555072495616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Noble Park United FC - Berwick City SC",
+        "time": "13:30",
+        "id": "279260692274614272"
     },
     {
         "tur": "live",
@@ -51,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Strathmore - Uni Hill Eagles FC",
+        "time": "13:15",
+        "id": "279259683460616192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kashiwa Reysol - Urawa Red Diamonds",
         "time": "13:00",
         "id": "278624507051249664"
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sydney FC NPL - Blacktown City Fc",
-        "time": "12:30",
-        "id": "278849992966410240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brisbane City (W) - Sunshine Coast Wanderers (W)",
-        "time": "12:30",
-        "id": "279054549022543872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lions Fc (W) - Souths United NPL (W)",
-        "time": "12:30",
-        "id": "279054548934463488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Eastern Suburbs (W) - Mitchelton (W)",
-        "time": "12:30",
-        "id": "279215396232499200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Football Queensland QAS (W) - Gold Coast United (W)",
-        "time": "12:30",
-        "id": "279247804355973120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Box Hill United (W) - Spring Hills FC (W)",
-        "time": "12:30",
-        "id": "279063386476646400"
+        "name": "Lech Poznan II - Kluczevia Stargard",
+        "time": "13:00",
+        "id": "278952941437718528"
     }
 ]
