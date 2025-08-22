@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "PiPS - EuPa",
+        "time": "19:00",
+        "id": "279279948523507712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Radomiak Radom - Termalica BB Nieciecza",
+        "time": "19:00",
+        "id": "278342661782507520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AIFK Turku - SalPa II",
         "time": "18:30",
         "id": "279100258898808832"
@@ -9,16 +23,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FCJ Blackbird - KeuPa",
+        "name": "Lautp - Union Plaani",
         "time": "18:30",
-        "id": "279145880456663040"
+        "id": "279146184705183744"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lautp - Union Plaani",
+        "name": "FCJ Blackbird - KeuPa",
         "time": "18:30",
-        "id": "279146184705183744"
+        "id": "279145880456663040"
     },
     {
         "tur": "live",
@@ -58,16 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "EIF Ekenas - FC Lahti",
+        "name": "Pk-35 - JaPS",
         "time": "18:30",
-        "id": "278849977089921024"
+        "id": "278652991220879360"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Pk-35 - JaPS",
+        "name": "EIF Ekenas - FC Lahti",
         "time": "18:30",
-        "id": "278652991220879360"
+        "id": "278849977089921024"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Gazovik Orenburg - FC Akhmat Grozny",
         "time": "18:00",
         "id": "277334994610950144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Taraz - Khan Tengri FC",
-        "time": "17:00",
-        "id": "279244663488122880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Kaspyi Aktau - SD Family",
-        "time": "17:00",
-        "id": "279244639346757632"
     }
 ]
