@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Athletic Club MG - Chapecoense SC",
+        "time": "01:00",
+        "id": "278748695448653824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HFX Wanderers FC - Valour Fc",
+        "time": "01:00",
+        "id": "278850001895034880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Potros Del Este Reserves - Sporting San Miguelito Reserves",
+        "time": "01:00",
+        "id": "279242724661661696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Montevideo Wanderers - Juventud Piedras",
+        "time": "01:00",
+        "id": "278669187610710016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Nacional Asuncion - Club Atletico Tembetary",
         "time": "00:30",
         "id": "278827987575640064"
@@ -47,33 +75,5 @@
         "name": "Sportivo Italiano - CD UAI Urquiza",
         "time": "23:35",
         "id": "279154508909645824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juan Pablo II College - Cusco FC",
-        "time": "23:15",
-        "id": "278663064387194880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boca Juniors Cali - Real Soacha Cundinamarca",
-        "time": "23:00",
-        "id": "279068013441978368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Quixada CE U20 - Anjos do Ceu U20",
-        "time": "23:00",
-        "id": "279288299234922496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Carmelita - Escorpiones de Belen",
-        "time": "23:00",
-        "id": "279249455661846528"
     }
 ]
