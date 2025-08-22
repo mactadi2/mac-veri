@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sportivo Italiano - CD UAI Urquiza",
+        "time": "23:35",
+        "id": "279154508909645824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juan Pablo II College - Cusco FC",
+        "time": "23:15",
+        "id": "278663064387194880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Betis - Alaves",
         "time": "22:30",
         "id": "278067954284892160"
@@ -44,16 +58,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "PSG - Angers",
-        "time": "21:45",
-        "id": "278811245306580992"
+        "name": "Palestino Santiago - Colo Colo",
+        "time": "22:00",
+        "id": "278748816453275648"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bohemian FC Dublin - Cork City FC",
-        "time": "21:45",
-        "id": "278657939525472256"
+        "name": "Always Ready - Oriente Petrolero",
+        "time": "22:00",
+        "id": "278850013660057600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Encarnacion FC - River Plate Asuncion",
+        "time": "22:00",
+        "id": "278849984196120576"
     },
     {
         "tur": "live",
@@ -72,36 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fatih Karagumruk - Göztepe",
-        "time": "21:30",
-        "id": "278836775738281984"
+        "name": "Treaty United FC - Dundalk FC",
+        "time": "21:45",
+        "id": "278658624222531584"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Corum Belediyespor - Sariyer GK",
+        "name": "Argentino de Rosario - Deportivo Paraguayo",
         "time": "21:30",
-        "id": "279090394306842624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Bayern Münih - RB Leipzig",
-        "time": "21:30",
-        "id": "274093411250868224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pescara - Cesena FC",
-        "time": "21:30",
-        "id": "278809051827146752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Barracas Central - Defensa y Justicia",
-        "time": "21:30",
-        "id": "278551152964014080"
+        "id": "278853794000932864"
     }
 ]
