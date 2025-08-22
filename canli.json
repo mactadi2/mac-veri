@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Excursionistas - Villa San Carlos",
+        "time": "02:30",
+        "id": "279154509001920512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "New York City FC II - Columbus Crew II",
+        "time": "02:30",
+        "id": "278849983704338432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portuguesa FC - Academia Anzoategui",
+        "time": "02:30",
+        "id": "279061045321011200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tigre - Independiente Rivadavia",
         "time": "02:00",
         "id": "278551149853937664"
@@ -44,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Poza Rica - Gorilas de Juanacatlаn",
+        "time": "02:00",
+        "id": "279206589411495936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Athletic Club MG - Chapecoense SC",
         "time": "01:00",
         "id": "278748695448653824"
@@ -68,19 +96,5 @@
         "name": "Montevideo Wanderers - Juventud Piedras",
         "time": "01:00",
         "id": "278669187610710016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nacional Asuncion - Club Atletico Tembetary",
-        "time": "00:30",
-        "id": "278827987575640064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sol de America - Pastoreo FC",
-        "time": "00:30",
-        "id": "278849984104894464"
     }
 ]
