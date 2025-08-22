@@ -37,9 +37,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Cartagena - Eldense",
+        "time": "22:00",
+        "id": "279117584567242752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PSG - Angers",
         "time": "21:45",
         "id": "278811245306580992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bohemian FC Dublin - Cork City FC",
+        "time": "21:45",
+        "id": "278657939525472256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Galway United - Derry City",
+        "time": "21:45",
+        "id": "278656807965167616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Drogheda United - St Patrick's Athletic",
+        "time": "21:45",
+        "id": "278656636380385280"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "SC Amiens - Annecy FC",
-        "time": "21:00",
-        "id": "278722489699405824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rodez Aveyron - Stade Laval",
-        "time": "21:00",
-        "id": "278745029992910848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Clermont - Grenoble Foot 38",
-        "time": "21:00",
-        "id": "278654455131541504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dunkerque - AS Nancy Lorraine",
-        "time": "21:00",
-        "id": "278850003194220544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Le Mans FC - SC Bastia",
-        "time": "21:00",
-        "id": "278850002979262464"
+        "name": "Barracas Central - Defensa y Justicia",
+        "time": "21:30",
+        "id": "278551152964014080"
     }
 ]
