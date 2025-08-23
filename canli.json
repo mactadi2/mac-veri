@@ -23,6 +23,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tasmania University SC - Hobart United",
+        "time": "07:30",
+        "id": "279229004197793792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Glenorchy Knights (W) - Riverside Olympic SC (W)",
+        "time": "07:15",
+        "id": "279228173535809536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sutherland Sharks U20 - Mt Druitt Town Rangers U20",
         "time": "06:30",
         "id": "279040125048066048"
@@ -58,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Auckland FC II - Birkenhead United",
-        "time": "06:00",
-        "id": "279272740435922944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Eastern Suburbs Auckland AFC - Western Springs AFC",
         "time": "06:00",
         "id": "279272740536586240"
@@ -86,22 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Upper Hutt City FC - Western Suburbs",
-        "time": "06:00",
-        "id": "279272157842903040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Adelaide Croatia Raiders Reserves - Metro Stars Reserves",
-        "time": "06:00",
-        "id": "279154953502724096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "West Adelaide Reserves (W) - Adelaide Comets Reserves (W)",
         "time": "06:00",
         "id": "279237332278841344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Tepatitlan de Morelos - Dorados",
+        "time": "04:00",
+        "id": "278849998148472832"
     }
 ]
