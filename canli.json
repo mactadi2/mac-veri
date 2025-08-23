@@ -9,6 +9,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Island Bay United - Wellington Olympic",
+        "time": "06:30",
+        "id": "279272157489532928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ferrymead Bays - Wanaka AFC",
+        "time": "06:15",
+        "id": "279270714300829696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Edgeworth Eagles - Lambton Jaffas FC",
         "time": "06:00",
         "id": "279036939759390720"
@@ -51,9 +65,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Avondale U23 - Green Gully U23",
-        "time": "05:30",
-        "id": "279149533309571072"
+        "name": "Upper Hutt City FC - Western Suburbs",
+        "time": "06:00",
+        "id": "279272157842903040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wellington Phoenix Reservers - North Wellington AFC",
+        "time": "06:00",
+        "id": "279272157709733888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universities of Canterbury - Cashmere Technical",
+        "time": "05:45",
+        "id": "279270603818668032"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Oakleigh Cannons U23 - South Melbourne U23",
         "time": "05:30",
         "id": "279149533401845760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Port Melbourne U23 - Heidelberg Utd U23",
-        "time": "05:30",
-        "id": "279149533502509056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melbourne Knights U23 - Altona Magic U23",
-        "time": "05:30",
-        "id": "279320606961438720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melbourne Victory FC U23 - Dandenong City U23",
-        "time": "05:30",
-        "id": "279320153935712256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vancouver Langley FC - Forge FC",
-        "time": "05:00",
-        "id": "278850001992552448"
     }
 ]
