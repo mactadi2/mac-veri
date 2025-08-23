@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Northern Tigers - Canterbury Bankstown Fc",
+        "time": "09:15",
+        "id": "278968246450917376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sutherland Sharks - Mt Druitt Town Rangers",
+        "time": "09:00",
+        "id": "278849992770326528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "East Coast Bays - West Coast Rangers",
+        "time": "09:00",
+        "id": "279270175117807616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fencibles United - Bay Olympic",
+        "time": "09:00",
+        "id": "279270175670407168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Auckland United FC - Auckland City",
         "time": "08:30",
         "id": "279272739609645056"
@@ -12,13 +40,6 @@
         "name": "Salisbury United - Adelaide Blue Eagles",
         "time": "08:30",
         "id": "279210823590744064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "West Adelaide (W) - Adelaide Comets (W)",
-        "time": "08:30",
-        "id": "279154845898903552"
     },
     {
         "tur": "live",
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NWS Koalas Spirit (W) - Macarthur Rams (W)",
-        "time": "08:00",
-        "id": "279056949786578944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Clarence Zebras - South Hobart",
         "time": "07:30",
         "id": "278849995531227136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Devonport City Strikers - Launceston United",
-        "time": "07:30",
-        "id": "278849995326754816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kingborough Lions - Launceston City",
-        "time": "07:30",
-        "id": "278849995447341056"
     }
 ]
