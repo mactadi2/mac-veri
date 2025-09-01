@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Huila - Real Cartagena",
+        "time": "01:45",
+        "id": "279560954073714688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Athletic Club MG U20 - EC Bonfim U20",
+        "time": "01:30",
+        "id": "280179644702003200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Platense - Godoy Cruz",
         "time": "01:15",
         "id": "279429102717505536"
@@ -47,19 +61,5 @@
         "name": "Mount Pleasant FC - Molynes United FC",
         "time": "01:00",
         "id": "280168395581820928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente Santa Fe (W) - Orsomarso (W)",
-        "time": "23:45",
-        "id": "280170281526497280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia y Esgrima La Plata - Atletico Tucuman",
-        "time": "23:00",
-        "id": "279429107982405632"
     }
 ]
