@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FK Rigas FS  II - Marupe",
+        "time": "19:30",
+        "id": "280082152637468672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Viking (A) - Staal Jorpeland",
         "time": "19:00",
         "id": "279654181947707392"
@@ -19,6 +26,13 @@
         "name": "Molde (A) - Kristiansund BK 2",
         "time": "19:00",
         "id": "279654182478286848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lokomotiv Oslo - Fredrikstad 2",
+        "time": "19:00",
+        "id": "279654182066196480"
     },
     {
         "tur": "live",
@@ -58,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Capitan Figari de Lambare - Club 1 de Marzo Pilar",
+        "time": "19:00",
+        "id": "280186678874869760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Afganistan - Tacikistan",
         "time": "18:30",
         "id": "279979494221156352"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ns Mura U19 - NK Fuzinar U19",
-        "time": "18:00",
-        "id": "280159070345891840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Real Oruro U19 - Jorge Wilstermann U19",
         "time": "18:00",
         "id": "280160897450774528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dravinja - NK Nafta Lendava",
-        "time": "18:00",
-        "id": "279650341249748992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Marek Dupnica - PFC Minyor Pernik",
-        "time": "17:30",
-        "id": "279611083573039104"
     }
 ]
