@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SD Huesca - Eibar",
+        "time": "20:30",
+        "id": "279537694971924480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Agropecuario - Almirante Brown de Lules",
         "time": "20:00",
         "id": "279548944357396480"
@@ -12,6 +19,13 @@
         "name": "Jonkopings Sodra - IFK Skovde FK",
         "time": "20:00",
         "id": "279900733681307648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Envigado FC Reserves - Atletico Nacional Medellin Reserves",
+        "time": "20:00",
+        "id": "280124871181209600"
     },
     {
         "tur": "live",
@@ -72,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Skedsmo - Hamarkameratene Football 2",
-        "time": "19:00",
-        "id": "279654182940708864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Molde (A) - Kristiansund BK 2",
         "time": "19:00",
         "id": "279654182478286848"
@@ -96,12 +103,5 @@
         "name": "HSK Zrinjski Mostar - Radnik Bijeljina",
         "time": "19:00",
         "id": "279525356784979968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Afganistan - Tacikistan",
-        "time": "18:30",
-        "id": "279979494221156352"
     }
 ]
