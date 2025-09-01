@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Farul Constanta - Petrolul Ploiesti",
+        "time": "21:00",
+        "id": "278794758272454656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Leiknir Reykjavik U19 - HK\/Ymir U19",
+        "time": "21:00",
+        "id": "280171726369853440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FH Hafnarfjordur U19 - Breidablik\/Augn\/Smari U19",
+        "time": "21:00",
+        "id": "280168495923204096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SD Huesca - Eibar",
         "time": "20:30",
         "id": "279537694971924480"
@@ -72,23 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Rigas FS  II - Marupe",
-        "time": "19:30",
-        "id": "280082152637468672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viking (A) - Staal Jorpeland",
-        "time": "19:00",
-        "id": "279654181947707392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Molde (A) - Kristiansund BK 2",
-        "time": "19:00",
-        "id": "279654182478286848"
+        "name": "Macva Sabac - Borac Cacak",
+        "time": "20:00",
+        "id": "280010043321094144"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Lokomotiv Oslo - Fredrikstad 2",
         "time": "19:00",
         "id": "279654182066196480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HSK Zrinjski Mostar - Radnik Bijeljina",
-        "time": "19:00",
-        "id": "279525356784979968"
     }
 ]
