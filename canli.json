@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chelmsford City - Farnborough FC",
+        "time": "21:45",
+        "id": "279664405925466112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AC Forli - Ravenna Calcio",
+        "time": "21:30",
+        "id": "279641069691473920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Farul Constanta - Petrolul Ploiesti",
         "time": "21:00",
         "id": "278794758272454656"
@@ -89,19 +103,5 @@
         "name": "Sandefjord 2 - Valerenga IF Oslo II",
         "time": "20:00",
         "id": "279657988594208768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Macva Sabac - Borac Cacak",
-        "time": "20:00",
-        "id": "280010043321094144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lokomotiv Oslo - Fredrikstad 2",
-        "time": "19:00",
-        "id": "279654182066196480"
     }
 ]
