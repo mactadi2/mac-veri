@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cliftonville (Kadınlar) - Lisburn (W)",
+        "time": "22:00",
+        "id": "280067610441289728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chelmsford City - Farnborough FC",
         "time": "21:45",
         "id": "279664405925466112"
@@ -96,12 +103,5 @@
         "name": "Albion Reserves - Ca Penarol Reserves",
         "time": "21:00",
         "id": "279976521140146176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Huesca - Eibar",
-        "time": "20:30",
-        "id": "279537694971924480"
     }
 ]
