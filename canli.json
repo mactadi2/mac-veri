@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Afganistan - Tacikistan",
+        "time": "18:30",
+        "id": "279979494221156352"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Waab Sports Club - Al Mesaimeer SC",
+        "time": "18:30",
+        "id": "280170239115792384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Kharitiyath - Lusail City",
+        "time": "18:30",
+        "id": "280170239020371968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Csikszereda Miercurea Ciuc - Otelul Galati",
         "time": "18:00",
         "id": "278794572096737280"
@@ -54,12 +75,5 @@
         "name": "KF Llapi Podujeve - FC Drita Gjilan",
         "time": "17:30",
         "id": "280002485614153728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Egypt U20 - Iraq U20",
-        "time": "16:30",
-        "id": "280177153314787328"
     }
 ]
