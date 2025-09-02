@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "America Mineiro MG - Avai",
+        "time": "01:30",
+        "id": "279472698210521088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Asociacion Deportivo Cali (W) - Atletico Nacional Medellin (W)",
         "time": "01:00",
         "id": "280253475858812928"
@@ -19,19 +26,5 @@
         "name": "AD San Carlos - Municipal Perez Zeledon",
         "time": "00:00",
         "id": "279492556742594560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chacaritas SC - Cumbaya FC",
-        "time": "23:30",
-        "id": "280033599459299328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Antonio FC Cotacachi - Club 9 de Octubre",
-        "time": "23:30",
-        "id": "280033599383801856"
     }
 ]
