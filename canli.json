@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "12 de Octubre - Guarani de Fram",
+        "time": "19:30",
+        "id": "280167025269149696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chindia Targoviste - ACS Dumbravita",
+        "time": "19:30",
+        "id": "279425820598079488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GVI - Bronshoj BK",
+        "time": "19:30",
+        "id": "280163736219684864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "1928 Bucaspor - Izmir Coruhlu FK",
         "time": "19:00",
         "id": "280181560568844288"
@@ -72,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NK Sredisce - NK Podvinci",
-        "time": "18:00",
-        "id": "280174234169380864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SD Gerecja Vas - NK Zavrc",
-        "time": "18:00",
-        "id": "280173509054959616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "NK Ormoz - Boc Poljcane",
         "time": "18:00",
         "id": "280191949669011456"
@@ -93,8 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Turkmenistan - Özbekistan",
-        "time": "17:30",
-        "id": "280093191093489664"
+        "name": "SD Gerecja Vas - NK Zavrc",
+        "time": "18:00",
+        "id": "280173509054959616"
     }
 ]
