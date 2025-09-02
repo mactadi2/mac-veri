@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "AD San Carlos - Municipal Perez Zeledon",
+        "time": "00:00",
+        "id": "279492556742594560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chacaritas SC - Cumbaya FC",
         "time": "23:30",
         "id": "280033599459299328"
@@ -16,13 +23,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sol de America - Deportivo Recoleta",
-        "time": "22:00",
-        "id": "280108312427630592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Chasetown FC - Worcester City",
         "time": "21:45",
         "id": "280256150098808832"
@@ -33,26 +33,5 @@
         "name": "Shepshed Dynamo - Bourne Town FC",
         "time": "21:45",
         "id": "280256295464996864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Slough Town FC - Chippenham Town FC",
-        "time": "21:45",
-        "id": "279845876434866176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AFC Telford United - Peterborough Sports",
-        "time": "21:45",
-        "id": "279845876165382144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "De Foresters - VV Scherpenzeel",
-        "time": "21:00",
-        "id": "280169776290074624"
     }
 ]
