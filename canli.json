@@ -30,16 +30,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Lisse - RKVV Westlandia",
-        "time": "21:00",
-        "id": "280169776549072896"
+        "name": "Victoriano Arenas - Juventud Unida San Miguel",
+        "time": "21:30",
+        "id": "279488222826991616"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vv Sint Bavo - Capelle",
-        "time": "21:00",
-        "id": "280169542222745600"
+        "name": "Sportivo Barracas - General Lamadrid",
+        "time": "21:30",
+        "id": "279488222465232896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CSD Central Ballester - Centro Espanyol",
+        "time": "21:30",
+        "id": "279488222129688576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Espanol - Deportivo Muniz",
+        "time": "21:30",
+        "id": "279488222547021824"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "VV Zwaluwen Vlaardingen - SV Urk",
         "time": "21:00",
         "id": "280169542092722176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Scheveningen - Staphorst",
-        "time": "21:00",
-        "id": "280169541450993664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SteDoCo - SV DVS'33 Ermelo",
-        "time": "21:00",
-        "id": "280169541949067264"
     }
 ]
