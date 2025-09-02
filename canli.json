@@ -51,13 +51,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "VV Hoogeveen - Velocitas 1897",
-        "time": "21:00",
-        "id": "280169778294951936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "ROHDA Raalte - HVV Hollandia Hoorn",
         "time": "21:00",
         "id": "280169541851549696"
@@ -72,16 +65,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Harkemase Boys - VV Sparta Nijkerk",
+        "name": "De Foresters - VV Scherpenzeel",
         "time": "21:00",
-        "id": "280169541567385600"
+        "id": "280169776290074624"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "De Foresters - VV Scherpenzeel",
+        "name": "Harkemase Boys - VV Sparta Nijkerk",
         "time": "21:00",
-        "id": "280169776290074624"
+        "id": "280169541567385600"
     },
     {
         "tur": "live",
@@ -103,5 +96,12 @@
         "name": "Scheveningen - Staphorst",
         "time": "21:00",
         "id": "280169541450993664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SteDoCo - SV DVS'33 Ermelo",
+        "time": "21:00",
+        "id": "280169541949067264"
     }
 ]
