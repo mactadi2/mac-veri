@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cimarrones de Sonora - U.A. de Zacatecas",
+        "time": "05:05",
+        "id": "279799420584857600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santos Laguna (W) - Unam Pumas (W)",
+        "time": "05:00",
+        "id": "279748913889677312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Veraguas FC - Sporting San Miguelito",
+        "time": "04:30",
+        "id": "279743723457351680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Angel City FC (W) - Bay FC (W)",
         "time": "04:00",
         "id": "279596923567083520"
@@ -12,40 +33,5 @@
         "name": "Pitbulls Santa Barbara - Municipal Santa Ana",
         "time": "04:00",
         "id": "280182719738155008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferroviaria SP - Cuiaba MT",
-        "time": "03:30",
-        "id": "279557597526364160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente Santa Fe - Once Caldas",
-        "time": "03:30",
-        "id": "279477356117233664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Montego Bay United - Treasure Beach FC",
-        "time": "03:30",
-        "id": "280170136278798336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferro Carril Oeste - Racing de Cordoba",
-        "time": "03:15",
-        "id": "279548701124464640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Delfin SC - Libertad FC",
-        "time": "03:00",
-        "id": "279490666790260736"
     }
 ]
