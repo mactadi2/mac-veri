@@ -23,6 +23,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Andira - Santa Cruz AC",
+        "time": "02:00",
+        "id": "280295359742349312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "America Mineiro MG - Avai",
         "time": "01:30",
         "id": "279472698210521088"
@@ -33,12 +40,5 @@
         "name": "Asociacion Deportivo Cali (W) - Atletico Nacional Medellin (W)",
         "time": "01:00",
         "id": "280253475858812928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Sportivo Carapegua - Club Atletico Tembetary",
-        "time": "00:30",
-        "id": "280119650649509888"
     }
 ]
