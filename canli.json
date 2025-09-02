@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al-Ahli Doha - Al Duhail",
+        "time": "20:30",
+        "id": "280187621297229824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Yeni Mersin Idmanyurdu - Nigde Belediyesi Spor",
         "time": "20:00",
         "id": "280268255063576576"
@@ -30,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "USV Gnas - Ilzer SV",
+        "time": "20:00",
+        "id": "280209290248196096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Austria Lustenau II - FC Dornbirn",
         "time": "20:00",
         "id": "280251566654623744"
@@ -37,9 +51,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "USV Gnas - Ilzer SV",
+        "name": "Hapoel Kafr Qasim Shouaa - Beitar Ramat Gan",
         "time": "20:00",
-        "id": "280209290248196096"
+        "id": "280255988017270784"
     },
     {
         "tur": "live",
@@ -79,29 +93,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Pallo-Iirot Rauma - Ilves Ii",
-        "time": "18:30",
-        "id": "280014649311760384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Frydlant Nad Ostravici - SC Pusta Polom",
-        "time": "18:30",
-        "id": "280201636399419392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VIFK (W) - HJK Helsinki (W)",
-        "time": "18:30",
-        "id": "280167764911591424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viktoria Viktring - SGA Sirnitz",
-        "time": "18:30",
-        "id": "280222396131184640"
+        "name": "Bnei Jaffa Ortodoxim - Ironi Beit Dagan",
+        "time": "19:00",
+        "id": "280251889858252800"
     }
 ]
