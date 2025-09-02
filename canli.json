@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Sportivo Carapegua - Club Atletico Tembetary",
+        "time": "00:30",
+        "id": "280119650649509888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AD San Carlos - Municipal Perez Zeledon",
         "time": "00:00",
         "id": "279492556742594560"
@@ -19,19 +26,5 @@
         "name": "San Antonio FC Cotacachi - Club 9 de Octubre",
         "time": "23:30",
         "id": "280033599383801856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chasetown FC - Worcester City",
-        "time": "21:45",
-        "id": "280256150098808832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shepshed Dynamo - Bourne Town FC",
-        "time": "21:45",
-        "id": "280256295464996864"
     }
 ]
