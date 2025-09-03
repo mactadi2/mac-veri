@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ankaragücü - Karabuk Idman Yurdu",
+        "time": "20:00",
+        "id": "280269337407918080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hollanda U19 - İspanya U19",
+        "time": "20:00",
+        "id": "280219934368337920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bodens BK - Bergnasets AIK",
+        "time": "20:00",
+        "id": "280256895281926144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kings SC Kuopio - Ylamyllyn Yllatys",
+        "time": "19:45",
+        "id": "280217240093200384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SG Sonnenhof Grossaspach - VfB Stuttgart",
         "time": "19:30",
         "id": "280279267369160704"
@@ -75,33 +103,5 @@
         "name": "FC Andorra - Inter Club d'Escaldes",
         "time": "18:30",
         "id": "280361983905239040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Augsburg - Greuther Furth",
-        "time": "18:00",
-        "id": "280336589700337664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hırvatistan U19 - İtalya U19",
-        "time": "18:00",
-        "id": "280219295574790144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Azerbaycan - İzlanda U19",
-        "time": "18:00",
-        "id": "280276708316286976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Banik Ostrava B - SK Hanacka Slavia Kromeriz",
-        "time": "18:00",
-        "id": "280103217627533312"
     }
 ]
