@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Piast Kobylnica - Polonia Chodziez",
+        "time": "18:15",
+        "id": "280248791521693696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Augsburg - Greuther Furth",
         "time": "18:00",
         "id": "280336589700337664"
@@ -96,12 +103,5 @@
         "name": "CA Lugano Reserves - Central Ballester Reserves ",
         "time": "17:00",
         "id": "280275024370339840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Varnamo U21 - Halmstads U21",
-        "time": "17:00",
-        "id": "280358887465553920"
     }
 ]
