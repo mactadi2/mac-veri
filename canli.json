@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bodens BK - Bergnasets AIK",
+        "time": "20:00",
+        "id": "280256895281926144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kings SC Kuopio - Ylamyllyn Yllatys",
         "time": "19:45",
         "id": "280217240093200384"
@@ -96,12 +103,5 @@
         "name": "SJK Akatemia II - Vps-J",
         "time": "19:00",
         "id": "280218560488411136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jakobstads Bollklubb - GBK Kokkola",
-        "time": "19:00",
-        "id": "280096794735677440"
     }
 ]
