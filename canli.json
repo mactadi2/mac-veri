@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Holstein Kiel - St. Pauli",
+        "time": "14:30",
+        "id": "280335426269614080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Urawa Red Diamonds - Kawasaki Frontale",
         "time": "13:30",
         "id": "279718250461401088"
@@ -61,12 +68,5 @@
         "name": "Marconi Stallions - Sydney United",
         "time": "12:30",
         "id": "280253357877235712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kuveyt U23 - Myanmar U23",
-        "time": "12:30",
-        "id": "280242631306514432"
     }
 ]
