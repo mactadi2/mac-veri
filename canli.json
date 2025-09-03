@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SG Sonnenhof Grossaspach - VfB Stuttgart",
+        "time": "19:30",
+        "id": "280279267369160704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tups - HJK Kantsu",
+        "time": "19:30",
+        "id": "280217239981002752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo San Lorenzo - Tacuary Asuncion",
+        "time": "19:30",
+        "id": "280167025371910144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Fethiyespor - Soke 1970 SK",
         "time": "19:00",
         "id": "280269400108568576"
@@ -12,6 +33,13 @@
         "name": "Karaman - Suvermez Kapadokyaspor",
         "time": "19:00",
         "id": "280269402603130880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Denizli Idman Yurdu - Nazilli Belediyespor",
+        "time": "19:00",
+        "id": "280370075673956352"
     },
     {
         "tur": "live",
@@ -44,23 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hoenefoss (W) - Valerenga (Kadınlar)",
-        "time": "19:00",
-        "id": "279610667535831040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Andorra - Inter Club d'Escaldes",
         "time": "18:30",
         "id": "280361983905239040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Myllykosken Pallo -47 - Pepo Lappeenranta",
-        "time": "18:30",
-        "id": "280094251877011456"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Banik Ostrava B - SK Hanacka Slavia Kromeriz",
         "time": "18:00",
         "id": "280103217627533312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GrIFK Grankulla - VJS Vantaa",
-        "time": "18:00",
-        "id": "280093024487346176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Odder IGF - IF Lyseng",
-        "time": "18:00",
-        "id": "280103217527918592"
     }
 ]
