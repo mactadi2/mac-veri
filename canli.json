@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Crown Legacy FC - Carolina Core",
+        "time": "02:00",
+        "id": "280118638301810688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SD Atletico Nacional Reserves - Cd Universitario Reserves",
         "time": "01:00",
         "id": "280412310936358912"
@@ -33,19 +40,5 @@
         "name": "Suriname - Panama",
         "time": "00:30",
         "id": "280333856333238272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rayadas de Chiriqui (W) - UMECIT (W)",
-        "time": "00:00",
-        "id": "280371513868292096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Carmelita - Pitbulls Santa Barbara",
-        "time": "00:00",
-        "id": "280350446655246336"
     }
 ]
