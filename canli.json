@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Belarus U21 - Belçika U21",
+        "time": "18:00",
+        "id": "280344137160593408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Portekiz U19 - Macaristan U19",
         "time": "17:30",
         "id": "280362575433175040"
@@ -96,12 +103,5 @@
         "name": "Finlandiya U21 - San Marino U21",
         "time": "17:00",
         "id": "280344118530543616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Abu Qir Semad FC - Tanta",
-        "time": "16:30",
-        "id": "280270515385536512"
     }
 ]
