@@ -1,79 +1,100 @@
 [
     {
         "type": "futbol",
-        "name": "Vanspor - Bandırmaspor",
-        "day": "29",
-        "time": "19:00",
-        "channel": "TRT Spor"
+        "name": "Kahramanmaraş - Osmaniyespor",
+        "day": "04",
+        "time": "14:00",
+        "channel": "A Spor"
     },
     {
         "type": "futbol",
-        "name": "Cremonese - Sassuolo",
-        "day": "29",
-        "time": "19:30",
-        "channel": "Tivibu Spor 1"
+        "name": "Isparta 32 Spor - Kırşehirspor",
+        "day": "04",
+        "time": "16:00",
+        "channel": "A Spor"
     },
     {
         "type": "futbol",
-        "name": "Hertha Berlin - Elversberg",
-        "day": "29",
-        "time": "19:30",
-        "channel": "Tivibu Spor 3"
-    },
-    {
-        "type": "futbol",
-        "name": "Nürnberg - Paderborn",
-        "day": "29",
-        "time": "19:30",
-        "channel": "Tivibu Spor 4"
-    },
-    {
-        "type": "futbol",
-        "name": "Elche - Levante",
-        "day": "29",
-        "time": "20:30",
-        "channel": "S Sport"
-    },
-    {
-        "type": "futbol",
-        "name": "Hamburg - St.Pauli",
-        "day": "29",
-        "time": "21:30",
-        "channel": "Tivibu Spor 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Sarıyer - Erzurumspor",
-        "day": "29",
-        "time": "21:30",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Göztepe - Konyaspor",
-        "day": "29",
-        "time": "21:30",
-        "channel": "Bein Sports 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Lecce - Milan",
-        "day": "29",
-        "time": "21:45",
-        "channel": "Tivibu Spor 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Valencia - Getafe",
-        "day": "29",
-        "time": "22:30",
-        "channel": "S Sport"
+        "name": "Bursaspor - Söğütspor",
+        "day": "04",
+        "time": "21:00",
+        "channel": "A Spor"
     },
     {
         "type": "basketbol",
-        "name": "Türkiye - Çekya",
-        "day": "29",
-        "time": "14:45",
+        "name": "Fransa - İzlanda",
+        "day": "04",
+        "time": "15:00",
         "channel": "TRT Spor"
+    },
+    {
+        "type": "basketbol",
+        "name": "İsrail - Slovenya",
+        "day": "04",
+        "time": "18:00",
+        "channel": "tabii Spor"
+    },
+    {
+        "type": "basketbol",
+        "name": "İtalya - Güney Kıbrıs",
+        "day": "04",
+        "time": "18:15",
+        "channel": "tabii Spor"
+    },
+    {
+        "type": "basketbol",
+        "name": "Polonya - Belçika",
+        "day": "04",
+        "time": "21:30",
+        "channel": "tabii Spor"
+    },
+    {
+        "type": "tenis",
+        "name": "Senesi\/Pons - Fuente\/Maldonado",
+        "day": "04",
+        "time": "10:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Garcia\/Sanchez - Martin\/Fallada",
+        "day": "04",
+        "time": "12:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Alonso\/Bautista - Yanguas\/Ruiz",
+        "day": "04",
+        "time": "14:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Coello\/Tapia - Granados\/Ruiz",
+        "day": "04",
+        "time": "16:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Sanchez\/Fernandez - Martinez\/Collombon",
+        "day": "04",
+        "time": "18:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Diestro\/Esbri - Chingotto\/Galan",
+        "day": "04",
+        "time": "20:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Stupaczuk\/Lebron - Belluati\/Garrido",
+        "day": "04",
+        "time": "22:00",
+        "channel": "Bein Sports Max 1"
     }
 ]
