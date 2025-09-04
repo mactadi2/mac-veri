@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Inter San Carlos - PFA Antioquia FC",
+        "time": "04:30",
+        "id": "280403652927164416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sporting San Miguelito Reserves - Chorrillo",
         "time": "04:00",
         "id": "280372974111035392"
@@ -33,54 +40,5 @@
         "name": "Chorrillo FC (W) - Club America (W)",
         "time": "04:00",
         "id": "280320042519891968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportes Quindio - Atletico Nacional de Medellin",
-        "time": "03:45",
-        "id": "280118633466826752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente Medellin - Fortaleza FC",
-        "time": "03:30",
-        "id": "280004210626531328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AD Confianca SE - EC Bahia",
-        "time": "03:30",
-        "id": "279328199509413888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Vargas Torres - 22 de Julio",
-        "time": "03:00",
-        "id": "280118632774766592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Escorpiones de Belen - Cariari Pococi",
-        "time": "03:00",
-        "id": "280284247694118912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hartford Athletic - Indy Eleven",
-        "time": "02:30",
-        "id": "280034502937546752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santos FC (W) - Sao Paulo (W)",
-        "time": "02:00",
-        "id": "280213822168502272"
     }
 ]
