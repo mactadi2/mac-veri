@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Suudi Arabistan - Kuzey Makedonya",
+        "time": "18:00",
+        "id": "280274291046617088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arnavutluk U19 - Moldova U19",
+        "time": "18:00",
+        "id": "280351944293355520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "İsveç U19 - Norveç U19",
+        "time": "18:00",
+        "id": "280454263966142464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "PuiU Helsinki - FC Honka",
+        "time": "18:00",
+        "id": "280183883009495040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Portekiz U19 - Macaristan U19",
         "time": "17:30",
         "id": "280362575433175040"
@@ -75,33 +103,5 @@
         "name": "Kafr El Zayat - Telecom Egypt",
         "time": "16:30",
         "id": "280318651131891712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MKS Cracovia Krakow - Polonia Bytom",
-        "time": "16:00",
-        "id": "280344787608014848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tayland - Fiji",
-        "time": "16:00",
-        "id": "280297828355543040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malezya - Singapur",
-        "time": "16:00",
-        "id": "280266732594139136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Çad - Gana",
-        "time": "16:00",
-        "id": "280262559371759616"
     }
 ]
