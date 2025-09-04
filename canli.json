@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "VfL Bochum - MSV Duisburg",
+        "time": "15:00",
+        "id": "280371183469334528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Afganistan - Hindistan",
+        "time": "15:00",
+        "id": "280262952221806592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yirga Chefe Bunaa (W) - Lideta Sub City (W)",
+        "time": "15:00",
+        "id": "280361910909669376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SK Sturm Graz II - Floridsdorfer AC",
         "time": "14:30",
         "id": "280357692694990848"
@@ -26,19 +47,5 @@
         "name": "IF Brommapojkarna - Hammarby IF",
         "time": "13:45",
         "id": "280301528870424576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boeun Sangmu Wfc - Sejong Sportstoto (W)",
-        "time": "13:00",
-        "id": "280396809749270528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kator FC - Al Ittihad Wad Madani",
-        "time": "13:00",
-        "id": "280430044922384384"
     }
 ]
