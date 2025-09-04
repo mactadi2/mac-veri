@@ -72,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kafr El Zayat - Telecom Egypt",
+        "time": "16:30",
+        "id": "280318651131891712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "MKS Cracovia Krakow - Polonia Bytom",
         "time": "16:00",
         "id": "280344787608014848"
@@ -96,12 +103,5 @@
         "name": "Çad - Gana",
         "time": "16:00",
         "id": "280262559371759616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Hilal Port Sudan - Mogadishu City",
-        "time": "16:00",
-        "id": "280430112359452672"
     }
 ]
