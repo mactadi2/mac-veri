@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SK Sturm Graz II - Floridsdorfer AC",
+        "time": "14:30",
+        "id": "280357692694990848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kahramanmarasspor - Osmaniyespor FK",
         "time": "14:00",
         "id": "280362760216383488"
@@ -47,19 +54,5 @@
         "name": "Kator FC - Al Ittihad Wad Madani",
         "time": "13:00",
         "id": "280430044922384384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KAA Gent II - FC Verbroedering Dender EH",
-        "time": "12:30",
-        "id": "280428212353372160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "APIA Leichhardt Tigers U20 - Sydney United 58 U20",
-        "time": "12:30",
-        "id": "280342044611842048"
     }
 ]
