@@ -2,6 +2,83 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Arborg - KFS Vestmennaeyjar",
+        "time": "22:15",
+        "id": "280297133976981504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atenas De Pocito - CA Trinidad",
+        "time": "22:00",
+        "id": "280424313839030272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cezayir - Botsvana",
+        "time": "22:00",
+        "id": "280289409767706624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mali - Comoros",
+        "time": "22:00",
+        "id": "280276972324655104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hollanda - Polonya",
+        "time": "21:45",
+        "id": "272700677393879040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lihtenştayn - Belçika",
+        "time": "21:45",
+        "id": "272700677774512128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bulgaristan - İspanya",
+        "time": "21:45",
+        "id": "272700677993664512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Slovakya - Almanya",
+        "time": "21:45",
+        "id": "274736704015962112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lüksemburg - Kuzey İrlanda",
+        "time": "21:45",
+        "id": "274736703944658944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Murcia - Elche",
+        "time": "21:30",
+        "id": "280363579177308160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Athletic Bilbao - Osasuna",
+        "time": "21:30",
+        "id": "280428507730939904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Skeid U19 - Asker U19",
         "time": "21:15",
         "id": "280429420290904064"
@@ -16,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Grotta (W) - Keflavik (W)",
-        "time": "21:00",
-        "id": "280192333874597888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "KFUM U19 - Baerum Sk U19",
         "time": "20:45",
         "id": "280434894516129792"
@@ -33,75 +103,5 @@
         "name": "Portekiz U20 - Çek Cumhuriyeti U20",
         "time": "20:30",
         "id": "280285629096529920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fylkir Reykjavik (W) - IBV Vestmannaeyjar (W)",
-        "time": "20:30",
-        "id": "280193104291696640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Haukar Hafnafjordur (W) - Afturelding\/Fram (W)",
-        "time": "20:30",
-        "id": "280192197506240512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Grindavik\/Njardvik (W) - HK Kopavogur (W)",
-        "time": "20:30",
-        "id": "280315036415692800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Espoon Tikka - VJS Vantaa II",
-        "time": "20:15",
-        "id": "280313183498014720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Toolon Taisto - PK Keski-Uusimaa II",
-        "time": "20:15",
-        "id": "280273996811997184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rusya - Ürdün",
-        "time": "20:00",
-        "id": "277806215853117440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melhus Il - Kvik Trondheim",
-        "time": "20:00",
-        "id": "280118640482848768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IFK Hassleholm - Linero IF",
-        "time": "20:00",
-        "id": "280351096875126784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "TPV II - Saaksjaerven Loiske",
-        "time": "19:45",
-        "id": "280274234845040640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Birleşik Arap Emirlikleri - Suriye",
-        "time": "19:30",
-        "id": "280307358574448640"
     }
 ]
