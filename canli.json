@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Arjantin - Venezuela",
+        "time": "02:30",
+        "id": "278805250336493568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Uruguay - Peru",
+        "time": "02:30",
+        "id": "278805217837977600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kolombiya - Bolivya",
+        "time": "02:30",
+        "id": "278805259707617280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paraguay - Ekvador",
+        "time": "02:30",
+        "id": "278805259808280576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Crown Legacy FC - Carolina Core",
         "time": "02:00",
         "id": "280118638301810688"
@@ -33,12 +61,5 @@
         "name": "Inter FA - CD Aguila",
         "time": "01:00",
         "id": "280118630607360000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Suriname - Panama",
-        "time": "00:30",
-        "id": "280333856333238272"
     }
 ]
