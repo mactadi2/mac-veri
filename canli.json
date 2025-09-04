@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kazakistan - Galler",
+        "time": "17:00",
+        "id": "275469847298707456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kuzey Makedonya U19 - Bosnia and Herzegovina U19",
+        "time": "17:00",
+        "id": "280381339464765440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Spartak Kostroma - FC Ural Yekaterinburg",
+        "time": "17:00",
+        "id": "280078054872715264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Chelyabinsk - FK Fakel",
+        "time": "17:00",
+        "id": "280078028748492800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Isparta Davrazspor - Kirsehir Belediye Spor",
         "time": "16:30",
         "id": "280362829418205184"
@@ -44,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bahrain U20 - Egypt U20",
-        "time": "16:30",
-        "id": "280448830738141184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "MKS Cracovia Krakow - Polonia Bytom",
         "time": "16:00",
         "id": "280344787608014848"
@@ -82,26 +103,5 @@
         "name": "Al Hilal Port Sudan - Mogadishu City",
         "time": "16:00",
         "id": "280430112359452672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VfL Bochum - MSV Duisburg",
-        "time": "15:00",
-        "id": "280371183469334528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Afganistan - Hindistan",
-        "time": "15:00",
-        "id": "280262952221806592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Yirga Chefe Bunaa (W) - Lideta Sub City (W)",
-        "time": "15:00",
-        "id": "280361910909669376"
     }
 ]
