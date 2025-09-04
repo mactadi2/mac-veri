@@ -2,9 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gualaceo SC - Guayaquil City",
+        "time": "23:30",
+        "id": "280118632938344448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "RB Bragantino (W) - Corinthians Paulista (W)",
+        "time": "23:00",
+        "id": "280293187266940928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Arborg - KFS Vestmennaeyjar",
         "time": "22:15",
         "id": "280297133976981504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Breidablik Kopavogur (W) - Fh Hafnarfjordur",
+        "time": "22:15",
+        "id": "280313571690287104"
     },
     {
         "tur": "live",
@@ -37,71 +58,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Hollanda - Polonya",
-        "time": "21:45",
-        "id": "272700677393879040"
+        "name": "Kamerun - Esvatini",
+        "time": "22:00",
+        "id": "280276971755278336"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lihtenştayn - Belçika",
-        "time": "21:45",
-        "id": "272700677774512128"
+        "name": "Tunus - Liberya",
+        "time": "22:00",
+        "id": "280215710745104384"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bulgaristan - İspanya",
-        "time": "21:45",
-        "id": "272700677993664512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Slovakya - Almanya",
-        "time": "21:45",
-        "id": "274736704015962112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lüksemburg - Kuzey İrlanda",
-        "time": "21:45",
-        "id": "274736703944658944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Murcia - Elche",
-        "time": "21:30",
-        "id": "280363579177308160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Athletic Bilbao - Osasuna",
-        "time": "21:30",
-        "id": "280428507730939904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Skedsmo U19 - Valerenga U19",
-        "time": "21:30",
-        "id": "280429420182900736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Skeid U19 - Asker U19",
-        "time": "21:15",
-        "id": "280429420290904064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sprint\/Jeloy U19 - Grorud U19",
-        "time": "21:15",
-        "id": "280434894618890240"
+        "name": "Inter FA Reserves - CD Aguila Reserves",
+        "time": "22:00",
+        "id": "280309008832794624"
     }
 ]
