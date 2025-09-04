@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Suriname - Panama",
+        "time": "00:30",
+        "id": "280333856333238272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tevi Cocle FC (W) - Santa Fe FC (W)",
         "time": "00:00",
         "id": "280424392362692608"
@@ -33,12 +40,5 @@
         "name": "RB Bragantino (W) - Corinthians Paulista (W)",
         "time": "23:00",
         "id": "280293187266940928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Lorenzo Ullum - FC Lopez Pelaez",
-        "time": "22:00",
-        "id": "280424311353905152"
     }
 ]
