@@ -37,6 +37,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Lida - Kommunalnik Slonim",
+        "time": "17:00",
+        "id": "280530327105048576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Lokomotiv Gomel - FC Orsha",
+        "time": "17:00",
+        "id": "280515695641497600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Endonezya - Tayvan",
         "time": "16:30",
         "id": "280363200362450944"
@@ -89,19 +103,5 @@
         "name": "Arsenal de Sarandi U20 - All Boys U20",
         "time": "16:00",
         "id": "280536979011145728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Moron U20 - CA Fenix U20",
-        "time": "16:00",
-        "id": "280537161464418304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ferroviario Beira - Baia Pemba",
-        "time": "15:45",
-        "id": "280518643679367168"
     }
 ]
