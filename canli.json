@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kazincbarcika BSC - Karcagi SE",
+        "time": "13:30",
+        "id": "280517606641897472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Altona City - Springvale White Eagles",
+        "time": "13:30",
+        "id": "280424930250723328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brisbane City U23 - Queensland Lions U23",
+        "time": "13:30",
+        "id": "280393767040716800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gold Coast Knights U23 - Peninsula Power U23",
         "time": "13:00",
         "id": "280393768880967680"
@@ -82,12 +103,5 @@
         "name": "Yangon United (W) - Yangon City (W)",
         "time": "12:00",
         "id": "280518036701712384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ho Chi Minh City II (W) - TP Ho Chi Minh FC (W)",
-        "time": "11:30",
-        "id": "280428864688230400"
     }
 ]
