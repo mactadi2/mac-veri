@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SV Wehen Wiesbaden - Elversberg",
+        "time": "14:00",
+        "id": "280435703291187200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "University Azzurri FC - Darwin Olympic",
+        "time": "14:00",
+        "id": "280309743292125184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Darwin Hearts Reserves - Azzurri United FC Reserve",
+        "time": "14:00",
+        "id": "280530123937157120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kazincbarcika BSC - Karcagi SE",
         "time": "13:30",
         "id": "280517606641897472"
@@ -26,13 +47,6 @@
         "name": "Gold Coast Knights U23 - Peninsula Power U23",
         "time": "13:00",
         "id": "280393768880967680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ethiopia Bunna - Garde-Cotes FC",
-        "time": "13:00",
-        "id": "280408536104701952"
     },
     {
         "tur": "live",
@@ -68,12 +82,5 @@
         "name": "Brunswick City - North Sunshine Eagles",
         "time": "12:30",
         "id": "280424829572747264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brisbane Olympic (W) - Logan Lightning (W)",
-        "time": "12:15",
-        "id": "280429712055078912"
     }
 ]
