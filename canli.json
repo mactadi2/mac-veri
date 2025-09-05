@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sport Club Dimona - Maccabi Kiryat Gat Sports Club",
+        "time": "14:25",
+        "id": "280428297908785152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Agudat Sport Nordia Jerusalem - Shimshon Tel Aviv",
+        "time": "14:20",
+        "id": "280428298053488640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bayswater City - Kingsway Olympic",
+        "time": "14:15",
+        "id": "280259363043676160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maccabi Kiryat Ata Bialik - Hapoel Ironi Karmiel",
+        "time": "14:15",
+        "id": "280428266291073024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SV Wehen Wiesbaden - Elversberg",
         "time": "14:00",
         "id": "280435703291187200"
@@ -75,12 +103,5 @@
         "name": "Heidelberg United - Preston Lions",
         "time": "12:30",
         "id": "280371585126371328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brunswick City - North Sunshine Eagles",
-        "time": "12:30",
-        "id": "280424829572747264"
     }
 ]
