@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Albacete Balompie - CD Mirandes",
+        "time": "20:30",
+        "id": "279920404060049408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bulgaristan U21 - Gibraltar U21",
         "time": "19:30",
         "id": "280344186743558144"
@@ -23,16 +30,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Slovakya U21 - Andorra U21",
+        "name": "İsveç U21 - Armenia U21",
         "time": "19:00",
-        "id": "280344188271333376"
+        "id": "280344187251068928"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "İsveç U21 - Armenia U21",
+        "name": "Slovakya U21 - Andorra U21",
         "time": "19:00",
-        "id": "280344187251068928"
+        "id": "280344188271333376"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "JJK Jyvaskyla 2 - KeuPa",
         "time": "19:00",
         "id": "280416620301651968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Romanya U21 - Kosovo U21",
-        "time": "18:30",
-        "id": "280344187919011840"
     }
 ]
