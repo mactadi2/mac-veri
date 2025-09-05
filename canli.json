@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sportivo Luqueno - Guarani Asuncion",
+        "time": "00:30",
+        "id": "279664677043179520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Encarnacion FC - Deportivo Capiata",
+        "time": "00:30",
+        "id": "280118675113119744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Costa Del Este - UMECIT Reserves",
         "time": "00:00",
         "id": "280442980266020864"
@@ -54,19 +68,5 @@
         "name": "UD Telde - Arucas CF",
         "time": "23:00",
         "id": "280463043233714176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cordoba - Castellon",
-        "time": "22:30",
-        "id": "279928137554464768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Cartagena - Atletico Madrid B",
-        "time": "22:30",
-        "id": "280151728982200320"
     }
 ]
