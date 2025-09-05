@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tacoma Defiance - Vancouver Whitecaps II",
+        "time": "05:00",
+        "id": "280118638408765440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guatemala - El Salvador",
+        "time": "05:00",
+        "id": "280334111705534464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Santos Laguna (W) - Necaxa (W)",
         "time": "04:00",
         "id": "280118645471973376"
@@ -26,40 +40,5 @@
         "name": "Municipal Santa Ana - CS Uruguay de Coronado",
         "time": "04:00",
         "id": "280355207081234432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brezilya - Şili",
-        "time": "03:30",
-        "id": "278805250422476800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Imbabura SC - Atletico Vinotinto",
-        "time": "03:00",
-        "id": "280308305323233280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arjantin - Venezuela",
-        "time": "02:30",
-        "id": "278805250336493568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kolombiya - Bolivya",
-        "time": "02:30",
-        "id": "278805259707617280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paraguay - Ekvador",
-        "time": "02:30",
-        "id": "278805259808280576"
     }
 ]
