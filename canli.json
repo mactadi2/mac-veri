@@ -2,9 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "La Luz - Central Espanol FC",
+        "time": "23:30",
+        "id": "280335515417448448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Leones - CD Jaguares de Cordoba",
+        "time": "23:30",
+        "id": "280189009817374720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Amazonas FC - Remo PA",
         "time": "23:00",
         "id": "280108178324197376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Minnesota United FC II - Austin FC II",
+        "time": "23:00",
+        "id": "280278636470341632"
     },
     {
         "tur": "live",
@@ -16,16 +37,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "İsviçre - Kosova Cumhuriyeti",
-        "time": "21:45",
-        "id": "278269653725351936"
+        "name": "Mısır - Etiyopya",
+        "time": "22:00",
+        "id": "280285199195049984"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Slovenya - İsveç",
-        "time": "21:45",
-        "id": "278269653911998464"
+        "name": "Senegal - Sudan",
+        "time": "22:00",
+        "id": "280330241103237120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Moritanya - Togo",
+        "time": "22:00",
+        "id": "280285199078658048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fildişi Sahili - Burundi",
+        "time": "22:00",
+        "id": "280118629125722112"
     },
     {
         "tur": "live",
@@ -37,44 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Yunanistan - Belarus",
-        "time": "21:45",
-        "id": "274754826480521216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ukrayna - Fransa",
-        "time": "21:45",
-        "id": "278269974795128832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "İzlanda - Azerbaycan",
-        "time": "21:45",
-        "id": "278431631698694144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "İtalya - Estonya",
         "time": "21:45",
         "id": "278270101983203328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Moldova - İsrail",
-        "time": "21:45",
-        "id": "278269974915715072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Faroe Adaları - Hırvatistan",
-        "time": "21:45",
-        "id": "278269653524025344"
     },
     {
         "tur": "live",
@@ -86,22 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Portekiz U21 - Azerbaycan U21",
-        "time": "21:30",
-        "id": "280344188840710144"
+        "name": "Wexford FC - Dundalk FC",
+        "time": "21:45",
+        "id": "280015436514463744"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA San Miguel - Almagro",
-        "time": "21:30",
-        "id": "280118633820196864"
+        "name": "Longford Town - Finn Harps FC",
+        "time": "21:45",
+        "id": "280016317804843008"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Defensores Unidos - Deportivo Moron",
-        "time": "21:30",
-        "id": "280184095869374464"
+        "name": "Treaty United FC - University College Dublin FC",
+        "time": "21:45",
+        "id": "279927683413053440"
     }
 ]
