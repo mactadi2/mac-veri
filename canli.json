@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cordoba - Castellon",
+        "time": "22:30",
+        "id": "279928137554464768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "İsviçre - Kosova Cumhuriyeti",
         "time": "21:45",
         "id": "278269653725351936"
@@ -96,12 +103,5 @@
         "name": "Romanya - Kanada",
         "time": "21:00",
         "id": "279529551606976512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Albacete Balompie - CD Mirandes",
-        "time": "20:30",
-        "id": "279920404060049408"
     }
 ]
