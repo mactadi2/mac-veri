@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Costa Del Este - UMECIT Reserves",
+        "time": "00:00",
+        "id": "280442980266020864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mario Mendez FC - Union Cocle",
+        "time": "00:00",
+        "id": "280526557690335232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aguilas UAGro - Deportivo Yautepec FC",
+        "time": "00:00",
+        "id": "280516958575792128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "La Luz - Central Espanol FC",
         "time": "23:30",
         "id": "280335515417448448"
@@ -30,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "UD Telde - Arucas CF",
+        "time": "23:00",
+        "id": "280463043233714176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cordoba - Castellon",
         "time": "22:30",
         "id": "279928137554464768"
@@ -40,68 +68,5 @@
         "name": "FC Cartagena - Atletico Madrid B",
         "time": "22:30",
         "id": "280151728982200320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mısır - Etiyopya",
-        "time": "22:00",
-        "id": "280285199195049984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Senegal - Sudan",
-        "time": "22:00",
-        "id": "280330241103237120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Moritanya - Togo",
-        "time": "22:00",
-        "id": "280285199078658048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fildişi Sahili - Burundi",
-        "time": "22:00",
-        "id": "280118629125722112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fas - Nijer",
-        "time": "22:00",
-        "id": "280288141918736384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Inverness Caledonian Thistle - Stirling Albion",
-        "time": "22:00",
-        "id": "280118656026939392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lisburn (W) - Larne FC (W)",
-        "time": "22:00",
-        "id": "280531603477893120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JS Saoura - ASO Chlef",
-        "time": "22:00",
-        "id": "280367353979604992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Caldas SC - AD Portomosense",
-        "time": "22:00",
-        "id": "280380119337537536"
     }
 ]
