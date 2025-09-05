@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hapoel Tzafririm Holon - Hapoel Azor",
+        "time": "14:50",
+        "id": "280428297650835456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Migdal Haemeq - Hapoel Ironi Baqa Al-Gharbiyye",
+        "time": "14:30",
+        "id": "280428265768882176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Beit She'an FC - Fc Tzeirei Tamra",
+        "time": "14:30",
+        "id": "280428266045706240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sport Club Dimona - Maccabi Kiryat Gat Sports Club",
         "time": "14:25",
         "id": "280428297908785152"
@@ -26,13 +47,6 @@
         "name": "Maccabi Kiryat Ata Bialik - Hapoel Ironi Karmiel",
         "time": "14:15",
         "id": "280428266291073024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SV Wehen Wiesbaden - Elversberg",
-        "time": "14:00",
-        "id": "280435703291187200"
     },
     {
         "tur": "live",
@@ -68,40 +82,5 @@
         "name": "Brisbane City U23 - Queensland Lions U23",
         "time": "13:30",
         "id": "280393767040716800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gold Coast Knights U23 - Peninsula Power U23",
-        "time": "13:00",
-        "id": "280393768880967680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avustralya - Yeni Zelanda",
-        "time": "12:45",
-        "id": "280148379646955520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gold Coast Knights (W) - Lions Fc (W)",
-        "time": "12:45",
-        "id": "280309755752353792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Marmorek - MS Jerusalem",
-        "time": "12:45",
-        "id": "280428297551220736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Heidelberg United - Preston Lions",
-        "time": "12:30",
-        "id": "280371585126371328"
     }
 ]
