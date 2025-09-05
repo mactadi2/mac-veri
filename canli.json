@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "York United FC - Cavalry FC",
+        "time": "02:30",
+        "id": "280118632338558976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Estudiantes Caseros - Nueva Chicago",
         "time": "02:05",
         "id": "280193511677104128"
@@ -51,13 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Talleres de Cordoba (W) - River Plate (W)",
-        "time": "01:10",
-        "id": "280468137253670912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Club Atletico Colegiales - San Martin Tucuman",
         "time": "01:00",
         "id": "279941311643127808"
@@ -93,15 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Pinheiros FC ES - Galatas EC ES",
+        "name": "Bermuda - Jamaika",
         "time": "01:00",
-        "id": "280448025796677632"
+        "id": "280421051330072576"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bermuda - Jamaika",
+        "name": "Pinheiros FC ES - Galatas EC ES",
         "time": "01:00",
-        "id": "280421051330072576"
+        "id": "280448025796677632"
     }
 ]
