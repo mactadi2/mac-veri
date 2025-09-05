@@ -2,9 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Talleres de Cordoba (W) - River Plate (W)",
-        "time": "01:10",
-        "id": "280468137253670912"
+        "name": "CA Estudiantes Caseros - Nueva Chicago",
+        "time": "02:05",
+        "id": "280193511677104128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA All Boys - Gimnasia Y Tiro De Salta",
+        "time": "02:00",
+        "id": "280118633726873600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Temperley - Talleres Remedios Escalada",
+        "time": "02:00",
+        "id": "280300078696108032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Boca Juniors Reserves - CA River Plate Reserves",
+        "time": "02:00",
+        "id": "280468596898009088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Defensor Sporting - Juventud Piedras",
+        "time": "02:00",
+        "id": "280032599435513856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Pasto - Boyaca Chico",
+        "time": "02:00",
+        "id": "279726604314349568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gremio Esportivo Laranjeiras - Serra FC ES",
+        "time": "02:00",
+        "id": "280446741797539840"
     },
     {
         "tur": "live",
@@ -51,27 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bermuda - Jamaika",
-        "time": "01:00",
-        "id": "280421051330072576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Oceania FC - Aztecas AMF",
-        "time": "01:00",
-        "id": "280516958470934528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alamos - Ecatepec FC",
-        "time": "01:00",
-        "id": "280527819579199488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Sportivo Luqueno - Guarani Asuncion",
         "time": "00:30",
         "id": "279664677043179520"
@@ -82,26 +103,5 @@
         "name": "Encarnacion FC - Deportivo Capiata",
         "time": "00:30",
         "id": "280118675113119744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Costa Del Este - UMECIT Reserves",
-        "time": "00:00",
-        "id": "280442980266020864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mario Mendez FC - Union Cocle",
-        "time": "00:00",
-        "id": "280526557690335232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aguilas UAGro - Deportivo Yautepec FC",
-        "time": "00:00",
-        "id": "280516958575792128"
     }
 ]
