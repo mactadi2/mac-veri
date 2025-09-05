@@ -58,6 +58,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Oceania FC - Aztecas AMF",
+        "time": "01:00",
+        "id": "280516958470934528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alamos - Ecatepec FC",
+        "time": "01:00",
+        "id": "280527819579199488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sportivo Luqueno - Guarani Asuncion",
         "time": "00:30",
         "id": "279664677043179520"
@@ -89,19 +103,5 @@
         "name": "Aguilas UAGro - Deportivo Yautepec FC",
         "time": "00:00",
         "id": "280516958575792128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "La Luz - Central Espanol FC",
-        "time": "23:30",
-        "id": "280335515417448448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Leones - CD Jaguares de Cordoba",
-        "time": "23:30",
-        "id": "280189009817374720"
     }
 ]
