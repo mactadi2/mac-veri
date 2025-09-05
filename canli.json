@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Iraklis 1908 FC - Panserraikos",
+        "time": "17:30",
+        "id": "280520329652211712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Özbekistan - Kırgızistan",
+        "time": "17:30",
+        "id": "280347128029646848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Armenio Reserves - CS Dock Sud Reserves",
         "time": "17:00",
         "id": "280503674975948800"
@@ -23,20 +37,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Lida - Kommunalnik Slonim",
-        "time": "17:00",
-        "id": "280530327105048576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Lokomotiv Gomel - FC Orsha",
-        "time": "17:00",
-        "id": "280515695641497600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Endonezya - Tayvan",
         "time": "16:30",
         "id": "280363200362450944"
@@ -54,6 +54,13 @@
         "name": "Watford U21 - Sheffield Utd U21",
         "time": "16:00",
         "id": "280439615085744128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sacachispas Reserves - Villa Dalmine Reserves",
+        "time": "16:00",
+        "id": "280504757081214976"
     },
     {
         "tur": "live",
@@ -89,13 +96,6 @@
         "name": "Deportivo Moron U20 - CA Fenix U20",
         "time": "16:00",
         "id": "280537161464418304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zaglebie Lubin II - Skra Czestochowa",
-        "time": "16:00",
-        "id": "280194194418569216"
     },
     {
         "tur": "live",
