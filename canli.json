@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sri Lanka - Maldivler",
+        "time": "14:30",
+        "id": "280437887497015296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ylojarvi United - FC Haka Juniors",
+        "time": "14:30",
+        "id": "280529961840939008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Sudtirol Bolzano - WSG Wattens",
         "time": "14:00",
         "id": "280535203796094976"
@@ -33,13 +47,6 @@
         "name": "Larsmo Bollklubb - FC Kiisto",
         "time": "14:00",
         "id": "280529652042305536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Scotland Under 19 - Kazakistan U19",
-        "time": "14:00",
-        "id": "280531021271797760"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Gainare Tottori - Fukushima United FC",
         "time": "13:00",
         "id": "280118654260088832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vanraure Hachnohe FC - Azul Claro Numazu",
-        "time": "12:30",
-        "id": "280118653676032000"
     }
 ]
