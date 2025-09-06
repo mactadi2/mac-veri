@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Perth RedStar FC - Perth Glory NPL",
+        "time": "09:30",
+        "id": "280392048387952640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hellenic Athletic Club - Garuda FC",
+        "time": "09:30",
+        "id": "280390182724833280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Heidelberg United (W) - Essendon Royals (W)",
         "time": "09:15",
         "id": "280403008629641216"
@@ -19,6 +33,20 @@
         "name": "Bulleen Lions (W) - Box Hill United (W)",
         "time": "09:00",
         "id": "280403008512200704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Canberra Fk - Cooma Tigers",
+        "time": "09:00",
+        "id": "280375991048736768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Belconnen United - Canberra Olympic",
+        "time": "09:00",
+        "id": "280424407990669312"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Launceston United - Glenorchy Knights",
-        "time": "07:30",
-        "id": "280118634158886912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kingborough Lions - Clarence Zebras",
-        "time": "07:30",
-        "id": "280118634035154944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Devonport City Strikers - South Hobart",
-        "time": "07:30",
-        "id": "280118633944977408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "J-Lease FC - Kashima (Jpn)",
-        "time": "07:30",
-        "id": "280511385663836160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Veroskronos Tsuno - FC Nobeoka Agata",
-        "time": "07:30",
-        "id": "280517606366121984"
+        "name": "South Springvale - Old Scotch",
+        "time": "08:00",
+        "id": "280401847421898752"
     }
 ]
