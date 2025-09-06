@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ca Talleres De Cordoba Reserves - CA Belgrano Cordoba Reserves",
+        "time": "01:00",
+        "id": "280555305013743616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Desamparados - Atletico Marquesado",
+        "time": "01:00",
+        "id": "280655627704995840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Internacional Fc De Palmira - Orsomarso",
+        "time": "01:00",
+        "id": "280189010102587392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "General Caballero JLM - Libertad Asuncion",
         "time": "00:30",
         "id": "279754834912088064"
@@ -58,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Genesis de Comayagua Reserves - Club Deportivo Victoria Reserves",
+        "time": "00:00",
+        "id": "280587102438166528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "EC Bahia - AD Confianca SE",
         "time": "23:30",
         "id": "280124257170755584"
@@ -75,33 +103,5 @@
         "name": "Comunal Cabrero - Colchagua CD",
         "time": "23:30",
         "id": "280569076274827264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guarani FC De Campinas - AA Ponte Preta",
-        "time": "23:00",
-        "id": "280429666314096640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ASA (Agremiação Sportiva Arapiraquense) - Maranhao MA",
-        "time": "23:00",
-        "id": "280122277477093376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Forge FC - HFX Wanderers FC",
-        "time": "23:00",
-        "id": "280122279010111488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Orsomarso (W) - Independiente Santa Fe (W)",
-        "time": "23:00",
-        "id": "280386318408749056"
     }
 ]
