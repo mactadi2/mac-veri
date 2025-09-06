@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Juarez (W) - Pachuca (W)",
+        "time": "06:00",
+        "id": "280118645013745664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dorados - CD Irapuato",
+        "time": "06:00",
+        "id": "279956254261121024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Canberra Croatia U23 - Tuggeranong United U23",
+        "time": "06:00",
+        "id": "280413955870035968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sturt Lions Reserves - West Adelaide Reserves",
+        "time": "05:45",
+        "id": "280431709422489600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Adelaide Blue Eagles Reserves - Salisbury Utd Reserves",
+        "time": "05:45",
+        "id": "280442290446667776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Phoenix Rising - Las Vegas Lights",
         "time": "05:30",
         "id": "280046298906890240"
@@ -51,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Riverside Olympic SC (W) - Taroona (W)",
-        "time": "05:15",
-        "id": "280486219330228224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Nippon Steel Oita - FC Hakata",
         "time": "05:00",
         "id": "280448384272306176"
@@ -75,33 +103,5 @@
         "name": "Deportivo Universitario - CD Plaza Amador",
         "time": "04:30",
         "id": "280252533455327232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Once Caldas - Deportivo Pereira",
-        "time": "04:10",
-        "id": "279712384088674304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atlas (W) - Queretaro (W)",
-        "time": "04:00",
-        "id": "280118645303152640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leon (W) - CD Chivas Guadalajara (W)",
-        "time": "04:00",
-        "id": "280118645115457536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mineros De Zacatecas - Cancun FC",
-        "time": "04:00",
-        "id": "279949475681800192"
     }
 ]
