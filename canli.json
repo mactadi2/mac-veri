@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Real Zaragoza - Real Valladolid",
+        "time": "19:30",
+        "id": "280024053245415424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Atlanta - Club Atletico Guemes",
+        "time": "19:30",
+        "id": "280118633629356032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ermenistan - Portekiz",
         "time": "19:00",
         "id": "278269882276122624"
@@ -12,6 +26,13 @@
         "name": "İngiltere - Andorra",
         "time": "19:00",
         "id": "279620127651139584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nea Salamis Famagusta FC - Olympiakos Nicosia FC",
+        "time": "19:00",
+        "id": "280635461869899776"
     },
     {
         "tur": "live",
@@ -58,23 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cerrito CS - Atenas",
-        "time": "19:00",
-        "id": "280368593023143936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FC Wil 1900 - FC St. Gallen",
         "time": "18:30",
         "id": "280589305820352512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stromsgodset (A) - Assiden",
-        "time": "18:30",
-        "id": "280118644356288512"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Sırbistan U19 - Macaristan U19",
         "time": "18:00",
         "id": "280614662872109056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UAE U19 - İzlanda U19",
-        "time": "18:00",
-        "id": "280602701645090816"
     }
 ]
