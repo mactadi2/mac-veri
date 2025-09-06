@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Bahia - AD Confianca SE",
+        "time": "23:30",
+        "id": "280124257170755584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Guarani FC De Campinas - AA Ponte Preta",
         "time": "23:00",
         "id": "280429666314096640"
@@ -79,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bogota FC - Tigres FC",
+        "time": "22:00",
+        "id": "280189009999826944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "İrlanda - Macaristan",
         "time": "21:45",
         "id": "278431651207450624"
@@ -89,19 +103,5 @@
         "name": "Avusturya - Kıbrıs",
         "time": "21:45",
         "id": "278269295000162304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Marino - Bosna Hersek",
-        "time": "21:45",
-        "id": "280248695415508992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Excursionistas - Deportivo Merlo",
-        "time": "21:30",
-        "id": "280378255289225216"
     }
 ]
