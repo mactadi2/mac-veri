@@ -86,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "UTA Arad - ACS Dumbravita",
-        "time": "11:00",
-        "id": "280533680707997696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Botosani - FC Zimbru Chisinau",
         "time": "11:00",
         "id": "280533680833826816"
@@ -103,5 +96,12 @@
         "name": "CS Concordia Chiajna - Chindia Targoviste",
         "time": "11:00",
         "id": "280533681979920384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Moreton City Excelsior FC - Eastern Suburbs",
+        "time": "11:00",
+        "id": "280377220061597696"
     }
 ]
