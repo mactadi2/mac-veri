@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vanraure Hachnohe FC - Azul Claro Numazu",
+        "time": "12:30",
+        "id": "280118653676032000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Piast Gliwice - GKS 71 Tychy",
         "time": "12:00",
         "id": "280533681016279040"
@@ -96,12 +103,5 @@
         "name": "CS Concordia Chiajna - Chindia Targoviste",
         "time": "11:00",
         "id": "280533681979920384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Moreton City Excelsior FC - Eastern Suburbs",
-        "time": "11:00",
-        "id": "280377220061597696"
     }
 ]
