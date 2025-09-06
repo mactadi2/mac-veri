@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Estoril - Santa Clara",
+        "time": "22:30",
+        "id": "278834268377059328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Malaga CF - Granada CF",
         "time": "22:00",
         "id": "280023895724134400"
@@ -96,12 +103,5 @@
         "name": "Sertaozinho U20 - Palmeiras U20",
         "time": "21:00",
         "id": "280466734411026432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "XV de Jau U20 - Uniao Suzano AC U20",
-        "time": "21:00",
-        "id": "280385115055591424"
     }
 ]
