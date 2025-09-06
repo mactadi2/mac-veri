@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Virginia United - Newmarket",
+        "time": "06:30",
+        "id": "280429434865061888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Juarez (W) - Pachuca (W)",
         "time": "06:00",
         "id": "280118645013745664"
@@ -96,12 +103,5 @@
         "name": "KMG Holdings - Mitsubishi Nagasaki SC",
         "time": "05:00",
         "id": "280475298054672384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Universitario - CD Plaza Amador",
-        "time": "04:30",
-        "id": "280252533455327232"
     }
 ]
