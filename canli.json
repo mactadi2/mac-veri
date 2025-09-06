@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sao Bernardo FC - Londrina EC PR",
+        "time": "01:30",
+        "id": "280429665678659584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Nacional Medellin (W) - Asociacion Deportivo Cali (W)",
+        "time": "01:30",
+        "id": "280388220910440448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ca Talleres De Cordoba Reserves - CA Belgrano Cordoba Reserves",
         "time": "01:00",
         "id": "280555305013743616"
@@ -19,6 +33,13 @@
         "name": "Internacional Fc De Palmira - Orsomarso",
         "time": "01:00",
         "id": "280189010102587392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juticalpa Reserves - Lobos UPNFM Reserves",
+        "time": "01:00",
+        "id": "280575488737546240"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Genesis de Comayagua Reserves - Club Deportivo Victoria Reserves",
         "time": "00:00",
         "id": "280587102438166528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EC Bahia - AD Confianca SE",
-        "time": "23:30",
-        "id": "280124257170755584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Bucaramanga - Alianza Valledupar",
-        "time": "23:30",
-        "id": "279744990039642112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Comunal Cabrero - Colchagua CD",
-        "time": "23:30",
-        "id": "280569076274827264"
     }
 ]
