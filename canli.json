@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Heidelberg United (W) - Essendon Royals (W)",
+        "time": "09:15",
+        "id": "280403008629641216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tokyo 23 FC - Toin Yokohama University",
+        "time": "09:00",
+        "id": "280485197960581120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bulleen Lions (W) - Box Hill United (W)",
+        "time": "09:00",
+        "id": "280403008512200704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sturt Lions - Salisbury United",
         "time": "08:30",
         "id": "280429346923089920"
@@ -51,20 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Joondalup City Reserves - Subiaco Reserves",
-        "time": "07:45",
-        "id": "280436183955279872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kingborough Lions - Clarence Zebras",
-        "time": "07:30",
-        "id": "280118634035154944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Launceston United - Glenorchy Knights",
         "time": "07:30",
         "id": "280118634158886912"
@@ -72,9 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Riverside Olympic - Launceston City",
+        "name": "Kingborough Lions - Clarence Zebras",
         "time": "07:30",
-        "id": "280118634237530112"
+        "id": "280118634035154944"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Veroskronos Tsuno - FC Nobeoka Agata",
         "time": "07:30",
         "id": "280517606366121984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tasmania University SC - Taroona",
-        "time": "07:30",
-        "id": "280596057265672192"
     }
 ]
