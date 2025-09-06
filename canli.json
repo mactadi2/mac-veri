@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Malaga CF - Granada CF",
+        "time": "22:00",
+        "id": "280023895724134400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Botafogo SP  - CA Paranaense PR",
+        "time": "22:00",
+        "id": "280034664761135104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nacional Asuncion - Deportivo Recoleta",
+        "time": "22:00",
+        "id": "279891835859636224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union San Felipe - Curico Unido",
+        "time": "22:00",
+        "id": "280112521295302656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter de Limeira - Goiatuba EC",
+        "time": "22:00",
+        "id": "280118675851317248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Barra FC - Cianorte Pr",
+        "time": "22:00",
+        "id": "280118675938349056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nacional Potosi - Independiente Petrolero",
+        "time": "22:00",
+        "id": "280534881056985088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bogota FC - Tigres FC",
+        "time": "22:00",
+        "id": "280189009999826944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "İrlanda - Macaristan",
         "time": "21:45",
         "id": "278431651207450624"
@@ -30,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Montevideo Wanderers - Danubio",
-        "time": "21:30",
-        "id": "280032691193253888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Cambuur Leeuwarden - Willem II Tilburg",
         "time": "21:00",
         "id": "280118670144966656"
@@ -54,54 +103,5 @@
         "name": "XV de Jau U20 - Uniao Suzano AC U20",
         "time": "21:00",
         "id": "280385115055591424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Unam Pumas (W) - Toluca (W)",
-        "time": "21:00",
-        "id": "280118645389135872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Oeste Itapolis - EC XV de Novembro (Piracicaba)",
-        "time": "21:00",
-        "id": "280433666056916992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Integracion Del Norte San Juan - CD Ingenio",
-        "time": "21:00",
-        "id": "280542084263448576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Limpeno - Club Sport Colombia",
-        "time": "21:00",
-        "id": "280561284419817472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mısır - Tunus",
-        "time": "20:00",
-        "id": "280567588716679168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Swope Park Rangers - Real Monarchs SLC",
-        "time": "20:00",
-        "id": "280372565838532608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hollanda U19 - Ukrayna U19",
-        "time": "20:00",
-        "id": "280526459078053888"
     }
 ]
