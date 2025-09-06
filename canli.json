@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Rangers de Talca - C.D. Universidad de Concepcion",
+        "time": "19:30",
+        "id": "280112521658109952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ermenistan - Portekiz",
         "time": "19:00",
         "id": "278269882276122624"
@@ -96,12 +103,5 @@
         "name": "Leiknir Reykjavik - UMF Selfoss",
         "time": "19:00",
         "id": "280118670352584704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Wil 1900 - FC St. Gallen",
-        "time": "18:30",
-        "id": "280589305820352512"
     }
 ]
