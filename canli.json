@@ -72,6 +72,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Port Vale - Leyton Orient",
+        "time": "17:00",
+        "id": "280005418690940928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rotherham - Exeter",
         "time": "17:00",
         "id": "280005416104103936"
@@ -96,12 +103,5 @@
         "name": "Jippo Joensuu - FC Lahti",
         "time": "16:00",
         "id": "280006241520062464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hırvatistan U19 - Çek Cumhuriyeti U19",
-        "time": "16:00",
-        "id": "280523468582293504"
     }
 ]
