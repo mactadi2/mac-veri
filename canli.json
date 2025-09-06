@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo La Coruna - Sporting Gijon",
+        "time": "17:15",
+        "id": "280005648030240768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kıbrıs Under 19 - Litvanya Under 19",
         "time": "17:00",
         "id": "280526590976331776"
@@ -44,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wycombe - Mansfield",
+        "name": "Lincoln City - Wigan",
         "time": "17:00",
-        "id": "280005419108274176"
+        "id": "280005418835644416"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lincoln City - Wigan",
+        "name": "Wycombe - Mansfield",
         "time": "17:00",
-        "id": "280005418835644416"
+        "id": "280005419108274176"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Hırvatistan U19 - Çek Cumhuriyeti U19",
         "time": "16:00",
         "id": "280523468582293504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fernando de la Mora - Guarani de Fram",
-        "time": "16:00",
-        "id": "280118675260968960"
     }
 ]
