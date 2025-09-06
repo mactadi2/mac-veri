@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nepal - Bangladeş",
+        "time": "14:45",
+        "id": "280425162651865088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sri Lanka - Maldivler",
         "time": "14:30",
         "id": "280437887497015296"
@@ -96,12 +103,5 @@
         "name": "Tegevajaro Miyazaki - Tochigi SC",
         "time": "13:00",
         "id": "280118654356557824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gainare Tottori - Fukushima United FC",
-        "time": "13:00",
-        "id": "280118654260088832"
     }
 ]
