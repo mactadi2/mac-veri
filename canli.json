@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Moldova U19 - Kosovo U19",
+        "time": "11:30",
+        "id": "280531038122414080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "North Eastern Metro Stars - Adelaide United Reserves",
+        "time": "11:30",
+        "id": "280392849798860800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Jablonec B - FC Kolin",
         "time": "11:15",
         "id": "280377416534331392"
@@ -72,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Arges - AFC Campulung-Muscel 2022",
-        "time": "10:30",
-        "id": "280600886332493824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Queensland Lions SC - Peninsula Power",
         "time": "10:00",
         "id": "280376444612382720"
@@ -96,12 +103,5 @@
         "name": "Kawasoe Club - NIFS Kanoya FC",
         "time": "10:00",
         "id": "280495299614609408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Perth RedStar FC - Perth Glory NPL",
-        "time": "09:30",
-        "id": "280392048387952640"
     }
 ]
