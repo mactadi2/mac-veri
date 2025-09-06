@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guarani FC De Campinas - AA Ponte Preta",
+        "time": "23:00",
+        "id": "280429666314096640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ASA (Agremiação Sportiva Arapiraquense) - Maranhao MA",
+        "time": "23:00",
+        "id": "280122277477093376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Forge FC - HFX Wanderers FC",
+        "time": "23:00",
+        "id": "280122279010111488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Estoril - Santa Clara",
         "time": "22:30",
         "id": "278834268377059328"
@@ -58,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bogota FC - Tigres FC",
-        "time": "22:00",
-        "id": "280189009999826944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "İrlanda - Macaristan",
         "time": "21:45",
         "id": "278431651207450624"
@@ -89,19 +103,5 @@
         "name": "Excursionistas - Deportivo Merlo",
         "time": "21:30",
         "id": "280378255289225216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cambuur Leeuwarden - Willem II Tilburg",
-        "time": "21:00",
-        "id": "280118670144966656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sertaozinho U20 - Palmeiras U20",
-        "time": "21:00",
-        "id": "280466734411026432"
     }
 ]
