@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Wil 1900 - FC St. Gallen",
+        "time": "18:30",
+        "id": "280589305820352512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Karadağ U19 - Portekiz U19",
         "time": "18:00",
         "id": "280526459230097408"
@@ -96,12 +103,5 @@
         "name": "Wycombe - Mansfield",
         "time": "17:00",
         "id": "280005419108274176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Port Vale - Leyton Orient",
-        "time": "17:00",
-        "id": "280005418690940928"
     }
 ]
