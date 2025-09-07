@@ -37,13 +37,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tottenham (Kadınlar) - West Ham United (Kadınlar)",
-        "time": "14:00",
-        "id": "279644383846993920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Liverpool (Kadınlar) - Everton (Kadınlar)",
         "time": "14:00",
         "id": "279644314369396736"
@@ -51,9 +44,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tottenham (Kadınlar) - West Ham United (Kadınlar)",
+        "time": "14:00",
+        "id": "279644383846993920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Brighton & Hove Albion (Kadınlar) - Aston Villa (Kadınlar)",
         "time": "14:00",
         "id": "279644880598339584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tvaakers IF - Varbergs GIF FK",
+        "time": "14:00",
+        "id": "280439681013911552"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Vissel Kobe - Yokohama FC",
         "time": "13:00",
         "id": "280175274464776192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sanfrecce Hiroshima - Shonan Bellmare",
-        "time": "12:30",
-        "id": "280173216774885376"
     }
 ]
