@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Perth SC (W) - Perth Redstar FC (W)",
+        "time": "10:15",
+        "id": "280394158930268160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brisbane Strikers U23 - Ipswich FC U23",
+        "time": "08:30",
+        "id": "280429202341236736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Supreme FC - Lucky Mile",
+        "time": "08:30",
+        "id": "280607441219096576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South China AA - Tung Sing",
+        "time": "08:30",
+        "id": "280607456051204096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Moriyama Samurai - Arterivo Wakayama",
         "time": "08:00",
         "id": "280616694460846080"
@@ -75,26 +103,5 @@
         "name": "Wellington Phoenix Reserves (W) - Auckland United FC (W)",
         "time": "07:00",
         "id": "280643375746650112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Apia Leichhardt Tigers (W) - University of New South Wales (W)",
-        "time": "06:30",
-        "id": "280429681820438528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mitsubishi Nagasaki SC - FC Nobeoka Agata",
-        "time": "06:30",
-        "id": "280607079347130368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nippon Steel Oita - Kawasoe Club",
-        "time": "06:30",
-        "id": "280647980419256320"
     }
 ]
