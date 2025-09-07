@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Floresta EC - SER Caxias",
+        "time": "22:30",
+        "id": "280429665555976192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Madryn - CA Los Andes",
+        "time": "22:15",
+        "id": "280185830949130240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Atletico Mitre - CA Defensores de Belgrano",
         "time": "22:00",
         "id": "280193800487440384"
@@ -89,19 +103,5 @@
         "name": "Cd Santa Cruz - Magallanes",
         "time": "21:00",
         "id": "280113321257078784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Lorenzo Reserves - Ca Huracan Reserves",
-        "time": "21:00",
-        "id": "280647652101722112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente Rivadavia Reserves - Godoy Cruz Reserves",
-        "time": "21:00",
-        "id": "280468356943974400"
     }
 ]
