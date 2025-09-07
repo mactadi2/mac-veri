@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Antofagasta - Santiago Morning",
+        "time": "18:30",
+        "id": "280113321378713600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sotra Sportsklubb - FK Arendal",
+        "time": "18:30",
+        "id": "280195836517945344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Katar - Rusya",
+        "time": "18:15",
+        "id": "277810254913343488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kampaniakos - PAOK B",
         "time": "18:00",
         "id": "280627837680095232"
@@ -82,26 +103,5 @@
         "name": "Frigg - Harstad IL",
         "time": "17:00",
         "id": "280190190910312448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ullern - Sortland IL",
-        "time": "17:00",
-        "id": "280190190808600576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Cerro - Cerro Largo FC",
-        "time": "17:00",
-        "id": "280032714697084928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cruzeiro MG (W) - Corinthians Paulista (W)",
-        "time": "16:30",
-        "id": "280276968698679296"
     }
 ]
