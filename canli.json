@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Argentino de Rosario - CA Atlas",
+        "time": "21:30",
+        "id": "280122277831512064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "General Lamadrid - Estrella del Sur",
+        "time": "21:30",
+        "id": "280122278251991040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Rentistas - Tacuarembo",
+        "time": "21:30",
+        "id": "280388453224550400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Progreso Montevideo - Miramar Misiones",
+        "time": "21:30",
+        "id": "280032948744491008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cobresal Salvador - Palestino Santiago",
         "time": "21:00",
         "id": "280104226144784384"
@@ -58,13 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lexington SC (W) - Brooklyn FC (W)",
-        "time": "21:00",
-        "id": "280639715528544256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Gimnasia Mendoza - Gimnasia Y Esgrima de Jujuy",
         "time": "20:15",
         "id": "280193869588598784"
@@ -82,26 +103,5 @@
         "name": "Throttur Reykjavik U19 - Thor\/THK\/Volsungur U19",
         "time": "20:00",
         "id": "280654808621387776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aurora FC - Malacateco",
-        "time": "20:00",
-        "id": "280201505400819712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Muglaspor - Beykoz Anadoluspor",
-        "time": "20:00",
-        "id": "280201505247727616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Deportiva Almeria - Racing Santander",
-        "time": "19:30",
-        "id": "280098505930969088"
     }
 ]
