@@ -58,13 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Danimarka U19 - Norveç U19",
-        "time": "17:00",
-        "id": "280722266334040064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Ariana FC - Skovde AIK",
         "time": "17:00",
         "id": "280443762351673344"
@@ -103,5 +96,12 @@
         "name": "Frigg - Harstad IL",
         "time": "17:00",
         "id": "280190190910312448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ullern - Sortland IL",
+        "time": "17:00",
+        "id": "280190190808600576"
     }
 ]
