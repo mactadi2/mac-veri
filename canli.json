@@ -58,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "South China AA - Tung Sing",
+        "time": "08:30",
+        "id": "280607456051204096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Moriyama Samurai - Arterivo Wakayama",
         "time": "08:00",
         "id": "280616694460846080"
@@ -96,12 +103,5 @@
         "name": "Tadotsu FC - Llamas Kochi FC",
         "time": "07:30",
         "id": "280572591338557440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Green Shield FC - KOSSA FC",
-        "time": "07:00",
-        "id": "280561565560868864"
     }
 ]
