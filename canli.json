@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportes Concepcion - Cobreloa Calama",
+        "time": "23:30",
+        "id": "280113337576067072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Central Norte Salta  - Agropecuario",
         "time": "23:00",
         "id": "280191098927845376"
@@ -16,9 +23,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Washington Spirit (W) - Seattle Reign FC (W)",
+        "time": "23:00",
+        "id": "280117209053925376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Floresta EC - SER Caxias",
         "time": "22:30",
         "id": "280429665555976192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Tomayapo - Guabira Santa Cruz",
+        "time": "22:30",
+        "id": "280559540318113792"
     },
     {
         "tur": "live",
@@ -58,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chicago Red Stars (W) - Orlando Pride SC (W)",
+        "time": "22:00",
+        "id": "280117208974233600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Almanya - Kuzey İrlanda",
         "time": "21:45",
         "id": "280156715373170688"
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Türkiye - İspanya",
-        "time": "21:45",
-        "id": "280163296043208704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Polonya - Finlandiya",
         "time": "21:45",
         "id": "279479374569410560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Belçika - Kazakistan",
-        "time": "21:45",
-        "id": "279479374722502656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Argentino de Rosario - CA Atlas",
-        "time": "21:30",
-        "id": "280122277831512064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "General Lamadrid - Estrella del Sur",
-        "time": "21:30",
-        "id": "280122278251991040"
     }
 ]
