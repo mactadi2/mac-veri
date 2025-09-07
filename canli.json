@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "America Mineiro MG - Operario Ferroviario EC PR",
+        "time": "00:30",
+        "id": "280112443348357120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "2 de Mayo Reserves - Olimpia Asuncion Reserves",
+        "time": "00:30",
+        "id": "280625696763678720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "America de Cali - Deportivo Cali",
         "time": "00:10",
         "id": "280115494885920768"
@@ -79,29 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Floresta EC - SER Caxias",
-        "time": "22:30",
-        "id": "280429665555976192"
+        "name": "Angostura FC - Mineros Guayana",
+        "time": "23:00",
+        "id": "280565309173272576"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Real Tomayapo - Guabira Santa Cruz",
-        "time": "22:30",
-        "id": "280559540318113792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Frontera - Titanes FC Guanare",
-        "time": "22:30",
-        "id": "280565309566488576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Madryn - CA Los Andes",
-        "time": "22:15",
-        "id": "280185830949130240"
+        "name": "Aragua FC - Dynamo Puerto Fc",
+        "time": "23:00",
+        "id": "280565309391376384"
     }
 ]
