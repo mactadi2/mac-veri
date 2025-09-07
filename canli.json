@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Almanya - Kuzey İrlanda",
+        "time": "21:45",
+        "id": "280156715373170688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lüksemburg - Slovakya",
+        "time": "21:45",
+        "id": "280207974960599040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Türkiye - İspanya",
+        "time": "21:45",
+        "id": "280163296043208704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Polonya - Finlandiya",
+        "time": "21:45",
+        "id": "279479374569410560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Belçika - Kazakistan",
+        "time": "21:45",
+        "id": "279479374722502656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Argentino de Rosario - CA Atlas",
         "time": "21:30",
         "id": "280122277831512064"
@@ -19,13 +54,6 @@
         "name": "CA Rentistas - Tacuarembo",
         "time": "21:30",
         "id": "280388453224550400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Progreso Montevideo - Miramar Misiones",
-        "time": "21:30",
-        "id": "280032948744491008"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Comercial Sp - Sao Jose SP",
-        "time": "21:00",
-        "id": "280558324449153024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "General Velasquez - Puerto Montt",
-        "time": "21:00",
-        "id": "280643489554894848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Gimnasia Mendoza - Gimnasia Y Esgrima de Jujuy",
         "time": "20:15",
         "id": "280193869588598784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Morocco U20 - USA U20",
-        "time": "20:00",
-        "id": "280623624003653632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Throttur Reykjavik U19 - Thor\/THK\/Volsungur U19",
-        "time": "20:00",
-        "id": "280654808621387776"
     }
 ]
