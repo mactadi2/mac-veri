@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sporting San Miguelito - Independiente de La Chorrera",
+        "time": "02:15",
+        "id": "280252987913408512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sporting Kansas City - Austin FC",
+        "time": "02:00",
+        "id": "280083276815798272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportes Limache - La Serena",
+        "time": "02:00",
+        "id": "280503266721271808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Spokane Velocity FC - Westchester SC",
+        "time": "02:00",
+        "id": "280496011599810560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Martin Fc - Panama City FC",
+        "time": "02:00",
+        "id": "280639937641058304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Tepatitlan de Morelos - Leones Negros Guadalajara",
+        "time": "02:00",
+        "id": "280130593896927232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AD Municipal Liberia - Sporting San Jose",
+        "time": "02:00",
+        "id": "280256754316611584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Chaco For Ever - Chacarita Juniors",
         "time": "01:00",
         "id": "280185312022499328"
@@ -30,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "ACF Zapotlanejo - Tecos",
+        "time": "01:00",
+        "id": "280220590216974336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "America Mineiro MG - Operario Ferroviario EC PR",
         "time": "00:30",
         "id": "280112443348357120"
@@ -47,61 +103,5 @@
         "name": "CD Marathon Reserves - CD Olimpia Reserves",
         "time": "00:30",
         "id": "280645392384790528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "America de Cali - Deportivo Cali",
-        "time": "00:10",
-        "id": "280115494885920768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Racing de Cordoba - CA Patronato",
-        "time": "00:00",
-        "id": "280205332472532992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cucuta Deportivo - Real Santander",
-        "time": "00:00",
-        "id": "280216555109879808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Nacional de Montevideo - Racing Club de Montevideo",
-        "time": "00:00",
-        "id": "280032944571158528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NJ\/NY Gotham FC (W) - Angel City FC (W)",
-        "time": "00:00",
-        "id": "280216554651652096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Achuapa FC - Club Xelaju",
-        "time": "00:00",
-        "id": "280216554536308736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Maritimo de La Guaira - Dvo Italia",
-        "time": "00:00",
-        "id": "280569088675287040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Motagua Reserves - Real Espana Reserves",
-        "time": "00:00",
-        "id": "280645624651714560"
     }
 ]
