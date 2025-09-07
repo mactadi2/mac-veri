@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Litvanya - Hollanda",
+        "time": "19:00",
+        "id": "280197608258015232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kuzey Makedonya - Lihtenştayn",
+        "time": "19:00",
+        "id": "280371366779293696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shelbourne FC - Galway United",
+        "time": "19:00",
+        "id": "280096874579496960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orta Afrika Cumhuriyeti - Comoros",
+        "time": "19:00",
+        "id": "280401340267630592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sanliurfaspor - Kepez Bld.",
+        "time": "19:00",
+        "id": "280197608543227904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ankaragücü - Elazigspor",
+        "time": "19:00",
+        "id": "280197608993067008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Karacabey Belediyespor - Erbaaspor",
+        "time": "19:00",
+        "id": "280197608680591360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Antofagasta - Santiago Morning",
         "time": "18:30",
         "id": "280113321378713600"
@@ -12,6 +61,13 @@
         "name": "Sotra Sportsklubb - FK Arendal",
         "time": "18:30",
         "id": "280195836517945344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santiago City - Concon National",
+        "time": "18:30",
+        "id": "280643489961742336"
     },
     {
         "tur": "live",
@@ -37,71 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SK Slovan Varnsdorf - SK Sokol Brozany",
+        "time": "18:00",
+        "id": "280455533737152512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "HK\/Ymir U19 - KA\/Da\/KF\/Hott\/Ham U19",
         "time": "17:30",
         "id": "280652899113111552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Burgos CF - Las Palmas",
-        "time": "17:15",
-        "id": "280094298461048832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Sociedad B - Cadiz",
-        "time": "17:15",
-        "id": "280128991349837824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ariana FC - Skovde AIK",
-        "time": "17:00",
-        "id": "280443762351673344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bk Olympic - Jonkopings Sodra",
-        "time": "17:00",
-        "id": "280445691220856832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Maldonado - Centro Atletico Fenix Montevideo",
-        "time": "17:00",
-        "id": "280388384810209280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Assyriska Ff - IF Karlstad",
-        "time": "17:00",
-        "id": "280436879323697152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Arbaer - Sindri",
-        "time": "17:00",
-        "id": "280450611924832256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Frigg - Harstad IL",
-        "time": "17:00",
-        "id": "280190190910312448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ullern - Sortland IL",
-        "time": "17:00",
-        "id": "280190190808600576"
     }
 ]
