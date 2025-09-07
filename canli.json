@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "ZKS Stal Stalowa Wola - OKS Swit Skolwin",
+        "time": "20:30",
+        "id": "280165505630867456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gimnasia Mendoza - Gimnasia Y Esgrima de Jujuy",
         "time": "20:15",
         "id": "280193869588598784"
@@ -26,6 +33,13 @@
         "name": "Aurora FC - Malacateco",
         "time": "20:00",
         "id": "280201505400819712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Muglaspor - Beykoz Anadoluspor",
+        "time": "20:00",
+        "id": "280201505247727616"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Karacabey Belediyespor - Erbaaspor",
         "time": "19:00",
         "id": "280197608680591360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Antofagasta - Santiago Morning",
-        "time": "18:30",
-        "id": "280113321378713600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santiago City - Concon National",
-        "time": "18:30",
-        "id": "280643489961742336"
     }
 ]
