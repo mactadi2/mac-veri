@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Always Ready U19 - Real Oruro U19",
+        "time": "20:00",
+        "id": "280789107399069696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Birleşik Arap Emirlikleri - Bahreyn",
         "time": "19:30",
         "id": "280669493769932800"
@@ -26,6 +33,13 @@
         "name": "İsviçre U21 - Arnavutluk U21",
         "time": "19:30",
         "id": "280593653011976192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Fakel - Arsenal Tula",
+        "time": "19:30",
+        "id": "280451358894723072"
     },
     {
         "tur": "live",
@@ -58,16 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Uganda - Somalia",
+        "name": "Gine - Cezayir",
         "time": "19:00",
-        "id": "280419426577289216"
+        "id": "280419426712555520"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gine - Cezayir",
+        "name": "Uganda - Somalia",
         "time": "19:00",
-        "id": "280419426712555520"
+        "id": "280419426577289216"
     },
     {
         "tur": "live",
@@ -79,29 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Vps-J - Jakobstads Bollklubb",
-        "time": "18:30",
-        "id": "280698459564150784"
+        "name": "Malavi - Liberya",
+        "time": "19:00",
+        "id": "280215712980668416"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Honka - Myllykosken Pallo -47",
-        "time": "18:30",
-        "id": "280550875634733056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VJS Vantaa - PuiU Helsinki",
-        "time": "18:30",
-        "id": "280550743305490432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HPS - Pallo-Iirot Rauma",
-        "time": "18:30",
-        "id": "280550957573607424"
+        "name": "Defensor Sporting Reserves - Ca Penarol Reserves",
+        "time": "19:00",
+        "id": "280733486470533120"
     }
 ]
