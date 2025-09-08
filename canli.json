@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Birleşik Arap Emirlikleri - Bahreyn",
+        "time": "19:30",
+        "id": "280669493769932800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "İsviçre U21 - Arnavutluk U21",
+        "time": "19:30",
+        "id": "280593653011976192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Belarus U21 - Avusturya U21",
         "time": "19:00",
         "id": "280731963867926528"
@@ -58,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Defensor Sporting Reserves - Ca Penarol Reserves",
-        "time": "19:00",
-        "id": "280733486470533120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Vps-J - Jakobstads Bollklubb",
         "time": "18:30",
         "id": "280698459564150784"
@@ -96,12 +103,5 @@
         "name": "Kazakistan U21 - İngiltere U21",
         "time": "18:00",
         "id": "280731990243807232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Özbekistan - İran",
-        "time": "17:30",
-        "id": "280633944586719232"
     }
 ]
