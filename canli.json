@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nacional Asunción Reserve - Deportivo Recoleta Reserves",
+        "time": "14:00",
+        "id": "280741255030378496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Luqueno Reserves - Club Guarani Asuncion Reserves",
+        "time": "14:00",
+        "id": "280702303668932608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PFC Oleksandria II - Chernomorets Odessa II",
         "time": "13:30",
         "id": "280799998940155904"
@@ -40,12 +54,5 @@
         "name": "Ethiopia Bunna - Police Fc",
         "time": "13:00",
         "id": "280661812552273920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kachin United Fc - Myawady",
-        "time": "12:00",
-        "id": "280741280137482240"
     }
 ]
