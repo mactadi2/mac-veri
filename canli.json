@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Myanmar U23 - Afghanistan U23",
+        "time": "12:30",
+        "id": "280708306769678336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Polonya U19 - Azerbaycan",
         "time": "12:00",
         "id": "280788261152100352"
@@ -96,12 +103,5 @@
         "name": "Bulgaristan U19 - Slovakya U19",
         "time": "11:00",
         "id": "280781287051104256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Timor Leste U23 - Northern Mariana Islands U23",
-        "time": "10:30",
-        "id": "280625148997013504"
     }
 ]
