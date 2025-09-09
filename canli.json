@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Almirante Brown Reserves - CA Atlanta Reserves",
+        "time": "20:00",
+        "id": "280795921445425152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Almanya - İtalya U20",
         "time": "19:30",
         "id": "280665065625096192"
@@ -65,30 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Norveç U21 - Slovenya U21",
-        "time": "19:00",
-        "id": "280799147110567936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Moldova U21 - Slovakya U21",
         "time": "19:00",
         "id": "280730986519597056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kıbrıs U21 - Finlandiya U21",
-        "time": "19:00",
-        "id": "280730986821586944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Litvanya U21 - Macaristan U21",
-        "time": "19:00",
-        "id": "280794403351695360"
     },
     {
         "tur": "live",
@@ -103,5 +89,19 @@
         "name": "Estonya - Andorra",
         "time": "19:00",
         "id": "280730985903034368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Burkina Faso - Mısır",
+        "time": "19:00",
+        "id": "280469661705965568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Güney Afrika - Nijerya",
+        "time": "19:00",
+        "id": "280469661994323968"
     }
 ]
