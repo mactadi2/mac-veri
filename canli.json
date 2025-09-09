@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lüksemburg U21 - Faroe Adaları U21",
+        "time": "20:30",
+        "id": "280475271940935680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kosovo U21 - İspanya U21",
         "time": "20:00",
         "id": "280734765030707200"
@@ -96,12 +103,5 @@
         "name": "Estonya - Andorra",
         "time": "19:00",
         "id": "280730985903034368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Excursionistas Reserves - Deportivo Armenio Reserves",
-        "time": "18:30",
-        "id": "280896082377052160"
     }
 ]
