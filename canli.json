@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "MFK Karvina B - Polanka",
+        "time": "17:30",
+        "id": "280724785944727552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Nadszeg - SK Slovan Bratislava",
+        "time": "17:30",
+        "id": "280815084066967552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Medellin City FC - Color Esperanza",
         "time": "17:00",
         "id": "280971516747845632"
@@ -65,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Sobrance Sobranecko - MFK Zemplin Michalovce",
-        "time": "17:00",
-        "id": "280900834597933056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Almirante Brown U20 - Defensores Unidos U20",
         "time": "16:26",
         "id": "280977085202305024"
@@ -96,12 +103,5 @@
         "name": "Club Sport Colombia - Club Olimpia De Ita",
         "time": "16:00",
         "id": "280922815920738304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Saudi Arabia U20 - Yemen U20",
-        "time": "16:00",
-        "id": "280957208702881792"
     }
 ]
