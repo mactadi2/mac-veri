@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Alcorcon - Cultural Leonesa",
+        "time": "20:30",
+        "id": "280888032646795264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Oberpullendorf - Oberwart",
+        "time": "20:30",
+        "id": "280903276763942912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "VJS Vantaa II - Eif\/Akademi",
         "time": "20:00",
         "id": "280886041246830592"
@@ -33,6 +47,13 @@
         "name": "Terrassa CF - Atletico Monzon",
         "time": "20:00",
         "id": "280899711049797632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bergantinos CF - Marino de Luanco",
+        "time": "20:00",
+        "id": "280899740254736384"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Barycz Sulow - Lechia Dzierzoniow",
         "time": "19:00",
         "id": "280788332577951744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FF Jaro II - KPV Akatemia",
-        "time": "18:30",
-        "id": "280881895029477376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "HJK Helsinki (W) - PK-35 Vantaa (W)",
-        "time": "18:30",
-        "id": "280882052658761728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportiva Minera - U.D. Melilla",
-        "time": "18:30",
-        "id": "280904234627633152"
     }
 ]
