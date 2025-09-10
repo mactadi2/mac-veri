@@ -44,6 +44,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Barycz Sulow - Lechia Dzierzoniow",
+        "time": "19:00",
+        "id": "280788332577951744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ZNK Sfk 2000 Sarajevo (Kadınlar) - Fomget GSK (W)",
+        "time": "19:00",
+        "id": "280916961434669056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Nordsjaelland (W) - KuPS Kuopio (W)",
+        "time": "19:00",
+        "id": "280927885073715200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rosenborg BK (W) - PSV Eindhoven (W)",
+        "time": "19:00",
+        "id": "280916875975725056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FF Jaro II - KPV Akatemia",
         "time": "18:30",
         "id": "280881895029477376"
@@ -51,9 +79,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dukla Prague B - Sk Petrin Plzen",
-        "time": "18:00",
-        "id": "280727153702735872"
+        "name": "HJK Helsinki (W) - PK-35 Vantaa (W)",
+        "time": "18:30",
+        "id": "280882052658761728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportiva Minera - U.D. Melilla",
+        "time": "18:30",
+        "id": "280904234627633152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Havadar SC - Ario Eslamshahr",
+        "time": "18:15",
+        "id": "280738559826202624"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Kraluv Dvur - FC Pisek",
         "time": "18:00",
         "id": "280727153254993920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Slovan Varnsdorf - FC Kolin",
-        "time": "18:00",
-        "id": "280727153463660544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Teplice B - Slovan Velvary",
-        "time": "18:00",
-        "id": "280727154142089216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zbrojovka Brno B - FC Vsetin",
-        "time": "18:00",
-        "id": "280727152205369344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Taborsko B - Loko Praha",
-        "time": "18:00",
-        "id": "280727313858039808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Benatky nad Jizerou - Velke Hamry",
-        "time": "18:00",
-        "id": "280727154316152832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bohemians 1905 B - Motorlet Praha",
-        "time": "18:00",
-        "id": "280727313602187264"
     }
 ]
