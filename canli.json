@@ -2,16 +2,58 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "MFK Karvina B - Polanka",
-        "time": "17:30",
-        "id": "280724785944727552"
+        "name": "FF Jaro II - KPV Akatemia",
+        "time": "18:30",
+        "id": "280881895029477376"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Nadszeg - SK Slovan Bratislava",
+        "name": "Dukla Prague B - Sk Petrin Plzen",
+        "time": "18:00",
+        "id": "280727153702735872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kraluv Dvur - FC Pisek",
+        "time": "18:00",
+        "id": "280727153254993920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Teplice B - Slovan Velvary",
+        "time": "18:00",
+        "id": "280727154142089216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Slovan Varnsdorf - FC Kolin",
+        "time": "18:00",
+        "id": "280727153463660544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zbrojovka Brno B - FC Vsetin",
+        "time": "18:00",
+        "id": "280727152205369344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SK Benatky nad Jizerou - Velke Hamry",
+        "time": "18:00",
+        "id": "280727154316152832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "MFK Karvina B - Polanka",
         "time": "17:30",
-        "id": "280815084066967552"
+        "id": "280724785944727552"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Zlin B - Frydek Mistek",
         "time": "17:00",
         "id": "280865624496934912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "OFK Slovenska Lupca - MSK Tesla Stropkov",
-        "time": "17:00",
-        "id": "280734138808537088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "MFK Banik Velky Krtis - Fk Humenne",
-        "time": "17:00",
-        "id": "280902958390054912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Almirante Brown U20 - Defensores Unidos U20",
-        "time": "16:26",
-        "id": "280977085202305024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arsenal De Sarandi Reserves - Almagro Reserves",
-        "time": "16:00",
-        "id": "280900407634563072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Villa Dalmine Reserves - Sportivo Italiano Reserves",
-        "time": "16:00",
-        "id": "280810569722892288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Sport Colombia - Club Olimpia De Ita",
-        "time": "16:00",
-        "id": "280922815920738304"
     }
 ]
