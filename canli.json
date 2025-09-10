@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Jamaika - Trinidad Tobago",
+        "time": "03:00",
+        "id": "280783451066601472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Curacao - Bermuda",
+        "time": "03:00",
+        "id": "280783425480298496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bolivya - Brezilya",
         "time": "02:30",
         "id": "279678945346064384"
@@ -33,19 +47,5 @@
         "name": "ABD - Japonya",
         "time": "02:30",
         "id": "280725291705438208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ekvador - Arjantin",
-        "time": "02:00",
-        "id": "279329630058582016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brusque - CEC Santa Catarina",
-        "time": "02:00",
-        "id": "280831844042280960"
     }
 ]
