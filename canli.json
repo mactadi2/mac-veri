@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "VJS Vantaa II - Eif\/Akademi",
+        "time": "20:00",
+        "id": "280886041246830592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KuPS Palloseura - FF Jaro",
+        "time": "20:00",
+        "id": "280805858283229184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Oriental - Defensor Sporting",
+        "time": "20:00",
+        "id": "280796968143425536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Ceuta 6 de Junio - Orihuela",
+        "time": "20:00",
+        "id": "280899700439257088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Terrassa CF - Atletico Monzon",
+        "time": "20:00",
+        "id": "280899711049797632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tups - HIFK",
         "time": "19:30",
         "id": "280882977763889152"
@@ -51,27 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "ZNK Sfk 2000 Sarajevo (Kadınlar) - Fomget GSK (W)",
-        "time": "19:00",
-        "id": "280916961434669056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Nordsjaelland (W) - KuPS Kuopio (W)",
-        "time": "19:00",
-        "id": "280927885073715200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rosenborg BK (W) - PSV Eindhoven (W)",
-        "time": "19:00",
-        "id": "280916875975725056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FF Jaro II - KPV Akatemia",
         "time": "18:30",
         "id": "280881895029477376"
@@ -89,19 +103,5 @@
         "name": "Deportiva Minera - U.D. Melilla",
         "time": "18:30",
         "id": "280904234627633152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Havadar SC - Ario Eslamshahr",
-        "time": "18:15",
-        "id": "280738559826202624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kraluv Dvur - FC Pisek",
-        "time": "18:00",
-        "id": "280727153254993920"
     }
 ]
