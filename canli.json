@@ -51,6 +51,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Silvio Pettirossi - CS Limpeno",
+        "time": "21:15",
+        "id": "280911873847726080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Rosario Central Reserves - Ca Talleres De Cordoba Reserves",
         "time": "21:00",
         "id": "280881393714728960"
@@ -96,12 +103,5 @@
         "name": "24 de Setiembre - 12 de Octubre",
         "time": "21:00",
         "id": "280926817798459392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alcorcon - Cultural Leonesa",
-        "time": "20:30",
-        "id": "280888032646795264"
     }
 ]
