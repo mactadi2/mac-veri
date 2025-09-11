@@ -9,9 +9,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Lorenskog U19 - Sprint\/Jeloy U19",
+        "time": "21:30",
+        "id": "281013259096690688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ullensaker\/Kisa U19 - Skeid U19",
         "time": "21:15",
         "id": "280991144835420160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Grorud U19 - IF Ready U19",
+        "time": "21:15",
+        "id": "281013063717621760"
     },
     {
         "tur": "live",
@@ -37,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ca Huracan Reserves - Racing Club De Avellaneda Reserves",
+        "name": "Ca Independiente Reserves - San Lorenzo Reserves",
         "time": "21:00",
-        "id": "281004157361590272"
+        "id": "281003676310573056"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ca Independiente Reserves - San Lorenzo Reserves",
+        "name": "Ca Huracan Reserves - Racing Club De Avellaneda Reserves",
         "time": "21:00",
-        "id": "281003676310573056"
+        "id": "281004157361590272"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "CS Dock Sud Reserves - San Martin Burzaco Reserves",
         "time": "21:00",
         "id": "281100226846134272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SKN St. Polten (W) - Fortuna Hjorring (W)",
-        "time": "20:30",
-        "id": "280962122153857024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zhilstroy Kharkov Zhytlobud 2 (Kadınlar) - OH Leuven (W)",
-        "time": "20:30",
-        "id": "280919971107835904"
     }
 ]
