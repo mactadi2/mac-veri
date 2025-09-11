@@ -30,23 +30,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Valerenga U19 - Haslum IL U19",
+        "time": "21:15",
+        "id": "281013063416680448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hamarkameratene U19 - KFUM U19",
+        "time": "21:15",
+        "id": "281013063569772544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Asker U19 - Nordstrand U19",
+        "time": "21:15",
+        "id": "281100820600197120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Argentinos Juniors Reserves - Banfield Reserves",
         "time": "21:00",
         "id": "281003812027764736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lanus Reserves - Ca Platense Reserves",
-        "time": "21:00",
-        "id": "281004087299936256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Godoy Cruz Reserves - Instituto AC Cordoba Reserves",
-        "time": "21:00",
-        "id": "281004517808541696"
     },
     {
         "tur": "live",
@@ -58,9 +65,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ca Huracan Reserves - Racing Club De Avellaneda Reserves",
+        "name": "Godoy Cruz Reserves - Instituto AC Cordoba Reserves",
         "time": "21:00",
-        "id": "281004157361590272"
+        "id": "281004517808541696"
     },
     {
         "tur": "live",
@@ -82,13 +89,6 @@
         "name": "Argentino Quilmes Reserves - Real Pilar Reserves",
         "time": "21:00",
         "id": "281006462548971520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Villa San Carlos Reserves - CA Brown de Adrogue Reserves",
-        "time": "21:00",
-        "id": "281006462439919616"
     },
     {
         "tur": "live",
