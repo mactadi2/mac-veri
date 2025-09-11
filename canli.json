@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Shabab Al Ahli Dubai - Baniyas FC",
+        "time": "19:15",
+        "id": "280752854465122304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Khaleej Khor Fakkan - Al Sharjah SCC",
+        "time": "19:15",
+        "id": "280752854350827520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UAI Urquiza Reserves - Acassuso Reserves",
+        "time": "19:00",
+        "id": "281007495941591040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vidar - Hinna Fotball",
+        "time": "19:00",
+        "id": "281001972644057088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GKS Katowice (Kadınlar) - FC Twente 1965 (Kadınlar)",
+        "time": "19:00",
+        "id": "280912409645944832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aris Limassol (W) - Anderlecht (Kadınlar)",
+        "time": "19:00",
+        "id": "281016752922562560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "KF Vllaznia (Kadınlar) - Kolos Kovalivka (W)",
+        "time": "19:00",
+        "id": "281002032363606016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SavU (MP II) - Edustus",
         "time": "18:30",
         "id": "281030283574251520"
@@ -16,23 +65,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Okula Nyrsko - Holysov",
-        "time": "18:30",
-        "id": "280949356638638080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Nassjo FF - BK Hacken",
         "time": "18:15",
         "id": "281091049021116416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Niroye Zamini - Palayesh Naft Bandar Abbas FC",
-        "time": "18:15",
-        "id": "280752825645010944"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "ES Metlaoui - JS Omrane",
         "time": "18:00",
         "id": "280816929592184832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JS Kairouan - AS Marsa",
-        "time": "18:00",
-        "id": "280752837414227968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Soliman - Olympique Beja",
-        "time": "18:00",
-        "id": "280752836990603264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Slovan Galanta - FK Raca Bratislava",
-        "time": "17:30",
-        "id": "281000474172329984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "OK Castkovce - MSK Senec",
-        "time": "17:30",
-        "id": "281007145639612416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hapoel Azor - Hapoel Marmorek",
-        "time": "17:00",
-        "id": "280965962730180608"
     }
 ]
