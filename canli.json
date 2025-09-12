@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bnei Jaffa Ortodoxim - Hapoel Kafr Qasim Shouaa",
+        "time": "14:15",
+        "id": "281070264416079872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Tembetary Reserves - Sportivo Ameliano Reserves",
+        "time": "14:00",
+        "id": "281079381874577408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Estoril U23 - Sporting Lisboa U23",
+        "time": "14:00",
+        "id": "280983910039556096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kfar Saba 1928 - Maccabi Ashdod",
         "time": "13:45",
         "id": "281036058154635264"
@@ -12,6 +33,13 @@
         "name": "Maccabi Yavne - Agudat Sport Nordia Jerusalem",
         "time": "13:40",
         "id": "280992261215490048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maccabi Irony Netivot - FC Hapoel Bnei Ashdod",
+        "time": "13:30",
+        "id": "281070316826005504"
     },
     {
         "tur": "live",
@@ -65,43 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Beitar Petah Tikva - Beitar Kfar Saba Shlomi",
+        "time": "13:00",
+        "id": "281070255431880704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Central Coast Mariners NPL - SD Raiders FC",
         "time": "12:30",
         "id": "280965190099537920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Jerusalem - FC Beitar Yavne",
-        "time": "12:15",
-        "id": "281043369975746560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hantharwady United - Dagon Port F.C",
-        "time": "12:00",
-        "id": "281038199181152256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shimshon Tel Aviv - Sport Club Dimona",
-        "time": "12:00",
-        "id": "281039921812213760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maccabi Ironi Amishav - Beitar Ramat Gan",
-        "time": "12:00",
-        "id": "281070264538763264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Persib Bandung - Persebaya Surabaya",
-        "time": "11:30",
-        "id": "280706186513354752"
     }
 ]
