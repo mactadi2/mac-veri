@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Beroe Stara Zagora - PFK Botev Vratsa",
+        "time": "17:30",
+        "id": "279525964104470528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Vratimov - Fc Irp Cesky Tesin",
+        "time": "17:30",
+        "id": "280974145843499008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Trebic - Zdar Nad Sazavou",
+        "time": "17:30",
+        "id": "281066750758490112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Esenler Erokspor - Hatayspor",
         "time": "17:00",
         "id": "280266891665215488"
@@ -44,13 +65,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "OFK Vrsac - FK Dubocica",
-        "time": "17:00",
-        "id": "281069341012791296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kapaz - Araz Nakhchivan PFK",
         "time": "16:45",
         "id": "280981748413763584"
@@ -89,19 +103,5 @@
         "name": "Gandzasar Kapan - FC Van Charencavan",
         "time": "16:00",
         "id": "281066649715609600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Oleksandriya - LNZ Cherkasy",
-        "time": "15:30",
-        "id": "280274454741913600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Fratria - FC Yantra Gabrovo",
-        "time": "15:30",
-        "id": "280728831016439808"
     }
 ]
