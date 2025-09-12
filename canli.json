@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union La Calera - Everton Vina del Mar",
+        "time": "02:30",
+        "id": "280552559533494272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Metropolitanos FC - Estudiantes de Mérida",
+        "time": "02:30",
+        "id": "280752839401279488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "North Carolina - El Paso Locomotive FC",
         "time": "02:00",
         "id": "280674868714934272"
@@ -40,13 +54,6 @@
         "name": "Dynamo Puerto Fc - CS Maritimo de La Guaira",
         "time": "02:00",
         "id": "281017207660613632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Serra FC ES - Linhares FC ES",
-        "time": "02:00",
-        "id": "281091492109488128"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Sportivo San Lorenzo - Tacuary Asuncion",
         "time": "01:00",
         "id": "280937407809982464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Imperial Unido - Puente Alto",
-        "time": "01:00",
-        "id": "281204203639148544"
     }
 ]
