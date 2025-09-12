@@ -2,16 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Oleksandriya - LNZ Cherkasy",
-        "time": "15:30",
-        "id": "280274454741913600"
+        "name": "Sao Bernardo SP U20 - Inter Limeira U20",
+        "time": "16:00",
+        "id": "280964696241213440"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FK Fratria - FC Yantra Gabrovo",
+        "name": "FC Taraz - FK Ekibastuz",
+        "time": "16:00",
+        "id": "280976132697886720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gandzasar Kapan - FC Van Charencavan",
+        "time": "16:00",
+        "id": "281066649715609600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Oleksandriya - LNZ Cherkasy",
         "time": "15:30",
-        "id": "280728831016439808"
+        "id": "280274454741913600"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Chengdu Rongcheng FC - Changchun Yatai",
         "time": "14:35",
         "id": "280274219435167744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Tembetary Reserves - Sportivo Ameliano Reserves",
-        "time": "14:00",
-        "id": "281079381874577408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estoril U23 - Sporting Lisboa U23",
-        "time": "14:00",
-        "id": "280983910039556096"
     }
 ]
