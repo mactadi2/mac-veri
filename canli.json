@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "MS Tzeirey Tira - Maccabi Kiryat Malakhi",
+        "time": "14:15",
+        "id": "280967213053251584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bnei Jaffa Ortodoxim - Hapoel Kafr Qasim Shouaa",
         "time": "14:15",
         "id": "281070264416079872"
@@ -96,12 +103,5 @@
         "name": "Beitar Petah Tikva - Beitar Kfar Saba Shlomi",
         "time": "13:00",
         "id": "281070255431880704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Central Coast Mariners NPL - SD Raiders FC",
-        "time": "12:30",
-        "id": "280965190099537920"
     }
 ]
