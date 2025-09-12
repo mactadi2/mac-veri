@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al Shabab Riyadh - Al Hazm",
+        "time": "18:35",
+        "id": "280666504072138752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EIF Ekenas - SalPa Salo",
+        "time": "18:30",
+        "id": "280624961184468992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pk-35 - Kapa\/Pule",
+        "time": "18:30",
+        "id": "280624960902402048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al-Ettifaq Dammam - Al Ahli Jeddah",
+        "time": "18:25",
+        "id": "280555306674688000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gnistan Ogeli - Valtti",
         "time": "18:00",
         "id": "280988454608834560"
@@ -51,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "LKS Lodz II - Olimpia Grudziadz",
-        "time": "18:00",
-        "id": "280752849914302464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Beroe Stara Zagora - PFK Botev Vratsa",
         "time": "17:30",
         "id": "279525964104470528"
@@ -82,26 +103,5 @@
         "name": "Skanstes SK - Riga FC II",
         "time": "17:00",
         "id": "281076914345611264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "LKS Orleta Kielce - GKS Nowiny",
-        "time": "17:00",
-        "id": "281076804313288704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sokol Kleczew - NKP Podhale",
-        "time": "17:00",
-        "id": "280752850309615616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sogdiyona Jizzax - Olmaliq OKMK",
-        "time": "16:30",
-        "id": "280752829303492608"
     }
 ]
