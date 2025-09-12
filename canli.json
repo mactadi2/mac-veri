@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bayer Leverkusen - Eintracht Frankfurt",
+        "time": "21:30",
+        "id": "279455814622777344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Las Palmas - Real Sociedad B",
+        "time": "21:30",
+        "id": "280649331224219648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Avellino - SSD Monza 1912",
+        "time": "21:30",
+        "id": "280268360913129472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Pau FC - Red Star 93 Saint Ouen",
         "time": "21:00",
         "id": "280268259222228992"
@@ -44,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Almere City - PSV Reserves",
+        "time": "21:00",
+        "id": "280267244156620800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Riestra - Central Cordoba De Santiago",
         "time": "20:30",
         "id": "280160374794358784"
@@ -75,33 +103,5 @@
         "name": "FC Espoo - EBK",
         "time": "20:00",
         "id": "280988454306844672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AC Estudiantes - Tervakosken Pato",
-        "time": "20:00",
-        "id": "280988455182405632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Zulimanit - Niemisen Urheilijat",
-        "time": "19:45",
-        "id": "280929970770022400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arminia Bielefeld - Magdeburg",
-        "time": "19:30",
-        "id": "279924422708695040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Paderborn - VfL Bochum",
-        "time": "19:30",
-        "id": "279924422969790464"
     }
 ]
