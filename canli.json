@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Charleston Battery - Oakland Roots SC",
+        "time": "02:30",
+        "id": "280746683001868288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tampa Bay Rowdies - Colorado Springs Switchbacks Fc",
+        "time": "02:30",
+        "id": "280674868585959424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Carolina Core - Atlanta United II",
+        "time": "02:30",
+        "id": "280769528865099776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Espanol FC - CA Rentistas",
+        "time": "02:30",
+        "id": "280894864185495552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Pittsburgh Riverhounds - Louisville City FC",
         "time": "02:00",
         "id": "280746683135037440"
@@ -75,33 +103,5 @@
         "name": "Portland Hearts of Pine - Chattanooga Fc",
         "time": "01:00",
         "id": "281024799508140032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palmeiras - SC Internacional RS",
-        "time": "00:30",
-        "id": "279483235480768512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vila Nova GO - Remo PA",
-        "time": "00:30",
-        "id": "280726856380059648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Universidad Catolica Quito - Delfin SC",
-        "time": "00:30",
-        "id": "280113950532702208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nacional Potosi - San Antonio Bulo Bulo",
-        "time": "00:30",
-        "id": "279546443029680128"
     }
 ]
