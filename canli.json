@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nice - Nantes",
+        "time": "18:00",
+        "id": "280070871949905920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Real Sociedad - Real Madrid",
         "time": "17:15",
         "id": "279453877898711040"
@@ -93,15 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Boluspor - Manisa Futbol Kulubu",
-        "time": "16:00",
-        "id": "280266502897274880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cagliari - Parma",
-        "time": "16:00",
-        "id": "279449799583993856"
+        "name": "Union Berlin - Hoffenheim",
+        "time": "16:30",
+        "id": "279455510785298432"
     }
 ]
