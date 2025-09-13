@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "West Ham - Tottenham",
+        "time": "19:30",
+        "id": "279369490049929216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Athletic Bilbao - Alaves",
+        "time": "19:30",
+        "id": "279455154749706240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Bayern Münih - Hamburger SV",
+        "time": "19:30",
+        "id": "279455404394680320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SD Huesca - Malaga CF",
+        "time": "19:30",
+        "id": "280665956993339392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Dender - Royale Union SG",
         "time": "19:15",
         "id": "279903944258490368"
@@ -75,33 +103,5 @@
         "name": "AIFK Turku - IFK Mariehamn II",
         "time": "18:00",
         "id": "281151273743552512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Moreirense - Rio Ave",
-        "time": "17:30",
-        "id": "280116223681892352"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estoril - AVS",
-        "time": "17:30",
-        "id": "280271688256589824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ajax - Zwolle",
-        "time": "17:30",
-        "id": "279448967844073472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "VVV Venlo - Helmond Sport",
-        "time": "17:30",
-        "id": "280267165959065600"
     }
 ]
