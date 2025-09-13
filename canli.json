@@ -2,16 +2,65 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fiorentina - Napoli",
-        "time": "21:45",
-        "id": "279449709696913408"
+        "name": "Auxerre - Monaco",
+        "time": "22:05",
+        "id": "280071152666284032"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Raal La Louviere - Club Brugge",
+        "name": "Brentford - Chelsea",
+        "time": "22:00",
+        "id": "279369797078224896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Madrid - Villarreal",
+        "time": "22:00",
+        "id": "279453899344187392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Feyenoord - Heerenveen",
+        "time": "22:00",
+        "id": "279453095948324864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Twente - NAC Breda",
+        "time": "22:00",
+        "id": "279449634056835072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gremio Porto Alegrense RS - Mirassol FC",
+        "time": "22:00",
+        "id": "279482193180495872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fortaleza CE - EC Vitoria",
+        "time": "22:00",
+        "id": "279481688755671040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Valladolid - Union Deportiva Almeria",
+        "time": "22:00",
+        "id": "280667803575521280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fiorentina - Napoli",
         "time": "21:45",
-        "id": "280023533955977216"
+        "id": "279449709696913408"
     },
     {
         "tur": "live",
@@ -37,30 +86,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Piast Gliwice - Jagiellonia Bialystok SSA",
-        "time": "21:15",
-        "id": "280021640715309056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Clermont - AS St. Etienne",
         "time": "21:00",
         "id": "280268360372064256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sport Boys - Comerciantes Unidos",
-        "time": "21:00",
-        "id": "279542116095496192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palestino Santiago - O'Higgins",
-        "time": "21:00",
-        "id": "280552885783236608"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Godoy Cruz - Barracas Central",
         "time": "20:30",
         "id": "279675870356049920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Besiktas - İstanbul Başakşehir FK",
-        "time": "20:00",
-        "id": "280115533142167552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Konyaspor - Alanyaspor",
-        "time": "20:00",
-        "id": "280115991474737152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Porto - Nacional Madeira",
-        "time": "20:00",
-        "id": "280115532707008512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Go Ahead Eagles - Volendam",
-        "time": "19:45",
-        "id": "279452168821542912"
     }
 ]
