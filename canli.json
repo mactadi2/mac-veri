@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Besiktas - İstanbul Başakşehir FK",
+        "time": "20:00",
+        "id": "280115533142167552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Konyaspor - Alanyaspor",
+        "time": "20:00",
+        "id": "280115991474737152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Porto - Nacional Madeira",
+        "time": "20:00",
+        "id": "280115532707008512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "NEC Nijmegen - PSV",
         "time": "19:45",
         "id": "279449468357709824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Go Ahead Eagles - Volendam",
+        "time": "19:45",
+        "id": "279452168821542912"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Seinäjoen Jalkapallokerho - HJK Helsinki",
         "time": "19:00",
         "id": "280640283645972480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Halmstads BK - IFK Norrkoping",
-        "time": "18:30",
-        "id": "280115515680231424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Espanola - Audax Italiano Santiago",
-        "time": "18:30",
-        "id": "280552693594984448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Catanzaro - Carrarese",
-        "time": "18:15",
-        "id": "280115514567692288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nice - Nantes",
-        "time": "18:00",
-        "id": "280070871949905920"
     }
 ]
