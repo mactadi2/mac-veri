@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Estudiantes de la Plata - CA River Plate",
+        "time": "01:00",
+        "id": "279667898614681600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Luqueno - Libertad Asuncion",
+        "time": "01:00",
+        "id": "280819389094301696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portland Hearts of Pine - Chattanooga Fc",
+        "time": "01:00",
+        "id": "281024799508140032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Zamora FC - Rayo Zuliano",
+        "time": "01:00",
+        "id": "280998882134069248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cruz Azul (W) - FC Juarez (W)",
         "time": "00:45",
         "id": "280751625817165824"
@@ -75,33 +103,5 @@
         "name": "Alianza Atletico - Juan Pablo II College",
         "time": "23:15",
         "id": "279542353777266688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vancouver Whitecaps II - The Town FC",
-        "time": "23:00",
-        "id": "280870654522298368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nautico Capibaribe - Guarani FC De Campinas",
-        "time": "23:00",
-        "id": "280668569604329472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atenas - La Luz",
-        "time": "23:00",
-        "id": "280894266172116992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tigres FC - Real Soacha Cundinamarca",
-        "time": "23:00",
-        "id": "280770867910283264"
     }
 ]
