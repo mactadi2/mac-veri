@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Clermont - AS St. Etienne",
+        "time": "21:00",
+        "id": "280268360372064256"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sport Boys - Comerciantes Unidos",
+        "time": "21:00",
+        "id": "279542116095496192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palestino Santiago - O'Higgins",
+        "time": "21:00",
+        "id": "280552885783236608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sampdoria - Cesena FC",
         "time": "20:30",
         "id": "280115494141431808"
@@ -79,29 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Corum Belediyespor - Vanspor FK",
-        "time": "19:00",
-        "id": "280266874177064960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sivasspor - Sariyer GK",
-        "time": "19:00",
-        "id": "280266502792417280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juventus - Inter",
-        "time": "19:00",
-        "id": "279449799918489600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SK Brann - Valerenga IF Oslo",
-        "time": "19:00",
-        "id": "280115603211161600"
+        "name": "FK Krasnodar - Akron Tolyatti",
+        "time": "19:30",
+        "id": "279438164501860352"
     }
 ]
