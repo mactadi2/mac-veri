@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cruz Azul (W) - FC Juarez (W)",
+        "time": "00:45",
+        "id": "280751625817165824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Palmeiras - SC Internacional RS",
         "time": "00:30",
         "id": "279483235480768512"
@@ -96,12 +103,5 @@
         "name": "Tigres FC - Real Soacha Cundinamarca",
         "time": "23:00",
         "id": "280770867910283264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Independiente Avellaneda - Banfield",
-        "time": "22:45",
-        "id": "279667747729838080"
     }
 ]
