@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Consadole Sapporo - Iwaki SC",
+        "time": "08:00",
+        "id": "280608005597302784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Jeonbuk Motors II - Mokpo City",
+        "time": "08:00",
+        "id": "280972393212678144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Daegu FC Reserves - Seoul Jungnang FC",
+        "time": "08:00",
+        "id": "281059442175381504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Namyangju Citizen - Pyeongchang United",
+        "time": "08:00",
+        "id": "281049963020029952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bulls Northbridge FC Academy (W) - Apia Leichhardt Tigers (W)",
         "time": "07:30",
         "id": "280955503501250560"
@@ -26,19 +54,5 @@
         "name": "Brisbane Olympic (W) - Caboolture FC (W)",
         "time": "06:30",
         "id": "281001800736313344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mazatlan FC - Pumas UNAM",
-        "time": "06:00",
-        "id": "280088346332631040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tigres de Alica FC - Alacranes De Durango",
-        "time": "06:00",
-        "id": "281078424392568832"
     }
 ]
