@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "NEC Nijmegen - PSV",
+        "time": "19:45",
+        "id": "279449468357709824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "West Ham - Tottenham",
         "time": "19:30",
         "id": "279369490049929216"
@@ -96,12 +103,5 @@
         "name": "Nice - Nantes",
         "time": "18:00",
         "id": "280070871949905920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AIFK Turku - IFK Mariehamn II",
-        "time": "18:00",
-        "id": "281151273743552512"
     }
 ]
