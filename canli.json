@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Moron - Temperley",
+        "time": "22:30",
+        "id": "280756212971212800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Auxerre - Monaco",
         "time": "22:05",
         "id": "280071152666284032"
@@ -96,12 +103,5 @@
         "name": "CA Defensores de Belgrano - CA Chaco For Ever",
         "time": "21:30",
         "id": "280755690076770304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Clermont - AS St. Etienne",
-        "time": "21:00",
-        "id": "280268360372064256"
     }
 ]
