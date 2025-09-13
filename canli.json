@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Changwon City - Gangneung City",
+        "time": "08:00",
+        "id": "280752847655669760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Daegu FC Reserves - Seoul Jungnang FC",
         "time": "08:00",
         "id": "281059442175381504"
@@ -47,12 +54,5 @@
         "name": "Salisbury Utd Reserves - West Adelaide Reserves",
         "time": "07:30",
         "id": "281000968248758272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brisbane Olympic (W) - Caboolture FC (W)",
-        "time": "06:30",
-        "id": "281001800736313344"
     }
 ]
