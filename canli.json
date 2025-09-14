@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Pyeongtaek Citizen Fc - Gijang United",
+        "time": "10:00",
+        "id": "281274469383802880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Pocheon Fc - Gyeongju KHNP",
         "time": "09:00",
         "id": "280770868131532800"
@@ -44,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Citizen AA - Supreme FC",
+        "name": "Resources Capital FC - Central & Western",
         "time": "08:30",
-        "id": "281226830231506944"
+        "id": "281226830029131776"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Resources Capital FC - Central & Western",
+        "name": "Citizen AA - Supreme FC",
         "time": "08:30",
-        "id": "281226830029131776"
+        "id": "281226830231506944"
     },
     {
         "tur": "live",
@@ -68,26 +75,5 @@
         "name": "New Fair Kui Tan - Sui Tung",
         "time": "08:30",
         "id": "281229930643197952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Melbourne City U21 - Brunswick City",
-        "time": "08:00",
-        "id": "281114021169598464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kobe FC 1970 - FC Basara Hyogo",
-        "time": "08:00",
-        "id": "281222496616845312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gakunan F Mosperio - Vencedor Mie United",
-        "time": "08:00",
-        "id": "281267943085576192"
     }
 ]
