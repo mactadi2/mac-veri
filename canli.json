@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Manchester City - Manchester United",
+        "time": "18:30",
+        "id": "279370652072415232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Borussia Monchengladbach - Werder Bremen",
+        "time": "18:30",
+        "id": "279455481869766656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "PSG - Lens",
         "time": "18:15",
         "id": "280071014561484800"
@@ -33,13 +47,6 @@
         "name": "FC Sudtirol Bolzano - Palermo",
         "time": "18:15",
         "id": "280115526834982912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KFUM Oslo - Viking Stavanger",
-        "time": "18:00",
-        "id": "280115526714396672"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Bragantino Red Bull - Sport Club do Recife",
         "time": "17:00",
         "id": "279481346685014016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St. Pauli - Augsburg",
-        "time": "16:30",
-        "id": "279455501404737536"
     }
 ]
