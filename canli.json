@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Estudiantes Rio Cuarto - Club Atletico Mitre",
+        "time": "01:00",
+        "id": "280755888199962624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Trinidense - Deportivo Recoleta",
+        "time": "01:00",
+        "id": "280842509246140416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AA Ponte Preta - Brusque",
+        "time": "01:00",
+        "id": "280752654222757888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Orsomarso - Real Santander",
+        "time": "01:00",
+        "id": "280854671787167744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Carabobo FC - Caracas FC",
+        "time": "01:00",
+        "id": "280854671916142592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Athletic Club MG - Botafogo SP ",
         "time": "00:30",
         "id": "280726860095164416"
@@ -12,13 +47,6 @@
         "name": "GV Club Deportivo San Jose de Oruro - Always Ready",
         "time": "00:15",
         "id": "279544127393239040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Cali - Deportivo Pasto",
-        "time": "00:10",
-        "id": "280687586400407552"
     },
     {
         "tur": "live",
@@ -40,13 +68,6 @@
         "name": "Portuguesa FC - Deportivo Tachira FC",
         "time": "00:00",
         "id": "280850775271411712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Plaza Colonia - Club Nacional de Montevideo",
-        "time": "00:00",
-        "id": "280733205720600576"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Atletico Cali F.C. - Internacional Fc De Palmira",
         "time": "23:30",
         "id": "280848825355210752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FBC Melgar Arequipa - Universitario de Deportes",
-        "time": "23:00",
-        "id": "280123875848753152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portland Timbers II - Los Angeles II",
-        "time": "23:00",
-        "id": "280847177338720256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tecnico Universitario - Deportivo Cuenca",
-        "time": "22:00",
-        "id": "280114396963934208"
     }
 ]
