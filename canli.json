@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "GV Club Deportivo San Jose de Oruro - Always Ready",
+        "time": "00:15",
+        "id": "279544127393239040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Jaguares de Cordoba - Bogota FC",
+        "time": "00:00",
+        "id": "280850775032336384"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portuguesa FC - Deportivo Tachira FC",
+        "time": "00:00",
+        "id": "280850775271411712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Plaza Colonia - Club Nacional de Montevideo",
+        "time": "00:00",
+        "id": "280733205720600576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sao Paulo FC - Botafogo RJ",
         "time": "23:30",
         "id": "279511322492801024"
@@ -16,9 +44,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Santiago Wanderers - Cd Santa Cruz",
+        "time": "23:30",
+        "id": "280848826031542272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Marcos de Arica - Deportes Concepcion",
+        "time": "23:30",
+        "id": "280848825880547328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Cali F.C. - Internacional Fc De Palmira",
+        "time": "23:30",
+        "id": "280848825355210752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FBC Melgar Arequipa - Universitario de Deportes",
         "time": "23:00",
         "id": "280123875848753152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portland Timbers II - Los Angeles II",
+        "time": "23:00",
+        "id": "280847177338720256"
     },
     {
         "tur": "live",
@@ -37,58 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Barcelona - Valencia",
-        "time": "22:00",
-        "id": "279455080363724800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EC Juventude - Flamengo RJ",
-        "time": "22:00",
-        "id": "279482521521098752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Mineiro - Santos FC Sao Paulo ",
-        "time": "22:00",
-        "id": "279481740177838080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Granada CF - Leganes",
-        "time": "22:00",
-        "id": "280801550042009600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Maipu - CA All Boys",
-        "time": "22:00",
-        "id": "280754850728382464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Patronato - Quilmes Atletico Club",
-        "time": "22:00",
-        "id": "280755133000847360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Guemes - Racing de Cordoba",
-        "time": "22:00",
-        "id": "280752884349538304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Operario Ferroviario EC PR - Cuiaba MT",
-        "time": "22:00",
-        "id": "280726953497071616"
+        "name": "Londrina EC PR - Floresta EC",
+        "time": "22:30",
+        "id": "280743640648781824"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Tecnico Universitario - Deportivo Cuenca",
         "time": "22:00",
         "id": "280114396963934208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Academia de Balompie Boliviano - Jorge Wilstermann",
-        "time": "22:00",
-        "id": "279546728950140928"
     }
 ]
