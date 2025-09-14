@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "St. Pauli - Augsburg",
+        "time": "16:30",
+        "id": "279455501404737536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "76 Igdir Belediyespor - Serik Belediyespor",
         "time": "16:00",
         "id": "280266503039881216"
@@ -96,12 +103,5 @@
         "name": "Osters IF - IFK Varnamo",
         "time": "15:00",
         "id": "280115890461216768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Elversberg - Dynamo Dresden",
-        "time": "14:30",
-        "id": "280086676811943936"
     }
 ]
