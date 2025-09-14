@@ -2,30 +2,100 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Mauerwerk - FV Austria XIII",
+        "name": "FK Viktoria Zizkov - FC Zbrojovka Brno",
+        "time": "11:15",
+        "id": "280751697777790976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fc Slovan Liberec U21 - Fk Arsenal Ceska Lipa",
+        "time": "11:15",
+        "id": "281063433651228672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Admira Praha - FC Pisek",
+        "time": "11:15",
+        "id": "281062024803389440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Meteor Praha - FK Banik Sokolov",
+        "time": "11:15",
+        "id": "281066752566235136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Velke Mezirici - SC Znojmo",
+        "time": "11:15",
+        "id": "281066751586865152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shanghai Port Reserves - Guangdong Mingtu",
+        "time": "11:00",
+        "id": "281062332608679936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guangzhou Dandelion Alpha FC - Lanzhou Longyuan Athletic",
+        "time": "11:00",
+        "id": "281151329327517696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chuncheon FC - Paju Citizen Fc",
+        "time": "11:00",
+        "id": "281046097452994560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tsukuba FC - Toho Titanium",
+        "time": "11:00",
+        "id": "281220312678404096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ryutsu Keizai University - Toin Yokohama University",
+        "time": "11:00",
+        "id": "281220329563623424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CSM Olimpia Satu Mare - CS Corvinul Hunedoara",
+        "time": "11:00",
+        "id": "280067549215985664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UCAM Murcia CF B - SFC Minerva",
+        "time": "11:00",
+        "id": "281262611518066688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "HNK Rijeka U19 - HNK Hajduk Split U19",
+        "time": "11:00",
+        "id": "281233123600109568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "APIA Leichhardt Tigers U20 - Marconi Stallions U20",
         "time": "10:45",
-        "id": "281206872933011456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "3 Sing FC - Yuen Long FC",
-        "time": "10:30",
-        "id": "281226829895962624"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South China AA - Kwun Tong",
-        "time": "10:30",
-        "id": "281226830127697920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wofoo Social Enterprises - Sham Shui Po FC",
-        "time": "10:30",
-        "id": "281226830362578944"
+        "id": "281070424724475904"
     },
     {
         "tur": "live",
@@ -33,33 +103,5 @@
         "name": "Pyeongtaek Citizen Fc - Gijang United",
         "time": "10:00",
         "id": "281274469383802880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pocheon Fc - Gyeongju KHNP",
-        "time": "09:00",
-        "id": "280770868131532800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Canberra Croatia (W) - Canberra Olympic (W)",
-        "time": "09:00",
-        "id": "281087026574528512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Seagulls Yokohama (W) - Setagaya Sfida (W)",
-        "time": "09:00",
-        "id": "281146437783392256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Okayama Yunogo Belle (W) - Orca Kamogawa FC (W)",
-        "time": "09:00",
-        "id": "281146437903978496"
     }
 ]
