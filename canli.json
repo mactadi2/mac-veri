@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Artista Asama - Toyama Shinjo Club",
+        "time": "07:00",
+        "id": "281220312904896512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Iga Kunoichi (W) - Viamaterras Miyazaki (W)",
+        "time": "07:00",
+        "id": "281138878337912832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club America - CD Chivas de Guadalajara",
         "time": "06:15",
         "id": "280055099417563136"
@@ -19,6 +33,20 @@
         "name": "Club Xelaju - Aurora FC",
         "time": "06:00",
         "id": "280782989796970496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Los Cabos United - Reboceros de La Piedad",
+        "time": "06:00",
+        "id": "280782989570478080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Suva - Labasa",
+        "time": "06:00",
+        "id": "281216065533513728"
     },
     {
         "tur": "live",
@@ -47,61 +75,5 @@
         "name": "Antelope Valley Alta - One Knoxville SC",
         "time": "05:30",
         "id": "281042362841567232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Japan Soccer College - Fukui United",
-        "time": "05:30",
-        "id": "281220312813670400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Monterey Bay - Hartford Athletic",
-        "time": "05:00",
-        "id": "280674868415041536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sacramento Republic FC - Phoenix Rising",
-        "time": "05:00",
-        "id": "280673105994715136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brunswick Juventus - Springvale White Eagles",
-        "time": "05:00",
-        "id": "281025287437815808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AS Laranja Kyoto - Velago Ikoma",
-        "time": "05:00",
-        "id": "281220329680015360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tadotsu FC - Lavenirosso NC",
-        "time": "05:00",
-        "id": "281225867348283392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Llamas Kochi FC - KUFC Nankoku",
-        "time": "05:00",
-        "id": "281220329801650176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "LD Alajuelense - AD Municipal Liberia",
-        "time": "05:00",
-        "id": "280759689058324480"
     }
 ]
