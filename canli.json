@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Braga - Gil Vicente",
+        "time": "22:30",
+        "id": "280115532594810880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Barcelona - Valencia",
         "time": "22:00",
         "id": "279455080363724800"
@@ -96,12 +103,5 @@
         "name": "Tristan Suarez - Club Atletico Colegiales",
         "time": "21:00",
         "id": "280752652283940864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Empoli - Spezia",
-        "time": "20:30",
-        "id": "280268361259159552"
     }
 ]
