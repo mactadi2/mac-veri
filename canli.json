@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tianjin Jinmen Tigers - Wuhan Three Towns",
+        "time": "14:35",
+        "id": "280274231617523712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Greuther Furth - Kaiserslautern",
+        "time": "14:30",
+        "id": "280086676581257216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Elversberg - Dynamo Dresden",
+        "time": "14:30",
+        "id": "280086676811943936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Preussen Munster - Fortuna Dusseldorf",
+        "time": "14:30",
+        "id": "280086676440748032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Royal Antwerp - Gent",
+        "time": "14:30",
+        "id": "280086677091913728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Southampton - Portsmouth",
         "time": "14:00",
         "id": "279997944150757376"
@@ -23,20 +58,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "EPS Reservi - HooGee",
-        "time": "14:00",
-        "id": "281221136209022976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Toejoen Veikot - PIF Parainen",
-        "time": "14:00",
-        "id": "281112782968066048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "AS Roma - Torino",
         "time": "13:30",
         "id": "279449800034881536"
@@ -51,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Motor Lublin - Termalica BB Nieciecza",
-        "time": "13:15",
-        "id": "280081613476466688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Gimcheon Sangmu FC - Daegu FC",
         "time": "13:00",
         "id": "280115532434378752"
@@ -65,16 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Suwon City - Gwangju FC",
+        "name": "FC Anyang - Jeju United",
         "time": "13:00",
-        "id": "280116704462376960"
+        "id": "280116321929269248"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Anyang - Jeju United",
+        "name": "Suwon City - Gwangju FC",
         "time": "13:00",
-        "id": "280116321929269248"
+        "id": "280116704462376960"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Renofa Yamaguchi - Jef United Ichihara Chiba",
         "time": "13:00",
         "id": "280707586354974720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Montedio Yamagata - Kataller Toyama",
-        "time": "13:00",
-        "id": "280707570397745152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jeonnam Dragons - Hwaseong Fc",
-        "time": "13:00",
-        "id": "280707984938635264"
     }
 ]
