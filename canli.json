@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vasco da Gama RJ - Ceara SC CE",
+        "time": "02:30",
+        "id": "279484117319553024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Monagas SC - Universidad Central de Venezuela",
+        "time": "02:30",
+        "id": "280860219414810624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tigre - Talleres de Cordoba",
+        "time": "02:00",
+        "id": "279667865012015104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Defensa y Justicia - Platense",
+        "time": "02:00",
+        "id": "279700476237320192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Martin Tucuman - CA Atlanta",
+        "time": "02:00",
+        "id": "280752883570446336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Inter Miami II - Orlando City II",
+        "time": "02:00",
+        "id": "280858265766727680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gallos Blancos Queretaro - CF Rayados de Monterrey",
+        "time": "02:00",
+        "id": "280088346057904128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Emelec Guayaquil - Barcelona SC Guayaquil",
         "time": "01:30",
         "id": "280114916500836352"
@@ -54,54 +103,5 @@
         "name": "Independiente Santa Fe (W) - Asociacion Deportivo Cali (W)",
         "time": "01:00",
         "id": "281285020839186432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Utah Royals (W) - Houston Dash (W)",
-        "time": "01:00",
-        "id": "280763420484177920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Athletic Club MG - Botafogo SP ",
-        "time": "00:30",
-        "id": "280726860095164416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "GV Club Deportivo San Jose de Oruro - Always Ready",
-        "time": "00:15",
-        "id": "279544127393239040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Cali - Deportivo Pasto",
-        "time": "00:10",
-        "id": "280687586400407552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Jaguares de Cordoba - Bogota FC",
-        "time": "00:00",
-        "id": "280850775032336384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portuguesa FC - Deportivo Tachira FC",
-        "time": "00:00",
-        "id": "280850775271411712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Plaza Colonia - Club Nacional de Montevideo",
-        "time": "00:00",
-        "id": "280733205720600576"
     }
 ]
