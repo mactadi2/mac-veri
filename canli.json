@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Osasuna - Rayo Vallecano",
+        "time": "19:30",
+        "id": "279453899454287872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sporting Gijon - Burgos CF",
+        "time": "19:30",
+        "id": "280732589115969536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Castellon - AD Ceuta FC",
+        "time": "19:30",
+        "id": "280801534304980992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fenerbahce - Trabzonspor",
+        "time": "19:00",
+        "id": "280116164345073664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gaziantep FK - Kocaelispor",
+        "time": "19:00",
+        "id": "280269068141989888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Amed Sportif Faaliyetler - Pendikspor",
+        "time": "19:00",
+        "id": "280266343271501824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sassuolo - Lazio",
+        "time": "19:00",
+        "id": "279449800199507968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Manchester City - Manchester United",
         "time": "18:30",
         "id": "279370652072415232"
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Telstar - Fortuna Sittard",
-        "time": "17:45",
-        "id": "279451875064025088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estrela - Vitoria Guimaraes",
-        "time": "17:30",
-        "id": "280116322060341248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Elfsborg - Malmo FF",
-        "time": "17:30",
-        "id": "280115603432411136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IK Sirius FK - GAIS",
-        "time": "17:30",
-        "id": "280115647985356800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Levante - Real Betis",
-        "time": "17:15",
-        "id": "279453855546216448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Racing Santander - Cultural Leonesa",
-        "time": "17:15",
-        "id": "280801534093168640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kayserispor - Göztepe",
-        "time": "17:00",
-        "id": "280115991282847744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bragantino Red Bull - Sport Club do Recife",
-        "time": "17:00",
-        "id": "279481346685014016"
+        "name": "KFUM Oslo - Viking Stavanger",
+        "time": "18:00",
+        "id": "280115526714396672"
     }
 ]
