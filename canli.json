@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "76 Igdir Belediyespor - Serik Belediyespor",
+        "time": "16:00",
+        "id": "280266503039881216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bandirmaspor - Keçiörengücü",
+        "time": "16:00",
+        "id": "280268396318298112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Burnley - Liverpool",
+        "time": "16:00",
+        "id": "279369611716202496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atalanta - Lecce",
+        "time": "16:00",
+        "id": "279449800116670464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pisa - Udinese",
+        "time": "16:00",
+        "id": "279449709817499648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lille - Toulouse",
+        "time": "16:00",
+        "id": "280071219057922048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "ACD Virtus Entella - Mantova",
+        "time": "16:00",
+        "id": "280268361144864768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Heracles Almelo - AZ Alkmaar",
         "time": "15:30",
         "id": "279450506947072000"
@@ -12,13 +61,6 @@
         "name": "Utrecht - Groningen",
         "time": "15:30",
         "id": "279449853340291072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bryne FK - Tromso IL",
-        "time": "15:30",
-        "id": "280115526585421824"
     },
     {
         "tur": "live",
@@ -44,20 +86,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Viborg - Aarhus",
-        "time": "15:00",
-        "id": "280115494582882304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tianjin Jinmen Tigers - Wuhan Three Towns",
-        "time": "14:35",
-        "id": "280274231617523712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Greuther Furth - Kaiserslautern",
         "time": "14:30",
         "id": "280086676581257216"
@@ -75,33 +103,5 @@
         "name": "Preussen Munster - Fortuna Dusseldorf",
         "time": "14:30",
         "id": "280086676440748032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Royal Antwerp - Gent",
-        "time": "14:30",
-        "id": "280086677091913728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Southampton - Portsmouth",
-        "time": "14:00",
-        "id": "279997944150757376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kalmar FF - Vasteras SK FK",
-        "time": "14:00",
-        "id": "280274196005785600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dalian Young Boy FC - Shenzhen Peng FC",
-        "time": "14:00",
-        "id": "280274219512762368"
     }
 ]
