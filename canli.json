@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gimnasia y Esgrima La Plata - Union Santa Fe",
+        "time": "21:00",
+        "id": "279668493908054016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Instituto de Cordoba - Argentinos Juniors",
+        "time": "21:00",
+        "id": "279676155768999936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tristan Suarez - Club Atletico Colegiales",
+        "time": "21:00",
+        "id": "280752652283940864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Empoli - Spezia",
         "time": "20:30",
         "id": "280268361259159552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alianza Universidad - Cienciano Cusco",
+        "time": "20:30",
+        "id": "280123516133707776"
     },
     {
         "tur": "live",
@@ -26,6 +54,13 @@
         "name": "Arouca - Casa Pia",
         "time": "20:00",
         "id": "280116285529001984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "El Nacional Quito - Macara",
+        "time": "19:45",
+        "id": "280114309714022400"
     },
     {
         "tur": "live",
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Los Andes - Almagro",
-        "time": "19:05",
-        "id": "280754626872086528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fenerbahce - Trabzonspor",
-        "time": "19:00",
-        "id": "280116164345073664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gaziantep FK - Kocaelispor",
-        "time": "19:00",
-        "id": "280269068141989888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Amed Sportif Faaliyetler - Pendikspor",
-        "time": "19:00",
-        "id": "280266343271501824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sassuolo - Lazio",
-        "time": "19:00",
-        "id": "279449800199507968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Silkeborg - Odense",
-        "time": "19:00",
-        "id": "280115527148507136"
+        "name": "FC Rostov - CSKA Moskova",
+        "time": "19:30",
+        "id": "279438218911420416"
     }
 ]
