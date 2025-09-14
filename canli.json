@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kochi United SC - Tochigi SC",
+        "time": "12:00",
+        "id": "280805435880116224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yarmanya United U21 - Thitsar Arman FC U21",
+        "time": "12:00",
+        "id": "281255164009123840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nihon University - Aries Tokyo Toshima FC",
+        "time": "12:00",
+        "id": "281222496764694528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Heidelberg United - Dandenong City",
         "time": "11:30",
         "id": "280882029182193664"
@@ -23,13 +44,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Liefering - SV Austria Salzburg",
-        "time": "11:30",
-        "id": "280263042886930432"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "FK Viktoria Zizkov - FC Zbrojovka Brno",
         "time": "11:15",
         "id": "280751697777790976"
@@ -47,13 +61,6 @@
         "name": "FK Admira Praha - FC Pisek",
         "time": "11:15",
         "id": "281062024803389440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Meteor Praha - FK Banik Sokolov",
-        "time": "11:15",
-        "id": "281066752566235136"
     },
     {
         "tur": "live",
@@ -89,13 +96,6 @@
         "name": "Ryutsu Keizai University - Toin Yokohama University",
         "time": "11:00",
         "id": "281220329563623424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CSM Olimpia Satu Mare - CS Corvinul Hunedoara",
-        "time": "11:00",
-        "id": "280067549215985664"
     },
     {
         "tur": "live",
