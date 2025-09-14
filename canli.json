@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club America - CD Chivas de Guadalajara",
+        "time": "06:15",
+        "id": "280055099417563136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Toluca FC - Puebla",
+        "time": "06:00",
+        "id": "280054468588998656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "San Diego - Minnesota United",
         "time": "05:30",
         "id": "280083346461167616"
@@ -26,6 +40,13 @@
         "name": "Antelope Valley Alta - One Knoxville SC",
         "time": "05:30",
         "id": "281042362841567232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Japan Soccer College - Fukui United",
+        "time": "05:30",
+        "id": "281220312813670400"
     },
     {
         "tur": "live",
@@ -65,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Llamas Kochi FC - KUFC Nankoku",
+        "time": "05:00",
+        "id": "281220329801650176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vancouver Whitecaps - Philadelphia Union",
         "time": "04:35",
         "id": "280083677432647680"
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Real Salt Lake - Sporting Kansas City",
-        "time": "04:30",
-        "id": "280083277177556992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Colorado Rapids - Houston Dynamo",
         "time": "04:30",
         "id": "280083276701503488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Nacional de Medellin - Atletico Bucaramanga",
-        "time": "04:30",
-        "id": "280672720576974848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Tigres de la UANL - Leon",
-        "time": "04:00",
-        "id": "280046893690654720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CF Atlas Guadalajara - Santos Laguna Mexico",
-        "time": "04:00",
-        "id": "280046893593137152"
     }
 ]
