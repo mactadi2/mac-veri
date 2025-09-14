@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA San Telmo - Central Norte Salta ",
+        "time": "21:30",
+        "id": "280756467039080448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ferro Carril Oeste - CA San Miguel",
+        "time": "21:30",
+        "id": "280754432023597056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Talleres Remedios Escalada - Colon de Santa Fe",
+        "time": "21:30",
+        "id": "280695982273990656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chacarita Juniors - Almirante Brown de Lules",
+        "time": "21:30",
+        "id": "280755638367293440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nacional Asuncion - Olimpia Asuncion",
+        "time": "21:30",
+        "id": "280819392884903936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Liniers - Argentino Quilmes",
+        "time": "21:30",
+        "id": "280972406742454272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gimnasia y Esgrima La Plata - Union Santa Fe",
         "time": "21:00",
         "id": "279668493908054016"
@@ -61,47 +103,5 @@
         "name": "El Nacional Quito - Macara",
         "time": "19:45",
         "id": "280114309714022400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Osasuna - Rayo Vallecano",
-        "time": "19:30",
-        "id": "279453899454287872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sporting Gijon - Burgos CF",
-        "time": "19:30",
-        "id": "280732589115969536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Castellon - AD Ceuta FC",
-        "time": "19:30",
-        "id": "280801534304980992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nueva Chicago - Gimnasia Y Esgrima de Jujuy",
-        "time": "19:30",
-        "id": "280755386132336640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Anderlecht - Genk",
-        "time": "19:30",
-        "id": "280105614185730048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Rostov - CSKA Moskova",
-        "time": "19:30",
-        "id": "279438218911420416"
     }
 ]
