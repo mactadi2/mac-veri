@@ -65,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bryne FK - Tromso IL",
+        "time": "15:30",
+        "id": "280115526585421824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Celta Vigo - Girona",
         "time": "15:00",
         "id": "279455154893361152"
@@ -86,9 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Greuther Furth - Kaiserslautern",
-        "time": "14:30",
-        "id": "280086676581257216"
+        "name": "Osters IF - IFK Varnamo",
+        "time": "15:00",
+        "id": "280115890461216768"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Elversberg - Dynamo Dresden",
         "time": "14:30",
         "id": "280086676811943936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Preussen Munster - Fortuna Dusseldorf",
-        "time": "14:30",
-        "id": "280086676440748032"
     }
 ]
