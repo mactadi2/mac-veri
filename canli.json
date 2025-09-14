@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "R.Velho Takamatsu - Shikoku Chuo",
+        "time": "07:30",
+        "id": "281222508795006976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Artista Asama - Toyama Shinjo Club",
         "time": "07:00",
         "id": "281220312904896512"
@@ -47,33 +54,5 @@
         "name": "Suva - Labasa",
         "time": "06:00",
         "id": "281216065533513728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Diego - Minnesota United",
-        "time": "05:30",
-        "id": "280083346461167616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portland Timbers - New York Red Bulls",
-        "time": "05:30",
-        "id": "280083632612315136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Las Vegas Lights - Miami FC",
-        "time": "05:30",
-        "id": "280673481312571392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Antelope Valley Alta - One Knoxville SC",
-        "time": "05:30",
-        "id": "281042362841567232"
     }
 ]
