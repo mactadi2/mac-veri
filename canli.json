@@ -9,6 +9,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Madryn - Club Atletico Alvarado",
+        "time": "22:30",
+        "id": "280754749363589120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Barcelona - Valencia",
         "time": "22:00",
         "id": "279455080363724800"
@@ -44,6 +51,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Maipu - CA All Boys",
+        "time": "22:00",
+        "id": "280754850728382464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Guemes - Racing de Cordoba",
+        "time": "22:00",
+        "id": "280752884349538304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AC Milan - Bologna",
         "time": "21:45",
         "id": "279449799339675648"
@@ -72,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Talleres Remedios Escalada - Colon de Santa Fe",
-        "time": "21:30",
-        "id": "280695982273990656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Chacarita Juniors - Almirante Brown de Lules",
         "time": "21:30",
         "id": "280755638367293440"
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gimnasia y Esgrima La Plata - Union Santa Fe",
-        "time": "21:00",
-        "id": "279668493908054016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Instituto de Cordoba - Argentinos Juniors",
-        "time": "21:00",
-        "id": "279676155768999936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tristan Suarez - Club Atletico Colegiales",
-        "time": "21:00",
-        "id": "280752652283940864"
+        "name": "Talleres Remedios Escalada - Colon de Santa Fe",
+        "time": "21:30",
+        "id": "280695982273990656"
     }
 ]
