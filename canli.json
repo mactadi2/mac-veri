@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FK Haugesund - Rosenborg BK",
+        "time": "20:15",
+        "id": "280115603117838336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sint-Truiden - Westerlo",
+        "time": "20:15",
+        "id": "280108136310902784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arouca - Casa Pia",
+        "time": "20:00",
+        "id": "280116285529001984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "El Nacional Quito - Macara",
+        "time": "19:45",
+        "id": "280114309714022400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Osasuna - Rayo Vallecano",
         "time": "19:30",
         "id": "279453899454287872"
@@ -19,6 +47,27 @@
         "name": "Castellon - AD Ceuta FC",
         "time": "19:30",
         "id": "280801534304980992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nueva Chicago - Gimnasia Y Esgrima de Jujuy",
+        "time": "19:30",
+        "id": "280755386132336640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Anderlecht - Genk",
+        "time": "19:30",
+        "id": "280105614185730048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Los Andes - Almagro",
+        "time": "19:05",
+        "id": "280754626872086528"
     },
     {
         "tur": "live",
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Manchester City - Manchester United",
-        "time": "18:30",
-        "id": "279370652072415232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Borussia Monchengladbach - Werder Bremen",
-        "time": "18:30",
-        "id": "279455481869766656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "PSG - Lens",
-        "time": "18:15",
-        "id": "280071014561484800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Strasbourg - Le Havre",
-        "time": "18:15",
-        "id": "280070986921021440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brest - Paris FC",
-        "time": "18:15",
-        "id": "280070809913004032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Metz - Angers",
-        "time": "18:15",
-        "id": "280070941228273664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Sudtirol Bolzano - Palermo",
-        "time": "18:15",
-        "id": "280115526834982912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KFUM Oslo - Viking Stavanger",
-        "time": "18:00",
-        "id": "280115526714396672"
+        "name": "Silkeborg - Odense",
+        "time": "19:00",
+        "id": "280115527148507136"
     }
 ]
