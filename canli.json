@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Estrela - Vitoria Guimaraes",
+        "time": "17:30",
+        "id": "280116322060341248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "IF Elfsborg - Malmo FF",
         "time": "17:30",
         "id": "280115603432411136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "IK Sirius FK - GAIS",
+        "time": "17:30",
+        "id": "280115647985356800"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "ACD Virtus Entella - Mantova",
         "time": "16:00",
         "id": "280268361144864768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trelleborgs FF - Sandvikens IF",
-        "time": "16:00",
-        "id": "280274553279746048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Osters IF - IFK Varnamo",
-        "time": "15:00",
-        "id": "280115890461216768"
     }
 ]
