@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chicago Fire FC II - New York City FC II",
+        "time": "05:00",
+        "id": "280866057973010432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Monarchs SLC - Ventura County",
+        "time": "05:00",
+        "id": "280867698824581120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "UNAN Managua - HYH Export Sebaco FC",
+        "time": "05:00",
+        "id": "281270779723780096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportes Tolima - Boyaca Chico",
         "time": "04:30",
         "id": "280690818043482112"
@@ -19,26 +40,5 @@
         "name": "Pachuca (W) - Necaxa (W)",
         "time": "04:00",
         "id": "280866057837744128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "North Texas SC - Swope Park Rangers",
-        "time": "03:30",
-        "id": "280864099851702272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Irapuato - CD Tepatitlan de Morelos",
-        "time": "03:00",
-        "id": "280761104813133824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Montego Bay United - Tivoli Gardens",
-        "time": "03:00",
-        "id": "281315774221651968"
     }
 ]
