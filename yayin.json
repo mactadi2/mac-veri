@@ -1,100 +1,79 @@
 [
     {
         "type": "futbol",
-        "name": "Kahramanmaraş - Osmaniyespor",
-        "day": "04",
-        "time": "14:00",
-        "channel": "A Spor"
+        "name": "Rosario Central - Talleres Cordoba",
+        "day": "22",
+        "time": "01:00",
+        "channel": "Spor Smart"
     },
     {
         "type": "futbol",
-        "name": "Isparta 32 Spor - Kırşehirspor",
-        "day": "04",
-        "time": "16:00",
-        "channel": "A Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Bursaspor - Söğütspor",
-        "day": "04",
-        "time": "21:00",
-        "channel": "A Spor"
-    },
-    {
-        "type": "basketbol",
-        "name": "Fransa - İzlanda",
-        "day": "04",
-        "time": "15:00",
+        "name": "Austin FC - Seattle Sounders",
+        "day": "22",
+        "time": "02:00",
         "channel": "TRT Spor"
     },
     {
-        "type": "basketbol",
-        "name": "İsrail - Slovenya",
-        "day": "04",
-        "time": "18:00",
-        "channel": "tabii Spor"
+        "type": "futbol",
+        "name": "Santos - Sao Paulo",
+        "day": "22",
+        "time": "02:30",
+        "channel": "Spor Smart 2"
     },
     {
-        "type": "basketbol",
-        "name": "İtalya - Güney Kıbrıs",
-        "day": "04",
-        "time": "18:15",
-        "channel": "tabii Spor"
+        "type": "futbol",
+        "name": "Boca Juniors - Central Cordoba",
+        "day": "22",
+        "time": "03:15",
+        "channel": "Spor Smart"
     },
     {
-        "type": "basketbol",
-        "name": "Polonya - Belçika",
-        "day": "04",
-        "time": "21:30",
-        "channel": "tabii Spor"
-    },
-    {
-        "type": "tenis",
-        "name": "Senesi\/Pons - Fuente\/Maldonado",
-        "day": "04",
-        "time": "10:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Garcia\/Sanchez - Martin\/Fallada",
-        "day": "04",
-        "time": "12:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Alonso\/Bautista - Yanguas\/Ruiz",
-        "day": "04",
-        "time": "14:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Coello\/Tapia - Granados\/Ruiz",
-        "day": "04",
-        "time": "16:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Sanchez\/Fernandez - Martinez\/Collombon",
-        "day": "04",
-        "time": "18:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Diestro\/Esbri - Chingotto\/Galan",
-        "day": "04",
+        "type": "futbol",
+        "name": "Galatasaray - Konyaspor",
+        "day": "22",
         "time": "20:00",
+        "channel": "Bein Sports 1"
+    },
+    {
+        "type": "futbol",
+        "name": "Marsilya - PSG",
+        "day": "22",
+        "time": "21:00",
+        "channel": "Bein Sports 4"
+    },
+    {
+        "type": "futbol",
+        "name": "Burgos - Granada",
+        "day": "22",
+        "time": "21:30",
+        "channel": "S Sport"
+    },
+    {
+        "type": "futbol",
+        "name": "Napoli - Pisa",
+        "day": "22",
+        "time": "21:45",
+        "channel": "Tivibu Spor 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Sporting Lisbon - Moreirense",
+        "day": "22",
+        "time": "22:15",
+        "channel": "Tivibu Spor 3"
+    },
+    {
+        "type": "tenis",
+        "name": "C.Alcaraz - F.Cerundolo",
+        "day": "22",
+        "time": "00:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "Stupaczuk\/Lebron - Belluati\/Garrido",
-        "day": "04",
-        "time": "22:00",
+        "name": "A.Zverev - T.Fritz",
+        "day": "22",
+        "time": "02:00",
         "channel": "Bein Sports Max 1"
     }
 ]
