@@ -1,79 +1,51 @@
 [
     {
         "type": "futbol",
-        "name": "Rosario Central - Talleres Cordoba",
-        "day": "22",
-        "time": "01:00",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Austin FC - Seattle Sounders",
-        "day": "22",
-        "time": "02:00",
+        "name": "Boluspor - Ümraniyespor",
+        "day": "23",
+        "time": "17:00",
         "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Santos - Sao Paulo",
-        "day": "22",
-        "time": "02:30",
-        "channel": "Spor Smart 2"
+        "name": "Bilinmiyor - Bilinmiyor",
+        "day": "23",
+        "time": "19:30",
+        "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Boca Juniors - Central Cordoba",
-        "day": "22",
-        "time": "03:15",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Galatasaray - Konyaspor",
-        "day": "22",
+        "name": "Iğdırspor - Hatayspor",
+        "day": "23",
         "time": "20:00",
-        "channel": "Bein Sports 1"
+        "channel": "Bein Sports 3"
     },
     {
         "type": "futbol",
-        "name": "Marsilya - PSG",
-        "day": "22",
-        "time": "21:00",
-        "channel": "Bein Sports 4"
+        "name": "Çorum FK - Serik Bld.",
+        "day": "23",
+        "time": "20:00",
+        "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Burgos - Granada",
-        "day": "22",
-        "time": "21:30",
+        "name": "Athletic Bilbao - Girona",
+        "day": "23",
+        "time": "20:00",
         "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Napoli - Pisa",
-        "day": "22",
-        "time": "21:45",
-        "channel": "Tivibu Spor 2"
+        "name": "Benfica - Rio Ave",
+        "day": "23",
+        "time": "22:15",
+        "channel": "Tivibu Spor 1"
     },
     {
         "type": "futbol",
-        "name": "Sporting Lisbon - Moreirense",
-        "day": "22",
-        "time": "22:15",
-        "channel": "Tivibu Spor 3"
-    },
-    {
-        "type": "tenis",
-        "name": "C.Alcaraz - F.Cerundolo",
-        "day": "22",
-        "time": "00:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "A.Zverev - T.Fritz",
-        "day": "22",
-        "time": "02:00",
-        "channel": "Bein Sports Max 1"
+        "name": "Levante - Real Madrid",
+        "day": "23",
+        "time": "22:30",
+        "channel": "S Sport"
     }
 ]
