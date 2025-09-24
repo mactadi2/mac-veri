@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Legia Warsaw II - KS Gornik Zabrze",
+        "time": "13:30",
+        "id": "281988796965326848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Portimonense U23 - Benfica U23",
         "time": "13:00",
         "id": "281991989453524992"
@@ -61,33 +68,5 @@
         "name": "Terengganu U20 - Melaka United FC U20",
         "time": "11:45",
         "id": "282176145910272000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Inter Bangkok - Kamphaeng Phet",
-        "time": "11:30",
-        "id": "282200195747418112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Singburi Warriors - Chiangmai United FC",
-        "time": "11:30",
-        "id": "282241536281939968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ayutthaya United FC - Nonthaburi United",
-        "time": "11:30",
-        "id": "282241837879660544"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UD Vessuwan - Udon United FC",
-        "time": "11:30",
-        "id": "282241841957572608"
     }
 ]
