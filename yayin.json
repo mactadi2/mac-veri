@@ -1,163 +1,121 @@
 [
     {
         "type": "futbol",
-        "name": "Racing Club - Velez Sarsfield",
-        "day": "24",
+        "name": "Atletico Mineiro - Bolivar",
+        "day": "25",
         "time": "01:00",
         "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Fluminense - Lanus",
-        "day": "24",
+        "name": "Palmeiras - River Plate",
+        "day": "25",
         "time": "03:30",
         "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Bandırmaspor - Manisa FK",
-        "day": "24",
-        "time": "14:30",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Erzurumspor - Keçiörengücü",
-        "day": "24",
+        "name": "Sivasspor - Adana Demirspor",
+        "day": "25",
         "time": "17:00",
         "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Midtjylland - Sturm Graz",
-        "day": "24",
-        "time": "19:45",
-        "channel": "tabii Spor 1"
-    },
-    {
-        "type": "futbol",
-        "name": "PAOK - Maccabi Tel Aviv",
-        "day": "24",
+        "name": "G.A. Eagles - FCSB",
+        "day": "25",
         "time": "19:45",
         "channel": "tabii Spor"
     },
     {
         "type": "futbol",
-        "name": "Esenler Erokspor - İstanbulspor",
-        "day": "24",
-        "time": "20:00",
-        "channel": "Bein Sports Max 1"
+        "name": "Lille - Brann",
+        "day": "25",
+        "time": "19:45",
+        "channel": "tabii Spor"
     },
     {
         "type": "futbol",
-        "name": "Bodrumspor - Vanspor",
-        "day": "24",
+        "name": "Amedspor - Sarıyer",
+        "day": "25",
         "time": "20:00",
         "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Getafe - Alaves",
-        "day": "24",
+        "name": "Pendikspor - Sakaryaspor",
+        "day": "25",
         "time": "20:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "futbol",
+        "name": "Osasuna - Elche",
+        "day": "25",
+        "time": "20:30",
         "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Kayserispor - Beşiktaş",
-        "day": "24",
-        "time": "20:00",
-        "channel": "Bein Sports 1"
-    },
-    {
-        "type": "futbol",
-        "name": "AZ Alkmaar - Zwolle",
-        "day": "24",
-        "time": "21:00",
-        "channel": "Tivibu Spor 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Braga - Feyenoord",
-        "day": "24",
+        "name": "Aston Villa - Bologna",
+        "day": "25",
         "time": "22:00",
-        "channel": "tabii Spor 4"
+        "channel": "tabii Spor"
     },
     {
         "type": "futbol",
-        "name": "Kizilyildiz - Celtic",
-        "day": "24",
+        "name": "Ferencvaros - Viktoria Plzen",
+        "day": "25",
         "time": "22:00",
-        "channel": "tabii Spor 2"
+        "channel": "tabii Spor"
     },
     {
         "type": "futbol",
-        "name": "Dinamo Zagreb - Fenerbahçe",
-        "day": "24",
+        "name": "Glasgow Rangers - Genk",
+        "day": "25",
         "time": "22:00",
-        "channel": "TRT 1"
+        "channel": "tabii Spor"
     },
     {
         "type": "futbol",
-        "name": "Freiburg - Basel",
-        "day": "24",
+        "name": "Salzburg - Porto",
+        "day": "25",
         "time": "22:00",
-        "channel": "tabii Spor 5"
+        "channel": "tabii Spor"
     },
     {
         "type": "futbol",
-        "name": "Malmö - Ludogorets",
-        "day": "24",
+        "name": "Stuttgart - Celta Vigo",
+        "day": "25",
         "time": "22:00",
-        "channel": "tabii Spor 2"
+        "channel": "tabii Spor"
     },
     {
         "type": "futbol",
-        "name": "Nice - Roma",
-        "day": "24",
+        "name": "Utrecht - Lyon",
+        "day": "25",
         "time": "22:00",
-        "channel": "tabii Spor 1"
+        "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Atletico Madrid - Rayo Vallecano",
-        "day": "24",
+        "name": "Young Boys - Panathinaikos",
+        "day": "25",
+        "time": "22:00",
+        "channel": "tabii Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "Real Oviedo - Barcelona",
+        "day": "25",
         "time": "22:30",
         "channel": "S Sport"
     },
     {
-        "type": "basketbol",
-        "name": "Fenerbahçe Beko - Beşiktaş GAİN",
-        "day": "24",
-        "time": "20:30",
-        "channel": "Bein Sports 5"
-    },
-    {
         "type": "tenis",
-        "name": "Garcia\/Sanchez - Sanchez\/Fernandez",
-        "day": "24",
-        "time": "11:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Yanguas\/Ruiz - Gala\/Campagnolo",
-        "day": "24",
-        "time": "13:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Ulrich\/Segador - Martin\/Fallada",
-        "day": "24",
-        "time": "15:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Deus\/Deus - Chingotto\/Galan",
-        "day": "24",
-        "time": "18:00",
+        "name": "Zeynep Sönmez - S.Wei",
+        "day": "25",
+        "time": "06:00",
         "channel": "Bein Sports Max 1"
     }
 ]
