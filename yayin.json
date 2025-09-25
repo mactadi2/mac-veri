@@ -25,7 +25,7 @@
         "name": "G.A. Eagles - FCSB",
         "day": "25",
         "time": "19:45",
-        "channel": "tabii Spor"
+        "channel": "tabii Spor 1"
     },
     {
         "type": "futbol",
@@ -67,28 +67,28 @@
         "name": "Ferencvaros - Viktoria Plzen",
         "day": "25",
         "time": "22:00",
-        "channel": "tabii Spor"
+        "channel": "tabii Spor 5"
     },
     {
         "type": "futbol",
         "name": "Glasgow Rangers - Genk",
         "day": "25",
         "time": "22:00",
-        "channel": "tabii Spor"
+        "channel": "tabii Spor 3"
     },
     {
         "type": "futbol",
         "name": "Salzburg - Porto",
         "day": "25",
         "time": "22:00",
-        "channel": "tabii Spor"
+        "channel": "tabii Spor 1"
     },
     {
         "type": "futbol",
         "name": "Stuttgart - Celta Vigo",
         "day": "25",
         "time": "22:00",
-        "channel": "tabii Spor"
+        "channel": "tabii Spor 2"
     },
     {
         "type": "futbol",
@@ -102,7 +102,7 @@
         "name": "Young Boys - Panathinaikos",
         "day": "25",
         "time": "22:00",
-        "channel": "tabii Spor"
+        "channel": "tabii Spor 4"
     },
     {
         "type": "futbol",
@@ -116,6 +116,41 @@
         "name": "Zeynep Sönmez - S.Wei",
         "day": "25",
         "time": "06:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "J.Sinner - M.Cilic",
+        "day": "25",
+        "time": "14:00",
+        "channel": "tabii Spor 6"
+    },
+    {
+        "type": "tenis",
+        "name": "Gonzalez\/Sanz - Granados\/Ruiz",
+        "day": "25",
+        "time": "15:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Coello\/Tapia - Barahona\/Garcia",
+        "day": "25",
+        "time": "18:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Senesi\/Pons - Gomez\/Marchetti",
+        "day": "25",
+        "time": "20:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Orsi\/Goyeneche - Espana\/Sanchez",
+        "day": "25",
+        "time": "21:00",
         "channel": "Bein Sports Max 1"
     }
 ]
