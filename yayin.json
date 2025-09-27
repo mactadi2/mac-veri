@@ -1,79 +1,275 @@
 [
     {
         "type": "futbol",
-        "name": "Sao Paulo - LDU Quito",
-        "day": "26",
-        "time": "01:00",
+        "name": "Elversberg - Holstein Kiel",
+        "day": "27",
+        "time": "14:00",
+        "channel": "Tivibu Spor 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Karlsruhe - Magdeburg",
+        "day": "27",
+        "time": "14:00",
+        "channel": "Tivibu Spor 4"
+    },
+    {
+        "type": "futbol",
+        "name": "Paderborn - Kaiserslautern",
+        "day": "27",
+        "time": "14:00",
+        "channel": "Tivibu Spor 3"
+    },
+    {
+        "type": "futbol",
+        "name": "Brentford - Manchester Utd",
+        "day": "27",
+        "time": "14:30",
+        "channel": "Bein Sports 3"
+    },
+    {
+        "type": "futbol",
+        "name": "Getafe - Levante",
+        "day": "27",
+        "time": "15:00",
         "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Estudiantes - Flamengo",
-        "day": "26",
-        "time": "03:30",
+        "name": "Esenler Erokspor - Iğdırspor",
+        "day": "27",
+        "time": "16:00",
+        "channel": "TRT Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "Como - Cremonese",
+        "day": "27",
+        "time": "16:00",
+        "channel": "Tivibu Spor 1"
+    },
+    {
+        "type": "futbol",
+        "name": "Mainz - B.Dortmund",
+        "day": "27",
+        "time": "16:30",
+        "channel": "Tivibu Spor 2"
+    },
+    {
+        "type": "futbol",
+        "name": "St.Pauli - Bayer Leverkusen",
+        "day": "27",
+        "time": "16:30",
+        "channel": "Tivibu Spor 3"
+    },
+    {
+        "type": "futbol",
+        "name": "Wolfsburg - Leipzig",
+        "day": "27",
+        "time": "16:30",
+        "channel": "Tivibu Spor 4"
+    },
+    {
+        "type": "futbol",
+        "name": "Chelsea - Brighton",
+        "day": "27",
+        "time": "17:00",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Crystal Palace - Liverpool",
+        "day": "27",
+        "time": "17:00",
+        "channel": "Bein Sports 3"
+    },
+    {
+        "type": "futbol",
+        "name": "Manchester City - Burnley",
+        "day": "27",
+        "time": "17:00",
+        "channel": "Bein Sports 4"
+    },
+    {
+        "type": "futbol",
+        "name": "Eyüpspor - Göztepe",
+        "day": "27",
+        "time": "17:00",
+        "channel": "Bein Sports 1"
+    },
+    {
+        "type": "futbol",
+        "name": "Gaziantep FK - Samsunspor",
+        "day": "27",
+        "time": "17:00",
+        "channel": "Bein Sports 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Atletico Madrid - Real Madrid",
+        "day": "27",
+        "time": "17:15",
         "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Darmstadt 98 - Dynamo Dresden",
-        "day": "26",
+        "name": "Ümraniyespor - Çorum FK",
+        "day": "27",
+        "time": "19:00",
+        "channel": "TRT Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "Juventus - Atalanta",
+        "day": "27",
+        "time": "19:00",
+        "channel": "Tivibu Spor 1"
+    },
+    {
+        "type": "futbol",
+        "name": "Monchengladbach - Eintracht Frankfurt",
+        "day": "27",
         "time": "19:30",
         "channel": "Tivibu Spor 2"
     },
     {
         "type": "futbol",
-        "name": "Schalke 04 - Greuther Fürth",
-        "day": "26",
+        "name": "Nottingham Forest - Sunderland",
+        "day": "27",
         "time": "19:30",
-        "channel": "Tivibu Spor 3"
+        "channel": "Bein Sports 3"
     },
     {
         "type": "futbol",
-        "name": "Alanyaspor - Galatasaray",
-        "day": "26",
+        "name": "Mallorca - Alaves",
+        "day": "27",
+        "time": "19:30",
+        "channel": "S Sport"
+    },
+    {
+        "type": "futbol",
+        "name": "Toulouse - Nantes",
+        "day": "27",
+        "time": "20:00",
+        "channel": "Bein Sports 4"
+    },
+    {
+        "type": "futbol",
+        "name": "Fatih Karagümrük - Trabzonspor",
+        "day": "27",
         "time": "20:00",
         "channel": "Bein Sports 1"
     },
     {
         "type": "futbol",
-        "name": "Nancy - Reims",
-        "day": "26",
+        "name": "Excelsior - PSV",
+        "day": "27",
         "time": "21:00",
-        "channel": "Bein Sports 4"
+        "channel": "Tivibu Spor 4"
     },
     {
         "type": "futbol",
-        "name": "Bayern Münih - Werder Bremen",
-        "day": "26",
+        "name": "St. Etienne - Guingamp",
+        "day": "27",
+        "time": "21:00",
+        "channel": "Bein Sports 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Bochum - Fortuna Düsseldorf",
+        "day": "27",
         "time": "21:30",
+        "channel": "Tivibu Spor 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Cagliari - Inter",
+        "day": "27",
+        "time": "21:45",
         "channel": "Tivibu Spor 1"
     },
     {
         "type": "futbol",
-        "name": "Strasbourg - Marsilya",
-        "day": "26",
-        "time": "21:45",
+        "name": "Tottenham - Wolverhampton",
+        "day": "27",
+        "time": "22:00",
         "channel": "Bein Sports 3"
     },
     {
         "type": "futbol",
-        "name": "Girona - Espanyol",
-        "day": "26",
+        "name": "Villarreal - Athletic Bilbao",
+        "day": "27",
         "time": "22:00",
         "channel": "S Sport"
     },
     {
         "type": "futbol",
-        "name": "Benfica - Gil Vicente",
-        "day": "26",
-        "time": "22:15",
-        "channel": "Tivibu Spor 2"
+        "name": "PSG - Auxerre",
+        "day": "27",
+        "time": "22:05",
+        "channel": "Bein Sports 4"
+    },
+    {
+        "type": "futbol",
+        "name": "Estoril - Sporting Lisbon",
+        "day": "27",
+        "time": "22:30",
+        "channel": "Tivibu Spor 3"
     },
     {
         "type": "basketbol",
-        "name": "Anadolu Efes - Esenler Erokspor",
-        "day": "26",
-        "time": "19:00",
+        "name": "Bahçeşehir Klj - Galatasaray MCT Technic",
+        "day": "27",
+        "time": "15:30",
         "channel": "Bein Sports 5"
+    },
+    {
+        "type": "basketbol",
+        "name": "Beşiktaş GAİN - Türk Telekom",
+        "day": "27",
+        "time": "18:00",
+        "channel": "Bein Sports 5"
+    },
+    {
+        "type": "basketbol",
+        "name": "Unicaja Malaga - Valencia Basket",
+        "day": "27",
+        "time": "19:00",
+        "channel": "Spor Smart 2"
+    },
+    {
+        "type": "basketbol",
+        "name": "Tofaş - Fenerbahçe Beko",
+        "day": "27",
+        "time": "20:30",
+        "channel": "Bein Sports 5"
+    },
+    {
+        "type": "basketbol",
+        "name": "Real Madrid - Iberostar Tenerife",
+        "day": "27",
+        "time": "22:00",
+        "channel": "Spor Smart 2"
+    },
+    {
+        "type": "tenis",
+        "name": "C.Tauson - Zeynep Sönmez",
+        "day": "27",
+        "time": "07:30",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "J.Sinner - T.Atmane",
+        "day": "27",
+        "time": "10:00",
+        "channel": "tabii Spor 6"
+    },
+    {
+        "type": "tenis",
+        "name": "A.Cazaux - J.Mensik",
+        "day": "27",
+        "time": "15:30",
+        "channel": "tabii Spor 6"
     }
 ]
