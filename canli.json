@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Barcelona - Real Sociedad",
+        "time": "19:30",
+        "id": "281994920025264128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Valladolid - Cultural Leonesa",
+        "time": "19:30",
+        "id": "282000398872612864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sporting Gijon - Albacete Balompie",
+        "time": "19:30",
+        "id": "282000837725786112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charleroi - KV Mechelen",
+        "time": "19:30",
+        "id": "281729437992620032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hatayspor - Bandirmaspor",
+        "time": "19:00",
+        "id": "282166269131755520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Serik Belediyespor - Erzurumspor FK",
+        "time": "19:00",
+        "id": "282166269001732096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lecce - Bologna",
+        "time": "19:00",
+        "id": "281365487738294272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nordsjaelland - Aarhus",
+        "time": "19:00",
+        "id": "282082997564477440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Newcastle - Arsenal",
         "time": "18:30",
         "id": "281274217061814272"
@@ -44,64 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Telstar - Go Ahead Eagles",
-        "time": "17:45",
-        "id": "281341008936046592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alverca - Vitoria Guimaraes",
-        "time": "17:30",
-        "id": "281921548176199680"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malmo FF - IFK Varnamo",
-        "time": "17:30",
-        "id": "281721296436465664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Elche - Celta Vigo",
-        "time": "17:15",
-        "id": "281994930425040896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cadiz - AD Ceuta FC",
-        "time": "17:15",
-        "id": "282000856108371968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Burgos CF - Malaga CF",
-        "time": "17:15",
-        "id": "281995401391902720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rizespor - Kasımpaşa",
-        "time": "17:00",
-        "id": "281991857954754560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Konyaspor - İstanbul Başakşehir FK",
-        "time": "17:00",
-        "id": "281990987479388160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gremio Porto Alegrense RS - EC Vitoria",
-        "time": "17:00",
-        "id": "281364170678603776"
+        "name": "Tromso IL - Stromsgodset IF",
+        "time": "18:00",
+        "id": "281994589261402112"
     }
 ]
