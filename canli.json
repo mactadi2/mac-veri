@@ -2,6 +2,83 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Brondby - Odense",
+        "time": "21:00",
+        "id": "281998946438615040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "La Serena - Universidad de Chile",
+        "time": "21:00",
+        "id": "280805711208910848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chicago Fire FC II - Atlanta United II",
+        "time": "21:00",
+        "id": "282166270504341504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Union Berlin - Hamburger SV",
+        "time": "20:30",
+        "id": "281369659873300480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Empoli - Carrarese",
+        "time": "20:30",
+        "id": "282004258118832128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Molde FK - Valerenga IF Oslo",
+        "time": "20:15",
+        "id": "282003065386700800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Dender - Raal La Louviere",
+        "time": "20:15",
+        "id": "281731470959185920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fenerbahce - Antalyaspor",
+        "time": "20:00",
+        "id": "282002483085185024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kayserispor - Genclerbirligi",
+        "time": "20:00",
+        "id": "282002075711311872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Braga - Nacional Madeira",
+        "time": "20:00",
+        "id": "281921548318806016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Swope Park Rangers - Ventura County",
+        "time": "20:00",
+        "id": "282166270390046720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Barcelona - Real Sociedad",
         "time": "19:30",
         "id": "281994920025264128"
@@ -26,82 +103,5 @@
         "name": "Charleroi - KV Mechelen",
         "time": "19:30",
         "id": "281729437992620032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hatayspor - Bandirmaspor",
-        "time": "19:00",
-        "id": "282166269131755520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Serik Belediyespor - Erzurumspor FK",
-        "time": "19:00",
-        "id": "282166269001732096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lecce - Bologna",
-        "time": "19:00",
-        "id": "281365487738294272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nordsjaelland - Aarhus",
-        "time": "19:00",
-        "id": "282082997564477440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Newcastle - Arsenal",
-        "time": "18:30",
-        "id": "281274217061814272"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "1. FC Köln - VfB Stuttgart",
-        "time": "18:30",
-        "id": "281369659742228480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lille - Lyon",
-        "time": "18:15",
-        "id": "281352473887772672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Angers - Brest",
-        "time": "18:15",
-        "id": "281352473764040704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Metz - Le Havre",
-        "time": "18:15",
-        "id": "281352607912562688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Modena - Pescara",
-        "time": "18:15",
-        "id": "281995722481602560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tromso IL - Stromsgodset IF",
-        "time": "18:00",
-        "id": "281994589261402112"
     }
 ]
