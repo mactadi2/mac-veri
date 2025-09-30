@@ -1,156 +1,177 @@
 [
     {
         "type": "futbol",
-        "name": "Hiroshima - Shanghai Port",
-        "day": "30",
+        "name": "Atletico Mineiro - Juventude",
+        "day": "01",
+        "time": "03:30",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Vissel Kobe - Melbourne City",
+        "day": "01",
         "time": "13:00",
         "channel": "Spor Smart"
     },
     {
         "type": "futbol",
-        "name": "FC Seoul - Buriram",
-        "day": "30",
+        "name": "Lion City - Selangor",
+        "day": "01",
         "time": "13:00",
         "channel": "Spor Smart 2"
     },
     {
         "type": "futbol",
-        "name": "Galatasaray - Liverpool",
-        "day": "30",
-        "time": "15:00",
+        "name": "Shanghai Shenhua - Ulsan Hyundai",
+        "day": "01",
+        "time": "15:15",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Bangkok Utd - Persib Bandung",
+        "day": "01",
+        "time": "15:15",
+        "channel": "Spor Smart 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Esteghlal FC - Al Muharraq",
+        "day": "01",
+        "time": "19:00",
+        "channel": "Spor Smart 2"
+    },
+    {
+        "type": "futbol",
+        "name": "Al Wehdat - Al Wasl",
+        "day": "01",
+        "time": "19:00",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Karabağ - Kopenhag",
+        "day": "01",
+        "time": "19:45",
+        "channel": "tabii Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "St.Gilloise - Newcastle",
+        "day": "01",
+        "time": "19:45",
         "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Johor Darul - Machida",
-        "day": "30",
-        "time": "15:15",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Chengdu Rongcheng - Gangwon",
-        "day": "30",
-        "time": "15:15",
+        "name": "Al Khalidiyah - Arkadag",
+        "day": "01",
+        "time": "21:15",
         "channel": "Spor Smart 2"
     },
     {
         "type": "futbol",
-        "name": "Al Sadd - Al Sharjah",
-        "day": "30",
-        "time": "19:00",
+        "name": "Al Zawraa - Al Nassr",
+        "day": "01",
+        "time": "21:15",
         "channel": "Spor Smart"
     },
     {
         "type": "futbol",
-        "name": "Sepahan FC - ATK Mohun Bagan",
-        "day": "30",
-        "time": "19:00",
-        "channel": "Spor Smart 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Atalanta - Club Brugge",
-        "day": "30",
-        "time": "19:45",
-        "channel": "tabii Spor 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Kairat Almaty - Real Madrid",
-        "day": "30",
-        "time": "19:45",
-        "channel": "tabii Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Atletico Madrid - Eintracht Frankfurt",
-        "day": "30",
-        "time": "22:00",
-        "channel": "tabii Spor 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Bodo Glimt - Tottenham",
-        "day": "30",
-        "time": "22:00",
-        "channel": "tabii Spor 4"
-    },
-    {
-        "type": "futbol",
-        "name": "Chelsea - Benfica",
-        "day": "30",
-        "time": "22:00",
-        "channel": "tabii Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Galatasaray - Liverpool",
-        "day": "30",
-        "time": "22:00",
-        "channel": "TRT 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Inter - Slavia Prag",
-        "day": "30",
+        "name": "Arsenal - Olympiakos",
+        "day": "01",
         "time": "22:00",
         "channel": "tabii Spor 2"
     },
     {
         "type": "futbol",
-        "name": "Marsilya - Ajax",
-        "day": "30",
+        "name": "Barcelona - PSG",
+        "day": "01",
+        "time": "22:00",
+        "channel": "tabii Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "B.Dortmund - Athletic Bilbao",
+        "day": "01",
+        "time": "22:00",
+        "channel": "tabii Spor 3"
+    },
+    {
+        "type": "futbol",
+        "name": "Bayer Leverkusen - PSV",
+        "day": "01",
+        "time": "22:00",
+        "channel": "tabii Spor 4"
+    },
+    {
+        "type": "futbol",
+        "name": "Monaco - Manchester City",
+        "day": "01",
+        "time": "22:00",
+        "channel": "tabii Spor 1"
+    },
+    {
+        "type": "futbol",
+        "name": "Napoli - Sporting Lisbon",
+        "day": "01",
         "time": "22:00",
         "channel": "tabii Spor 5"
     },
     {
         "type": "futbol",
-        "name": "Pafos - Bayern Münih",
-        "day": "30",
+        "name": "Villarreal - Juventus",
+        "day": "01",
         "time": "22:00",
-        "channel": "tabii Spor 3"
+        "channel": "TRT 1"
     },
     {
         "type": "basketbol",
-        "name": "Anadolu Efes - Maccabi Fox",
-        "day": "30",
+        "name": "BC Lietkabelis - Beşiktaş GAİN",
+        "day": "01",
+        "time": "19:00",
+        "channel": "tabii Spor"
+    },
+    {
+        "type": "basketbol",
+        "name": "Monaco - Zalgiris Kaunas",
+        "day": "01",
+        "time": "20:30",
+        "channel": "S Sport 2"
+    },
+    {
+        "type": "basketbol",
+        "name": "Fenerbahçe Beko - Paris",
+        "day": "01",
         "time": "20:45",
         "channel": "S Sport"
     },
     {
-        "type": "basketbol",
-        "name": "Panathinaikos - Bayern Münih",
-        "day": "30",
-        "time": "21:15",
-        "channel": "S Sport 2"
-    },
-    {
         "type": "tenis",
-        "name": "B.Bencic - C.Gauff",
-        "day": "30",
-        "time": "06:00",
+        "name": "A.Potapova - L.Noskova",
+        "day": "01",
+        "time": "09:30",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "E.Lys - M.Kessler",
-        "day": "30",
-        "time": "08:30",
+        "name": "M.Andreeva - S.Kartal",
+        "day": "01",
+        "time": "11:30",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "K.Muchova - A.Anisimova",
-        "day": "30",
+        "name": "I.Swiatek - E.Navarro",
+        "day": "01",
         "time": "14:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "J.Paolini - M.Bouzkova",
-        "day": "30",
-        "time": "15:30",
+        "name": "M.Kostyuk - J.Pegula",
+        "day": "01",
+        "time": "16:00",
         "channel": "Bein Sports Max 1"
     }
 ]
