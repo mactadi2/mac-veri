@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Alianza Atletico - Universitario de Deportes",
+        "time": "02:00",
+        "id": "282273267005394944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GV Club Deportivo San Jose de Oruro - Jorge Wilstermann",
+        "time": "02:00",
+        "id": "282870087641501696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Universidad Central de Venezuela - Carabobo FC",
+        "time": "02:00",
+        "id": "282870394448547840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guadalupe FC - Sporting San Jose",
+        "time": "02:00",
+        "id": "282794849438306304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SC Internacional RS - Corinthians Paulista",
         "time": "01:30",
         "id": "282006153714601984"
@@ -75,33 +103,5 @@
         "name": "Avai - Marcilio Dias",
         "time": "01:00",
         "id": "282800208762671104"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Caravaggio SC U20 - Brusque U20",
-        "time": "01:00",
-        "id": "282801036824186880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nueva Santa Rosa - AFF Guatemala",
-        "time": "00:00",
-        "id": "282831954195550208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo San Pedro - Quiche FC",
-        "time": "00:00",
-        "id": "282832202347352064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chimaltenango FC - Deportivo Carcha",
-        "time": "00:00",
-        "id": "282923545252892672"
     }
 ]
