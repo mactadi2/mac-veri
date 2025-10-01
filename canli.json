@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Barcelona - PSG",
+        "time": "22:00",
+        "id": "281738357546029056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Monaco - Manchester City",
+        "time": "22:00",
+        "id": "281738308058484736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arsenal - Olympiakos",
+        "time": "22:00",
+        "id": "281738129209167872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bayer Leverkusen - PSV",
+        "time": "22:00",
+        "id": "281738307908538368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Borussia Dortmund - Athletic Bilbao",
+        "time": "22:00",
+        "id": "281662401187811328"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Villarreal - Juventus",
+        "time": "22:00",
+        "id": "281738308355231744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Napoli - Sporting CP",
+        "time": "22:00",
+        "id": "281738185147551744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Queens Park Rangers - Oxford United",
+        "time": "22:00",
+        "id": "282243095346679808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Norwich City - West Bromwich",
         "time": "21:45",
         "id": "282242924079616000"
@@ -19,20 +75,6 @@
         "name": "Portsmouth - Watford",
         "time": "21:45",
         "id": "282242924210688000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rochdale - Halifax",
-        "time": "21:45",
-        "id": "282461920695554048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boston United FC - Forest Green",
-        "time": "21:45",
-        "id": "282462561458327552"
     },
     {
         "tur": "live",
@@ -61,47 +103,5 @@
         "name": "Sampdoria - Catanzaro",
         "time": "21:30",
         "id": "282280695716515840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "El Paso Locomotive FC - Oakland Roots SC",
-        "time": "21:00",
-        "id": "282580399652212736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kaizer Chiefs - Amazulu FC",
-        "time": "20:30",
-        "id": "282479015876497408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EBK - HooGee",
-        "time": "20:20",
-        "id": "282787354000003072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KFUM Oslo - Fredrikstad FK",
-        "time": "20:00",
-        "id": "282274679997206528"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vikingur Gota U19 - JK Trans Narva U19",
-        "time": "20:00",
-        "id": "282790013605023744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lincoln Red Imps U19 - Naxxar Lions U19",
-        "time": "20:00",
-        "id": "282890953666367488"
     }
 ]
