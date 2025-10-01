@@ -2,23 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Istiklol - FC Goa",
+        "time": "16:45",
+        "id": "282635391136305152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Andijan - Al-Ahli Doha",
+        "time": "16:45",
+        "id": "282724602573262848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Defensores De Belgrano - Talleres Remedios Reserves",
+        "time": "16:30",
+        "id": "282832379525238784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Unicov - SK Sigma Olomouc 2",
+        "time": "16:30",
+        "id": "282716697873649664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Trinec - Hradec Kralove",
+        "time": "16:30",
+        "id": "282634345017118720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Rimavska Sobota - Lokomotiva Zvolen",
+        "time": "16:30",
+        "id": "282724473622532096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Liniers Reserves - Real Pilar Reserves",
         "time": "16:00",
         "id": "282893538990264320"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tatran Vsechovice - Fc Tvd Slavicin",
-        "time": "16:00",
-        "id": "282724345924849664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Black Bulls Maputo - Baia Pemba",
-        "time": "15:45",
-        "id": "282883716649619456"
     },
     {
         "tur": "live",
@@ -40,20 +68,6 @@
         "name": "Johor Darul Takzim III FC U20 - Negeri Sembilan U20",
         "time": "15:30",
         "id": "282871013964025856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pioneers FC - Bani Ebaid",
-        "time": "15:30",
-        "id": "282873765317349376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al Olympi - El Hammam",
-        "time": "15:30",
-        "id": "282850414728351744"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Napoli U19 - Sporting Lisbon U19",
         "time": "15:00",
         "id": "282628724124422144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Dinamo Zagreb U19 - Nk Rudes U19",
-        "time": "15:00",
-        "id": "282874140745306112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lion City Sailors FC - Selangor FC",
-        "time": "13:00",
-        "id": "282621268448120832"
     }
 ]
