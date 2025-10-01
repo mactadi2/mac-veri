@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Cincinnati II - New York Red Bulls Ii",
+        "time": "02:30",
+        "id": "282618537711898624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Plaza Colonia - Albion FC",
+        "time": "02:30",
+        "id": "282062462484877312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Alianza Atletico - Universitario de Deportes",
         "time": "02:00",
         "id": "282273267005394944"
@@ -40,13 +54,6 @@
         "name": "One Knoxville SC - Chattanooga Fc",
         "time": "01:30",
         "id": "282514475553263616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Carlos Renaux - Joinville EC",
-        "time": "01:30",
-        "id": "282801125938466816"
     },
     {
         "tur": "live",
@@ -96,12 +103,5 @@
         "name": "Barra FC - Figueirense FC",
         "time": "01:00",
         "id": "282800270323519488"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avai - Marcilio Dias",
-        "time": "01:00",
-        "id": "282800208762671104"
     }
 ]
