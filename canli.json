@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Southern District U22 - Kowloon City  U22",
+        "time": "13:30",
+        "id": "282794879025975296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Villarreal CF U19 - Juventus U19",
         "time": "13:00",
         "id": "282621269624623104"
@@ -61,26 +68,5 @@
         "name": "PDRM U20 - Terengganu U20",
         "time": "11:45",
         "id": "282871013861265408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Oddar Meanchey Province - Siem Reap",
-        "time": "11:30",
-        "id": "282874471631851520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kampong Speu Province - Preah Vihear Province",
-        "time": "11:30",
-        "id": "282878417760980992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ha Noi (W) - GT Thai Nguyen (W)",
-        "time": "10:30",
-        "id": "282703764533841920"
     }
 ]
