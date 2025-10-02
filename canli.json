@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Lugano Reserves - Defensores de Cambaceres Reserves",
+        "time": "17:00",
+        "id": "282922601042710528"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Espanol Reserves - Argentino de Rosario Reserves",
+        "time": "17:00",
+        "id": "282987783996608512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ns Mura U19 - Olimpija Ljubljana U19",
+        "time": "17:00",
+        "id": "282870886426775552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Mesaimeer SC U19 - Al Gharafa U19",
+        "time": "16:35",
+        "id": "282985470198321152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Wakrah U19 - Al Khor SC U19",
+        "time": "16:35",
+        "id": "282985470102900736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aalesunds Fk U19 - Stabaek U19",
+        "time": "16:30",
+        "id": "282985290106441728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA San Miguel Reserves - Defensores Unidos Reserves",
         "time": "16:00",
         "id": "282908919973842944"
@@ -30,23 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fc Dordoi Bişkek - Muras United FC",
+        "time": "16:00",
+        "id": "282844796385792000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Sportivo Barracas Reserves - JJ Urquiza Reserves",
         "time": "15:30",
         "id": "282908922451628032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "El Qanah FC - Tanta",
-        "time": "15:30",
-        "id": "282604484107046912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aswan FC - Raya SC Ghazl Kafr El-Dawar",
-        "time": "15:30",
-        "id": "282895669313966080"
     },
     {
         "tur": "live",
@@ -58,9 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Proxy SC - El Terasanah",
+        "name": "Aswan FC - Raya SC Ghazl Kafr El-Dawar",
         "time": "15:30",
-        "id": "282866716491681792"
+        "id": "282895669313966080"
     },
     {
         "tur": "live",
@@ -68,40 +103,5 @@
         "name": "El Dakhleya - Asyut Cement Petroleum",
         "time": "15:30",
         "id": "282604599412658176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blue Eagles - Silver Strikers",
-        "time": "15:30",
-        "id": "282870992999845888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ratchaburi FC - Gamba Osaka",
-        "time": "15:15",
-        "id": "282747655689637888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cong Anh Ha Noi - Wofoo Tai Po",
-        "time": "15:15",
-        "id": "282747655565905920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Johor Darul Takzim FC - Damansara United",
-        "time": "15:15",
-        "id": "282844023377661952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Fenix Pilar Reserves - Flandria Reserves",
-        "time": "15:00",
-        "id": "282908920621862912"
     }
 ]
