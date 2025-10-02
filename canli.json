@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fortaleza CE - Sao Paulo FC",
+        "time": "01:30",
+        "id": "282014371615477760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EC Vitoria - Ceara SC CE",
+        "time": "01:00",
+        "id": "282006538499002368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paysandu - Cuiaba MT",
+        "time": "01:00",
+        "id": "282604426636693504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Cordoba Reserves - Union Santa Fe Reserves",
+        "time": "01:00",
+        "id": "282889836284907520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Aurora - Blooming",
+        "time": "01:00",
+        "id": "282870085928128512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Trinidense - Nacional Asuncion",
+        "time": "01:00",
+        "id": "282655291233931264"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chorrillo - Alianza Panama Reserves",
+        "time": "01:00",
+        "id": "282957767207325696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Racing Club - CA River Plate",
         "time": "00:00",
         "id": "282017844655427584"
@@ -19,26 +68,5 @@
         "name": "Veraguas United (W) - Deportivo Chiriqui (W)",
         "time": "00:00",
         "id": "282929513502117888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Santos FC (W) - RB Bragantino (W)",
-        "time": "23:00",
-        "id": "282830079653089280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "USA U20 - Fransa U20",
-        "time": "23:00",
-        "id": "282830079534600192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colombia U20 - Norveç U20",
-        "time": "23:00",
-        "id": "282424706091585536"
     }
 ]
