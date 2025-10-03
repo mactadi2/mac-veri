@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Maribor U19 - NK Brinje Grosuplje U19",
+        "time": "16:30",
+        "id": "282972730426691584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cardiff U21 - Bristol City U21",
         "time": "16:00",
         "id": "282759481737383936"
@@ -58,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kolos Kovalivka - FC Rukh Lviv",
+        "time": "15:30",
+        "id": "282486015350935552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Karvina U19 - Zbrojovka Brno U19",
         "time": "15:30",
         "id": "282807595140681728"
@@ -89,19 +103,5 @@
         "name": "West Bromwich U21 - Leeds United U21",
         "time": "15:00",
         "id": "282655259020627968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Banik Ostrava U19 - Slavia Prague",
-        "time": "14:30",
-        "id": "282816848206270464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alashkert - FC Shirak",
-        "time": "14:30",
-        "id": "282978551983280128"
     }
 ]
