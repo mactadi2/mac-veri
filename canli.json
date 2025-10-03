@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Comerciantes Unidos - Utc de Cajamarca",
+        "time": "23:00",
+        "id": "282194668353097728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Casa Pia - Estoril",
         "time": "22:15",
         "id": "282463953623322624"
@@ -30,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Chaco For Ever Reserves - C.U.N.E.",
+        "time": "22:00",
+        "id": "283096517882187776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Verona - Sassuolo",
         "time": "21:45",
         "id": "281994944976130048"
@@ -40,6 +54,27 @@
         "name": "Paris FC - Lorient",
         "time": "21:45",
         "id": "282013501441052672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gent - Charleroi",
+        "time": "21:45",
+        "id": "282190244833529856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Athlone Town FC - Dundalk FC",
+        "time": "21:45",
+        "id": "282463267727740928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cobh Ramblers - Bray Wanderers AFC",
+        "time": "21:45",
+        "id": "282463268821405696"
     },
     {
         "tur": "live",
@@ -58,50 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "NAC Breda - Groningen",
-        "time": "21:00",
-        "id": "281993073975758848"
+        "name": "Deportivo Lujan - El Porvenir",
+        "time": "21:30",
+        "id": "282875077803151360"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Le Mans FC - ES Troyes AC",
-        "time": "21:00",
-        "id": "282459482821365760"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pau FC - Clermont",
-        "time": "21:00",
-        "id": "282458950273732608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EA Guingamp - AS Nancy Lorraine",
-        "time": "21:00",
-        "id": "282458853383213056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Bastia - Dunkerque",
-        "time": "21:00",
-        "id": "282459336995901440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Amiens - Boulogne",
-        "time": "21:00",
-        "id": "282459089037037568"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Annecy FC - Stade Laval",
-        "time": "21:00",
-        "id": "282459121749463040"
+        "name": "Pogon Szczecin - Piast Gliwice",
+        "time": "21:30",
+        "id": "282422953239515136"
     }
 ]
