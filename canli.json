@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cerro Porteno - Deportivo Recoleta",
+        "time": "02:00",
+        "id": "282761266328801280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Argentino Merlo - CA Fenix",
+        "time": "02:00",
+        "id": "282738672734081024"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South Georgia Tormenta FC - Westchester SC",
+        "time": "02:00",
+        "id": "282658897113780224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charlotte Independence - Spokane Velocity FC",
+        "time": "02:00",
+        "id": "282659559590465536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Queretaro (W) - Necaxa (W)",
+        "time": "02:00",
+        "id": "282650676133236736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Tapatio - Alebrijes Oaxaca",
+        "time": "02:00",
+        "id": "282478007250194432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sao Paulo (W) - San Lorenzo (W)",
+        "time": "02:00",
+        "id": "283056716752654336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Rentistas - Centro Atletico Fenix Montevideo",
+        "time": "01:45",
+        "id": "282871335862177792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportes Concepcion - Magallanes",
         "time": "01:30",
         "id": "282295547590742016"
@@ -37,41 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CD Imperial Unido - Chimbarongo FC",
-        "time": "01:00",
-        "id": "283067551039393792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Oceania FC - Formacion Metropolitana FC",
-        "time": "01:00",
-        "id": "282968581457874944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chivas Alamos FC - Atletico Mexicano FE",
-        "time": "01:00",
-        "id": "283067911362613248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arietes FC - Azucareros de Tezonapa",
-        "time": "01:00",
-        "id": "282972301167988736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CS Atletico Tulancingo - Tehuacan de la Franja",
-        "time": "01:00",
-        "id": "283064035746025472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Club Mercedes - Deportivo Paraguayo",
         "time": "00:30",
         "id": "282824949976305664"
@@ -82,26 +103,5 @@
         "name": "Universitario De Vinto - CDT Real Oruro",
         "time": "00:30",
         "id": "282870087812419584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Dynamo Puerto Fc - Angostura FC",
-        "time": "00:00",
-        "id": "283082391755722752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lechuzas UPGCH - Felinos 48",
-        "time": "00:00",
-        "id": "283064075663216640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Corsarios de Campeche - Deportivo Buhos",
-        "time": "00:00",
-        "id": "283090701930237952"
     }
 ]
