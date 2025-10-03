@@ -2,9 +2,30 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sportivo Luqueno - 2 de Mayo",
+        "time": "23:30",
+        "id": "282645552796143616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Leones Del Norte - Indepiendente Juniors",
+        "time": "23:30",
+        "id": "282660992495783936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Comerciantes Unidos - Utc de Cajamarca",
         "time": "23:00",
         "id": "282194668353097728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Botafogo SP U20 - Palmeiras U20",
+        "time": "23:00",
+        "id": "282824948462161920"
     },
     {
         "tur": "live",
@@ -44,6 +65,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Academia de Balompie Boliviano - Nacional Potosi",
+        "time": "22:00",
+        "id": "282916216803463168"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico River Plate - Liverpool FC Montevideo",
+        "time": "22:00",
+        "id": "282461060755230720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Verona - Sassuolo",
         "time": "21:45",
         "id": "281994944976130048"
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Athlone Town FC - Dundalk FC",
-        "time": "21:45",
-        "id": "282463267727740928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Cobh Ramblers - Bray Wanderers AFC",
         "time": "21:45",
         "id": "282463268821405696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hoffenheim - 1. FC Köln",
-        "time": "21:30",
-        "id": "281994945483640832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AD Ceuta FC - Eibar",
-        "time": "21:30",
-        "id": "282460863490822144"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Lujan - El Porvenir",
-        "time": "21:30",
-        "id": "282875077803151360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pogon Szczecin - Piast Gliwice",
-        "time": "21:30",
-        "id": "282422953239515136"
     }
 ]
