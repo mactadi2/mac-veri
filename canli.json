@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Lahti - Sjk Akatemia",
+        "time": "18:30",
+        "id": "282625636534718464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pk-35 - EIF Ekenas",
+        "time": "18:30",
+        "id": "282531354648907776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Minsk - Dinamo Brest",
+        "time": "18:30",
+        "id": "282780233798815744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Usti nad Labem - FC Zbrojovka Brno",
+        "time": "18:30",
+        "id": "282630639284523008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Zira - PFC Neftchi Baku",
+        "time": "18:30",
+        "id": "282954104633069568"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FF Jaro - FC Haka Valkeakoski",
         "time": "18:00",
         "id": "282447834198970368"
@@ -26,13 +61,6 @@
         "name": "Al-Wakra - Al Mesaimeer SC",
         "time": "18:00",
         "id": "282901570324303872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Al-Shamal - Al Bidda SC",
-        "time": "18:00",
-        "id": "282901569962545152"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "Bihor Oradea - FC Voluntari",
         "time": "17:00",
         "id": "282446142164307968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Maribor U19 - NK Brinje Grosuplje U19",
-        "time": "16:30",
-        "id": "282972730426691584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "NK Bravo U19 - NK Brezice U19",
-        "time": "16:30",
-        "id": "282973163025108992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Radomlje U19 - Jadran Dekani U19",
-        "time": "16:30",
-        "id": "282973357949095936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kolos Kovalivka - FC Rukh Lviv",
-        "time": "15:30",
-        "id": "282486015350935552"
     }
 ]
