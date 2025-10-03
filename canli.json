@@ -2,6 +2,76 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FF Jaro - FC Haka Valkeakoski",
+        "time": "18:00",
+        "id": "282447834198970368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Riga FC - FK Liepaja",
+        "time": "18:00",
+        "id": "282629098144141312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al-Wakra - Al Mesaimeer SC",
+        "time": "18:00",
+        "id": "282901570324303872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al-Shamal - Al Bidda SC",
+        "time": "18:00",
+        "id": "282901569962545152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Septemvri Sofia - PFC Lokomotiv Plovdiv 1936",
+        "time": "17:30",
+        "id": "282067206683103232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Genoa U20 - Bologna U20",
+        "time": "17:30",
+        "id": "282655251297865728"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Olmaliq OKMK - FK Kokand 1912",
+        "time": "17:15",
+        "id": "282655261406138368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Plaza Amador Reserves - San Martin Fc",
+        "time": "17:00",
+        "id": "282987375006879744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Smouha - Ismaily SC",
+        "time": "17:00",
+        "id": "282655251814813696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bihor Oradea - FC Voluntari",
+        "time": "17:00",
+        "id": "282446142164307968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Maribor U19 - NK Brinje Grosuplje U19",
         "time": "16:30",
         "id": "282972730426691584"
@@ -9,9 +79,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cardiff U21 - Bristol City U21",
-        "time": "16:00",
-        "id": "282759481737383936"
+        "name": "NK Bravo U19 - NK Brezice U19",
+        "time": "16:30",
+        "id": "282973163025108992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Radomlje U19 - Jadran Dekani U19",
+        "time": "16:30",
+        "id": "282973357949095936"
     },
     {
         "tur": "live",
@@ -23,85 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Irtys Pavlodar - Khan Tengri FC",
-        "time": "16:00",
-        "id": "282802604169531392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trabzonspor U19 - Kayserispor Under 19",
-        "time": "16:00",
-        "id": "282969988778987520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Antalyaspor U19 - Caykur Rizespor U19",
-        "time": "16:00",
-        "id": "282969815087616000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Terengganu - Kelantan The Real Warriors FC",
-        "time": "16:00",
-        "id": "282947969585811456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Araz Nakhchivan PFK - Mil-Mugan Imisli         FK",
-        "time": "16:00",
-        "id": "282954104767287296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Celje U19 - NK Fuzinar U19",
-        "time": "16:00",
-        "id": "282972396161634304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kolos Kovalivka - FC Rukh Lviv",
         "time": "15:30",
         "id": "282486015350935552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Karvina U19 - Zbrojovka Brno U19",
-        "time": "15:30",
-        "id": "282807595140681728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sassuolo U20 - Cremonese U20",
-        "time": "15:30",
-        "id": "282655251172036608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Telecom Egypt - Baladiyet El Mahallah",
-        "time": "15:30",
-        "id": "282905495879323648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Xorazm Urganch - Navbahor",
-        "time": "15:00",
-        "id": "282759535542964224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "West Bromwich U21 - Leeds United U21",
-        "time": "15:00",
-        "id": "282655259020627968"
     }
 ]
