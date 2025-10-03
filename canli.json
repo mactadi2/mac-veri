@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Casa Pia - Estoril",
+        "time": "22:15",
+        "id": "282463953623322624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bournemouth - Fulham",
+        "time": "22:00",
+        "id": "281886709264814080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Osasuna - Getafe",
+        "time": "22:00",
+        "id": "282375414483128320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Wrexham - Birmingham City",
+        "time": "22:00",
+        "id": "282537006780780544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Verona - Sassuolo",
+        "time": "21:45",
+        "id": "281994944976130048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Paris FC - Lorient",
         "time": "21:45",
         "id": "282013501441052672"
@@ -68,40 +103,5 @@
         "name": "Annecy FC - Stade Laval",
         "time": "21:00",
         "id": "282459121749463040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cambuur Leeuwarden - FC Emmen",
-        "time": "21:00",
-        "id": "282459122479271936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trabzonspor - Kayserispor",
-        "time": "20:00",
-        "id": "282455278676480000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Antalyaspor - Rizespor",
-        "time": "20:00",
-        "id": "282455934660382720"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Boluspor - Esenler Erokspor",
-        "time": "20:00",
-        "id": "282621870429310976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Corum Belediyespor - Manisa Futbol Kulubu",
-        "time": "20:00",
-        "id": "282621869921800192"
     }
 ]
