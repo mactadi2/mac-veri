@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportes Concepcion - Magallanes",
+        "time": "01:30",
+        "id": "282295547590742016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tigre - Defensa y Justicia",
         "time": "01:00",
         "id": "282458760872595456"
@@ -51,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Arietes FC - Azucareros de Tezonapa",
+        "time": "01:00",
+        "id": "282972301167988736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CS Atletico Tulancingo - Tehuacan de la Franja",
         "time": "01:00",
         "id": "283064035746025472"
@@ -89,19 +103,5 @@
         "name": "Corsarios de Campeche - Deportivo Buhos",
         "time": "00:00",
         "id": "283090701930237952"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sportivo Luqueno - 2 de Mayo",
-        "time": "23:30",
-        "id": "282645552796143616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leones Del Norte - Indepiendente Juniors",
-        "time": "23:30",
-        "id": "282660992495783936"
     }
 ]
