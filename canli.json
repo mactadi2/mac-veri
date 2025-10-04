@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Auxerre - Lens",
+        "time": "22:05",
+        "id": "282013640317603840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Madrid - Villarreal",
+        "time": "22:00",
+        "id": "282375541821149184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Granada CF - Real Sociedad B",
+        "time": "22:00",
+        "id": "282553370627149824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atalanta - Calcio Como",
+        "time": "21:45",
+        "id": "281995243375693824"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Dynamo Dresden - Karlsruher",
         "time": "21:30",
         "id": "282007401165623296"
@@ -23,16 +51,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Quilmes Atletico Club - Tristan Suarez",
+        "name": "Arsenal de Sarandi - Club Atletico Alvarado",
         "time": "21:30",
-        "id": "282714281181745152"
+        "id": "282714281494220800"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CA Atlanta - CD Maipu",
+        "name": "Quilmes Atletico Club - Tristan Suarez",
         "time": "21:30",
-        "id": "282714281598029824"
+        "id": "282714281181745152"
     },
     {
         "tur": "live",
@@ -44,16 +72,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Arsenal de Sarandi - Club Atletico Alvarado",
+        "name": "CA Atlanta - CD Maipu",
         "time": "21:30",
-        "id": "282714281494220800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA San Miguel - San Martin Tucuman",
-        "time": "21:30",
-        "id": "282714281758461952"
+        "id": "282714281598029824"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Sarmiento - Gimnasia y Esgrima La Plata",
         "time": "20:30",
         "id": "282349578940977152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Galatasaray - Besiktas",
-        "time": "20:00",
-        "id": "282546457040523264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brest - Nantes",
-        "time": "20:00",
-        "id": "282013640616448000"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AVS - Alverca",
-        "time": "20:00",
-        "id": "282627483384287232"
     }
 ]
