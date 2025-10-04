@@ -2,6 +2,90 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Kocaelispor - Eyupspor",
+        "time": "17:00",
+        "id": "282534437989781504"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arsenal - West Ham",
+        "time": "17:00",
+        "id": "281887009075761152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Manchester United - Sunderland",
+        "time": "17:00",
+        "id": "281887009331613696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portsmouth - Middlesbrough",
+        "time": "17:00",
+        "id": "282537091433369600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Swansea City - Leicester City",
+        "time": "17:00",
+        "id": "282537092565831680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bristol City - Queens Park Rangers",
+        "time": "17:00",
+        "id": "282537091004502016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Derby County - Southampton",
+        "time": "17:00",
+        "id": "282537092986310656"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Watford - Oxford United",
+        "time": "17:00",
+        "id": "282537090696220672"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Borussia Dortmund - RB Leipzig",
+        "time": "16:30",
+        "id": "281994947277754368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bayer Leverkusen - Union Berlin",
+        "time": "16:30",
+        "id": "281994946168360960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Augsburg - VfL Wolfsburg",
+        "time": "16:30",
+        "id": "281994919187451904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Werder Bremen - St. Pauli",
+        "time": "16:30",
+        "id": "281994919460081664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Erzurumspor FK - Vanspor FK",
         "time": "16:00",
         "id": "282655261669330944"
@@ -19,89 +103,5 @@
         "name": "Parma - Lecce",
         "time": "16:00",
         "id": "281995242832531456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avellino - Mantova",
-        "time": "16:00",
-        "id": "282532487518883840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSC Venezia - Frosinone",
-        "time": "16:00",
-        "id": "282530915079557120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bari - Padova",
-        "time": "16:00",
-        "id": "282530686430220288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SSD Monza 1912 - Catanzaro",
-        "time": "16:00",
-        "id": "282530565938352128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mjallby AIF - IF Elfsborg",
-        "time": "16:00",
-        "id": "282260140028203008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Oviedo - Levante",
-        "time": "15:00",
-        "id": "282375541658619904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Reims - Grenoble Foot 38",
-        "time": "15:00",
-        "id": "282526896835661824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Red Star 93 Saint Ouen - Rodez Aveyron",
-        "time": "15:00",
-        "id": "282528008467779584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Genclerbirligi - Alanyaspor",
-        "time": "14:30",
-        "id": "282526090045558784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Leeds United - Tottenham",
-        "time": "14:30",
-        "id": "281886962363797504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sheffield Wednesday - Coventry City",
-        "time": "14:30",
-        "id": "282537092226093056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Blackburn Rovers - Stoke",
-        "time": "14:30",
-        "id": "282537348001042432"
     }
 ]
