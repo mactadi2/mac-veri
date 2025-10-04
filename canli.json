@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Vitoria Guimaraes - Santa Clara",
+        "time": "22:30",
+        "id": "282555292496039936"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Auxerre - Lens",
         "time": "22:05",
         "id": "282013640317603840"
@@ -12,6 +19,13 @@
         "name": "Real Madrid - Villarreal",
         "time": "22:00",
         "id": "282375541821149184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Heerenveen - Excelsior",
+        "time": "22:00",
+        "id": "281993074354294784"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Montpellier HSC - AS St. Etienne",
         "time": "21:00",
         "id": "282549652071518208"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cesena FC - AC Reggiana 1919",
-        "time": "20:30",
-        "id": "282547890417700864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sarmiento - Gimnasia y Esgrima La Plata",
-        "time": "20:30",
-        "id": "282349578940977152"
     }
 ]
