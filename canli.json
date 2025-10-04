@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Asociacion Deportiva Tarma - Sporting Cristal Lima",
+        "time": "23:15",
+        "id": "282287412365889536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Detroit City FC - North Carolina",
+        "time": "23:00",
+        "id": "282658869778452480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Martin de San Juan - Instituto de Cordoba",
+        "time": "22:45",
+        "id": "282349440677842944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Vitoria Guimaraes - Santa Clara",
         "time": "22:30",
         "id": "282555292496039936"
@@ -37,6 +58,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chapecoense SC - Novorizontino SP",
+        "time": "22:00",
+        "id": "282608646839472128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Delfin SC - El Nacional Quito",
+        "time": "22:00",
+        "id": "282804904316407808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atalanta - Calcio Como",
         "time": "21:45",
         "id": "281995243375693824"
@@ -44,9 +79,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Dynamo Dresden - Karlsruher",
-        "time": "21:30",
-        "id": "282007401165623296"
+        "name": "Royal Antwerp - Cercle Brugge",
+        "time": "21:45",
+        "id": "282280522221228032"
     },
     {
         "tur": "live",
@@ -65,43 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Arsenal de Sarandi - Club Atletico Alvarado",
+        "name": "Real Pilar - Deportivo Merlo",
         "time": "21:30",
-        "id": "282714281494220800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Quilmes Atletico Club - Tristan Suarez",
-        "time": "21:30",
-        "id": "282714281181745152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Almagro - Club Atletico Guemes",
-        "time": "21:30",
-        "id": "282714282102394880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Atlanta - CD Maipu",
-        "time": "21:30",
-        "id": "282714281598029824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Zwolle - PSV",
-        "time": "21:00",
-        "id": "281993048840343552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Montpellier HSC - AS St. Etienne",
-        "time": "21:00",
-        "id": "282549652071518208"
+        "id": "282780522311356416"
     }
 ]
