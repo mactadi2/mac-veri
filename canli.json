@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Calatayud - Atletic Sant Just",
+        "time": "18:30",
+        "id": "283013956414771200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Lourdes - CD Sant Jordi",
+        "time": "18:30",
+        "id": "283013925941055488"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SD Negreira - SD Textil Escudo",
+        "time": "18:30",
+        "id": "283048844074455040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Betis Cf Valladolid - CD Getxo",
+        "time": "18:00",
+        "id": "283013928805765120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Metz - Marsilya",
+        "time": "18:00",
+        "id": "282013640509493248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Deportivo Alberite - Puerto de Vega CF",
+        "time": "17:45",
+        "id": "283013956643360768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Gil Vicente - Estrela",
         "time": "17:30",
         "id": "282536471544598528"
@@ -58,50 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Borussia Dortmund - RB Leipzig",
-        "time": "16:30",
-        "id": "281994947277754368"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bayer Leverkusen - Union Berlin",
-        "time": "16:30",
-        "id": "281994946168360960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Augsburg - VfL Wolfsburg",
-        "time": "16:30",
-        "id": "281994919187451904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Werder Bremen - St. Pauli",
-        "time": "16:30",
-        "id": "281994919460081664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Erzurumspor FK - Vanspor FK",
-        "time": "16:00",
-        "id": "282655261669330944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lazio - Torino",
-        "time": "16:00",
-        "id": "281995244026859520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Parma - Lecce",
-        "time": "16:00",
-        "id": "281995242832531456"
+        "name": "Swansea City - Leicester City",
+        "time": "17:00",
+        "id": "282537092565831680"
     }
 ]
