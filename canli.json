@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Pendikspor - Adana Demirspor",
+        "time": "13:30",
+        "id": "282655261785722880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Bandirmaspor - Umraniyespor",
+        "time": "13:30",
+        "id": "282633142166228992"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kyoto Purple Sanga - Kawasaki Frontale",
         "time": "13:00",
         "id": "282520364416897024"
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kashiwa Reysol - Yokohama F Marinos",
-        "time": "11:30",
-        "id": "282514746920538112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kraluv Dvur - Taborsko B",
-        "time": "11:30",
-        "id": "282775047052234752"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Viktoria Plzen U19 - Dukla Praha U19",
-        "time": "11:30",
-        "id": "282775047292358656"
+        "name": "SS Lazio U20 - Internazionale Milano U20",
+        "time": "12:00",
+        "id": "282655251002167296"
     }
 ]
