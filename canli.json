@@ -2,6 +2,62 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Union Magdalena Santa Marta - Rionegro Aguilas Doradas",
+        "time": "00:10",
+        "id": "282640096812994560"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Loudoun United FC - Birmingham Legion FC",
+        "time": "00:00",
+        "id": "282662772221808640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Centro Norte Argentino - Tiro Futbol Club",
+        "time": "00:00",
+        "id": "283107491866513408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portland Hearts of Pine - Forward Madison FC",
+        "time": "00:00",
+        "id": "283077540418195456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Nacional de Montevideo - Cerro Largo FC",
+        "time": "00:00",
+        "id": "282461226246737920"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Dallas - LA Galaxy",
+        "time": "23:30",
+        "id": "282089120365416448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Santander - Deportes Quindio",
+        "time": "23:30",
+        "id": "282660992209522688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Forge FC - Vancouver Langley FC",
+        "time": "23:30",
+        "id": "282700022303461376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Asociacion Deportiva Tarma - Sporting Cristal Lima",
         "time": "23:15",
         "id": "282287412365889536"
@@ -12,6 +68,13 @@
         "name": "Detroit City FC - North Carolina",
         "time": "23:00",
         "id": "282658869778452480"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guarani FC De Campinas - Nautico Capibaribe",
+        "time": "23:00",
+        "id": "282557145775476736"
     },
     {
         "tur": "live",
@@ -30,20 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Auxerre - Lens",
-        "time": "22:05",
-        "id": "282013640317603840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Madrid - Villarreal",
-        "time": "22:00",
-        "id": "282375541821149184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Heerenveen - Excelsior",
         "time": "22:00",
         "id": "281993074354294784"
@@ -51,57 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Granada CF - Real Sociedad B",
-        "time": "22:00",
-        "id": "282553370627149824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Chapecoense SC - Novorizontino SP",
-        "time": "22:00",
-        "id": "282608646839472128"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Delfin SC - El Nacional Quito",
-        "time": "22:00",
-        "id": "282804904316407808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atalanta - Calcio Como",
-        "time": "21:45",
-        "id": "281995243375693824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Royal Antwerp - Cercle Brugge",
-        "time": "21:45",
-        "id": "282280522221228032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "DC United - Charlotte",
+        "name": "Partizan Belgrade - FK Vojvodina Novi Sad",
         "time": "21:30",
-        "id": "282089167877443584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CF Montreal - Nashville SC",
-        "time": "21:30",
-        "id": "282089120993513472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Pilar - Deportivo Merlo",
-        "time": "21:30",
-        "id": "282780522311356416"
+        "id": "282716338473177088"
     }
 ]
