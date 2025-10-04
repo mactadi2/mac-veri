@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Union Magdalena Santa Marta - Rionegro Aguilas Doradas",
-        "time": "00:10",
-        "id": "282640096812994560"
+        "name": "Bragantino Red Bull - Gremio Porto Alegrense RS",
+        "time": "00:30",
+        "id": "282647891351310336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fluminense RJ - Atletico Mineiro",
+        "time": "00:30",
+        "id": "282647998992879616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Internacional RS - Botafogo RJ",
+        "time": "00:30",
+        "id": "282647968347197440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Volta Redonda - Goias EC",
+        "time": "00:30",
+        "id": "282608725124059136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Emelec Guayaquil - Deportivo Cuenca",
+        "time": "00:30",
+        "id": "282804904623640576"
     },
     {
         "tur": "live",
@@ -26,13 +54,6 @@
         "name": "Portland Hearts of Pine - Forward Madison FC",
         "time": "00:00",
         "id": "283077540418195456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Nacional de Montevideo - Cerro Largo FC",
-        "time": "00:00",
-        "id": "282461226246737920"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "San Martin de San Juan - Instituto de Cordoba",
         "time": "22:45",
         "id": "282349440677842944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vitoria Guimaraes - Santa Clara",
-        "time": "22:30",
-        "id": "282555292496039936"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Heerenveen - Excelsior",
-        "time": "22:00",
-        "id": "281993074354294784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Partizan Belgrade - FK Vojvodina Novi Sad",
-        "time": "21:30",
-        "id": "282716338473177088"
     }
 ]
