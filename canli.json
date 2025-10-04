@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Tucuman - Platense",
+        "time": "01:00",
+        "id": "282348165063118848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Huracan - Banfield",
+        "time": "01:00",
+        "id": "282349056575016960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Olimpia Asuncion - Sportivo Ameliano",
+        "time": "01:00",
+        "id": "282645821566095360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "C.D. Universidad de Concepcion - Union San Felipe",
+        "time": "01:00",
+        "id": "282296287615913984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Richmond Kickers - One Knoxville SC",
+        "time": "01:00",
+        "id": "282748184957325312"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bragantino Red Bull - Gremio Porto Alegrense RS",
         "time": "00:30",
         "id": "282647891351310336"
@@ -68,40 +103,5 @@
         "name": "Real Santander - Deportes Quindio",
         "time": "23:30",
         "id": "282660992209522688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Forge FC - Vancouver Langley FC",
-        "time": "23:30",
-        "id": "282700022303461376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Asociacion Deportiva Tarma - Sporting Cristal Lima",
-        "time": "23:15",
-        "id": "282287412365889536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Detroit City FC - North Carolina",
-        "time": "23:00",
-        "id": "282658869778452480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Guarani FC De Campinas - Nautico Capibaribe",
-        "time": "23:00",
-        "id": "282557145775476736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "San Martin de San Juan - Instituto de Cordoba",
-        "time": "22:45",
-        "id": "282349440677842944"
     }
 ]
