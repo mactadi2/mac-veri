@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Karagumruk - Gaziantep FK",
+        "time": "17:00",
+        "id": "282546426310955008"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "VfB Stuttgart - Heidenheim",
+        "time": "16:30",
+        "id": "281995034824413184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "76 Igdir Belediyespor - İstanbulspor",
         "time": "16:00",
         "id": "282621870961987584"
@@ -86,22 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Alaves - Elche",
-        "time": "15:00",
-        "id": "282375684772466688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Zaragoza - Cordoba",
-        "time": "15:00",
-        "id": "282617556095864832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arminia Bielefeld - Schalke 04",
-        "time": "14:30",
-        "id": "282007481238032384"
+        "name": "Viking Stavanger - SK Brann",
+        "time": "15:30",
+        "id": "282619557986832384"
     }
 ]
