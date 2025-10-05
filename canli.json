@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "EC Bahia - Flamengo RJ",
+        "time": "00:30",
+        "id": "282647999391338496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "EC Juventude - Fortaleza CE",
+        "time": "00:30",
+        "id": "282647968461492224"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rhode Island - Las Vegas Lights",
+        "time": "00:00",
+        "id": "282655859212947456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Huachipato - Audax Italiano Santiago",
         "time": "23:30",
         "id": "282802154791800832"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Guarani Asuncion - Club Atletico Tembetary",
+        "time": "23:30",
+        "id": "282645821655224320"
     },
     {
         "tur": "live",
@@ -23,85 +51,57 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Los Angeles II - North Texas SC",
+        "time": "23:00",
+        "id": "282801837864947712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Portland Timbers II - St Louis City II",
+        "time": "23:00",
+        "id": "282801837428740096"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Monarchs SLC - Vancouver Whitecaps II",
+        "time": "23:00",
+        "id": "282801837198053376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Minnesota United FC II - Swope Park Rangers",
+        "time": "23:00",
+        "id": "282801837697175552"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ventura County - Colorado Rapids II",
+        "time": "23:00",
+        "id": "282801837988679680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tacoma Defiance - Houston Dynamo II",
+        "time": "23:00",
+        "id": "282801838293815296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "The Town FC - Austin FC II",
+        "time": "23:00",
+        "id": "282801838164840448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Talleres de Cordoba - Club Atletico Belgrano",
         "time": "22:45",
         "id": "282348358842060800"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estudiantes de la Plata - Barracas Central",
-        "time": "22:30",
-        "id": "282348785194110976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Libertad FC - Orense SC",
-        "time": "22:30",
-        "id": "282797478558076928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Celta Vigo - Atletico Madrid",
-        "time": "22:00",
-        "id": "282375609677647872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sao Paulo FC - Palmeiras",
-        "time": "22:00",
-        "id": "282647999186866176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Vasco da Gama RJ - EC Vitoria",
-        "time": "22:00",
-        "id": "282647999295918080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Las Palmas - Cadiz",
-        "time": "22:00",
-        "id": "282644443015811072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Operario Ferroviario EC PR - Remo PA",
-        "time": "22:00",
-        "id": "282609007922909184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Juventus - AC Milan",
-        "time": "21:45",
-        "id": "281995272538689536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lille - PSG",
-        "time": "21:45",
-        "id": "282013887752179712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Almirante Brown de Lules - Talleres Remedios Escalada",
-        "time": "21:30",
-        "id": "282714432487067648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "JJ Urquiza - Sportivo Barracas",
-        "time": "21:30",
-        "id": "282825989054304256"
     }
 ]
