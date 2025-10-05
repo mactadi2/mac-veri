@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Estudiantes de la Plata - Barracas Central",
+        "time": "22:30",
+        "id": "282348785194110976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Celta Vigo - Atletico Madrid",
         "time": "22:00",
         "id": "282375609677647872"
@@ -65,6 +72,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gimnasia Mendoza - CA Defensores de Belgrano",
+        "time": "21:30",
+        "id": "282714297773363200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Colon de Santa Fe - CA Defensores Unidos",
+        "time": "21:30",
+        "id": "282714432643305472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Central Norte Salta  - Estudiantes Rio Cuarto",
+        "time": "21:30",
+        "id": "282714438842486784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sporting CP - Braga",
         "time": "21:15",
         "id": "282636977416835072"
@@ -75,33 +103,5 @@
         "name": "Go Ahead Eagles - NEC Nijmegen",
         "time": "21:00",
         "id": "281993699503771648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Borussia Monchengladbach - SC Freiburg",
-        "time": "20:30",
-        "id": "281995019391471616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Modena - ACD Virtus Entella",
-        "time": "20:30",
-        "id": "282639307603316736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Godoy Cruz - CA Independiente Avellaneda",
-        "time": "20:30",
-        "id": "282348817451454464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rosenborg BK - Sarpsborg 08",
-        "time": "20:15",
-        "id": "282629407215063040"
     }
 ]
