@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Espanyol - Real Betis",
+        "time": "19:30",
+        "id": "282375684471525376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Sociedad - Rayo Vallecano",
+        "time": "19:30",
+        "id": "282375684666560512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rio Ave - Tondela",
+        "time": "19:30",
+        "id": "282634588773289984"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Racing Santander - Malaga CF",
+        "time": "19:30",
+        "id": "282634409640857600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Real Valladolid - CD Mirandes",
+        "time": "19:30",
+        "id": "282634765675401216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bodrumspor - Hatayspor",
         "time": "19:00",
         "id": "282633142666399744"
@@ -68,40 +103,5 @@
         "name": "Stromsgodset IF - KFUM Oslo",
         "time": "18:00",
         "id": "282629434994987008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AZ Alkmaar - Telstar",
-        "time": "17:45",
-        "id": "281993680565440512"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arouca - Famalicao",
-        "time": "17:30",
-        "id": "282626877131198464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IK Sirius FK - Malmo FF",
-        "time": "17:30",
-        "id": "282355127014264832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Brommapojkarna - BK Hacken",
-        "time": "17:30",
-        "id": "282355126757363712"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sevilla - Barcelona",
-        "time": "17:15",
-        "id": "282375684575334400"
     }
 ]
