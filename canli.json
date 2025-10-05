@@ -16,13 +16,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Wofoo Social Enterprises - Citizen AA",
-        "time": "08:30",
-        "id": "283186160995700736"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Gimcheon Sangmu FC - Ulsan Hyundai Horang-i",
         "time": "08:00",
         "id": "282514323721555968"
@@ -103,5 +96,12 @@
         "name": "Shichigahama SC - Sendai Sasuke",
         "time": "08:00",
         "id": "283225009872474112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SKA Khabarovsk - YFK Shinnik Yaroslav",
+        "time": "08:00",
+        "id": "282714445501992960"
     }
 ]
