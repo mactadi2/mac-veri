@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Bodrumspor - Hatayspor",
+        "time": "19:00",
+        "id": "282633142666399744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Napoli - Genoa",
+        "time": "19:00",
+        "id": "281996064383438848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Brentford - Manchester City",
         "time": "18:30",
         "id": "281886962899619840"
@@ -89,19 +103,5 @@
         "name": "Sevilla - Barcelona",
         "time": "17:15",
         "id": "282375684575334400"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Castellon - Sporting Gijon",
-        "time": "17:15",
-        "id": "282627070338666496"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Karagumruk - Gaziantep FK",
-        "time": "17:00",
-        "id": "282546426310955008"
     }
 ]
