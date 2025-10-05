@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sporting CP - Braga",
+        "time": "21:15",
+        "id": "282636977416835072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Go Ahead Eagles - NEC Nijmegen",
+        "time": "21:00",
+        "id": "281993699503771648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Borussia Monchengladbach - SC Freiburg",
+        "time": "20:30",
+        "id": "281995019391471616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Modena - ACD Virtus Entella",
+        "time": "20:30",
+        "id": "282639307603316736"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Godoy Cruz - CA Independiente Avellaneda",
+        "time": "20:30",
+        "id": "282348817451454464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rosenborg BK - Sarpsborg 08",
+        "time": "20:15",
+        "id": "282629407215063040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Westerlo - Leuven",
+        "time": "20:15",
+        "id": "282366241117704192"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Samsunspor - Fenerbahce",
         "time": "20:00",
         "id": "282636507558318080"
@@ -54,54 +103,5 @@
         "name": "Club Brugge - Royale Union SG",
         "time": "19:30",
         "id": "282432494805061632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bodrumspor - Hatayspor",
-        "time": "19:00",
-        "id": "282633142666399744"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Napoli - Genoa",
-        "time": "19:00",
-        "id": "281996064383438848"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Kopenhag - Midtjylland",
-        "time": "19:00",
-        "id": "282707305174437888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Brentford - Manchester City",
-        "time": "18:30",
-        "id": "281886962899619840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hamburger SV - Mainz",
-        "time": "18:30",
-        "id": "281995019714433024"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Monaco - Nice",
-        "time": "18:15",
-        "id": "282013839816527872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sampdoria - Pescara",
-        "time": "18:15",
-        "id": "282629948390379520"
     }
 ]
