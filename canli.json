@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Arouca - Famalicao",
+        "time": "17:30",
+        "id": "282626877131198464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sevilla - Barcelona",
+        "time": "17:15",
+        "id": "282375684575334400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Castellon - Sporting Gijon",
+        "time": "17:15",
+        "id": "282627070338666496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Karagumruk - Gaziantep FK",
         "time": "17:00",
         "id": "282546426310955008"
@@ -82,26 +103,5 @@
         "name": "FC Sudtirol Bolzano - Empoli",
         "time": "16:00",
         "id": "282621880953868288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Carrarese - Juve Stabia",
-        "time": "16:00",
-        "id": "282621881242226688"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Feyenoord - Utrecht",
-        "time": "15:30",
-        "id": "281993680928247808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Viking Stavanger - SK Brann",
-        "time": "15:30",
-        "id": "282619557986832384"
     }
 ]
