@@ -37,6 +37,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Brugge - Royale Union SG",
+        "time": "19:30",
+        "id": "282432494805061632"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Bodrumspor - Hatayspor",
         "time": "19:00",
         "id": "282633142666399744"
@@ -47,6 +54,13 @@
         "name": "Napoli - Genoa",
         "time": "19:00",
         "id": "281996064383438848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Kopenhag - Midtjylland",
+        "time": "19:00",
+        "id": "282707305174437888"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Sampdoria - Pescara",
         "time": "18:15",
         "id": "282629948390379520"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bodo Glimt - FK Haugesund",
-        "time": "18:00",
-        "id": "282629811477811200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Stromsgodset IF - KFUM Oslo",
-        "time": "18:00",
-        "id": "282629434994987008"
     }
 ]
