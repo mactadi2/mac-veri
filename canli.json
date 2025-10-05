@@ -2,16 +2,51 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Agropecuario - CA San Telmo",
-        "time": "21:30",
-        "id": "282714439076319232"
+        "name": "Celta Vigo - Atletico Madrid",
+        "time": "22:00",
+        "id": "282375609677647872"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Club Atletico Mitre - CA Estudiantes Caseros",
+        "name": "Sao Paulo FC - Palmeiras",
+        "time": "22:00",
+        "id": "282647999186866176"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vasco da Gama RJ - EC Vitoria",
+        "time": "22:00",
+        "id": "282647999295918080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Las Palmas - Cadiz",
+        "time": "22:00",
+        "id": "282644443015811072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Juventus - AC Milan",
+        "time": "21:45",
+        "id": "281995272538689536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lille - PSG",
+        "time": "21:45",
+        "id": "282013887752179712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Agropecuario - CA San Telmo",
         "time": "21:30",
-        "id": "282714466011090944"
+        "id": "282714439076319232"
     },
     {
         "tur": "live",
@@ -23,23 +58,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Central Norte Salta  - Estudiantes Rio Cuarto",
+        "name": "Club Atletico Mitre - CA Estudiantes Caseros",
         "time": "21:30",
-        "id": "282714438842486784"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia Mendoza - CA Defensores de Belgrano",
-        "time": "21:30",
-        "id": "282714297773363200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colon de Santa Fe - CA Defensores Unidos",
-        "time": "21:30",
-        "id": "282714432643305472"
+        "id": "282714466011090944"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Rosenborg BK - Sarpsborg 08",
         "time": "20:15",
         "id": "282629407215063040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Westerlo - Leuven",
-        "time": "20:15",
-        "id": "282366241117704192"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Samsunspor - Fenerbahce",
-        "time": "20:00",
-        "id": "282636507558318080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Göztepe - İstanbul Başakşehir FK",
-        "time": "20:00",
-        "id": "282625649722658816"
     }
 ]
