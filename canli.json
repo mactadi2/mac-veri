@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Atletico Huila - Barranquilla FC",
+        "time": "23:30",
+        "id": "282912220973928448"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Valur Reykjavik (Kadınlar) - Stjarnan (Kadınlar)",
         "time": "22:15",
         "id": "283280966546657280"
@@ -44,57 +51,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Linfield Reserves - Carrick Rangers Reserves",
-        "time": "21:45",
-        "id": "283288179817353216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Coleraine Reserves - Bangor Reserves",
-        "time": "21:45",
-        "id": "283303532688609280"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Glenavon Reserves - Dungannon Swifts Reserves",
-        "time": "21:45",
-        "id": "283340369008300032"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Atherton Collieries - Nantwich Town",
         "time": "21:45",
         "id": "283336634393726976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cultural Leonesa - Albacete Balompie",
-        "time": "21:30",
-        "id": "282705098542714880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Atlas - Defensores de Cambaceres",
-        "time": "21:30",
-        "id": "282914432712216576"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Centro Espanyol - Victoriano Arenas",
-        "time": "21:30",
-        "id": "282914757444669440"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD UAI Urquiza - Sacachispas",
-        "time": "21:30",
-        "id": "282783736933945344"
     }
 ]
