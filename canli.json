@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Otelul Galati - Metaloglobus",
+        "time": "17:30",
+        "id": "282090961448865792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kvik Halden FK - Stabaek If 2",
+        "time": "17:30",
+        "id": "282795776480153600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Al Seeb - Bahla Club",
+        "time": "17:20",
+        "id": "283245696711430144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Torreense U23 - Estrela Da Amadora U23",
+        "time": "17:00",
+        "id": "283169925039951872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Chelyabinsk - FC Yenisey Krasnoyarsk",
+        "time": "17:00",
+        "id": "282806869166428160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Brann 2 - Notodden FK",
         "time": "16:30",
         "id": "282815523576909824"
@@ -12,13 +47,6 @@
         "name": "NK Aluminij U19 - NK Krka U19",
         "time": "16:30",
         "id": "283318722739081216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Fard - Shahrdari Noshahr",
-        "time": "16:30",
-        "id": "282815523139653632"
     },
     {
         "tur": "live",
@@ -37,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Al Nahda - Al Shabab",
+        "time": "16:20",
+        "id": "283246404674293760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Envigado FC Reserves - CD Sol de Oriente",
         "time": "16:00",
         "id": "283332040914669568"
@@ -44,64 +79,29 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Kalmar U21 - Halmstads U21",
+        "name": "SC Gjilani - FC Drita Gjilan",
         "time": "16:00",
-        "id": "283343956966936576"
+        "id": "283249499775995904"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Tahta - El Qusiya SC",
+        "name": "AL Sareeh - Amman FC",
+        "time": "16:00",
+        "id": "283244808317997056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ma'an - Al Aqaba",
+        "time": "16:00",
+        "id": "283245487227965440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Beni Mazar - Mallawi SC",
         "time": "15:30",
-        "id": "283338609654009856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bournemouth U21 - Colchester U21",
-        "time": "15:00",
-        "id": "282907777635225600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Crewe Alexandra U21 - Sheffield Utd U21",
-        "time": "15:00",
-        "id": "282908026913198080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Alexandria Sporting Club - Raya SC Ghazl Kafr El-Dawar",
-        "time": "15:00",
-        "id": "283317391832944640"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Telecom Egypt - Gomhoryet Shebin",
-        "time": "15:00",
-        "id": "283342007422980096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Masar - Golden Gate FC",
-        "time": "15:00",
-        "id": "283344571841417216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Persela Lamongan - Persipura Jayapura",
-        "time": "15:00",
-        "id": "283260815924301824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gazovik Orenburg 2 - NoSta Novotroitsk",
-        "time": "15:00",
-        "id": "282960903545327616"
+        "id": "283335760515731456"
     }
 ]
