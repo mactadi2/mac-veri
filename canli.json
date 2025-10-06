@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA All Boys - CA Los Andes",
+        "time": "02:00",
+        "id": "282894554723815424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Excursionistas - Comunicaciones de Bueno Aires",
+        "time": "02:00",
+        "id": "282983049160069120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sao Paulo (W) - Colo Colo (W)",
+        "time": "02:00",
+        "id": "283276970994995200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Libertad (W) - Universidad de Chile (W)",
+        "time": "02:00",
+        "id": "283277705059012608"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brusque - Chapecoense SC",
+        "time": "02:00",
+        "id": "283278698036367360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Tigres FC - Patriotas Tunja",
         "time": "01:30",
         "id": "282911627452649472"
@@ -68,26 +103,5 @@
         "name": "CD Hercules Reserves - Municipal Limeno Reserves",
         "time": "00:30",
         "id": "283378091625320448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Motagua Reserves - Juticalpa Reserves",
-        "time": "00:00",
-        "id": "283320133661003776"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Real Espana Reserves - Lobos UPNFM Reserves",
-        "time": "00:00",
-        "id": "283320080288485376"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Genesis de Comayagua Reserves - Platense Puerto Cortes Reserves",
-        "time": "00:00",
-        "id": "283339959210119168"
     }
 ]
