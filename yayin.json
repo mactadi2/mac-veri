@@ -1,282 +1,65 @@
 [
     {
         "type": "futbol",
-        "name": "Internacional - Botafogo RJ",
-        "day": "05",
-        "time": "00:00",
+        "name": "Boca Juniors - Newell's Old Boys",
+        "day": "06",
+        "time": "01:00",
         "channel": "Spor Smart"
     },
     {
         "type": "futbol",
-        "name": "Corinthians - Mirassol",
-        "day": "05",
-        "time": "03:00",
-        "channel": "Spor Smart 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Lanus - San Lorenzo",
-        "day": "05",
+        "name": "Rosario Central - River Plate",
+        "day": "06",
         "time": "03:15",
         "channel": "Spor Smart"
     },
     {
         "type": "futbol",
-        "name": "Sarıyer - Sakaryaspor",
-        "day": "05",
-        "time": "13:30",
+        "name": "Los Angeles FC - Atlanta United",
+        "day": "06",
+        "time": "04:00",
         "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Udinese - Cagliari",
-        "day": "05",
-        "time": "13:30",
-        "channel": "Tivibu Spor 1"
+        "name": "Bilinmiyor - Bilinmiyor",
+        "day": "06",
+        "time": "18:00",
+        "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Kasımpaşa - Konyaspor",
-        "day": "05",
-        "time": "14:30",
-        "channel": "Bein Sports 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Arminia Bielefeld - Schalke 04",
-        "day": "05",
-        "time": "14:30",
-        "channel": "Tivibu Spor 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Alaves - Elche",
-        "day": "05",
-        "time": "15:00",
+        "name": "Albacete - Leonesa",
+        "day": "06",
+        "time": "21:30",
         "channel": "S Sport"
     },
     {
-        "type": "futbol",
-        "name": "Feyenoord - Utrecht",
-        "day": "05",
-        "time": "15:30",
-        "channel": "Tivibu Spor 4"
+        "type": "basketbol",
+        "name": "Fenerbahçe Beko - Petkimspor",
+        "day": "06",
+        "time": "19:00",
+        "channel": "Bein Sports 5"
     },
     {
-        "type": "futbol",
-        "name": "Sivasspor - Serik Bld.",
-        "day": "05",
-        "time": "16:00",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Iğdırspor - İstanbulspor",
-        "day": "05",
-        "time": "16:00",
+        "type": "tenis",
+        "name": "Cassetta\/Chiostri - Dominguez\/Martinez",
+        "day": "06",
+        "time": "10:00",
         "channel": "Bein Sports Max 1"
     },
     {
-        "type": "futbol",
-        "name": "Bologna - Pisa",
-        "day": "05",
+        "type": "tenis",
+        "name": "M.Uchijima - X.Wang",
+        "day": "06",
+        "time": "14:30",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "E.Alexandrova - V.Mboko",
+        "day": "06",
         "time": "16:00",
-        "channel": "Tivibu Spor 3"
-    },
-    {
-        "type": "futbol",
-        "name": "Fiorentina - Roma",
-        "day": "05",
-        "time": "16:00",
-        "channel": "Tivibu Spor 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Everton - Crystal Palace",
-        "day": "05",
-        "time": "16:00",
-        "channel": "Bein Sports 3"
-    },
-    {
-        "type": "futbol",
-        "name": "Wolverhampton - Brighton",
-        "day": "05",
-        "time": "16:00",
-        "channel": "Bein Sports Max 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Stuttgart - Heidenheim",
-        "day": "05",
-        "time": "16:30",
-        "channel": "Tivibu Spor 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Fatih Karagümrük - Gaziantep FK",
-        "day": "05",
-        "time": "17:00",
-        "channel": "Bein Sports 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Sevilla - Barcelona",
-        "day": "05",
-        "time": "17:15",
-        "channel": "S Sport"
-    },
-    {
-        "type": "futbol",
-        "name": "AZ Alkmaar - SC Telstar",
-        "day": "05",
-        "time": "17:45",
-        "channel": "Tivibu Spor 4"
-    },
-    {
-        "type": "futbol",
-        "name": "Hamburg - Mainz",
-        "day": "05",
-        "time": "18:30",
-        "channel": "Tivibu Spor 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Brentford - Manchester City",
-        "day": "05",
-        "time": "18:30",
-        "channel": "Bein Sports 3"
-    },
-    {
-        "type": "futbol",
-        "name": "Bodrumspor - Hatayspor",
-        "day": "05",
-        "time": "19:00",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
-        "name": "Napoli - Genoa",
-        "day": "05",
-        "time": "19:00",
-        "channel": "Tivibu Spor 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Espanyol - Real Betis",
-        "day": "05",
-        "time": "19:30",
-        "channel": "S Sport"
-    },
-    {
-        "type": "futbol",
-        "name": "Samsunspor - Fenerbahçe",
-        "day": "05",
-        "time": "20:00",
-        "channel": "Bein Sports 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Göztepe - Rams Başakşehir",
-        "day": "05",
-        "time": "20:00",
-        "channel": "Bein Sports 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Monchengladbach - Freiburg",
-        "day": "05",
-        "time": "20:30",
-        "channel": "Tivibu Spor 3"
-    },
-    {
-        "type": "futbol",
-        "name": "Braga - Sporting Lisbon",
-        "day": "05",
-        "time": "21:15",
-        "channel": "Tivibu Spor 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Lille - PSG",
-        "day": "05",
-        "time": "21:45",
-        "channel": "Bein Sports 4"
-    },
-    {
-        "type": "futbol",
-        "name": "Juventus - Milan",
-        "day": "05",
-        "time": "21:45",
-        "channel": "Tivibu Spor 1"
-    },
-    {
-        "type": "futbol",
-        "name": "Celta Vigo - Atletico Madrid",
-        "day": "05",
-        "time": "22:00",
-        "channel": "S Sport"
-    },
-    {
-        "type": "futbol",
-        "name": "Sao Paulo - Palmeiras",
-        "day": "05",
-        "time": "22:00",
-        "channel": "Spor Smart 2"
-    },
-    {
-        "type": "futbol",
-        "name": "Talleres Cordoba - Belgrano",
-        "day": "05",
-        "time": "22:45",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Benfica - Porto",
-        "day": "05",
-        "time": "23:15",
-        "channel": "Tivibu Spor 3"
-    },
-    {
-        "type": "basketbol",
-        "name": "Real Madrid - Gran Canaria",
-        "day": "05",
-        "time": "13:30",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "basketbol",
-        "name": "Büyükçekmece - Manisa BB",
-        "day": "05",
-        "time": "15:30",
-        "channel": "Bein Sports 5"
-    },
-    {
-        "type": "basketbol",
-        "name": "Karşıyaka - Merkezefendi Bld.",
-        "day": "05",
-        "time": "18:00",
-        "channel": "Bein Sports 5"
-    },
-    {
-        "type": "basketbol",
-        "name": "Zaragoza - Baskonia",
-        "day": "05",
-        "time": "18:00",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "basketbol",
-        "name": "Valencia Basket - Barcelona",
-        "day": "05",
-        "time": "20:00",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "basketbol",
-        "name": "Bursaspor - Anadolu Efes",
-        "day": "05",
-        "time": "20:30",
-        "channel": "Bein Sports 5"
+        "channel": "Bein Sports Max 1"
     }
 ]
