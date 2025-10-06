@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "SBV Vitesse - FC Den Bosch",
+        "time": "21:00",
+        "id": "282748060657029120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hamarkameratene Football 2 - Ullensaker Kisa II",
+        "time": "21:00",
+        "id": "283185045233242112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Crystal Palace U21 - Birmingham U21",
+        "time": "21:00",
+        "id": "283242468115517440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Danubio Reserves - Ca Penarol Reserves",
+        "time": "21:00",
+        "id": "283238171775635456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Albion Reserves - Club Oriental Reserves",
+        "time": "21:00",
+        "id": "283238054719950848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Botosani - UTA Arad",
         "time": "20:30",
         "id": "282096714106671104"
@@ -68,40 +103,5 @@
         "name": "Sportivo Iteno - 12 de Octubre",
         "time": "20:00",
         "id": "283335566039486464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kamaz Nab Chelny - FC Ural Yekaterinburg",
-        "time": "19:30",
-        "id": "282816394707636224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Baniyas FC -   Al Ansar Beirut",
-        "time": "19:15",
-        "id": "283347395355643904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Droebak\/Frogn - Odds Ballklubb II",
-        "time": "19:00",
-        "id": "282824946121740288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Muglaspor - Erbaaspor",
-        "time": "19:00",
-        "id": "282824946762420224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FK Sarajevo - Zrinjski Mostar",
-        "time": "19:00",
-        "id": "283237863476465664"
     }
 ]
