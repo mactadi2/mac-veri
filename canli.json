@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Tigres FC - Patriotas Tunja",
+        "time": "01:30",
+        "id": "282911627452649472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fortaleza (W) - Confianca (W)",
+        "time": "01:30",
+        "id": "283381260695670784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportivo Riestra - Velez Sarsfield",
         "time": "01:00",
         "id": "282348785082961920"
@@ -75,12 +89,5 @@
         "name": "Genesis de Comayagua Reserves - Platense Puerto Cortes Reserves",
         "time": "00:00",
         "id": "283339959210119168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Huila - Barranquilla FC",
-        "time": "23:30",
-        "id": "282912220973928448"
     }
 ]
