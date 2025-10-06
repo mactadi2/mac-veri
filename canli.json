@@ -9,16 +9,44 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cerrado U20 - Atletico Goianiense U20",
-        "time": "15:30",
-        "id": "283324692756205568"
+        "name": "Envigado FC Reserves - CD Sol de Oriente",
+        "time": "16:00",
+        "id": "283332040914669568"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "AC Carpi U19 - ASD Torres Calcio U19",
+        "name": "Kalmar U21 - Halmstads U21",
+        "time": "16:00",
+        "id": "283343956966936576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Gjilani - FC Drita Gjilan",
+        "time": "16:00",
+        "id": "283249499775995904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ma'an - Al Aqaba",
+        "time": "16:00",
+        "id": "283245487227965440"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tahta - El Qusiya SC",
         "time": "15:30",
-        "id": "283317534755950592"
+        "id": "283338609654009856"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Beni Mazar - Mallawi SC",
+        "time": "15:30",
+        "id": "283335760515731456"
     },
     {
         "tur": "live",
@@ -58,6 +86,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Masar - Golden Gate FC",
+        "time": "15:00",
+        "id": "283344571841417216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Persela Lamongan - Persipura Jayapura",
         "time": "15:00",
         "id": "283260815924301824"
@@ -68,33 +103,5 @@
         "name": "Gazovik Orenburg 2 - NoSta Novotroitsk",
         "time": "15:00",
         "id": "282960903545327616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Bidco United - Nairobi United",
-        "time": "15:00",
-        "id": "282813920975294464"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hougang II - Lion City Sailors FC II",
-        "time": "14:30",
-        "id": "283330286507560960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Guarani Asuncion Reserves - CA Tembetary Reserves",
-        "time": "14:00",
-        "id": "283329388022632448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tobol Kostanay (W) - Kaisar Kyzylorda (W)",
-        "time": "14:00",
-        "id": "283267549715795968"
     }
 ]
