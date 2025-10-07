@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Envigado - Deportivo Pereira",
+        "time": "23:00",
+        "id": "283264887235579904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ukraine U20 - Spain U20",
         "time": "22:30",
         "id": "283373885458780160"
@@ -19,6 +26,13 @@
         "name": "Arsenal (Kadınlar) - Olympique Lyonnais (W)",
         "time": "22:00",
         "id": "283281281514770432"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paris FC (Kadınlar) - Oud-Heverlee Leuven (W)",
+        "time": "22:00",
+        "id": "283281280860459008"
     },
     {
         "tur": "live",
@@ -72,36 +86,22 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Rosario Central Reserves - Ca Platense Reserves",
-        "time": "21:00",
-        "id": "283365794645315584"
+        "name": "AFC Fylde - Leamington FC",
+        "time": "21:45",
+        "id": "283325619467751424"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Racing Club De Avellaneda Reserves - CA Aldosivi Reserves",
-        "time": "21:00",
-        "id": "283365641089748992"
+        "name": "Sporting (W) - Rosengard (W)",
+        "time": "21:45",
+        "id": "283366554254741504"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gimnasia La Plata Reserves - Ferro Carril Oeste Reserves",
-        "time": "21:00",
-        "id": "283365641406418944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Santa Fe Reserves - Defensa Y Justicia Reserves",
-        "time": "21:00",
-        "id": "283365641234452480"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Claypole Reserves - Berazategui Reserves",
-        "time": "21:00",
-        "id": "283455990033321984"
+        "name": "Kelty Hearts - Alloa Athletic",
+        "time": "21:45",
+        "id": "283169415377489920"
     }
 ]
