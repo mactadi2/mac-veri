@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ukraine U20 - Spain U20",
+        "time": "22:30",
+        "id": "283373885458780160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Barcelona (W) - FC Bayern Munchen (K)",
         "time": "22:00",
         "id": "283281221853941760"
@@ -96,12 +103,5 @@
         "name": "CA Claypole Reserves - Berazategui Reserves",
         "time": "21:00",
         "id": "283455990033321984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Soccer Law - CD Ciclos",
-        "time": "20:00",
-        "id": "283427809658179584"
     }
 ]
