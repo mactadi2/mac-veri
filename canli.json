@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Ba FC - Navua FC",
-        "time": "11:00",
-        "id": "283418750068494336"
+        "name": "Myawady - Myanmar University",
+        "time": "12:00",
+        "id": "283361023759781888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kandal - Phnom Penh Galaxy",
+        "time": "11:30",
+        "id": "283329315666694144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Takeo Province - Kampong Speu Province",
+        "time": "11:30",
+        "id": "283376364221140992"
     },
     {
         "tur": "live",
@@ -16,13 +30,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Udon Banjan United - Khonkaen Mordindang FC",
-        "time": "11:00",
-        "id": "283348515287240704"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "ACDC FC - Marines Eureka FC",
         "time": "11:00",
         "id": "283348515683602432"
@@ -30,8 +37,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cheongju City FC - Gimpo Citizen",
-        "time": "10:30",
-        "id": "282965442116751360"
+        "name": "Udon Banjan United - Khonkaen Mordindang FC",
+        "time": "11:00",
+        "id": "283348515287240704"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ba FC - Navua FC",
+        "time": "11:00",
+        "id": "283418750068494336"
     }
 ]
