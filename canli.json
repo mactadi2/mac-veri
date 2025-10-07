@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Amazonas FC - Criciuma EC",
+        "time": "02:00",
+        "id": "282612946227564544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Nacional Potosi - Universitario De Vinto",
+        "time": "02:00",
+        "id": "283293138571005952"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chile U20 - Mexico U20",
+        "time": "02:00",
+        "id": "283373886295543808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Joinville EC - Nacao Esportes",
+        "time": "02:00",
+        "id": "283472461169987584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tavua FC - Nasinu",
+        "time": "02:00",
+        "id": "283418749901770752"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Deportes Concepcion - Huachipato",
         "time": "01:30",
         "id": "283381289719205888"
@@ -40,12 +75,5 @@
         "name": "Cerro Porteno - Sol de America",
         "time": "01:00",
         "id": "282944659515543552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club de Ciervos FC II - Heroes de Zaci FC II",
-        "time": "00:00",
-        "id": "283428223500718080"
     }
 ]
