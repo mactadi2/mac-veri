@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Labasa - Lautoka",
+        "time": "09:00",
+        "id": "283462937875877888"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Incheon United FC - Suwon Samsung Bluewings",
         "time": "08:00",
         "id": "283144664567287808"
@@ -19,12 +26,5 @@
         "name": "Gyeongnam FC - Jeonnam Dragons",
         "time": "08:00",
         "id": "283043999981539328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Rewa FC - Navua FC",
-        "time": "07:00",
-        "id": "283436307131437056"
     }
 ]
