@@ -1,65 +1,65 @@
 [
     {
         "type": "futbol",
-        "name": "Boca Juniors - Newell's Old Boys",
-        "day": "06",
-        "time": "01:00",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Rosario Central - River Plate",
-        "day": "06",
-        "time": "03:15",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Los Angeles FC - Atlanta United",
-        "day": "06",
-        "time": "04:00",
-        "channel": "TRT Spor"
-    },
-    {
-        "type": "futbol",
         "name": "Bilinmiyor - Bilinmiyor",
-        "day": "06",
-        "time": "18:00",
+        "day": "08",
+        "time": "17:00",
         "channel": "TRT Spor"
     },
     {
         "type": "futbol",
-        "name": "Albacete - Leonesa",
-        "day": "06",
-        "time": "21:30",
-        "channel": "S Sport"
+        "name": "Umman - Katar",
+        "day": "08",
+        "time": "18:00",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Endonezya - Suudi Arabistan",
+        "day": "08",
+        "time": "20:15",
+        "channel": "Spor Smart"
     },
     {
         "type": "basketbol",
-        "name": "Fenerbahçe Beko - Petkimspor",
-        "day": "06",
+        "name": "Bahçeşehir Klj - Venezia",
+        "day": "08",
         "time": "19:00",
-        "channel": "Bein Sports 5"
+        "channel": "tabii Spor 6"
+    },
+    {
+        "type": "basketbol",
+        "name": "Unicaja Malaga - Mersin Spor",
+        "day": "08",
+        "time": "21:30",
+        "channel": "tabii Spor 4"
     },
     {
         "type": "tenis",
-        "name": "Cassetta\/Chiostri - Dominguez\/Martinez",
-        "day": "06",
-        "time": "10:00",
+        "name": "H.Baptiste - J.Pegula",
+        "day": "08",
+        "time": "06:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "M.Uchijima - X.Wang",
-        "day": "06",
-        "time": "14:30",
+        "name": "M.Uchijima - C.Gauff",
+        "day": "08",
+        "time": "07:30",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "E.Alexandrova - V.Mboko",
-        "day": "06",
-        "time": "16:00",
+        "name": "J.Paolini - Y.Yuan",
+        "day": "08",
+        "time": "14:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "J.Cristian - E.Rybakina",
+        "day": "08",
+        "time": "15:30",
         "channel": "Bein Sports Max 1"
     }
 ]
