@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Sparta Rotterdam - Go Ahead Eagles",
+        "time": "14:30",
+        "id": "283521072970895360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mfc Metalurg Zaporizhya - Probiy Gorodenka",
         "time": "14:00",
         "id": "283434384672198656"
@@ -40,13 +47,6 @@
         "name": "FC Uzhgorod - Real Pharma Odessa",
         "time": "13:45",
         "id": "283452794626936832"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shahin Tehran - Padyab Khalkhal",
-        "time": "13:30",
-        "id": "283518225105588224"
     },
     {
         "tur": "live",
@@ -93,15 +93,15 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lokomotiv Tashkent (W) - Buxoro (W)",
+        "name": "Sonderjyske Reserve - Randers FC Reserves",
         "time": "13:00",
-        "id": "283514731547103232"
+        "id": "283517765492707328"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Sonderjyske Reserve - Randers FC Reserves",
+        "name": "Lokomotiv Tashkent (W) - Buxoro (W)",
         "time": "13:00",
-        "id": "283517765492707328"
+        "id": "283514731547103232"
     }
 ]
