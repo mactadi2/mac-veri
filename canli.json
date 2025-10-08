@@ -30,6 +30,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Dragonas Independiente del Valle (W) - Club Always Ready (W)",
+        "time": "02:00",
+        "id": "283564860038746112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Atletico Cajazeirense - Confianca Sape",
         "time": "02:00",
         "id": "283522984309985280"
@@ -68,12 +75,5 @@
         "name": "Ypiranga PE - Caruaru City FC",
         "time": "01:00",
         "id": "283427667576131584"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Sanarate - Monjas FC",
-        "time": "00:00",
-        "id": "283455171670085632"
     }
 ]
