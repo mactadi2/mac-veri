@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Estudiantes Caseros Reserves - Tristan Suarez Reserves",
+        "time": "17:00",
+        "id": "283460228072378368"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "SC Farense U23 - Portimonense U23",
+        "time": "17:00",
+        "id": "283236845660442624"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hırvatistan U19 - Polonya U19",
+        "time": "16:45",
+        "id": "283436484439347200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Frydek Mistek - Polanka",
         "time": "16:30",
         "id": "283422225250684928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hetmanki Wloszczowa - Victoria Skalbmierz",
+        "time": "16:30",
+        "id": "283531554038517760"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "SK Slavia Prague (W) - FK Austria Vienna (W)",
         "time": "15:45",
         "id": "283447691239002112"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IFK Goteborg - Lillestrom SK",
-        "time": "15:00",
-        "id": "283500738671579136"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Wigan U21 - Huddersfield U21",
-        "time": "15:00",
-        "id": "283075252871008256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "BSC Young Boys Berna (W) - ZNK Sfk 2000 Sarajevo (Kadınlar)",
-        "time": "15:00",
-        "id": "283447710812770304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Podillia Khmelnytskyi - FC Levy Bereg Kiev",
-        "time": "15:00",
-        "id": "283414487177138176"
     }
 ]
