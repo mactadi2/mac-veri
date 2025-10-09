@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Ferroviaria SP - Chapecoense SC",
+        "time": "01:00",
+        "id": "282746945364332544"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Tucuman Reserves - San Lorenzo Reserves",
+        "time": "01:00",
+        "id": "283546771430608896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "San Antonio FC Cotacachi - LDU Quito ",
+        "time": "01:00",
+        "id": "283471685561389056"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "SD Atletico Nacional Reserves - Fuerte San Francisco Reserves",
         "time": "00:00",
         "id": "283551583339581440"
@@ -12,12 +33,5 @@
         "name": "Union Cocle - CA Independiente de La Chorrera Reserves",
         "time": "00:00",
         "id": "283551514567675904"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Liga Sao Jao PI (W) - Tiradentes PI (W)",
-        "time": "23:00",
-        "id": "283643725510643712"
     }
 ]
