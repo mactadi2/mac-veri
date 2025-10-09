@@ -1,51 +1,51 @@
 [
     {
         "type": "basketbol",
-        "name": "Galatasaray - Famila Schio",
-        "day": "09",
-        "time": "20:00",
-        "channel": "TRT Spor"
+        "name": "Beşiktaş GAİN - Büyükçekmece",
+        "day": "10",
+        "time": "19:00",
+        "channel": "Bein Sports 5"
     },
     {
         "type": "basketbol",
-        "name": "Baskonia - Panathinaikos",
-        "day": "09",
+        "name": "Fenerbahçe Beko - Kizilyildiz",
+        "day": "10",
+        "time": "20:45",
+        "channel": "S Sport"
+    },
+    {
+        "type": "basketbol",
+        "name": "Barcelona - Valencia Basket",
+        "day": "10",
         "time": "21:30",
         "channel": "S Sport 2"
     },
     {
-        "type": "basketbol",
-        "name": "Partizan - Anadolu Efes",
-        "day": "09",
-        "time": "21:30",
-        "channel": "S Sport"
-    },
-    {
         "type": "tenis",
-        "name": "E.Alexandrova - J.Pegula",
-        "day": "09",
+        "name": "K.Siniakova - J.Pegula",
+        "day": "10",
         "time": "06:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "A.Sabalenka - L.Samsonova",
-        "day": "09",
-        "time": "07:30",
+        "name": "A.Sabalenka - E.Rybakina",
+        "day": "10",
+        "time": "08:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "B.Bencic - I.Swiatek",
-        "day": "09",
+        "name": "L.Siegemund - C.Gauff",
+        "day": "10",
+        "time": "10:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "J.Paolini - I.Swiatek",
+        "day": "10",
         "time": "14:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "S.Zhang - C.Gauff",
-        "day": "09",
-        "time": "15:30",
         "channel": "Bein Sports Max 1"
     }
 ]
