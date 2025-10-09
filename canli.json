@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Mlandege FC - JKU FC",
+        "time": "16:15",
+        "id": "283514118042062848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Özbekistan - Kuveyt",
+        "time": "16:00",
+        "id": "283435532055515136"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Burundi - Kenya",
+        "time": "16:00",
+        "id": "283051545658167296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tacikistan - Maldivler",
+        "time": "16:00",
+        "id": "283509171198136320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Abu Qir Semad FC - El Qanah FC",
         "time": "15:30",
         "id": "283434741682966528"
@@ -9,9 +37,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "El Mansoura - Aswan FC",
+        "name": "Tanta - El Dakhleya",
         "time": "15:30",
-        "id": "283507317995245568"
+        "id": "283238768893530112"
     },
     {
         "tur": "live",
@@ -30,6 +58,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Telephonat Beni Suef SC - El Ilamayeen",
+        "time": "15:30",
+        "id": "283601633839190016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tayland - Tayvan",
+        "time": "15:30",
+        "id": "283518709059063808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Brann U19 - Lillestrom U19",
+        "time": "15:30",
+        "id": "283437148506722304"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vietnam - Nepal",
+        "time": "15:30",
+        "id": "283509170912923648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "VfL Bochum - TSV Alemannia Aachen",
         "time": "15:00",
         "id": "283527508754993152"
@@ -37,16 +93,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Winterthur - FC Vaduz",
-        "time": "14:30",
-        "id": "283527523273576448"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fortuna Sittard - Ksk Lierse Kempenzonen",
-        "time": "14:30",
-        "id": "283602850117095424"
+        "name": "Lao Halk Cumhuriyeti - Malezya",
+        "time": "15:00",
+        "id": "283521291552854016"
     },
     {
         "tur": "live",
@@ -54,54 +103,5 @@
         "name": "Macaristan U19 - Yunanistan U19",
         "time": "14:30",
         "id": "283542898584358912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Chornomorets Odessa - FC Viktoriya Sumy",
-        "time": "14:30",
-        "id": "283161396336955392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gornik Leczna - Stal Rzeszow",
-        "time": "14:00",
-        "id": "283521359711342592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Heerenveen - Zwolle",
-        "time": "14:00",
-        "id": "283600949756596224"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "IF Brommapojkarna - Vasteras SK FK",
-        "time": "14:00",
-        "id": "283610038469431296"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Odishi 1919 Zugdidi - Kolkheti Khobi",
-        "time": "14:00",
-        "id": "283504377561649152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Didube 2014 - Lokomotivi Tbilisi II",
-        "time": "14:00",
-        "id": "283585217744375808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Borjomi - Varketili Tbilisi FC",
-        "time": "14:00",
-        "id": "283504377848958976"
     }
 ]
