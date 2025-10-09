@@ -1,57 +1,50 @@
 [
     {
-        "type": "futbol",
-        "name": "Umman - Katar",
-        "day": "08",
-        "time": "18:00",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Endonezya - Suudi Arabistan",
-        "day": "08",
-        "time": "20:15",
-        "channel": "Spor Smart"
+        "type": "basketbol",
+        "name": "Galatasaray - Famila Schio",
+        "day": "09",
+        "time": "20:00",
+        "channel": "TRT Spor"
     },
     {
         "type": "basketbol",
-        "name": "Bahçeşehir Klj - Venezia",
-        "day": "08",
-        "time": "19:00",
-        "channel": "tabii Spor 6"
-    },
-    {
-        "type": "basketbol",
-        "name": "Unicaja Malaga - Mersin Spor",
-        "day": "08",
+        "name": "Baskonia - Panathinaikos",
+        "day": "09",
         "time": "21:30",
-        "channel": "tabii Spor 4"
+        "channel": "S Sport 2"
+    },
+    {
+        "type": "basketbol",
+        "name": "Partizan - Anadolu Efes",
+        "day": "09",
+        "time": "21:30",
+        "channel": "S Sport"
     },
     {
         "type": "tenis",
-        "name": "H.Baptiste - J.Pegula",
-        "day": "08",
+        "name": "E.Alexandrova - J.Pegula",
+        "day": "09",
         "time": "06:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "M.Uchijima - C.Gauff",
-        "day": "08",
+        "name": "A.Sabalenka - L.Samsonova",
+        "day": "09",
         "time": "07:30",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "J.Paolini - Y.Yuan",
-        "day": "08",
+        "name": "B.Bencic - I.Swiatek",
+        "day": "09",
         "time": "14:00",
         "channel": "Bein Sports Max 1"
     },
     {
         "type": "tenis",
-        "name": "J.Cristian - E.Rybakina",
-        "day": "08",
+        "name": "S.Zhang - C.Gauff",
+        "day": "09",
         "time": "15:30",
         "channel": "Bein Sports Max 1"
     }
