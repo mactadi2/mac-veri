@@ -36,6 +36,13 @@
     },
     {
         "type": "tenis",
+        "name": "Bengoechea\/Santamaria - Martin\/Fallada",
+        "day": "10",
+        "time": "10:00",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "tenis",
         "name": "L.Siegemund - C.Gauff",
         "day": "10",
         "time": "10:00",
@@ -43,9 +50,37 @@
     },
     {
         "type": "tenis",
+        "name": "Coello\/Tapia - Sanz\/Navarro",
+        "day": "10",
+        "time": "12:00",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "tenis",
+        "name": "Guerrero\/Gonzalez - Stupaczuk\/Lebron",
+        "day": "10",
+        "time": "14:00",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "tenis",
         "name": "J.Paolini - I.Swiatek",
         "day": "10",
         "time": "14:00",
         "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "Senesi\/Pons - Gallego\/Alcorisa",
+        "day": "10",
+        "time": "19:00",
+        "channel": "Bein Sports Max 2"
+    },
+    {
+        "type": "tenis",
+        "name": "Lijo\/Simo - Chingotto\/Galan",
+        "day": "10",
+        "time": "21:00",
+        "channel": "Bein Sports Max 2"
     }
 ]
