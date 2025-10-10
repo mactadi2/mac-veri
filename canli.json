@@ -2,9 +2,37 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Borussia Monchengladbach - Preussen Munster",
+        "time": "14:00",
+        "id": "283597637337518080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Güney Kore - Brezilya",
+        "time": "14:00",
+        "id": "282486547910103040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Maccabi Kiryat Malakhi - Hapoel Marmorek",
+        "time": "14:00",
+        "id": "283603327338713088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Japonya - Paraguay",
         "time": "13:20",
         "id": "283404634041913344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hapoel Migdal Haemeq - Maccabi Ahi Nazareth FC",
+        "time": "13:15",
+        "id": "283611786616541184"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "CSA Steaua Bucuresti - CS Concordia Chiajna",
-        "time": "12:00",
-        "id": "283643314323099648"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Arnavutluk U19 - İrlanda U19",
-        "time": "12:00",
-        "id": "283612894389899264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shan Utd U21 - Thitsar Arman FC U21",
-        "time": "12:00",
-        "id": "283622331529859072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SC Ramla - Ironi Beit Shemesh",
-        "time": "12:00",
-        "id": "283622859251945472"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Agudat Sport Nordia Jerusalem - MS Tzeirey Tira",
-        "time": "12:00",
-        "id": "283601318875271168"
+        "name": "Hapoel Bnei Jadeidi - Fc Ahva Kfar Manda",
+        "time": "13:00",
+        "id": "283653195523461120"
     }
 ]
