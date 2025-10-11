@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Radomiak Radom - Wieczysta Krakow",
+        "time": "13:00",
+        "id": "283782096464678912"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Qviding FIF - IF Boljan Falkenberg",
+        "time": "13:00",
+        "id": "283334809205641216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kiruna IF - Lucksta IF",
+        "time": "13:00",
+        "id": "283336228743712768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cuarte CD - La Almunia",
+        "time": "13:00",
+        "id": "283612714089353216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Arucas CF - Real Union de Tenerife Santa Cruz",
+        "time": "13:00",
+        "id": "283613915413516288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cordoba B - Cadiz CF Mirandilla",
+        "time": "13:00",
+        "id": "283675949277679616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Warta Poznan - Olimpia Grudziadz",
+        "time": "13:00",
+        "id": "283334956743430144"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Sepsi - Petrolul Ploiesti",
         "time": "12:00",
         "id": "283696680248053760"
@@ -23,6 +72,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Slovacko U19 - FC Vysocina Jihlava U19",
+        "time": "12:00",
+        "id": "283603679804952576"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sparta Prague U19 - Hradec Kralove U19",
+        "time": "12:00",
+        "id": "283696658353786880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "GKS Piast Gliwice II - Przemsza Siewierz",
+        "time": "12:00",
+        "id": "283642872166912000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chindia Targoviste - Metaloglobus",
         "time": "11:30",
         "id": "283692129227935744"
@@ -33,75 +103,5 @@
         "name": "Ceske Budejovice B - Bohemians 1905 B",
         "time": "11:30",
         "id": "283329163258269696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Trinec - Unicov",
-        "time": "11:15",
-        "id": "283698501564796928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Fc Slovacko B - SFK Vrchovina",
-        "time": "11:15",
-        "id": "283512251138478080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jablonec B - Slovan Velvary",
-        "time": "11:15",
-        "id": "283510098720231424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Neratovice Byskovice - Sk Zapy",
-        "time": "11:15",
-        "id": "283328450777092096"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aritma Praha - Kraluv Dvur",
-        "time": "11:15",
-        "id": "283328383446978560"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Loko Praha - Slavia Prague U20",
-        "time": "11:15",
-        "id": "283335300028338176"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Mlada Boleslav B - Fk Banik Sous",
-        "time": "11:15",
-        "id": "283525303811477504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "FC Kolin - SK Sokol Brozany",
-        "time": "11:00",
-        "id": "283327564323524608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Pribram B - Taborsko B",
-        "time": "11:00",
-        "id": "283510151549587456"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hwaseong Fc - Cheongju City FC",
-        "time": "10:30",
-        "id": "283325420097802240"
     }
 ]
