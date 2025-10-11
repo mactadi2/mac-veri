@@ -1,86 +1,65 @@
 [
     {
+        "type": "futbol",
+        "name": "Almeria - Real Zaragoza",
+        "day": "11",
+        "time": "19:30",
+        "channel": "S Sport"
+    },
+    {
+        "type": "futbol",
+        "name": "BAE - Umman",
+        "day": "11",
+        "time": "20:15",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Irak - Endonezya",
+        "day": "11",
+        "time": "22:30",
+        "channel": "Spor Smart"
+    },
+    {
         "type": "basketbol",
-        "name": "Beşiktaş GAİN - Büyükçekmece",
-        "day": "10",
-        "time": "19:00",
+        "name": "Trabzonspor - Bursaspor",
+        "day": "11",
+        "time": "13:00",
         "channel": "Bein Sports 5"
     },
     {
         "type": "basketbol",
-        "name": "Fenerbahçe Beko - Kizilyildiz",
-        "day": "10",
-        "time": "20:45",
-        "channel": "S Sport"
+        "name": "Tofaş - Türk Telekom",
+        "day": "11",
+        "time": "15:30",
+        "channel": "Bein Sports 5"
     },
     {
         "type": "basketbol",
-        "name": "Barcelona - Valencia Basket",
-        "day": "10",
-        "time": "21:30",
-        "channel": "S Sport 2"
+        "name": "Bahçeşehir Klj - Mersin Spor",
+        "day": "11",
+        "time": "18:00",
+        "channel": "Bein Sports 5"
     },
     {
-        "type": "tenis",
-        "name": "K.Siniakova - J.Pegula",
-        "day": "10",
-        "time": "06:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "A.Sabalenka - E.Rybakina",
-        "day": "10",
-        "time": "08:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Bengoechea\/Santamaria - Martin\/Fallada",
-        "day": "10",
-        "time": "10:00",
-        "channel": "Bein Sports Max 2"
-    },
-    {
-        "type": "tenis",
-        "name": "L.Siegemund - C.Gauff",
-        "day": "10",
-        "time": "10:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Coello\/Tapia - Sanz\/Navarro",
-        "day": "10",
-        "time": "12:00",
-        "channel": "Bein Sports Max 2"
-    },
-    {
-        "type": "tenis",
-        "name": "Guerrero\/Gonzalez - Stupaczuk\/Lebron",
-        "day": "10",
-        "time": "14:00",
-        "channel": "Bein Sports Max 2"
-    },
-    {
-        "type": "tenis",
-        "name": "J.Paolini - I.Swiatek",
-        "day": "10",
-        "time": "14:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "Senesi\/Pons - Gallego\/Alcorisa",
-        "day": "10",
+        "type": "basketbol",
+        "name": "Basquet Girona - Murcia",
+        "day": "11",
         "time": "19:00",
-        "channel": "Bein Sports Max 2"
+        "channel": "Spor Smart 2"
     },
     {
         "type": "tenis",
-        "name": "Lijo\/Simo - Chingotto\/Galan",
-        "day": "10",
-        "time": "21:00",
-        "channel": "Bein Sports Max 2"
+        "name": "C.Gauff - J.Paolini",
+        "day": "11",
+        "time": "12:00",
+        "channel": "Bein Sports Max 1"
+    },
+    {
+        "type": "tenis",
+        "name": "A.Sabalenka - J.Pegula",
+        "day": "11",
+        "time": "13:30",
+        "channel": "Bein Sports Max 1"
     }
 ]
