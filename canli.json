@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Guangdong GZ-Power - Nanjing Fengfan",
+        "time": "14:30",
+        "id": "283437766039343104"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chongqing Tongliang Long - Foshan Nanshi FC",
+        "time": "14:30",
+        "id": "283437762529759232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shijiazhuang Gongfu FC - Liaoning Tieren FC",
+        "time": "14:30",
+        "id": "283431501772918784"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Haka Juniors - HIFK",
         "time": "14:00",
         "id": "283700123486425088"
@@ -58,13 +79,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Lulea IFK - Ifk Ostersund",
-        "time": "14:00",
-        "id": "283346925361860608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CA Tembetary Reserves - Club Libertad Asuncion Reserves",
         "time": "13:30",
         "id": "283738201142890496"
@@ -89,19 +103,5 @@
         "name": "Qviding FIF - IF Boljan Falkenberg",
         "time": "13:00",
         "id": "283334809205641216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kiruna IF - Lucksta IF",
-        "time": "13:00",
-        "id": "283336228743712768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cuarte CD - La Almunia",
-        "time": "13:00",
-        "id": "283612714089353216"
     }
 ]
