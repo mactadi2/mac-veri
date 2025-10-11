@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Banfield - Racing Club",
+        "time": "00:00",
+        "id": "282927122842161152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Miramar Misiones - Penarol Montevideo",
+        "time": "00:00",
+        "id": "282984282143887360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cd Universitario Reserves - Mario Mendez FC",
+        "time": "00:00",
+        "id": "283729886534995968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "2 de Mayo - Cerro Porteno",
         "time": "23:30",
         "id": "283197645081841664"
@@ -12,6 +33,13 @@
         "name": "Gualaceo SC - Leones Del Norte",
         "time": "23:30",
         "id": "283541205665746944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Copiapo - San Marcos de Arica",
+        "time": "23:30",
+        "id": "283375543696789504"
     },
     {
         "tur": "live",
@@ -30,6 +58,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Londrina EC PR - Sao Bernardo FC",
+        "time": "23:00",
+        "id": "283191903096442880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "AA Ponte Preta - Guarani FC De Campinas",
         "time": "23:00",
         "id": "283191426784989184"
@@ -37,71 +72,36 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Gimnasia y Esgrima La Plata - Talleres de Cordoba",
-        "time": "22:00",
-        "id": "282919554022412288"
+        "name": "Nautico Capibaribe - Brusque",
+        "time": "23:00",
+        "id": "283191270083694592"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Athletic Club MG - Goias EC",
-        "time": "22:00",
-        "id": "283265803889184768"
+        "name": "SER Caxias - Floresta EC",
+        "time": "23:00",
+        "id": "283192060200390656"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cambuur Leeuwarden - De Graafschap",
-        "time": "22:00",
-        "id": "283187654611472384"
+        "name": "Independiente de Villa Obrera - Sarmiento de Zonda",
+        "time": "23:00",
+        "id": "283766289346105344"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Bulgaristan - Türkiye",
-        "time": "21:45",
-        "id": "283327047761432576"
+        "name": "Deportes Tolima - Envigado",
+        "time": "23:00",
+        "id": "283291826346299392"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "İspanya - Gürcistan",
-        "time": "21:45",
-        "id": "283079760763195392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Portekiz - İrlanda",
-        "time": "21:45",
-        "id": "283081215552294912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Estonya - İtalya",
-        "time": "21:45",
-        "id": "283080401818521600"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sırbistan - Arnavutluk",
-        "time": "21:45",
-        "id": "282909557402144768"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Canuelas - CA Claypole",
-        "time": "21:30",
-        "id": "283786781613395968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Fenix - Brown de Adrogue",
-        "time": "21:30",
-        "id": "283455888304672768"
+        "name": "Spain U20 - Colombia U20",
+        "time": "23:00",
+        "id": "283561042306699264"
     }
 ]
