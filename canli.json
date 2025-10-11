@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CD Jaguares de Cordoba - FC Leones",
+        "time": "01:10",
+        "id": "283290238590423040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Palmeiras - EC Juventude",
+        "time": "01:00",
+        "id": "283065997991383040"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Forward Madison FC - Chattanooga Fc",
+        "time": "01:00",
+        "id": "283403214240649216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cruz Azul (W) - Santos Laguna (W)",
+        "time": "00:45",
+        "id": "283378980580790272"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Juarez (W) - Necaxa (W)",
+        "time": "00:45",
+        "id": "283391643528499200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CDT Real Oruro - Nacional Potosi",
         "time": "00:30",
         "id": "283578215243747328"
@@ -19,6 +54,27 @@
         "name": "Miramar Misiones - Penarol Montevideo",
         "time": "00:00",
         "id": "282984282143887360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Cd Universitario Reserves - Mario Mendez FC",
+        "time": "00:00",
+        "id": "283729886534995968"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Herrera Reserves - La Familia FC",
+        "time": "00:00",
+        "id": "283829253885431808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kansas City Current (W) - NJ\/NY Gotham FC (W)",
+        "time": "00:00",
+        "id": "283376858206343168"
     },
     {
         "tur": "live",
@@ -47,61 +103,5 @@
         "name": "Deportivo Madryn - Gimnasia Mendoza",
         "time": "23:00",
         "id": "283453786262114304"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Detroit City FC - Loudoun United FC",
-        "time": "23:00",
-        "id": "283197464519151616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Londrina EC PR - Sao Bernardo FC",
-        "time": "23:00",
-        "id": "283191903096442880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "AA Ponte Preta - Guarani FC De Campinas",
-        "time": "23:00",
-        "id": "283191426784989184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Nautico Capibaribe - Brusque",
-        "time": "23:00",
-        "id": "283191270083694592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SER Caxias - Floresta EC",
-        "time": "23:00",
-        "id": "283192060200390656"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Independiente de Villa Obrera - Sarmiento de Zonda",
-        "time": "23:00",
-        "id": "283766289346105344"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportes Tolima - Envigado",
-        "time": "23:00",
-        "id": "283291826346299392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Spain U20 - Colombia U20",
-        "time": "23:00",
-        "id": "283561042306699264"
     }
 ]
