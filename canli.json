@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Grenada - Küba",
+        "time": "02:30",
+        "id": "283597064849625088"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Gimnasia Y Tiro De Salta - Temperley",
+        "time": "02:30",
+        "id": "283488756823265280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Louisville City FC - Miami FC",
+        "time": "02:30",
+        "id": "283205586297065472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Charleston Battery - Colorado Springs Switchbacks Fc",
+        "time": "02:30",
+        "id": "283207491045855232"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Pittsburgh Riverhounds - Indy Eleven",
         "time": "02:00",
         "id": "283205586424991744"
@@ -44,13 +72,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Mexico U20 - Argentina U20",
-        "time": "02:00",
-        "id": "283561229237391360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "CD Jaguares de Cordoba - FC Leones",
         "time": "01:10",
         "id": "283290238590423040"
@@ -72,13 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportiva Venados - Montaneses FC",
-        "time": "01:00",
-        "id": "283652819525079040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Cruz Azul (W) - Santos Laguna (W)",
         "time": "00:45",
         "id": "283378980580790272"
@@ -89,19 +103,5 @@
         "name": "FC Juarez (W) - Necaxa (W)",
         "time": "00:45",
         "id": "283391643528499200"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CDT Real Oruro - Nacional Potosi",
-        "time": "00:30",
-        "id": "283578215243747328"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cordobes FC - Chilpancingo",
-        "time": "00:30",
-        "id": "283730213638279168"
     }
 ]
