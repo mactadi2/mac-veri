@@ -2,6 +2,55 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Pittsburgh Riverhounds - Indy Eleven",
+        "time": "02:00",
+        "id": "283205586424991744"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Lexington SC - El Paso Locomotive FC",
+        "time": "02:00",
+        "id": "283215000052731904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rhode Island - Tampa Bay Rowdies",
+        "time": "02:00",
+        "id": "283287035854491648"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hartford Athletic - Sacramento Republic FC",
+        "time": "02:00",
+        "id": "283384995797831680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Atletico Tembetary - Libertad Asuncion",
+        "time": "02:00",
+        "id": "283228587303407616"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Santiago Wanderers - Deportes Concepcion",
+        "time": "02:00",
+        "id": "283438105457102848"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mexico U20 - Argentina U20",
+        "time": "02:00",
+        "id": "283561229237391360"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CD Jaguares de Cordoba - FC Leones",
         "time": "01:10",
         "id": "283290238590423040"
@@ -19,6 +68,13 @@
         "name": "Forward Madison FC - Chattanooga Fc",
         "time": "01:00",
         "id": "283403214240649216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportiva Venados - Montaneses FC",
+        "time": "01:00",
+        "id": "283652819525079040"
     },
     {
         "tur": "live",
@@ -44,64 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Banfield - Racing Club",
-        "time": "00:00",
-        "id": "282927122842161152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Miramar Misiones - Penarol Montevideo",
-        "time": "00:00",
-        "id": "282984282143887360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cd Universitario Reserves - Mario Mendez FC",
-        "time": "00:00",
-        "id": "283729886534995968"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Herrera Reserves - La Familia FC",
-        "time": "00:00",
-        "id": "283829253885431808"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kansas City Current (W) - NJ\/NY Gotham FC (W)",
-        "time": "00:00",
-        "id": "283376858206343168"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "2 de Mayo - Cerro Porteno",
-        "time": "23:30",
-        "id": "283197645081841664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gualaceo SC - Leones Del Norte",
-        "time": "23:30",
-        "id": "283541205665746944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Copiapo - San Marcos de Arica",
-        "time": "23:30",
-        "id": "283375543696789504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Madryn - Gimnasia Mendoza",
-        "time": "23:00",
-        "id": "283453786262114304"
+        "name": "Cordobes FC - Chilpancingo",
+        "time": "00:30",
+        "id": "283730213638279168"
     }
 ]
