@@ -16,6 +16,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Conil CF - CD Utrera",
+        "time": "13:00",
+        "id": "283799134386032640"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Varea - CDFC La Calzada",
         "time": "13:00",
         "id": "283791647158079488"
@@ -96,12 +103,5 @@
         "name": "Arnavutluk U19 - İrlanda U19",
         "time": "12:00",
         "id": "283673923104837632"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Velke Hamry - FK Teplice B",
-        "time": "11:30",
-        "id": "283545018115067904"
     }
 ]
