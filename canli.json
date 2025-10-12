@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Club Atletico Aldosivi - Atletico Huracan",
+        "time": "20:30",
+        "id": "283000857810997248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Vinotinto - Imbabura SC",
+        "time": "20:30",
+        "id": "283793770315812864"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Malta - Bosna Hersek",
+        "time": "20:00",
+        "id": "283705439385063424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Chivas Guadalajara (W) - Puebla (W)",
+        "time": "20:00",
+        "id": "283413008363065344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cadiz - SD Huesca",
         "time": "19:30",
         "id": "283268951130279936"
@@ -75,33 +103,5 @@
         "name": "Sporting Lisboa U23 - Torreense U23",
         "time": "18:45",
         "id": "283688139575562240"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union San Felipe - Cd Santa Cruz",
-        "time": "18:30",
-        "id": "283446195284905984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "EBK - Valtti",
-        "time": "18:00",
-        "id": "283746062854033408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Union Espanola - Huachipato",
-        "time": "18:00",
-        "id": "282725983014129664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Odds Ballklubb II - IF Fram Larvik",
-        "time": "18:00",
-        "id": "283444468899942400"
     }
 ]
