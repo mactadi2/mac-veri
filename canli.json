@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Velke Hamry - FK Teplice B",
+        "time": "11:30",
+        "id": "283545018115067904"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Petrzalka 1898 - FK Inter Bratislava",
+        "time": "11:30",
+        "id": "283321782083293184"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Pss Sleman - Kendal Tornado FC",
+        "time": "11:30",
+        "id": "283761445325541376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sumsel United - Persekat Kabupaten Tegal",
+        "time": "11:30",
+        "id": "283763331215691776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FK Admira Praha - SK Kladno",
         "time": "11:15",
         "id": "283774028101226496"
@@ -16,9 +44,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "FC Velke Mezirici - Zdar Nad Sazavou",
+        "name": "Fc Tvd Slavicin - Uhersky Brod",
         "time": "11:15",
-        "id": "283809677449662464"
+        "id": "283690618591678464"
     },
     {
         "tur": "live",
@@ -30,9 +58,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Fc Tvd Slavicin - Uhersky Brod",
+        "name": "FC Velke Mezirici - Zdar Nad Sazavou",
         "time": "11:15",
-        "id": "283690618591678464"
+        "id": "283809677449662464"
     },
     {
         "tur": "live",
@@ -72,36 +100,8 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Resources Capital FC - Yuen Long FC",
-        "time": "10:30",
-        "id": "283767103593680896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "South China AA - Shatin",
-        "time": "10:30",
-        "id": "283764967127420928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Tsuen Wan - Wong Tai Sin",
-        "time": "10:30",
-        "id": "283773111941500928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Kashiwa Reysol - Kawasaki Frontale",
         "time": "10:00",
         "id": "283516662174748672"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "SR Mutual - Fukien Athletic Club",
-        "time": "10:00",
-        "id": "283773185774882816"
     }
 ]
