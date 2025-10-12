@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Malaga CF - Deportivo La Coruna",
+        "time": "22:00",
+        "id": "283278041639325696"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Novorizontino SP - Operario Ferroviario EC PR",
+        "time": "22:00",
+        "id": "283265840605073408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Danimarka - Yunanistan",
+        "time": "21:45",
+        "id": "283237634922549248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Litvanya - Polonya",
+        "time": "21:45",
+        "id": "282927653100752896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Romanya - Avusturya",
+        "time": "21:45",
+        "id": "282927652984360960"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Hırvatistan - Cebelitarık",
+        "time": "21:45",
+        "id": "283539000449601536"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Club Leandro Niceforo Alem - Berazategui",
         "time": "21:30",
         "id": "283786781385854976"
@@ -51,34 +93,6 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Cobreloa Calama - Deportes Temuco",
-        "time": "21:00",
-        "id": "283456633465769984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Westchester SC - FC Naples",
-        "time": "21:00",
-        "id": "283462590366257152"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cerrito CS - Club Oriental",
-        "time": "21:00",
-        "id": "283547045891182592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Palmeiras U20 - Botafogo SP U20",
-        "time": "21:00",
-        "id": "283637701260120064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Club Atletico Aldosivi - Atletico Huracan",
         "time": "20:30",
         "id": "283000857810997248"
@@ -89,19 +103,5 @@
         "name": "Atletico Vinotinto - Imbabura SC",
         "time": "20:30",
         "id": "283793770315812864"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malta - Bosna Hersek",
-        "time": "20:00",
-        "id": "283705439385063424"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Chivas Guadalajara (W) - Puebla (W)",
-        "time": "20:00",
-        "id": "283413008363065344"
     }
 ]
