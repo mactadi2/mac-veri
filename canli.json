@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "CA Estudiantes Caseros - CD Maipu",
+        "time": "23:10",
+        "id": "283495487181721600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Independiente Rivadavia - Godoy Cruz",
+        "time": "22:45",
+        "id": "283010183176949760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Instituto de Cordoba - Atletico Tucuman",
+        "time": "22:45",
+        "id": "283009148151697408"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Cumbaya FC - Chacaritas SC",
         "time": "22:30",
         "id": "283824098523779072"
@@ -82,26 +103,5 @@
         "name": "Comunicaciones de Bueno Aires - Ferrocarril Midland",
         "time": "21:30",
         "id": "283520956341981184"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Gimnasia Y Esgrima de Jujuy - CA San Miguel",
-        "time": "21:00",
-        "id": "283522278760943616"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ayacucho FC - Asociacion Deportiva Tarma",
-        "time": "21:00",
-        "id": "283203716363096064"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "La Serena - Deportes Limache",
-        "time": "21:00",
-        "id": "282811156315541504"
     }
 ]
