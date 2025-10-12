@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Cumbaya FC - Chacaritas SC",
+        "time": "22:30",
+        "id": "283824098523779072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "22 de Julio - Deportivo Vargas Torres",
+        "time": "22:30",
+        "id": "283865448949518336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Malaga CF - Deportivo La Coruna",
         "time": "22:00",
         "id": "283278041639325696"
@@ -58,16 +72,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Comunicaciones de Bueno Aires - Ferrocarril Midland",
+        "name": "Deportivo Liniers - Excursionistas",
         "time": "21:30",
-        "id": "283520956341981184"
+        "id": "283520956181549056"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Deportivo Liniers - Excursionistas",
+        "name": "Comunicaciones de Bueno Aires - Ferrocarril Midland",
         "time": "21:30",
-        "id": "283520956181549056"
+        "id": "283520956341981184"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "La Serena - Deportes Limache",
         "time": "21:00",
         "id": "282811156315541504"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Atletico Aldosivi - Atletico Huracan",
-        "time": "20:30",
-        "id": "283000857810997248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Vinotinto - Imbabura SC",
-        "time": "20:30",
-        "id": "283793770315812864"
     }
 ]
