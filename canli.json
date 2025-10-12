@@ -2,6 +2,69 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Chungnam Asan - Gyeongnam FC",
+        "time": "10:30",
+        "id": "283416034298597376"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Seongnam Ilhwa Chunma - Incheon United FC",
+        "time": "10:30",
+        "id": "283417016616128512"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Shenzhen Juniors FC - Shaanxi Union FC",
+        "time": "10:30",
+        "id": "283529956457484288"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "South China AA - Shatin",
+        "time": "10:30",
+        "id": "283764967127420928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Yau Tsim Mong - Sui Tung",
+        "time": "10:30",
+        "id": "283769561794514944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Tsuen Wan - Wong Tai Sin",
+        "time": "10:30",
+        "id": "283773111941500928"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Double Flower FA - Konter",
+        "time": "10:30",
+        "id": "283770957817221120"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ornament FC - KCDRSC",
+        "time": "10:30",
+        "id": "283774395412156416"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "St. Joseph's - Tuen Mun FC",
+        "time": "10:30",
+        "id": "283771157856161792"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Kashiwa Reysol - Kawasaki Frontale",
         "time": "10:00",
         "id": "283516662174748672"
@@ -40,47 +103,5 @@
         "name": "Sanfrecce Hiroshima - Yokohama FC",
         "time": "09:00",
         "id": "283516712470745088"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Supreme FC - Tung Sing",
-        "time": "08:30",
-        "id": "283763417500913664"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hoi King - 3 Sing FC",
-        "time": "08:30",
-        "id": "283763436163469312"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Citizen AA - Sham Shui Po FC",
-        "time": "08:30",
-        "id": "283763770638241792"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kowloon Cricket Club - Gospel FC",
-        "time": "08:30",
-        "id": "283790843485392896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Avondale Fc - Canberra Fk",
-        "time": "08:30",
-        "id": "282152225579601920"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sydney United - Bayswater City",
-        "time": "08:30",
-        "id": "282152246711554048"
     }
 ]
