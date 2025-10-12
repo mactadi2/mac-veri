@@ -2,6 +2,48 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FK Admira Praha - SK Kladno",
+        "time": "11:15",
+        "id": "283774028101226496"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FK Chlumec - Spartak Police Nad Metuji",
+        "time": "11:15",
+        "id": "283810270451896320"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FC Velke Mezirici - Zdar Nad Sazavou",
+        "time": "11:15",
+        "id": "283809677449662464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Meteor Praha - FC Chomutov",
+        "time": "11:15",
+        "id": "283690618451169280"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Fc Tvd Slavicin - Uhersky Brod",
+        "time": "11:15",
+        "id": "283690618591678464"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Mfk Havirov - Rymarov",
+        "time": "11:15",
+        "id": "283690618708070400"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Chungnam Asan - Gyeongnam FC",
         "time": "10:30",
         "id": "283416034298597376"
@@ -23,6 +65,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Wofoo Social Enterprises - Central & Western",
+        "time": "10:30",
+        "id": "283763417341530112"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Resources Capital FC - Yuen Long FC",
+        "time": "10:30",
+        "id": "283767103593680896"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "South China AA - Shatin",
         "time": "10:30",
         "id": "283764967127420928"
@@ -30,37 +86,9 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Yau Tsim Mong - Sui Tung",
-        "time": "10:30",
-        "id": "283769561794514944"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
         "name": "Tsuen Wan - Wong Tai Sin",
         "time": "10:30",
         "id": "283773111941500928"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Double Flower FA - Konter",
-        "time": "10:30",
-        "id": "283770957817221120"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ornament FC - KCDRSC",
-        "time": "10:30",
-        "id": "283774395412156416"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "St. Joseph's - Tuen Mun FC",
-        "time": "10:30",
-        "id": "283771157856161792"
     },
     {
         "tur": "live",
@@ -75,33 +103,5 @@
         "name": "SR Mutual - Fukien Athletic Club",
         "time": "10:00",
         "id": "283773185774882816"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sun Hei Sc - Wui Hong SC",
-        "time": "10:00",
-        "id": "283819214242091008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Uganda Martyrs (W) - Amusi College WFC (W)",
-        "time": "10:00",
-        "id": "283863127194636288"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Aris Limassol (W) - Omonia Nicosia (W)",
-        "time": "10:00",
-        "id": "283814997051871232"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sanfrecce Hiroshima - Yokohama FC",
-        "time": "09:00",
-        "id": "283516712470745088"
     }
 ]
