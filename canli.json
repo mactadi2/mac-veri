@@ -2,9 +2,93 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Criciuma EC - America Mineiro MG",
+        "time": "00:30",
+        "id": "283082058516172800"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Vila Nova GO - Amazonas FC",
+        "time": "00:30",
+        "id": "283266050007797760"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Independiente Petrolero - San Antonio Bulo Bulo",
+        "time": "00:15",
+        "id": "283818894812286976"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alianza Valledupar - CD Junior de Barranquilla ",
+        "time": "00:10",
+        "id": "283291826019143680"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Deportivo Merlo - Villa San Carlos",
+        "time": "00:00",
+        "id": "283520956804403200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Udelas FC - Aguilas UP",
+        "time": "00:00",
+        "id": "283859038407790592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Angel City FC (W) - Houston Dash (W)",
+        "time": "00:00",
+        "id": "283397596892139520"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Alianza Atletico - Los Chankas CYC",
+        "time": "23:30",
+        "id": "283203716862218240"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Ameliano - Guarani Asuncion",
+        "time": "23:30",
+        "id": "283288073448755200"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "C.D. Universidad de Concepcion - Curico Unido",
+        "time": "23:30",
+        "id": "283465167847854080"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA Estudiantes Caseros - CD Maipu",
         "time": "23:10",
         "id": "283495487181721600"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CA Juventud Alianza - CA Union Villa Krause",
+        "time": "23:00",
+        "id": "283839878836555776"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "USA U20 - Morocco U20",
+        "time": "23:00",
+        "id": "283696291080605696"
     },
     {
         "tur": "live",
@@ -19,89 +103,5 @@
         "name": "Instituto de Cordoba - Atletico Tucuman",
         "time": "22:45",
         "id": "283009148151697408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Cumbaya FC - Chacaritas SC",
-        "time": "22:30",
-        "id": "283824098523779072"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "22 de Julio - Deportivo Vargas Torres",
-        "time": "22:30",
-        "id": "283865448949518336"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Malaga CF - Deportivo La Coruna",
-        "time": "22:00",
-        "id": "283278041639325696"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Novorizontino SP - Operario Ferroviario EC PR",
-        "time": "22:00",
-        "id": "283265840605073408"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Danimarka - Yunanistan",
-        "time": "21:45",
-        "id": "283237634922549248"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Litvanya - Polonya",
-        "time": "21:45",
-        "id": "282927653100752896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Romanya - Avusturya",
-        "time": "21:45",
-        "id": "282927652984360960"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hırvatistan - Cebelitarık",
-        "time": "21:45",
-        "id": "283539000449601536"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Club Leandro Niceforo Alem - Berazategui",
-        "time": "21:30",
-        "id": "283786781385854976"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Armenio - Sportivo Italiano",
-        "time": "21:30",
-        "id": "283520955878510592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Deportivo Liniers - Excursionistas",
-        "time": "21:30",
-        "id": "283520956181549056"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Comunicaciones de Bueno Aires - Ferrocarril Midland",
-        "time": "21:30",
-        "id": "283520956341981184"
     }
 ]
