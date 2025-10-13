@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Nacional Asunción Reserve - Sportivo Luqueno Reserves",
+        "time": "13:30",
+        "id": "283878407602999296"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Sportivo Ameliano Reserves - Club Guarani Asuncion Reserves",
+        "time": "13:30",
+        "id": "283880903593463808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Prykarpattya Ivano Frankivsk - FC Chornomorets Odessa",
+        "time": "13:30",
+        "id": "283523659005726720"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Slovakya U19 - Finlandiya U19",
         "time": "13:00",
         "id": "283874978548715520"
@@ -54,12 +75,5 @@
         "name": "Selangor FC U23 - Kelantan WTS",
         "time": "11:45",
         "id": "283941443688763392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Riverside Forest - Saswco FC",
-        "time": "11:30",
-        "id": "283964017859661824"
     }
 ]
