@@ -79,6 +79,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Fayoum FC - Nogoom FC",
+        "time": "15:30",
+        "id": "283933655201779712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Metalist Kharkiv - FC Nyva Ternopil",
         "time": "15:15",
         "id": "283851104374263808"
@@ -96,12 +103,5 @@
         "name": "Saipa - Naft Gachsaran",
         "time": "15:00",
         "id": "283750924612308992"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Shahrdari Noshahr - Mes Shahr-e Babak",
-        "time": "14:30",
-        "id": "283813809919135744"
     }
 ]
