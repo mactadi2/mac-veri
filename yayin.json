@@ -1,42 +1,58 @@
 [
     {
         "type": "futbol",
-        "name": "River Plate - CA Sarmiento",
-        "day": "13",
-        "time": "01:15",
+        "name": "Katar - BAE",
+        "day": "14",
+        "time": "20:15",
+        "channel": "Spor Smart 2",
+        "m": 0
+    },
+    {
+        "type": "futbol",
+        "name": "Türkiye - Gürcistan",
+        "day": "14",
+        "time": "21:45",
+        "channel": "TV8",
+        "m": 0
+    },
+    {
+        "type": "futbol",
+        "name": "Suudi Arabistan - Irak",
+        "day": "14",
+        "time": "22:30",
         "channel": "Spor Smart",
         "m": 0
     },
     {
-        "type": "futbol",
-        "name": "Austin FC - Los Angeles FC",
-        "day": "13",
-        "time": "02:00",
+        "type": "basketbol",
+        "name": "Bursaspor - Cholet Basket",
+        "day": "14",
+        "time": "19:30",
         "channel": "TRT Spor",
         "m": 0
     },
     {
-        "type": "futbol",
-        "name": "Cordoba - Leonesa",
-        "day": "13",
-        "time": "21:30",
+        "type": "basketbol",
+        "name": "Fenerbahçe Beko - Dubai Basket",
+        "day": "14",
+        "time": "20:45",
         "channel": "S Sport",
+        "m": 1
+    },
+    {
+        "type": "basketbol",
+        "name": "Olympiakos - Anadolu Efes",
+        "day": "14",
+        "time": "21:15",
+        "channel": "Tivibu Spor 1",
         "m": 0
     },
     {
         "type": "basketbol",
-        "name": "Manisa BB - Esenler Erokspor",
-        "day": "13",
-        "time": "19:00",
-        "channel": "Bein Sports 5",
-        "m": 0
-    },
-    {
-        "type": "tenis",
-        "name": "A.Sasnovich - Zeynep Sönmez",
-        "day": "13",
-        "time": "11:30",
-        "channel": "Bein Sports Max 1",
+        "name": "Trapani - Tofaş",
+        "day": "14",
+        "time": "21:30",
+        "channel": "TRT Spor",
         "m": 0
     }
 ]
