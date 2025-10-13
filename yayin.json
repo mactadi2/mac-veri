@@ -1,72 +1,37 @@
 [
     {
         "type": "futbol",
-        "name": "Almeria - Real Zaragoza",
-        "day": "11",
-        "time": "19:30",
+        "name": "River Plate - CA Sarmiento",
+        "day": "13",
+        "time": "01:15",
+        "channel": "Spor Smart"
+    },
+    {
+        "type": "futbol",
+        "name": "Austin FC - Los Angeles FC",
+        "day": "13",
+        "time": "02:00",
+        "channel": "TRT Spor"
+    },
+    {
+        "type": "futbol",
+        "name": "Cordoba - Leonesa",
+        "day": "13",
+        "time": "21:30",
         "channel": "S Sport"
     },
     {
-        "type": "futbol",
-        "name": "BAE - Umman",
-        "day": "11",
-        "time": "20:15",
-        "channel": "Spor Smart"
-    },
-    {
-        "type": "futbol",
-        "name": "Bulgaristan - Türkiye",
-        "day": "11",
-        "time": "21:45",
-        "channel": "TV8"
-    },
-    {
-        "type": "futbol",
-        "name": "Irak - Endonezya",
-        "day": "11",
-        "time": "22:30",
-        "channel": "Spor Smart"
-    },
-    {
         "type": "basketbol",
-        "name": "Trabzonspor - Bursaspor",
-        "day": "11",
-        "time": "13:00",
-        "channel": "Bein Sports 5"
-    },
-    {
-        "type": "basketbol",
-        "name": "Tofaş - Türk Telekom",
-        "day": "11",
-        "time": "15:30",
-        "channel": "Bein Sports 5"
-    },
-    {
-        "type": "basketbol",
-        "name": "Bahçeşehir Klj - Mersin Spor",
-        "day": "11",
-        "time": "18:00",
-        "channel": "Bein Sports 5"
-    },
-    {
-        "type": "basketbol",
-        "name": "Basquet Girona - Murcia",
-        "day": "11",
+        "name": "Manisa BB - Esenler Erokspor",
+        "day": "13",
         "time": "19:00",
-        "channel": "Spor Smart 2"
+        "channel": "Bein Sports 5"
     },
     {
         "type": "tenis",
-        "name": "C.Gauff - J.Paolini",
-        "day": "11",
-        "time": "12:00",
-        "channel": "Bein Sports Max 1"
-    },
-    {
-        "type": "tenis",
-        "name": "A.Sabalenka - J.Pegula",
-        "day": "11",
-        "time": "13:30",
+        "name": "A.Sasnovich - Zeynep Sönmez",
+        "day": "13",
+        "time": "11:30",
         "channel": "Bein Sports Max 1"
     }
 ]
