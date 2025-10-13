@@ -4,34 +4,39 @@
         "name": "River Plate - CA Sarmiento",
         "day": "13",
         "time": "01:15",
-        "channel": "Spor Smart"
+        "channel": "Spor Smart",
+        "m": 0
     },
     {
         "type": "futbol",
         "name": "Austin FC - Los Angeles FC",
         "day": "13",
         "time": "02:00",
-        "channel": "TRT Spor"
+        "channel": "TRT Spor",
+        "m": 0
     },
     {
         "type": "futbol",
         "name": "Cordoba - Leonesa",
         "day": "13",
         "time": "21:30",
-        "channel": "S Sport"
+        "channel": "S Sport",
+        "m": 0
     },
     {
         "type": "basketbol",
         "name": "Manisa BB - Esenler Erokspor",
         "day": "13",
         "time": "19:00",
-        "channel": "Bein Sports 5"
+        "channel": "Bein Sports 5",
+        "m": 0
     },
     {
         "type": "tenis",
         "name": "A.Sasnovich - Zeynep Sönmez",
         "day": "13",
         "time": "11:30",
-        "channel": "Bein Sports Max 1"
+        "channel": "Bein Sports Max 1",
+        "m": 0
     }
 ]
