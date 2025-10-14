@@ -1,58 +1,34 @@
 [
     {
-        "type": "futbol",
-        "name": "Katar - BAE",
-        "day": "14",
-        "time": "20:15",
-        "channel": "Spor Smart 2",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Türkiye - Gürcistan",
-        "day": "14",
-        "time": "21:45",
-        "channel": "TV8",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Suudi Arabistan - Irak",
-        "day": "14",
-        "time": "22:30",
-        "channel": "Spor Smart",
-        "m": 0
-    },
-    {
         "type": "basketbol",
-        "name": "Bursaspor - Cholet Basket",
-        "day": "14",
-        "time": "19:30",
+        "name": "Beşiktaş GAİN - Chemnitz",
+        "day": "15",
+        "time": "20:00",
         "channel": "TRT Spor",
-        "m": 0
-    },
-    {
-        "type": "basketbol",
-        "name": "Fenerbahçe Beko - Dubai Basket",
-        "day": "14",
-        "time": "20:45",
-        "channel": "S Sport",
         "m": 1
     },
     {
         "type": "basketbol",
-        "name": "Olympiakos - Anadolu Efes",
-        "day": "14",
+        "name": "Panathinaikos - Asvel Villeurbanne",
+        "day": "15",
         "time": "21:15",
-        "channel": "Tivibu Spor 1",
+        "channel": "S Sport",
         "m": 0
     },
     {
         "type": "basketbol",
-        "name": "Trapani - Tofaş",
-        "day": "14",
-        "time": "21:30",
-        "channel": "TRT Spor",
+        "name": "Real Madrid - Partizan",
+        "day": "15",
+        "time": "21:45",
+        "channel": "S Sport 2",
         "m": 0
+    },
+    {
+        "type": "basketbol",
+        "name": "Trieste - Galatasaray",
+        "day": "15",
+        "time": "22:00",
+        "channel": "TRT Spor",
+        "m": 1
     }
 ]
