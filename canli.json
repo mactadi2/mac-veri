@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Gibraltar U21 - Portekiz U21",
+        "time": "20:00",
+        "id": "283973423238254592"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Faroe Adaları U21 - İsviçre U21",
+        "time": "20:00",
+        "id": "283905795073282048"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "İspanya U21 - Finlandiya U21",
         "time": "19:30",
         "id": "283945764561129472"
@@ -51,6 +65,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Hırvatistan U21 - Ukrayna U21",
+        "time": "19:00",
+        "id": "283944807773278208"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Romanya U21 - Kıbrıs U21",
         "time": "19:00",
         "id": "283944945361129472"
@@ -61,13 +82,6 @@
         "name": "Slovakya U21 - Moldova U21",
         "time": "19:00",
         "id": "283945764292694016"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hırvatistan U21 - Ukrayna U21",
-        "time": "19:00",
-        "id": "283944807773278208"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Slovenya U21 - Bosnia and Herzegovina U21",
         "time": "19:00",
         "id": "283945777758507008"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Azerbaycan U21 - İskoçya U21",
-        "time": "18:00",
-        "id": "283944602822807552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "İzlanda U21 - Lüksemburg U21",
-        "time": "18:00",
-        "id": "283898237447081984"
     }
 ]
