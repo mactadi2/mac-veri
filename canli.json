@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FBC Melgar Arequipa - Alianza Universidad",
+        "time": "02:00",
+        "id": "283203716964978688"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Curacao - Trinidad Tobago",
+        "time": "02:00",
+        "id": "283544751941390336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Chapecoense SC - Botafogo SP ",
+        "time": "01:30",
+        "id": "283242343615991808"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Paysandu - Remo PA",
+        "time": "01:30",
+        "id": "283266659265056768"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "CA River Plate Reserves - Gimnasia La Plata Reserves",
         "time": "01:00",
         "id": "284005440236589056"
@@ -12,33 +40,5 @@
         "name": "Olancho FC Reserves - Real Espana Reserves",
         "time": "00:30",
         "id": "284065994373369856"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Marathon Reserves - Club Deportivo Victoria Reserves",
-        "time": "00:00",
-        "id": "284067576288677888"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CD Olimpia Reserves - CD Choloma Reserves",
-        "time": "00:00",
-        "id": "284072071773065216"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Lobos UPNFM Reserves - Genesis de Comayagua Reserves",
-        "time": "00:00",
-        "id": "277828714977431552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Athletico Paranaense U20 - Criciuma U20",
-        "time": "23:30",
-        "id": "283991957879164928"
     }
 ]
