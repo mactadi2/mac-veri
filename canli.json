@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Güney Kore - Paraguay",
+        "time": "14:00",
+        "id": "283876630042284032"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Ahrobiznes Volochysk - FSK Mariupol",
+        "time": "14:00",
+        "id": "283970863361200128"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Japonya - Brezilya",
         "time": "13:30",
         "id": "282957941527842816"
@@ -54,26 +68,5 @@
         "name": "Luxembourg U19 - Slovenia U19",
         "time": "13:00",
         "id": "283967829633699840"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Hollanda U19 - Fransa U19",
-        "time": "12:00",
-        "id": "283972515028832256"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Romanya U19 - Kıbrıs Under 19",
-        "time": "12:00",
-        "id": "283982850343342080"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Ugyen Academy FC - BFF Academy U19",
-        "time": "12:00",
-        "id": "283988991179788288"
     }
 ]
