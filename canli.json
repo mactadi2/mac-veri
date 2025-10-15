@@ -2,6 +2,27 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "29 de Septiembre - 12 de Octubre",
+        "time": "21:45",
+        "id": "284161046836711424"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Glasgow City (Kadınlar) - Koge (Kadınlar)",
+        "time": "21:35",
+        "id": "284065476219539456"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "CD Huetor Vega - Recreativo Granada",
+        "time": "21:30",
+        "id": "284154068744835072"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ca Independiente Reserves - Atletico Tucuman Reserves",
         "time": "21:00",
         "id": "284049038912032768"
@@ -9,16 +30,16 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Estudiantes La Plata Reserves - Boca Juniors Reserves",
+        "name": "Defensa Y Justicia Reserves - Ca Huracan Reserves",
         "time": "21:00",
-        "id": "284048755727306752"
+        "id": "284048818790764544"
     },
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Defensa Y Justicia Reserves - Ca Huracan Reserves",
+        "name": "Estudiantes La Plata Reserves - Boca Juniors Reserves",
         "time": "21:00",
-        "id": "284048818790764544"
+        "id": "284048755727306752"
     },
     {
         "tur": "live",
@@ -47,13 +68,6 @@
         "name": "Almagro Reserves - Tristan Suarez Reserves",
         "time": "21:00",
         "id": "284049468426588160"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Iztapa - CSD Chiquimulilla",
-        "time": "21:00",
-        "id": "284140138588835840"
     },
     {
         "tur": "live",
@@ -89,19 +103,5 @@
         "name": "Rosengard (W) - Sporting (W)",
         "time": "20:00",
         "id": "284065475954249728"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Valerenga (Kadınlar) - VfL Wolfsburg (W)",
-        "time": "19:45",
-        "id": "283876071266619392"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Olympique Lyonnais (W) - SKN St. Polten (W)",
-        "time": "19:45",
-        "id": "283974074393464832"
     }
 ]
