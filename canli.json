@@ -2,9 +2,23 @@
     {
         "tur": "live",
         "type": "futbol",
-        "name": "Rosenborg BK II - Aalesund FK II",
-        "time": "16:30",
-        "id": "283710967554281472"
+        "name": "Deportivo Armenio Reserves - Real Pilar Reserves",
+        "time": "17:00",
+        "id": "284050144738185216"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Club Comunicaciones Reserves - Flandria Reserves",
+        "time": "17:00",
+        "id": "284049607289507840"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Rodina Moscow - FC Chelyabinsk",
+        "time": "17:00",
+        "id": "283429084746518528"
     },
     {
         "tur": "live",
@@ -33,6 +47,13 @@
         "name": "KF Dukagjini U21 - FC Prishtina U21",
         "time": "16:00",
         "id": "284152848189788160"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kfarsoum - Al Hashemeya",
+        "time": "16:00",
+        "id": "284053450281750528"
     },
     {
         "tur": "live",
@@ -82,26 +103,5 @@
         "name": "Horse Owners Club - El Hammam",
         "time": "15:30",
         "id": "284059459250327552"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kitchee U22 - Eastern Sports Club U22",
-        "time": "15:30",
-        "id": "284059882654830592"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Colon de Santa Fe U20 - San Lorenzo de Almagro U20",
-        "time": "15:00",
-        "id": "284150577555083264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Sabayil FK - Zaqatala",
-        "time": "15:00",
-        "id": "283886851567423488"
     }
 ]
