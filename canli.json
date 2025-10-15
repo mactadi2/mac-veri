@@ -2,6 +2,34 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Meksika - Ekvador",
+        "time": "05:30",
+        "id": "283902425004544000"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AD Municipal Liberia - Puntarenas FC",
+        "time": "05:00",
+        "id": "283107253115195392"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "El Salvador - Guatemala",
+        "time": "05:00",
+        "id": "283522435817705472"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Atletico Choloma - Lobos UPNFM",
+        "time": "04:30",
+        "id": "283993110328152064"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "ABD - Avustralya",
         "time": "04:00",
         "id": "283768631753740288"
@@ -19,40 +47,5 @@
         "name": "Alajuelense (W) - Chorrillo FC (W)",
         "time": "04:00",
         "id": "284112105170571264"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "CA Paranaense PR - Avai",
-        "time": "03:30",
-        "id": "283242360513794048"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Atletico Nacional de Medellin - Deportivo Cali",
-        "time": "03:30",
-        "id": "283208367119568896"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Porto Riko - Arjantin",
-        "time": "03:00",
-        "id": "283907592750927872"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Kanada - Kolombiya",
-        "time": "03:00",
-        "id": "283610920102694912"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Jamaika - Bermuda",
-        "time": "03:00",
-        "id": "283571028841762816"
     }
 ]
