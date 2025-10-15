@@ -1,34 +1,42 @@
 [
     {
-        "type": "basketbol",
-        "name": "Beşiktaş GAİN - Chemnitz",
-        "day": "15",
-        "time": "20:00",
-        "channel": "TRT Spor",
-        "m": 1
+        "type": "futbol",
+        "name": "Palmeiras - Bragantino",
+        "day": "16",
+        "time": "01:00",
+        "channel": "Spor Smart",
+        "m": 0
     },
     {
-        "type": "basketbol",
-        "name": "Panathinaikos - Asvel Villeurbanne",
-        "day": "15",
-        "time": "21:15",
-        "channel": "S Sport",
+        "type": "futbol",
+        "name": "Santos - Corinthians",
+        "day": "16",
+        "time": "03:30",
+        "channel": "Spor Smart",
+        "m": 0
+    },
+    {
+        "type": "futbol",
+        "name": "PSG - Real Madrid",
+        "day": "16",
+        "time": "22:00",
+        "channel": "TRT Spor",
         "m": 0
     },
     {
         "type": "basketbol",
-        "name": "Real Madrid - Partizan",
-        "day": "15",
-        "time": "21:45",
+        "name": "Dubai Basket - Barcelona",
+        "day": "16",
+        "time": "19:00",
         "channel": "S Sport 2",
         "m": 0
     },
     {
         "type": "basketbol",
-        "name": "Trieste - Galatasaray",
-        "day": "15",
-        "time": "22:00",
-        "channel": "TRT Spor",
+        "name": "Fenerbahçe Beko - Bayern Münih",
+        "day": "16",
+        "time": "20:45",
+        "channel": "S Sport",
         "m": 1
     }
 ]
