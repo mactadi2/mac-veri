@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "Deportivo Pereira - Club Deportivo Los Millonarios",
+        "time": "02:20",
+        "id": "283294305126486016"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Mirassol FC - SC Internacional RS",
         "time": "02:00",
         "id": "283070794958147584"
@@ -75,12 +82,5 @@
         "name": "Aimore -  Gremio Esportivo Brasil RS",
         "time": "01:00",
         "id": "284081285074554880"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Halifax Tides (W) - Ottawa Rapid (W)",
-        "time": "00:30",
-        "id": "284056033316605952"
     }
 ]
