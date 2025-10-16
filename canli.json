@@ -2,6 +2,13 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "ASD Novoli Calcio - Foggia Incedit",
+        "time": "16:30",
+        "id": "284119898140217344"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Shabab Al Ahli Dubai U21 - Al Sharjah SC U21",
         "time": "16:05",
         "id": "282401155532853248"
@@ -96,12 +103,5 @@
         "name": "Dewa United FC - Madura United",
         "time": "15:00",
         "id": "283620297829289984"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Spad Alvand Tehran - Aseman Golestan",
-        "time": "14:30",
-        "id": "284250140849770496"
     }
 ]
