@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "TPV Tampere - Ilves Ii",
+        "time": "18:30",
+        "id": "284140356093906944"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "AS Douanes Ouagadougou - Vitesse FC",
+        "time": "18:30",
+        "id": "284232237712707584"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Al Khaburah - Al Nahda",
         "time": "18:20",
         "id": "284122474743107584"
@@ -75,12 +89,5 @@
         "name": "MO Bejaia - IB Khemis El Khechna",
         "time": "17:00",
         "id": "284100609956941824"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "ASD Novoli Calcio - Foggia Incedit",
-        "time": "16:30",
-        "id": "284119898140217344"
     }
 ]
