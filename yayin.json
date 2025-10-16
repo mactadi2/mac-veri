@@ -1,42 +1,82 @@
 [
     {
         "type": "futbol",
-        "name": "Palmeiras - Bragantino",
-        "day": "16",
+        "name": "Gremio - Sao Paulo",
+        "day": "17",
         "time": "01:00",
         "channel": "Spor Smart",
         "m": 0
     },
     {
         "type": "futbol",
-        "name": "Santos - Corinthians",
-        "day": "16",
-        "time": "03:30",
-        "channel": "Spor Smart",
+        "name": "Fortuna Düsseldorf - Braunschweig",
+        "day": "17",
+        "time": "19:30",
+        "channel": "Tivibu Spor 3",
         "m": 0
     },
     {
         "type": "futbol",
-        "name": "PSG - Real Madrid",
-        "day": "16",
-        "time": "22:00",
+        "name": "Hannover 96 - Schalke 04",
+        "day": "17",
+        "time": "19:30",
+        "channel": "Tivibu Spor 2",
+        "m": 0
+    },
+    {
+        "type": "futbol",
+        "name": "Ümraniyespor - Sarıyer",
+        "day": "17",
+        "time": "20:00",
         "channel": "TRT Spor",
         "m": 0
     },
     {
-        "type": "basketbol",
-        "name": "Dubai Basket - Barcelona",
-        "day": "16",
-        "time": "19:00",
-        "channel": "S Sport 2",
+        "type": "futbol",
+        "name": "Union Berlin - Monchengladbach",
+        "day": "17",
+        "time": "21:30",
+        "channel": "Tivibu Spor 1",
+        "m": 0
+    },
+    {
+        "type": "futbol",
+        "name": "PSG - Strasbourg",
+        "day": "17",
+        "time": "21:45",
+        "channel": "Bein Sports 3",
+        "m": 0
+    },
+    {
+        "type": "futbol",
+        "name": "Real Oviedo - Espanyol",
+        "day": "17",
+        "time": "22:00",
+        "channel": "Tivibu Spor 2",
         "m": 0
     },
     {
         "type": "basketbol",
-        "name": "Fenerbahçe Beko - Bayern Münih",
-        "day": "16",
-        "time": "20:45",
+        "name": "Büyükçekmece - Bahçeşehir Klj",
+        "day": "17",
+        "time": "19:00",
+        "channel": "Bein Sports 5",
+        "m": 0
+    },
+    {
+        "type": "basketbol",
+        "name": "Anadolu Efes - Panathinaikos",
+        "day": "17",
+        "time": "20:30",
         "channel": "S Sport",
-        "m": 1
+        "m": 0
+    },
+    {
+        "type": "basketbol",
+        "name": "Monaco - Valencia Basket",
+        "day": "17",
+        "time": "20:30",
+        "channel": "S Sport 2",
+        "m": 0
     }
 ]
