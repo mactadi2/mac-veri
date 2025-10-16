@@ -2,6 +2,41 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Olimpik Tashkent - Jayxun",
+        "time": "17:00",
+        "id": "284137193502707712"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Energetik Mingechevir - Simal",
+        "time": "13:30",
+        "id": "283970942773006336"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Moik Baku - Cabrayil",
+        "time": "13:30",
+        "id": "283970942654517248"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Difai Agsu - FK Sahdag Qusar",
+        "time": "13:30",
+        "id": "284062205182513152"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "FEU Tamaraws - Ateneo Blue Eagles",
+        "time": "13:30",
+        "id": "284242419189583872"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "FC Taraz - Akas FC",
         "time": "13:00",
         "id": "284178158669041664"
@@ -26,19 +61,5 @@
         "name": "FC Prishtina U21 - KF Balkani U21",
         "time": "12:00",
         "id": "284177222572740608"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Port FC U21 - Ratchaburi FC U21",
-        "time": "11:30",
-        "id": "284125821981200384"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "Suphanburi FC U21 - Kanchanaburi Power FC U21",
-        "time": "11:30",
-        "id": "284235873918423040"
     }
 ]
