@@ -2,6 +2,20 @@
     {
         "tur": "live",
         "type": "futbol",
+        "name": "FC Taraz - Akas FC",
+        "time": "13:00",
+        "id": "284178158669041664"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
+        "name": "Kasetsart FC U21 - Bangkok United U21",
+        "time": "13:00",
+        "id": "284124800847482880"
+    },
+    {
+        "tur": "live",
+        "type": "futbol",
         "name": "Ispe U21 - Yangon United U21",
         "time": "12:00",
         "id": "284197220430155776"
@@ -26,19 +40,5 @@
         "name": "Suphanburi FC U21 - Kanchanaburi Power FC U21",
         "time": "11:30",
         "id": "284235873918423040"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "KF Ferizaj U21 - KF Drenica Skenderaj U21",
-        "time": "11:00",
-        "id": "284163895147663360"
-    },
-    {
-        "tur": "live",
-        "type": "futbol",
-        "name": "UST Growling Tigers - UP Fighting Maroons",
-        "time": "11:00",
-        "id": "284234304362680320"
     }
 ]
