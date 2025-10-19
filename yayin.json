@@ -1,298 +1,98 @@
 [
     {
         "type": "futbol",
-        "name": "Corinthians - Atletico Mineiro",
-        "day": "19",
-        "time": "00:30",
-        "channel": "Spor Smart 2",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Cruzeiro - Fortaleza",
-        "day": "19",
-        "time": "03:00",
-        "channel": "Spor Smart 2",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Talleres Cordoba - River Plate",
-        "day": "19",
-        "time": "04:15",
+        "name": "Rosario Central - CA Platense",
+        "day": "20",
+        "time": "00:00",
         "channel": "Spor Smart",
         "m": 0
     },
     {
         "type": "futbol",
-        "name": "Como - Juventus",
-        "day": "19",
-        "time": "13:30",
-        "channel": "Tivibu Spor 1",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Keçiörengücü - Sivasspor",
-        "day": "19",
-        "time": "13:30",
+        "name": "Serik Bld. - Amedspor",
+        "day": "20",
+        "time": "16:00",
         "channel": "TRT Spor",
         "m": 0
     },
     {
         "type": "futbol",
-        "name": "Kayserispor - Samsunspor",
-        "day": "19",
-        "time": "14:30",
-        "channel": "Bein Sports 1",
+        "name": "Al Wahda - Al Duhail",
+        "day": "20",
+        "time": "16:45",
+        "channel": "Spor Smart",
         "m": 0
     },
     {
         "type": "futbol",
-        "name": "Darmstadt 98 - Magdeburg",
-        "day": "19",
-        "time": "14:30",
-        "channel": "Tivibu Spor 2",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Elversberg - Greuther Fürth",
-        "day": "19",
-        "time": "14:30",
-        "channel": "Tivibu Spor 3",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Elche - Athletic Bilbao",
-        "day": "19",
-        "time": "15:00",
-        "channel": "S Sport",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Lens - Paris FC",
-        "day": "19",
-        "time": "16:00",
-        "channel": "Bein Sports 4",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Cagliari - Bologna",
-        "day": "19",
-        "time": "16:00",
-        "channel": "Tivibu Spor 1",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Genoa - Parma",
-        "day": "19",
-        "time": "16:00",
-        "channel": "Tivibu Spor 4",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Tottenham - Aston Villa",
-        "day": "19",
-        "time": "16:00",
-        "channel": "Bein Sports 3",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Iğdırspor - Boluspor",
-        "day": "19",
-        "time": "16:00",
-        "channel": "Bein Sports Max 1",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Freiburg - Eintracht Frankfurt",
-        "day": "19",
-        "time": "16:30",
-        "channel": "Tivibu Spor 2",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Alanyaspor - Göztepe",
-        "day": "19",
-        "time": "17:00",
-        "channel": "Bein Sports 1",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Gaziantep FK - Antalyaspor",
-        "day": "19",
-        "time": "17:00",
-        "channel": "Bein Sports 2",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Celta Vigo - Real Sociedad",
-        "day": "19",
-        "time": "17:15",
-        "channel": "S Sport",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Heracles - Feyenoord",
-        "day": "19",
-        "time": "17:45",
-        "channel": "Tivibu Spor 3",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Rennes - Auxerre",
-        "day": "19",
-        "time": "18:15",
-        "channel": "Bein Sports 4",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Toulouse - Metz",
-        "day": "19",
-        "time": "18:15",
-        "channel": "Bein Sports Max 2",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "St.Pauli - Hoffenheim",
-        "day": "19",
-        "time": "18:30",
-        "channel": "Tivibu Spor 1",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Liverpool - Manchester Utd",
-        "day": "19",
-        "time": "18:30",
-        "channel": "Bein Sports 3",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Atalanta - Lazio",
-        "day": "19",
+        "name": "Al Sharjah - Tractor Sazi",
+        "day": "20",
         "time": "19:00",
-        "channel": "Tivibu Spor 2",
+        "channel": "Spor Smart 2",
         "m": 0
     },
     {
         "type": "futbol",
-        "name": "Esenler Erokspor - Bodrumspor",
-        "day": "19",
+        "name": "Al Shorta - Al Ittihad",
+        "day": "20",
         "time": "19:00",
-        "channel": "TRT Spor",
+        "channel": "Spor Smart",
         "m": 0
     },
     {
         "type": "futbol",
-        "name": "Levante - Rayo Vallecano",
-        "day": "19",
-        "time": "19:30",
-        "channel": "S Sport",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Fenerbahçe - Fatih Karagümrük",
-        "day": "19",
+        "name": "Eyüpspor - Kasımpaşa",
+        "day": "20",
         "time": "20:00",
         "channel": "Bein Sports 1",
-        "m": 1
+        "m": 0
     },
     {
         "type": "futbol",
-        "name": "Estudiantes - Gimnasia La Plata",
-        "day": "19",
-        "time": "21:00",
+        "name": "İstanbulspor - Bandırmaspor",
+        "day": "20",
+        "time": "20:00",
+        "channel": "TRT Spor",
+        "m": 0
+    },
+    {
+        "type": "futbol",
+        "name": "Al Ahli - Al Gharafa",
+        "day": "20",
+        "time": "21:15",
         "channel": "Spor Smart",
         "m": 0
     },
     {
         "type": "futbol",
-        "name": "Nantes - Lille",
-        "day": "19",
-        "time": "21:45",
-        "channel": "Bein Sports 2",
-        "m": 0
-    },
-    {
-        "type": "futbol",
-        "name": "Milan - Fiorentina",
-        "day": "19",
+        "name": "Cremonese - Udinese",
+        "day": "20",
         "time": "21:45",
         "channel": "Tivibu Spor 1",
         "m": 0
     },
     {
         "type": "futbol",
-        "name": "Getafe - Real Madrid",
-        "day": "19",
+        "name": "Alaves - Valencia",
+        "day": "20",
         "time": "22:00",
         "channel": "S Sport",
-        "m": 1
+        "m": 0
     },
     {
-        "type": "basketbol",
-        "name": "Merkezefendi Bld. - Trabzonspor",
-        "day": "19",
-        "time": "13:00",
-        "channel": "Bein Sports 5",
-        "m": 1
-    },
-    {
-        "type": "basketbol",
-        "name": "Real Madrid - SP Burgos",
-        "day": "19",
-        "time": "13:30",
-        "channel": "Spor Smart",
-        "m": 1
-    },
-    {
-        "type": "basketbol",
-        "name": "Galatasaray MCT Technic - Fenerbahçe Beko",
-        "day": "19",
-        "time": "15:30",
-        "channel": "Bein Sports 5",
-        "m": 1
-    },
-    {
-        "type": "basketbol",
-        "name": "Mersin Spor - Tofaş",
-        "day": "19",
-        "time": "18:00",
-        "channel": "Bein Sports 5",
+        "type": "futbol",
+        "name": "West Ham - Brentford",
+        "day": "20",
+        "time": "22:00",
+        "channel": "Bein Sports 3",
         "m": 0
     },
     {
         "type": "basketbol",
-        "name": "Lleida - Valencia Basket",
-        "day": "19",
-        "time": "18:00",
-        "channel": "Spor Smart",
+        "name": "Karşıyaka - Anadolu Efes",
+        "day": "20",
+        "time": "19:00",
+        "channel": "Bein Sports 5",
         "m": 0
-    },
-    {
-        "type": "basketbol",
-        "name": "Unicaja Malaga - Barcelona",
-        "day": "19",
-        "time": "20:00",
-        "channel": "Spor Smart 2",
-        "m": 1
     }
 ]
